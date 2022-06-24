@@ -1,0 +1,214 @@
+T82	Symptom 2454 2563	Признаки дисфункции подкорковых (медиобазальные отделы височной доли слева?) с вовлечением стволовых структур
+T8	Body_location 263 269	ПЕЧЕНЬ
+T12	Body_location 389 406	12-ПЕРСТНАЯ КИШКА
+T88	Symptom 2177 2408	Реже регистрируются билатерально-синхронные вспышки полифазных тета-потенциалов и комплексов, редкие полностью генерализованные высокоамплитудные феномены эпилептиформной активности (во время одного из них девочка приоткрыла глаза)
+T76	Body_location 2934 2969	левого поперечного венозного синуса
+T53	Drug 3479 3485	ксизал
+T34	Body_location 1080 1094	полости сердца
+T5	Symptom 169 233	увеличена: размер – 12х8х13 мм; паренхима – эхогенность повышена
+T85	Body_location 1929 1974	центральном, центрально-средневисочном отделе
+T91	Disease 1240 1243	ВПС
+T42	Body_location 1699 1701	ПА
+T68	Disease 3123 3142	Ангиопатия сетчатки
+T11	Symptom 357 387	секрета нет, стенки нормальные
+T45	Treatment 3388 3506	тридерм, локобейз рипеа, скин-кап, элидел, назонекс  1 раз в день, туалет носа с физиомер, ксизал по 1т. 1 раз в день.
+T89	Treatment 3732 3752	элиминационный режим
+T56	Treatment 3911 3958	Туалет носа с физиомер 3 раза в день продолжить
+T86	Body_location 2155 2175	билатеральные отделы
+T38	Drug 1463 1470	кудесан
+T67	Disease 3104 3121	спазм аккомодации
+T14	Symptom 459 499	вторичных изменений поджелудочной железы
+T33	Body_location 1214 1220	сердца
+T64	Drug 3757 3765	Скин-кап
+T35	Disease 1316 1347	синдром вегетативной дисфункции
+T57	Treatment 3815 3906	средства ухода за кожей (очищение и увлажнение – Урьяж, Биодерма, Авен, Ла рош позе, Дюкре)
+T59	Drug 3864 3869	Урьяж
+T22	Disease 813 832	аллергический ринит
+T18	Body_location 552 568	гайморовых пазух
+T48	Drug 3397 3411	локобейз рипеа
+T13	Symptom 407 433	секрета нет, стенки тонкие
+T4	Body_location 148 168	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T24	Disease 850 888	Хронический компенсированный тонзиллит
+T52	Drug 3469 3477	физиомер
+T7	Symptom 246 261	размер 94х47 мм
+T60	Drug 3871 3879	Биодерма
+T29	Symptom 1080 1107	полости сердца не расширены
+T87	Symptom 1975 2176	локальная патологическая активность в виде медленных дельта-диапазона потенциалов и комплексов острая медленная волна 3 Гц, которые регистрируются группами, часто с проведением на билатеральные отделы.
+T28	Body_location 1035 1045	желудочков
+T84	Symptom 2565 2602	Снижение порога судорожной готовности
+T51	Drug 3431 3439	назонекс
+T2	Body_location 57 71	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T36	Treatment 1412 1557	Поливитамины на 1,5 месяца (весна, осень), зимой – кудесан по 10 кап. утром с едой в воде на 1 месяц или веторон Е по 8 кап. утром в воде 1 месяц
+T79	Symptom 2776 2895	асимметрия калибра позвоночных артерий (больше справа), а также гипоплазия дистального отдела левой позвоночной артерии
+T25	Disease 527 532	отека
+T50	Drug 3423 3429	элидел
+T9	Symptom 271 345	размер – ЛД – 61 мм, 1й сегмент 14 мм; ПД – 115 мм; паренхима – однородная
+T47	Drug 3388 3395	тридерм
+T20	Drug 740 750	вентолином
+T62	Drug 3887 3898	Ла рош позе
+T77	Symptom 2993 3047	объемное и очаговое поражение вещества головного мозга
+T69	Body_location 3134 3142	сетчатки
+T32	Body_location 1264 1273	трабекула
+T72	Body_location 2681 2703	внутримозговых артерий
+T70	Treatment 3198 3229	Ограничение зрительной нагрузки
+T80	Symptom 2717 2763	Сосуды виллизиева круга четко дифференцируются
+T39	Drug 1517 1526	веторон Е
+T83	Body_location 2474 2528	подкорковых (медиобазальные отделы височной доли слева
+T27	Symptom 990 1054	Непостоянное удлинение электрической систолы желудочков на 0,05с
+T71	Body_location 2632 2647	головного мозга
+T23	Severity 834 848	персистирующий
+T65	Disease 3303 3331	астено-невротический синдром
+T26	Symptom 936 986	спорадическая синоатриальная блокада с паузой 0,98
+T17	Symptom 527 568	отека слизистой оболочки гайморовых пазух
+T66	Disease 3333 3341	Цефалгии
+T81	Symptom 2668 2703	ход и калибр внутримозговых артерий
+T43	Body_location 1654 1656	ПА
+T40	Symptom 1581 1634	умеренно затруднен венозный отток – венозная дисгемия
+T15	Body_location 479 499	поджелудочной железы
+T10	Body_location 347 354	ЖЕЛУДОК
+T21	Symptom 751 764	отрицательная
+T75	Body_location 2870 2895	левой позвоночной артерии
+T54	Treatment 3709 3730	гипоаллергенную диету
+T49	Drug 3413 3421	скин-кап
+T74	Body_location 2795 2814	позвоночных артерий
+T1	Body_location 31 54	органов брюшной полости
+T46	Treatment 3517 3545	промывание лакун миндалин №4
+T90	Disease 950 972	синоатриальная блокада
+T19	Symptom 708 730	показатели ФВД в норме
+T37	Drug 1412 1424	Поливитамины
+T58	Drug 3925 3933	физиомер
+T55	Treatment 3757 3798	Скин-кап 1 раз в день 1 неделю продолжить
+T31	Symptom 1230 1247	Данных за ВПС нет
+T78	Body_location 3023 3047	вещества головного мозга
+T73	Body_location 2717 2740	Сосуды виллизиева круга
+T63	Drug 3900 3905	Дюкре
+T6	Body_location 235 244	СЕЛЕЗЕНКА
+T41	Body_location 1711 1748	поперечных отростков шейных позвонков
+T44	Symptom 1636 1656	Асимметрия ЛСК по ПА
+T3	Symptom 73 146	размер – средний; стенки – норма; форма – правильная; просвет - свободный
+T16	Body_location 509 512	ППН
+T30	Symptom 1109 1228	стенки не утолщены, перегородки интактны, клапаны и крупные сосуды не изменены, функциональные параметры сердца в норме
+T61	Drug 3881 3885	Авен
+N1	Reference T82 UMLS:C0262405	височно-нижнечелюстного сустава дисфункции синдром
+N2	Reference T8 UMLS:C0023884	печень
+N3	Reference T12 UMLS:C0013303	двенадцатиперстная кишка
+N4	Reference T88 UMLS:CUILESS	фотопароксизмальный ответ на ээг (появл. эпилептиформной активности в ответ на световую стимуляцию)
+N5	Reference T76 UMLS:CUILESS	вены
+N6	Reference T53 UMLS:C0055147	цетиризин
+N7	Reference T34 UMLS:C0018787	сердце
+N8	Reference T5 UMLS:CUILESS	отклонение от нормы результатов ультразвукового исследования поджелудочной железы
+N9	Reference T85 UMLS:CUILESS	среднего мозга центральное вещество
+N10	Reference T91 UMLS:C0152021	врожденный порок сердца
+N11	Reference T42 UMLS:C0042559	позвоночная артерия
+N12	Reference T68 UMLS:C4552373	ангиопатия сетчатки
+N13	Reference T11 UMLS:CUILESS	норма рабочая
+N14	Reference T45 UMLS:C0013154	вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков
+N15	Reference T89 UMLS:UNKNOWN	питания режима контроль
+N16	Reference T56 UMLS:C2350442	промывание носа
+N17	Reference T38 UMLS:C0007209	кардиотонические средства
+N18	Reference T67 UMLS:C0152196	спазм аккомодации
+N19	Reference T14 UMLS:C0030286	поджелудочной железы болезни
+N20	Reference T33 UMLS:C0018787	сердце
+N21	Reference T64 UMLS:C0011625	дерматологические средства
+N22	Reference T35 UMLS:C1145628	вегетативная дисфункция
+N23	Reference T57 UMLS:C1699506	увлажнение сухой кожи тела
+N24	Reference T59 UMLS:C3494477	крем для кожи
+N25	Reference T22 UMLS:C2607914	аллергический ринит
+N26	Reference T18 UMLS:C0024957	гайморова пазуха
+N27	Reference T48 UMLS:C3494477	крем для кожи
+N28	Reference T13 UMLS:CUILESS	норма рабочая
+N29	Reference T4 UMLS:C0030274	поджелудочная железа
+N30	Reference T24 UMLS:C0149517	хронический тонзиллит
+N31	Reference T52 UMLS:C0036499	вода морская
+N32	Reference T7 UMLS:CUILESS	ультразвуковое исследование селезенки
+N33	Reference T60 UMLS:C3494477	крем для кожи
+N34	Reference T29 UMLS:C0018800	сердца расширение
+N35	Reference T28 UMLS:C0206177	желудочковое давление
+N36	Reference T84 UMLS:C0234976	снижение судорожного порога
+N37	Reference T51 UMLS:C0066700	назонекс
+N38	Reference T2 UMLS:C0016976	желчный пузырь
+N39	Reference T36 UMLS:UNKNOWN	кардиотонические средства
+N40	Reference T79 UMLS:C0042559	гипоплазия позвоночной артерии
+N41	Reference T25 UMLS:C0013604	отек
+N42	Reference T50 UMLS:C0003211	противовоспалительные средства нестероидные
+N43	Reference T9 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N44	Reference T47 UMLS:C0005308	бетаметазон
+N45	Reference T20 UMLS:C0001927	сальбутамол
+N46	Reference T62 UMLS:C3494477	крем для кожи
+N47	Reference T77 UMLS:C0742078	результаты мрт головного мозга в норме
+N48	Reference T69 UMLS:C0035298	сетчатка
+N49	Reference T32 UMLS:C0040573	трабекулярная сеть
+N50	Reference T72 UMLS:C0007770	артерии
+N51	Reference T70 UMLS:CUILESS	снижение зрительной активности
+N52	Reference T80 UMLS:CUILESS	результаты исследования сосудов в норме
+N53	Reference T39 UMLS:C1533658	витаминные добавки
+N54	Reference T83 UMLS:CUILESS	подвывих височно-нижнечелюстного сустава
+N55	Reference T27 UMLS:C0151878	удлинение интервала qt на электрокардиограмме
+N56	Reference T71 UMLS:C0006104	мозг головной
+N57	Reference T65 UMLS:C0424594	астенический синдром
+N58	Reference T26 UMLS:C0037188	синоатриальная блокада
+N59	Reference T17 UMLS:C0475765	отек слизистой носа
+N60	Reference T66 UMLS:C0018681	цефалгия
+N61	Reference T81 UMLS:CUILESS	результаты исследования сосудов в норме
+N62	Reference T43 UMLS:C0042559	позвоночная артерия
+N63	Reference T40 UMLS:C4551518	венозный застой
+N64	Reference T15 UMLS:C0030274	поджелудочная железа
+N65	Reference T10 UMLS:C0038351	желудок
+N66	Reference T21 UMLS:C4704700	отрицательные результаты
+N67	Reference T75 UMLS:C0042559	позвоночная артерия
+N68	Reference T54 UMLS:C0012155	диета
+N69	Reference T49 UMLS:C0011625	дерматологические средства
+N70	Reference T74 UMLS:C0042559	позвоночная артерия
+N71	Reference T1 UMLS:C0230168	брюшная полость
+N72	Reference T46 UMLS:C0947835	процедуры лечения заболеваний миндалин
+N73	Reference T90 UMLS:C0037188	синоатриальная блокада
+N74	Reference T19 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N75	Reference T37 UMLS:C1533658	витаминные добавки
+N76	Reference T58 UMLS:C0036499	вода морская
+N77	Reference T55 UMLS:C0013154	увлажнение сухой кожи тела
+N78	Reference T31 UMLS:CUILESS	результаты эхокардиографии в норме
+N79	Reference T78 UMLS:C0221505	поражение головного мозга
+N80	Reference T73 UMLS:C0008812	круг виллизиев
+N81	Reference T63 UMLS:C3494477	крем для кожи
+N82	Reference T6 UMLS:C0037993	селезенка
+N83	Reference T41 UMLS:CUILESS	осевой шейный позвонок
+N84	Reference T44 UMLS:C0005798	кровотока скорость
+N85	Reference T3 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N86	Reference T16 UMLS:C0030471	околоносовые пазухи
+N87	Reference T30 UMLS:C0860669	результаты эхокардиографии в норме
+N88	Reference T61 UMLS:C3494477	крем для кожи
+#1	AnnotatorNotes T82	first_annotator_label: C0039496||synonyms: височно-нижнечелюстного сустава дисфункции синдром|visochno-nizhnecheliustnogo sustava disfunktsii sindrom|kostena sindrom|miofastsial'nyi bolevoi disfunktsional'nyi sindrom visochno-nizhnecheliustnogo sustava|visochno-nizhnecheliustnogo sustava sindrom||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0262405||synonyms: мозговая дисфункция||||bert: C0039496||synonyms: височно-нижнечелюстного сустава дисфункции синдром|visochno-nizhnecheliustnogo sustava disfunktsii sindrom|kostena sindrom|miofastsial'nyi bolevoi disfunktsional'nyi sindrom visochno-nizhnecheliustnogo sustava|visochno-nizhnecheliustnogo sustava sindrom||||
+#2	AnnotatorNotes T88	first_annotator_label: C3552821||synonyms: фотопароксизмальный ответ на ээг (появл. эпилептиформной активности в ответ на световую стимуляцию)||||second_annotator_label: C3494362||synonyms: эпителиальных натриевых каналов агонисты|epitelial'nykh natrievykh kanalov aktivatory|epitelial'nykh natrievykh kanalov agonisty|epitelial'nykh natrievykh kanalov stimuliatory|эпителиальных натриевых каналов активаторы||||third_annotator_label: None||synonyms: ||||bert: C3494362||synonyms: эпителиальных натриевых каналов агонисты|epitelial'nykh natrievykh kanalov aktivatory|epitelial'nykh natrievykh kanalov agonisty|epitelial'nykh natrievykh kanalov stimuliatory|эпителиальных натриевых каналов активаторы||||
+#3	AnnotatorNotes T76	first_annotator_label: C0042449||synonyms: вены|veny||||second_annotator_label: C0412219||synonyms: вентрикулограмма левого желудочка сердца|левожелудочковая вентрикулография|вентрикулограмма левого желудочка|вентрикулография левого желудочка||||third_annotator_label: None||synonyms: ||||bert: C0412219||synonyms: вентрикулограмма левого желудочка сердца|левожелудочковая вентрикулография|вентрикулограмма левого желудочка|вентрикулография левого желудочка||||
+#4	AnnotatorNotes T5	first_annotator_label: C4285853||synonyms: отклонение от нормы результатов ультразвукового исследования поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4704700||synonyms: отрицательные результаты|otritsatel'nye rezul'taty||||bert: C0255672||synonyms: матрикса металлопротеиназа 13|матрикс-металлопротеиназа-13|коллагеназа 3|металлопротеиназа 13 матриксная|matriksa metalloproteinaza 13||||
+#5	AnnotatorNotes T85	first_annotator_label: C0228398||synonyms: мозга среднего серое вещество|mozga srednego seroe veshchestvo|srednego mozga tsentral'noe veshchestvo|среднего мозга центральное вещество||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0006121||synonyms: ствол мозга|stvol mozga||||bert: C0228398||synonyms: мозга среднего серое вещество|mozga srednego seroe veshchestvo|srednego mozga tsentral'noe veshchestvo|среднего мозга центральное вещество||||
+#6	AnnotatorNotes T91	first_annotator_label: C0152021||synonyms: врожденный порок сердца|врожденные аномалии (пороки развития) сердца|врожденная патология сердца, бду|врожденная патология сердца (бду)||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#7	AnnotatorNotes T11	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#8	AnnotatorNotes T45	first_annotator_label: C0854597||synonyms: вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0011227||synonyms: дельта-ритм|del'ta-ritm|elektroentsefalografiia, del'ta-ritm|электроэнцефалография, дельта-ритм||||
+#9	AnnotatorNotes T89	first_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||second_annotator_label: C0004910||synonyms: постельный режим|postel'nyi rezhim||||third_annotator_label: C0233484||synonyms: эмоциональная отстраненность||||bert: C3850006||synonyms: кишечная элиминация|vyvedenie veshchestv kishechnikom|элиминация через кишечник|kishechnaia eliminatsiia|eliminatsiia cherez kishechnik||||
+#10	AnnotatorNotes T38	first_annotator_label: C0007209||synonyms: кардиотонические средства|kardiotonicheskie sredstva|kardiostimuliruiushchie sredstva|serdechnye sredstva polozhitel'nye inotropnye|sredstva stimuliruiushchie miokard||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C0996818||synonyms: каянус|golubinyi gorokh|kaianus|голубиный горох||||
+#11	AnnotatorNotes T64	first_annotator_label: C0011625||synonyms: дерматологические средства|dermatologicheskie sredstva|kozhnye sredstva|кожные средства||||second_annotator_label: C0007745||synonyms: церамиды|tseramidy||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0036270||synonyms: кожа волосистой части головы|kozha volosistoi chasti golovy|skal'p|volosistaia chast' kozhi golovy|волосистая часть кожи головы||||
+#12	AnnotatorNotes T57	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C0860368||synonyms: лучевая терапия с внешним пучком для лечения кожи|терапия с внешним пучком для лечения кожи||||
+#13	AnnotatorNotes T13	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0055025||synonyms: клеточной стенки скелет|kletochnoi stenki skelet||||bert: C0055025||synonyms: клеточной стенки скелет|kletochnoi stenki skelet||||
+#14	AnnotatorNotes T7	first_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||bert: C0039286||synonyms: тамоксифен|tamoksifen|ici 46474||||
+#15	AnnotatorNotes T36	first_annotator_label: C0007209||synonyms: кардиотонические средства|kardiotonicheskie sredstva|kardiostimuliruiushchie sredstva|serdechnye sredstva polozhitel'nye inotropnye|sredstva stimuliruiushchie miokard||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C3174867||synonyms: в течение месяцев с апреля по сентябрь сколько часов свободного времени каждый день вы проводили на улице под прямыми солнечными лучами между 10 и 16 часами:колскор:тчкврм:^пациент:колич:phenx||||
+#16	AnnotatorNotes T79	first_annotator_label: C1868737||synonyms: гипоплазия позвоночной артерии||||second_annotator_label: C0042559||synonyms: позвоночная артерия|pozvonochnaia arteriia|vertebral'naia arteriia|вертебральная артерия||||third_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||bert: C0399519||synonyms: асимметрия верхней челюсти||||
+#17	AnnotatorNotes T50	first_annotator_label: C0003211||synonyms: противовоспалительные средства нестероидные|protivovospalitel'nye sredstva nesteroidnye|npvs|npvp|нпвп||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C1001360||synonyms: водокрасовые|elodeia|talassiia|vodokrasovye|талассия||||
+#18	AnnotatorNotes T9	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0881522||synonyms: парагрипп вирус 1 ат^1-й образец:титр:тчкврм:сыв:колич:компл фикс||||
+#19	AnnotatorNotes T77	first_annotator_label: C0855355||synonyms: результаты мрт головного мозга в норме|результаты магнитно-резонансной томографии головного мозга в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0742078||synonyms: опухолевое образование головного мозга||||bert: C0742078||synonyms: опухолевое образование головного мозга||||
+#20	AnnotatorNotes T72	first_annotator_label: C0003842||synonyms: артерии|arterii||||second_annotator_label: C0007770||synonyms: мозга головного артерии|mozga golovnogo arterii|tserebral'nye arterii|церебральные артерии||||third_annotator_label: C1956391||synonyms: височный артериит||||bert: C0752138||synonyms: внутричерепных артерий болезни|mozga golovnogo arterii bolezni|vnutricherepnykh arterii bolezni|мозга головного артерий болезни||||
+#21	AnnotatorNotes T70	first_annotator_label: C0234632||synonyms: уменьшение остроты зрения|плохая острота зрения|снижение зрительной активности|снижение остроты зрения||||second_annotator_label: C0563633||synonyms: задержка зрительного созревания||||third_annotator_label: C1321605||synonyms: больной, следование рекомендациям врача|bol'nogo soglasie s rezhimom|bol'nogo podchinenie rezhimu|bol'nogo soglasie s rezhimom lecheniia|комплаентность пациента||||bert: C0563633||synonyms: задержка зрительного созревания||||
+#22	AnnotatorNotes T80	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0007589||synonyms: клетки дифференциация|kletki differentsiatsiia||||bert: C0008812||synonyms: виллизиев круг|villiziev krug|arterial'nyi krug bol'shogo mozga|krug villiziev|артериальный круг большого мозга||||
+#23	AnnotatorNotes T39	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C1167692||synonyms: эстрон крови||||
+#24	AnnotatorNotes T83	first_annotator_label: C0857274||synonyms: подвывих височно-нижнечелюстного сустава||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0006121||synonyms: ствол мозга|stvol mozga||||bert: C0857274||synonyms: подвывих височно-нижнечелюстного сустава||||
+#25	AnnotatorNotes T27	first_annotator_label: C0151878||synonyms: удлинение интервала qt на электрокардиограмме|удлинение интервала qt|длинный интервал qt|увеличение qt|удлиненный интервал qt||||second_annotator_label: C0861790||synonyms: злокачественное новообразование поднижнечелюстной железы, стадия 0||||third_annotator_label: C0235475||synonyms: расширение комплекса qrs на электрокардиограмме|увеличенное время желудочковой проводимости|удлинение комплекса qrs на электрокардиограмме|удлинение времени комплекса qrs|расширение комплекса qrs||||bert: C0861790||synonyms: злокачественное новообразование поднижнечелюстной железы, стадия 0||||
+#26	AnnotatorNotes T17	first_annotator_label: C0475765||synonyms: отек носовых пазух|отёк носовых пазух|отек слизистой носа|отёчность носовых ходов|отечность носовых ходов||||second_annotator_label: C0521481||synonyms: отек слизистых оболочек|отек слизистых оболочек, бду|отек слизистой|отёк слизистой оболочки|отек слизистой оболочки||||third_annotator_label: C2242598||synonyms: гипертрофия слизистой оболочки околоносовых пазух||||bert: C4049288||synonyms: пузырь слизистой оболочки пищевода||||
+#27	AnnotatorNotes T81	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: C0855355||synonyms: результаты мрт головного мозга в норме|результаты магнитно-резонансной томографии головного мозга в норме||||third_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||bert: C3666002||synonyms: установка (внутриартериального) катетера в периферическую артерию||||
+#28	AnnotatorNotes T49	first_annotator_label: C0011625||synonyms: дерматологические средства|dermatologicheskie sredstva|kozhnye sredstva|кожные средства||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0036270||synonyms: кожа волосистой части головы|kozha volosistoi chasti golovy|skal'p|volosistaia chast' kozhi golovy|волосистая часть кожи головы||||
+#29	AnnotatorNotes T46	first_annotator_label: C0947835||synonyms: процедуры лечения заболеваний миндалин||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2936738||synonyms: терапевтическая ирригация|lavazh|promyvanie|лаваж|промывание||||bert: C0947835||synonyms: процедуры лечения заболеваний миндалин||||
+#30	AnnotatorNotes T37	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0268659||synonyms: поливитаминная недостаточность|полиавитаминоз||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C0268659||synonyms: поливитаминная недостаточность|полиавитаминоз||||
+#31	AnnotatorNotes T55	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1716143||synonyms: алкогольные напитки в неделю:колскор:1 неделя:^пациент:колич:сообщенный||||
+#32	AnnotatorNotes T31	first_annotator_label: C0860669||synonyms: результаты эхокардиографии в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4071683||synonyms: внутричерепной систолический:давл:тчкврм:череп:колич||||bert: C1257972||synonyms: данных сжатие|dannykh szhatie||||
+#33	AnnotatorNotes T41	first_annotator_label: C0004457||synonyms: осевой шейный позвонок|osevoi pozvonok|osevoi sheinyi pozvonok|2-oi sheinyi pozvonok|epistrofei||||second_annotator_label: C0423674||synonyms: боль в шейном отделе позвоночника||||third_annotator_label: C3665420||synonyms: шейные позвонки|sheinye pozvonki||||bert: C4290310||synonyms: перелом остистого отростка шейного позвонка||||
+#34	AnnotatorNotes T44	first_annotator_label: C0005798||synonyms: кровотока скорость|krovotoka skorost'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003857||synonyms: артериовенозные мальформации|arteriovenoznye mal'formatsii|anevrizma arteriovenoznaia vrozhdennaia|arteriovenoznaia anevrizma vrozhdennaia|артерио-венозные мальформации||||bert: C0042791||synonyms: зрения инконгруэнтность|zreniia inkongruentnost'|videniia nesorazmernost'|zreniia asimmetriia|бинокулярное несоответствие||||
+#35	AnnotatorNotes T30	first_annotator_label: C0860669||synonyms: результаты эхокардиографии в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1655737||synonyms: ультразвуковое исследование сердца||||bert: C4523828||synonyms: утолщение створки протеза клапана||||

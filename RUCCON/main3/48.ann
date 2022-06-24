@@ -1,0 +1,114 @@
+T9	Treatment 25297 25342	и). моноприл 3 мг. 2 раза в день до 13.10.57.
+T26	Disease 114 140	Межжелудочковая асинхрония
+T34	Disease 370 397	Атриовентрикулярная блокада
+T30	Severity 243 266	II- А ст. ФК II по NYHA
+T1	Treatment 24929 24972	а). козаар 10 мг. 2 раза в день с 14.10.57.
+T18	Drug 25239 25249	цитофлавин
+T33	Body_location 349 368	левой ножки п. Гиса
+T16	Drug 25175 25182	трентал
+T42	Disease 683 702	хориоретинодистофия
+T5	Treatment 25171 25203	д). трентал 25 мг\3 раза в день.
+T41	Symptom 619 665	сниженную толерантность к физическим нагрузкам
+T15	Drug 25141 25147	диувер
+T12	Drug 25012 25020	варфарин
+T14	Drug 25112 25118	диувер
+T43	Disease 704 727	миопия высокой степени.
+T3	Treatment 25008 25107	в). варфарин 1,875 мг\сут до 12.10.57 варфарин 2,1 мг (доза повышена) с 13.10.57 1 раз в сут 18 ч..
+T45	Disease 1101 1105	ДМЖП
+T13	Drug 25046 25054	варфарин
+T2	Treatment 24973 25007	б). конкор 1,25 мг. 2 раза в день.
+T24	Disease 80 107	Атриовентрикулярная блокада
+T37	Disease 432 526	Состояние после операции имплантации бивентрикулярного ЭКС Biotronic Lumax 340HF-T от 10.11.54
+T46	Disease 1222 1226	ОРВИ
+T17	Drug 25208 25216	панангин
+T25	Severity 108 112	1 ст
+T35	Severity 398 402	1 ст
+T20	Drug 25301 25309	моноприл
+T31	Disease 311 333	Хронический миокардит.
+T39	Severity 533 556	II- А ст. ФК II по NYHA
+T40	Disease 558 589	Дискинезия желчевыводящих путей
+T32	Disease 334 368	Полная блокада левой ножки п. Гиса
+T44	Disease 817 833	угрозой выкидыша
+T28	Disease 142 236	Состояние после операции имплантации бивентрикулярного ЭКС Biotronic Lumax 340HF-T от 10.11.54
+T11	Drug 24977 24983	конкор
+T21	Disease 21 42	Хронический миокардит
+T23	Body_location 59 78	левой ножки п. Гиса
+T7	Treatment 25235 25262	ж). цитофлавин 1 таб утром.
+T6	Treatment 25204 25234	е). панангин 1 таб 2 р в день.
+T36	Disease 404 430	Межжелудочковая асинхрония
+T22	Disease 44 78	Полная блокада левой ножки п. Гиса
+T10	Drug 24933 24939	козаар
+T29	Disease 240 242	НК
+T38	Disease 530 532	НК
+T8	Treatment 25263 25296	з). предуктал 8,75 2 раза в день.
+T19	Drug 25267 25276	предуктал
+T4	Treatment 25108 25170	г). диувер 5 мг\сут до 14.10.57, диувер 2,5 мг\сут с 15.10.57.
+T27	Body_location 114 129	Межжелудочковая
+N1	Reference T9 UMLS:C0003364	гипотензивные средства
+N2	Reference T26 UMLS:C3531870	межжелудочковая диссинхрония
+N3	Reference T34 UMLS:C0004245	атриовентрикулярная блокада
+N4	Reference T30 UMLS:C1536131	сердечная недостаточность ii класса по nyha
+N5	Reference T1 UMLS:C0003364	гипотензивные средства
+N6	Reference T18 UMLS:C0042890	витамины
+N7	Reference T33 UMLS:C0023211	блокада левой ножки пучка гиса
+N8	Reference T16 UMLS:C0030899	трентал
+N9	Reference T42 UMLS:C0339383	хориоретинопатия
+N10	Reference T5 UMLS:C1096021	антиагрегантная терапия
+N11	Reference T41 UMLS:C0162521	физическая нагрузка, толерантность
+N12	Reference T15 UMLS:C0076840	торасемид
+N13	Reference T12 UMLS:C0043031	варфарин
+N14	Reference T14 UMLS:C0076840	торасемид
+N15	Reference T43 UMLS:C0027092	прогрессирующая миопия высокой степени (дегенеративная)
+N16	Reference T3 UMLS:C0150457	антикоагулянтная терапия
+N17	Reference T45 UMLS:C0018818	межжелудочковой перегородки дефекты
+N18	Reference T13 UMLS:C0043031	варфарин
+N19	Reference T2 UMLS:C0242889	адреноблокаторы
+N20	Reference T24 UMLS:C0004245	атриовентрикулярная блокада
+N21	Reference T37 UMLS:C0189817	имплантация кардиостимулятора
+N22	Reference T46 UMLS:C0035243	орви
+N23	Reference T17 UMLS:C0032835	калия, магния аспарагинат
+N24	Reference T35 UMLS:CUILESS	степень ухудшения бду
+N25	Reference T20 UMLS:C0118168	фосиноприл
+N26	Reference T31 UMLS:C0027059	миокардит
+N27	Reference T39 UMLS:C1536131	сердечная недостаточность ii класса по nyha
+N28	Reference T40 UMLS:C0005416	дискинезия желчевыводящих путей
+N29	Reference T32 UMLS:C0023211	блокада левой ножки пучка гиса
+N30	Reference T44 UMLS:C0000821	угроза выкидыша
+N31	Reference T28 UMLS:C0189817	имплантация кардиостимулятора
+N32	Reference T11 UMLS:C0053799	бисопролол
+N33	Reference T21 UMLS:C0027059	миокардит
+N34	Reference T23 UMLS:C0006382	пучок гиса
+N35	Reference T7 UMLS:UNKNOWN	витаминов высокими дозами терапия
+N36	Reference T6 UMLS:C0040577	микроэлементы
+N37	Reference T36 UMLS:C3531870	межжелудочковая диссинхрония
+N38	Reference T22 UMLS:C0023211	блокада левой ножки пучка гиса
+N39	Reference T10 UMLS:C0126174	лозартан
+N40	Reference T29 UMLS:C1392658	сердечная недостаточность
+N41	Reference T38 UMLS:C1392658	сердечная недостаточность
+N42	Reference T8 UMLS:UNKNOWN	антиоксидантная терапия
+N43	Reference T19 UMLS:C0041037	триметазидин
+N44	Reference T4 UMLS:C0948575	диуретическая терапия
+N45	Reference T27 UMLS:C0225870	межжелудочковая перегородка
+#1	AnnotatorNotes T9	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C2925955||synonyms: с пептид^10 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#2	AnnotatorNotes T30	first_annotator_label: C1536131||synonyms: сердечная недостаточность ii класса по nyha||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0278676||synonyms: почечно-клеточная карцинома, стадия ii|рак почки, стадия ii|карцинома почки, стадия ii|гипернефрома, стадия ii|злокачественная опухоль почки, стадия ii||||bert: C0278676||synonyms: почечно-клеточная карцинома, стадия ii|рак почки, стадия ii|карцинома почки, стадия ii|гипернефрома, стадия ii|злокачественная опухоль почки, стадия ii||||
+#3	AnnotatorNotes T1	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T18	first_annotator_label: C0042890||synonyms: витамины|vitaminy||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0016410||synonyms: фолиевая кислота|folievaia kislota|vitamin bc|витамин bc|folatsin||||bert: C0010830||synonyms: cytophagaceae|tsitofagovye|flexibacteraceae|цитофаговые||||
+#5	AnnotatorNotes T5	first_annotator_label: C1096021||synonyms: антиагрегантная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363778||synonyms: туберкулёз реакция папула^3 дня после 25 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#6	AnnotatorNotes T15	first_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0012797||synonyms: диурез|diurez|процесс образования и выделения мочи||||
+#7	AnnotatorNotes T14	first_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0012797||synonyms: диурез|diurez|процесс образования и выделения мочи||||
+#8	AnnotatorNotes T43	first_annotator_label: C0154778||synonyms: миопия дегенеративная|прогрессирующая миопия высокой степени (дегенеративная)|злокачественная миопия|дегенеративная миопия|миопия патологическая||||second_annotator_label: C0027092||synonyms: миопия|miopiia|blizorukost'|близорукость|близорукое зрение||||third_annotator_label: C3537442||synonyms: патологическая миопия||||bert: C4285735||synonyms: острая миопия||||
+#9	AnnotatorNotes T3	first_annotator_label: C0150457||synonyms: антикоагулянтная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C1830290||synonyms: кортикотропин^1.5 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#10	AnnotatorNotes T2	first_annotator_label: C0242889||synonyms: адренергические антагонисты|adrenergicheskie antagonisty|adrenoblokatory|adrenoblokiruiushchie sredstva|antiadrenergicheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363518||synonyms: кальций^5 минут после 2.4 мг/кг быстро внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T37	first_annotator_label: C0189817||synonyms: имплантация кардиостимулятора|имплантация электрокардиостимулятора||||second_annotator_label: C0032786||synonyms: послеоперационное ведение больного|posleoperatsionnoe vedenie bol'nogo|послеоперационный уход||||third_annotator_label: C1520224||synonyms: функциональный статус по шкале восточной объединенной группы онкологов (ecog)|состояние пациента по шкале ecog||||bert: C2706839||synonyms: глюкоза^1 час после дозы орнитин альфа-кетоглутарата:молконц:тчкврм:сыв/плаз:колич||||
+#12	AnnotatorNotes T17	first_annotator_label: C0032835||synonyms: калия, магния аспартат|kaliia, magniia aspartat|kaliia, magniia asparaginat|калия, магния аспарагинат||||second_annotator_label: C0021528||synonyms: инозин|inozin||||third_annotator_label: C0003195||synonyms: противоаритмические средства|protivoaritmicheskie sredstva|antiaritmicheskie sredstva|kardial'nye depressanty|miokardial'nye depressanty||||bert: C1000667||synonyms: кананга|kananga|иланг-иланг|ilang-ilang||||
+#13	AnnotatorNotes T35	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||
+#14	AnnotatorNotes T20	first_annotator_label: C0118168||synonyms: фосиноприл|fosinopril|fosenopril|фосеноприл||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0014025||synonyms: эналаприл|enalapril|analaprila maleat|mk-421|аналаприла малеат||||bert: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||
+#15	AnnotatorNotes T39	first_annotator_label: C1536131||synonyms: сердечная недостаточность ii класса по nyha||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0278676||synonyms: почечно-клеточная карцинома, стадия ii|рак почки, стадия ii|карцинома почки, стадия ii|гипернефрома, стадия ii|злокачественная опухоль почки, стадия ii||||bert: C0278676||synonyms: почечно-клеточная карцинома, стадия ii|рак почки, стадия ii|карцинома почки, стадия ii|гипернефрома, стадия ii|злокачественная опухоль почки, стадия ii||||
+#16	AnnotatorNotes T28	first_annotator_label: C0189817||synonyms: имплантация кардиостимулятора|имплантация электрокардиостимулятора||||second_annotator_label: C0032786||synonyms: послеоперационное ведение больного|posleoperatsionnoe vedenie bol'nogo|послеоперационный уход||||third_annotator_label: C1520224||synonyms: функциональный статус по шкале восточной объединенной группы онкологов (ecog)|состояние пациента по шкале ecog||||bert: C2706839||synonyms: глюкоза^1 час после дозы орнитин альфа-кетоглутарата:молконц:тчкврм:сыв/плаз:колич||||
+#17	AnnotatorNotes T7	first_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0950113||synonyms: приматов t-лимфотропный вирус 1|primatov t-limfotropnyi virus 1|t-limfotropnyi virus 1 primatov|t-лимфотропный вирус 1 приматов||||
+#18	AnnotatorNotes T6	first_annotator_label: C0040577||synonyms: микроэлементы|mikroelementy|sledovye elementy|следовые элементы||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C2926256||synonyms: с пептид^2 минуты после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#19	AnnotatorNotes T10	first_annotator_label: C0126174||synonyms: лозартан|lozartan||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0995158||synonyms: косатка|killer whale|kosatka||||
+#20	AnnotatorNotes T29	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#21	AnnotatorNotes T38	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#22	AnnotatorNotes T8	first_annotator_label: C1879713||synonyms: антиоксидантная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0484585||synonyms: глюкоза^2 часа после приема 75 г глюкозы через рот:prthr:тчкврм:моча:пор:тест-полоска||||
+#23	AnnotatorNotes T4	first_annotator_label: C0948575||synonyms: диуретическая терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363627||synonyms: глюкоза^1.5 часа после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||

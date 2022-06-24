@@ -1,0 +1,263 @@
+T90	Symptom 1583 1612	бледного цвета, контурируются
+T87	Symptom 1518 1526	изменены
+T16	Body_location 2341 2358	Видимые слизистые
+T57	Body_location 1580 1582	Mt
+T80	Symptom 666 696	секрета нет, стенки нормальные
+T113	Disease 721 761	вторичных изменений поджелудочной железы
+T8	Drug 3907 3913	Ксизал
+T53	Drug 1772 1782	Аква-марис
+T23	Body_location 2557 2571	Половые органы
+T61	Body_location 1303 1313	Ротоглотка
+T45	Symptom 935 976	Неполная блокада правой ножки пучка Гиса.
+T28	Treatment 2907 2990	Физическая нагрузка не менее 3-х раз в неделю по 1 часу (плавание, велосипед, бег).
+T115	Body_location 952 975	правой ножки пучка Гиса
+T33	Body_location 159 179	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T106	Symptom 2385 2435	Сердечно-легочная деятельность удовлетворительная.
+T32	Body_location 56 70	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T30	Symptom 1957 1980	Телосложение правильное
+T82	Symptom 1259 1279	Слизистое отделяемое
+T51	Drug 1753 1761	Физиомер
+T77	Body_location 574 591	селезёночная вена
+T5	Treatment 3907 3984	Ксизал (зиртек) по 1 т. 1 раз в день продолжить на время основного курса АСИТ
+T93	Symptom 1159 1167	изменена
+T50	Body_location 1696 1727	слизистую оболочку полости носа
+T52	Drug 1763 1770	Маример
+T42	Body_location 826 841	синусового узла
+T10	Drug 3639 3667	СИТ с пыльцевыми аллергенами
+T65	Body_location 1141 1155	наружного носа
+T41	Symptom 799 822	Миграция водителя ритма
+T25	Body_location 2189 2207	абдоминальной зоне
+T69	Symptom 83 157	размер не увеличен, форма правильная, стенки не изменены, просвет свободен
+T14	Body_location 2117 2143	Подкожно-жировая клетчатка
+T36	Body_location 606 613	ЖЕЛУДОК
+T76	Symptom 492 572	нормальная: размер средний (111х53мм), паренхима однородная, средней эхогенности
+T64	Body_location 1130 1133	Нос
+T70	Symptom 180 283	изменённая: размер выше среднего (16х10х16мм), эхогенность паренхимы повышена, уплотнены стенки сосудов
+T94	Symptom 1135 1155	Форма наружного носа
+T89	Symptom 1560 1578	широкие, свободные
+T1	Treatment 3511 3569	Соблюдение гипоаллергенного стола и элиминационного режима
+T84	Symptom 1408 1435	патологического содержимого
+T81	Symptom 1169 1200	Дыхание через нос не затруднено
+T74	Body_location 453 468	печёночные вены
+T18	Treatment 3118 3170	туалет носа с физиомером х 3 р/д, ксизал по 1т 1 р/д
+T24	Body_location 2497 2516	Мочеволовая система
+T78	Symptom 595 604	расширена
+T96	Symptom 2695 2704	увеличена
+T98	Symptom 2785 2794	эутиреоза
+T9	Drug 3915 3921	зиртек
+T97	Symptom 2717 2761	пальпируется мягко-эластической консистенции
+T83	Symptom 1359 1374	розовая, чистая
+T66	Body_location 1183 1186	нос
+T99	Symptom 2531 2555	мочеиспускание свободное
+T95	Body_location 2674 2691	Щитовидная железа
+T37	Body_location 647 664	12-ПЕРСТНАЯ КИШКА
+T109	Severity 895 905	выраженная
+T58	Body_location 1490 1514	AD et AS заушные области
+T88	Symptom 1528 1541	безболезненны
+T26	Body_location 2796 2808	Надпочечники
+T114	Disease 944 975	блокада правой ножки пучка Гиса
+T73	Body_location 431 444	воротная вена
+T34	Body_location 305 311	ПЕЧЕНЬ
+T17	Body_location 2439 2462	органам брюшной полости
+T46	Symptom 977 1041	Непостоянное удлинение электрической систолы желудочков на 0.06”
+T11	Drug 3709 3775	Поддерживающая доза аллергена в разведении 1:10  8 капель (0.4 мл)
+T15	Body_location 2221 2236	Молочные железы
+T60	Severity 1393 1402	I степени
+T103	Symptom 2237 2339	увеличены, преимущественно за счёт жировой ткани, слева пальпируется желкзистая ткань объёмом до 10 мл
+T71	Symptom 285 303	проток не расширен
+T39	Body_location 741 761	поджелудочной железы
+T29	Treatment 2991 3029	Ходить не менее 1-1.5 часов ежедневно.
+T2	Treatment 3574 3623	Туалет носа с физиомером 3 раза в день продолжить
+T4	Treatment 3709 3903	Поддерживающая доза аллергена в разведении 1:10  8 капель (0.4 мл) 1 раз в неделю дважды, затем 1 раз в 2 недели дважды, затем 1 раз в три недели до периода цветения (только в периоде ремиссии).
+T12	Drug 3588 3598	физиомером
+T67	Body_location 1202 1233	Слизистая оболочка полости носа
+T72	Symptom 313 429	размер средний (ЛД = 60мм, 1-й сегмент = 17мм, ПД = 137мм), контур ровный, паренхима однородная, средней эхогенности
+T68	Symptom 71 81	нормальный
+T108	Disease 906 913	аритмия
+T47	Symptom 1043 1081	Признаки нейрогенных влияний на сердце
+T91	Symptom 1234 1241	розовая
+T112	Severity 872 881	умеренная
+T59	Body_location 1376 1392	Небные миндалины
+T48	Disease 1626 1660	Аллергический персистирующий ринит
+T101	Symptom 2603 2612	правильно
+T75	Symptom 472 480	изменены
+T3	Treatment 3628 3690	Продолжить СИТ с пыльцевыми аллергенами сублингвально по схеме
+T105	Symptom 2463 2480	без особенностей.
+T31	Body_location 31 54	органов брюшной полости
+T54	Drug 1784 1796	Аквалор софт
+T79	Symptom 615 645	секрет есть, стенки нормальные
+T49	Treatment 1686 1816	промывать слизистую оболочку полости носа любым солевым раствором (Физиомер, Маример, Аква-марис, Аквалор софт) х 3-4 раза в день.
+T40	Symptom 771 797	Вертикальное положение ЭОС
+T111	Disease 882 893	брадикардия
+T21	Drug 3132 3142	физиомером
+T56	Body_location 1543 1559	Слуховые проходы
+T22	Drug 3152 3158	ксизал
+T104	Symptom 2359 2383	розовые, влажные, чистые
+T85	Body_location 1438 1445	лакунах
+T92	Symptom 1243 1257	немного отечна
+T44	Symptom 872 893	умеренная брадикардия
+T19	Treatment 3178 3327	курс АСИТ с пыльцевыми аллергенами (костер, овсяница, ежа, ольха, береза) по классической схеме сублингвальным методом введения до разведения 1:1000.
+T35	Body_location 482 491	СЕЛЕЗЁНКА
+T63	Body_location 1280 1301	в общих носовых ходах
+T13	Body_location 2049 2063	Кожные покровы
+T62	Body_location 1315 1358	Слизистая оболочка преддверия и полости рта
+T6	Treatment 4065 4140	Креон 10 тыс. по 1к. 3 р/д с едой 2 недели, затем 2 недели перерыв. № курса
+T86	Symptom 1468 1483	розовая, чистая
+T100	Symptom 2518 2525	дизурии
+T27	Disease 2865 2889	Ювенильная гинекомастия.
+T110	Disease 2209 2215	Отеков
+T20	Drug 3183 3251	АСИТ с пыльцевыми аллергенами (костер, овсяница, ежа, ольха, береза)
+T7	Drug 4065 4070	Креон
+T55	Body_location 1447 1467	Задняя стенка глотки
+T107	Symptom 2481 2495	Стул регулярно
+T43	Body_location 844 870	миокард правого предсердия
+T102	Symptom 2152 2207	избыточно, распределена с акцентом в абдоминальной зоне
+N1	Reference T90 UMLS:C2224569	тела контурирование
+N2	Reference T87 UMLS:CUILESS	органа размер
+N3	Reference T16 UMLS:C0026724	слизистая оболочка
+N4	Reference T57 UMLS:C0012929	mtdna
+N5	Reference T80 UMLS:CUILESS	результаты обследования желудочно-кишечного тракта в норме
+N6	Reference T113 UMLS:C0030286	поджелудочной железы болезни
+N7	Reference T8 UMLS:C0055147	противоаллергические средства
+N8	Reference T53 UMLS:C0036499	вода морская
+N9	Reference T23 UMLS:C0017420	половые органы
+N10	Reference T61 UMLS:C0521367	ротоглотка
+N11	Reference T45 UMLS:C0085615	блокада правой ножки пучка гиса
+N12	Reference T28 UMLS:C0452240	физическая тренировка человека, лечебная
+N13	Reference T115 UMLS:C0085615	блокада правой ножки пучка гиса
+N14	Reference T33 UMLS:C0030274	поджелудочная железа
+N15	Reference T106 UMLS:CUILESS	результаты исследования функции внешнего дыхания в норме, бду
+N16	Reference T32 UMLS:C0016976	желчный пузырь
+N17	Reference T30 UMLS:C0037669	телосложения типы
+N18	Reference T82 UMLS:C0585350	слизистые выделения
+N19	Reference T51 UMLS:C0036499	вода морская
+N20	Reference T77 UMLS:C0038001	селезеночная вена
+N21	Reference T5 UMLS:C0013154	антиаллергическая терапия
+N22	Reference T93 UMLS:C0242863	absent
+N23	Reference T50 UMLS:C0027428	носа слизистая оболочка
+N24	Reference T52 UMLS:C0036499	вода морская
+N25	Reference T42 UMLS:C0037189	синусный узел
+N26	Reference T10 UMLS:C0018621	аллергия на пыльцу
+N27	Reference T65 UMLS:C0028429	нос
+N28	Reference T41 UMLS:C1321523	миграция водителя ритма по предсердию
+N29	Reference T25 UMLS:CUILESS	абдоминальная жировая клетчатка
+N30	Reference T69 UMLS:C1141874	результаты ультразвукового исследования желчевыводящих путей в норме
+N31	Reference T14 UMLS:C0222331	подкожная жировая клетчатка
+N32	Reference T36 UMLS:C0038351	желудок
+N33	Reference T76 UMLS:C2181189	ультразвуковое исследование селезенки
+N34	Reference T64 UMLS:C0028429	нос
+N35	Reference T70 UMLS:C1096352	увеличение поджелудочной железы
+N36	Reference T94 UMLS:C0028429	нос
+N37	Reference T89 UMLS:CUILESS	органа размер
+N38	Reference T1 UMLS:C0012158	питания режима контроль
+N39	Reference T84 UMLS:C2926602	выделения
+N40	Reference T81 UMLS:UNKNOWN	результаты исследования функции внешнего дыхания в норме, бду
+N41	Reference T74 UMLS:C0019155	печеночные вены
+N42	Reference T18 UMLS:C0013154	промывание носа
+N43	Reference T24 UMLS:C0042066	мочеполовая система
+N44	Reference T78 UMLS:C0037993	результаты исследования сосудов в норме
+N45	Reference T96 UMLS:CUILESS	норма рабочая
+N46	Reference T98 UMLS:CUILESS	результаты физикального обследования щитовидной железы в норме
+N47	Reference T9 UMLS:C0055147	противоаллергические средства
+N48	Reference T97 UMLS:CUILESS	норма рабочая
+N49	Reference T83 UMLS:C4505235	розовые
+N50	Reference T66 UMLS:C0028429	нос
+N51	Reference T99 UMLS:C4087154	исследование мочеиспускания
+N52	Reference T95 UMLS:C0040132	щитовидная железа
+N53	Reference T37 UMLS:C0013303	двенадцатиперстная кишка
+N54	Reference T109 UMLS:CUILESS	степень ухудшения бду
+N55	Reference T58 UMLS:CUILESS	ухо наружное
+N56	Reference T88 UMLS:CUILESS	болезненность
+N57	Reference T26 UMLS:C0001625	надпочечники
+N58	Reference T114 UMLS:C0085615	блокада правой ножки пучка гиса
+N59	Reference T73 UMLS:C0032718	воротная вена
+N60	Reference T34 UMLS:C0023884	печень
+N61	Reference T17 UMLS:C0230168	брюшная полость
+N62	Reference T46 UMLS:C0023976	serdechnaia nedostatochnost' sistolicheskaia
+N63	Reference T11 UMLS:C0002092	аллергены
+N64	Reference T15 UMLS:C0006141	молочная железа
+N65	Reference T60 UMLS:CUILESS	гипертрофия миндалин
+N66	Reference T103 UMLS:CUILESS	жировая ткань подкожная
+N67	Reference T71 UMLS:CUILESS	расширение протока поджелудочной железы
+N68	Reference T39 UMLS:C0030274	поджелудочная железа
+N69	Reference T29 UMLS:C0582191	регулярные физические нагрузки
+N70	Reference T2 UMLS:C2350442	промывание носа
+N71	Reference T4 UMLS:C0013154	иммунотерапия аллергенами
+N72	Reference T12 UMLS:C0036499	вода морская
+N73	Reference T67 UMLS:C0027428	носа слизистая оболочка
+N74	Reference T72 UMLS:C0412534	ультразвуковое исследование печени
+N75	Reference T68 UMLS:CUILESS	норма рабочая
+N76	Reference T108 UMLS:C0003811	аритмия
+N77	Reference T47 UMLS:C0003811	нарушения сердечного ритма
+N78	Reference T91 UMLS:C4505235	розовые
+N79	Reference T112 UMLS:CUILESS	степень ухудшения бду
+N80	Reference T59 UMLS:C0040421	миндалины небные
+N81	Reference T48 UMLS:C2607914	аллергический ринит
+N82	Reference T101 UMLS:C0017422	половые органы мужские
+N83	Reference T75 UMLS:C1112414	результаты исследования сосудов в норме
+N84	Reference T3 UMLS:C3658366	сублингвальная иммунотерапия
+N85	Reference T105 UMLS:C0237284	отсутствие реакции
+N86	Reference T31 UMLS:C0230168	брюшная полость
+N87	Reference T54 UMLS:C0036499	вода морская
+N88	Reference T79 UMLS:C1096020	выделение секрета
+N89	Reference T49 UMLS:C2350442	промывание носа
+N90	Reference T40 UMLS:C0231472	вертикальное положение
+N91	Reference T111 UMLS:C0428977	брадикардия
+N92	Reference T21 UMLS:C0036499	вода морская
+N93	Reference T56 UMLS:C0004308	слуховые проводящие пути
+N94	Reference T22 UMLS:C0055147	противоаллергические средства
+N95	Reference T104 UMLS:CUILESS	бледная слизистая оболочка
+N96	Reference T85 UMLS:CUILESS	полость
+N97	Reference T92 UMLS:C0013604	отек
+N98	Reference T44 UMLS:C0428977	брадикардия
+N99	Reference T19 UMLS:C1739388	аллергия на березовую пыльцу
+N100	Reference T35 UMLS:C0037993	селезенка
+N101	Reference T63 UMLS:CUILESS	дыхательные пути, поток воздуха
+N102	Reference T13 UMLS:C1123023	кожа
+N103	Reference T62 UMLS:C0026639	гортани слизистая оболочка
+N104	Reference T6 UMLS:C0851683	процедуры лечения заболеваний поджелудочной железы
+N105	Reference T86 UMLS:C4505235	розовые
+N106	Reference T100 UMLS:C0013428	дизурия
+N107	Reference T27 UMLS:C0018418	гинекомастия
+N108	Reference T110 UMLS:C0013604	отёк
+N109	Reference T20 UMLS:C1739388	аллергия на березовую пыльцу
+N110	Reference T7 UMLS:C0030304	креон
+N111	Reference T55 UMLS:C0521367	ротоглотка
+N112	Reference T107 UMLS:CUILESS	норма стандартной порции
+N113	Reference T43 UMLS:C0518960	миксома правого предсердия
+N114	Reference T102 UMLS:C0311277	ожирение абдоминальное
+#1	AnnotatorNotes T87	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||third_annotator_label: None||synonyms: ||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#2	AnnotatorNotes T80	first_annotator_label: C2609114||synonyms: результаты обследования желудочно-кишечного тракта в норме||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#3	AnnotatorNotes T8	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0055147||synonyms: цетиризин|tsetirizin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0043375||synonyms: ксилоза|ksiloza||||
+#4	AnnotatorNotes T106	first_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C1444565||synonyms: сердечно-легочная недостаточность||||bert: C1444565||synonyms: сердечно-легочная недостаточность||||
+#5	AnnotatorNotes T5	first_annotator_label: C1535925||synonyms: антиаллергическая терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C1717376||synonyms: пролактин^1 час после дозы трг внутривенно:произвконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T25	first_annotator_label: C1563742||synonyms: абдоминальная жировая клетчатка|жировая клетчатка абдоминальная|zhirovaia kletchatka abdominal'naia|abdominal'naia zhirovaia kletchatka||||second_annotator_label: C2828149||synonyms: сагиттальный абдоминальный диаметр|abdominal'nogo diametra indeks|sagittal'nyi diametr zhivota|абдоминальная высота|абдоминального диаметра индекс||||third_annotator_label: C0230168||synonyms: брюшная полость|briushnaia polost'||||bert: C2828149||synonyms: сагиттальный абдоминальный диаметр|abdominal'nogo diametra indeks|sagittal'nyi diametr zhivota|абдоминальная высота|абдоминального диаметра индекс||||
+#7	AnnotatorNotes T69	first_annotator_label: C1141874||synonyms: результаты ультразвукового исследования желчевыводящих путей в норме||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C0581117||synonyms: результаты ультразвукового исследования в норме|показатели на сонограмме в норме|результаты ультразвукового исследования бду в норме|результаты ультрасонографии в норме бду||||bert: C4324673||synonyms: изменение окраски стенки сосуда|изменение цвета стенки сосуда||||
+#8	AnnotatorNotes T89	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0004308||synonyms: слуховые проводящие пути|slukhovye provodiashchie puti||||third_annotator_label: C0005886||synonyms: тела конституция|tela konstitutsiia|konstitutsiia tela|razmery tela|конституция тела||||bert: C0856863||synonyms: широкая походка||||
+#9	AnnotatorNotes T84	first_annotator_label: C2926602||synonyms: выделения|жидкое отделяемое||||second_annotator_label: C0040421||synonyms: небные миндалины|mindalina|mindaliny nebnye|nebnye mindaliny|миндалина||||third_annotator_label: C0396027||synonyms: миндалины с наличием остатков пищи и гноя в криптах||||bert: C0001950||synonyms: идиосинкрастическая алкогольная интоксикация|патологическое пьянство||||
+#10	AnnotatorNotes T81	first_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0855772||synonyms: емкость вдоха в норме||||bert: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||
+#11	AnnotatorNotes T18	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0599766||synonyms: восстановление функций|vosstanovlenie funktsii organa|fiziologicheskikh funktsii organa vosstanovlenie|organa funktsii vosstanovlenie|vosstanovlenie funktsii||||bert: C1714759||synonyms: туберкулёз реакция папула^3 дня после 1 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#12	AnnotatorNotes T78	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: C0037993||synonyms: селезенка|selezenka||||third_annotator_label: C0038002||synonyms: спленомегалия|splenomegaliia|увеличение селезенки||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#13	AnnotatorNotes T96	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||third_annotator_label: C1400126||synonyms: увеличение щитовидной железы||||bert: C0231249||synonyms: увеличение роста||||
+#14	AnnotatorNotes T98	first_annotator_label: C2748244||synonyms: результаты физикального обследования щитовидной железы в норме||||second_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||third_annotator_label: C0015190||synonyms: эутиреоидные синдромы|eutireoidnye sindromy|nizkogo pokazatelia t3 i t4 sindrom|nizkogo pokazatelia t3 sindrom|vysokogo pokazatelia t4 sindrom||||bert: C0014716||synonyms: эритрея|eritreia||||
+#15	AnnotatorNotes T9	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0055147||synonyms: цетиризин|tsetirizin||||third_annotator_label: C0016679||synonyms: жостер|kaskara|zhester|жестер|zhoster slabitel'nyi||||bert: C0016679||synonyms: жостер|kaskara|zhester|жестер|zhoster slabitel'nyi||||
+#16	AnnotatorNotes T97	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||third_annotator_label: None||synonyms: ||||bert: C0030306||synonyms: панкреатическая эластаза|pankreatopeptidaza|elastaza|pankreaticheskaia elastaza|панкреатопептидаза||||
+#17	AnnotatorNotes T109	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0428977||synonyms: брадикардия|bradikardiia|bradiaritmiia|брадикардия, бду|чсс ниже нормы||||third_annotator_label: C3805220||synonyms: выраженная вариабельность базального ритма сердечных сокращений плода|выраженная вариабельность базального сердечного ритма плода||||bert: C0235101||synonyms: беспокойство выраженное|выраженное волнение||||
+#18	AnnotatorNotes T58	first_annotator_label: C0013453||synonyms: ухо наружное|ukho naruzhnoe||||second_annotator_label: C3203458||synonyms: выступающие уши||||third_annotator_label: C0928075||synonyms: ушная раковина|naruzhnoe ukho|ushnaia rakovina|наружное ухо||||bert: C1512142||synonyms: ets мотив|ets-домен|спираль-изгиб-спираль, ets-тип домен содержащий|spiral'-izgib-spiral', ets-tip domen soderzhashchii|ets motiv||||
+#19	AnnotatorNotes T88	first_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||second_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||third_annotator_label: None||synonyms: ||||bert: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||
+#20	AnnotatorNotes T46	first_annotator_label: C1135191||synonyms: сердечная недостаточность систолическая|систолическая сердечная недостаточность|serdechnaia nedostatochnost' sistolicheskaia||||second_annotator_label: C0013798||synonyms: электрокардиограмма|экг||||third_annotator_label: C0023976||synonyms: удлиненного интервала q-t синдром|udlinennogo intervala q-t sindrom|dzheruella-lange-nilsena sindrom|udlineniia intervala p-q sindrom|синдром удлинения интервала qt||||bert: C0861790||synonyms: злокачественное новообразование поднижнечелюстной железы, стадия 0||||
+#21	AnnotatorNotes T60	first_annotator_label: C0272386||synonyms: гипертрофия миндалин||||second_annotator_label: C0549123||synonyms: увеличенные миндалины||||third_annotator_label: None||synonyms: ||||bert: C0862824||synonyms: рак легкого с неуточненным клеточным типом, стадия i|карцинома легкого i стадии|рак легкого, i стадии|карцинома легкого i стадии с неуточненным клеточным типом|рак легкого, стадия i||||
+#22	AnnotatorNotes T103	first_annotator_label: C0222331||synonyms: подкожная жировая клетчатка|жировая ткань подкожная|podkozhnaia zhirovaia kletchatka|zhirovaia tkan' podkozhnaia||||second_annotator_label: C0024103||synonyms: объемное образование в молочной железе|образование в молочной железе, бду|узелок в молочной железе|образование или объемное образование в молочной железе|узловые образования в молочных железах||||third_annotator_label: C0001527||synonyms: жировая ткань|zhirovaia tkan'||||bert: C4523899||synonyms: утрата периферической жировой ткани||||
+#23	AnnotatorNotes T71	first_annotator_label: C2747827||synonyms: расширение протока поджелудочной железы||||second_annotator_label: C0030274||synonyms: поджелудочная железа|podzheludochnaia zheleza||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C2747826||synonyms: расширение желчного протока||||
+#24	AnnotatorNotes T29	first_annotator_label: C0582191||synonyms: регулярные физические нагрузки||||second_annotator_label: C0035953||synonyms: бег|beg||||third_annotator_label: C0857757||synonyms: нормальные физические нагрузки||||bert: C1268939||synonyms: дневные учреждения для пожилых|dnevnye uchrezhdeniia dlia pozhilykh||||
+#25	AnnotatorNotes T4	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C0948190||synonyms: уровень альфа-1 кислого гликопротеина в норме||||
+#26	AnnotatorNotes T68	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0016976||synonyms: желчный пузырь|zhelchnyi puzyr'||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#27	AnnotatorNotes T112	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0085610||synonyms: синусовая брадикардия||||third_annotator_label: C0026351||synonyms: имбецил|умственная отсталость умеренная||||bert: C0008946||synonyms: климат|klimat||||
+#28	AnnotatorNotes T3	first_annotator_label: C3658366||synonyms: сублингвальная иммунотерапия|immunoterapiia pod"iazychnaia|иммунотерапия подъязычная|sublingval'naia immunoterapiia||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0263687||synonyms: пиогенный артрит, поражающий голень||||bert: C0263687||synonyms: пиогенный артрит, поражающий голень||||
+#29	AnnotatorNotes T31	first_annotator_label: C0230168||synonyms: брюшная полость|briushnaia polost'||||second_annotator_label: C0203464||synonyms: ультразвуковое исследование брюшной полости||||third_annotator_label: C0042779||synonyms: внутренние органы|vnutrennie organy||||bert: C0860675||synonyms: сканирование органов брюшной полости|сканирование брюшной полости бду|сцинтиграфия брюшной полости бду||||
+#30	AnnotatorNotes T22	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0055147||synonyms: цетиризин|tsetirizin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0043375||synonyms: ксилоза|ksiloza||||
+#31	AnnotatorNotes T104	first_annotator_label: C0240397||synonyms: бледная слизистая оболочка||||second_annotator_label: C0860561||synonyms: кожа, влажная||||third_annotator_label: C0020167||synonyms: влажность|vlazhnost'||||bert: C0858640||synonyms: влажные хрипы||||
+#32	AnnotatorNotes T85	first_annotator_label: C0011334||synonyms: кариес зубов|karies zubov|karies emali|разрушение тканей зуба|кариес зуба, бду||||second_annotator_label: C0265537||synonyms: краниолакуния|лакунарный череп||||third_annotator_label: C0040421||synonyms: небные миндалины|mindalina|mindaliny nebnye|nebnye mindaliny|миндалина||||bert: C0018494||synonyms: волосы|volosy|lanugo|volosy pushkovye|волосы пушковые||||
+#33	AnnotatorNotes T63	first_annotator_label: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||second_annotator_label: C0475765||synonyms: отек носовых пазух|отёк носовых пазух|отек слизистой носа|отёчность носовых ходов|отечность носовых ходов||||third_annotator_label: C0028429||synonyms: нос|nos||||bert: C0853254||synonyms: раздражение носовых ходов||||
+#34	AnnotatorNotes T62	first_annotator_label: C0023053||synonyms: гортани слизистая оболочка|gortani slizistaia obolochka||||second_annotator_label: C0026639||synonyms: ротовой полости слизистая оболочка|rotovoi polosti slizistaia obolochka||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0549353||synonyms: рак слизистой оболочки преддверия рта||||
+#35	AnnotatorNotes T107	first_annotator_label: C3658325||synonyms: порция стандартная|portsiia standartnaia|норма стандартной порции|norma standartnoi portsii||||second_annotator_label: C0162287||synonyms: патологический характер кала|отклоление кала от нормы, бду|патологический кал|патологический стул|патологический кал, бду||||third_annotator_label: C0489144||synonyms: стул:вид:тчкврм:нижний жк тракт:ном||||bert: C0239978||synonyms: частая дефекация|увеличенная частота опорожнения кишечника|увеличенная частота испражнения|увеличенная частота актов дефекации|частые акты дефекации||||

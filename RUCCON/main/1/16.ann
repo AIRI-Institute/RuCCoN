@@ -1,0 +1,176 @@
+T60	Symptom 2804 2830	Воронкообразная деформация
+T19	Symptom 637 656	затруднения дыхания
+T58	Body_location 2699 2713	Кожные покровы
+T46	Severity 2067 2076	2 степени
+T5	Disease 127 158	Пищевая, лекарственная аллергия
+T49	Treatment 2300 2346	назначались ИГКС до 1000мкг/сут по флутиказону
+T3	Course 80 88	ремиссия
+T31	Disease 695 698	ОРИ
+T45	Disease 2058 2066	аденоиды
+T37	Drug 1638 1646	беклазон
+T50	Drug 2312 2316	ИГКС
+T62	Symptom 2714 2729	чистые, бледные
+T8	Disease 193 214	Хронический аденоидит
+T54	Drug 2456 2464	лидокаин
+T9	Disease 216 290	Синдром вегетативной дисфункции, ваготонический тип, гипотензивный вариант
+T47	Symptom 2183 2185	ДН
+T24	Disease 1166 1169	ОРИ
+T73	Treatment 2212 2245	серетида 25/250 мкг 2 раза в день
+T65	Symptom 2898 2904	хрипов
+T74	Drug 2212 2220	серетида
+T11	Course 336 353	период обострения
+T18	Body_location 552 567	желчного пузыря
+T71	Symptom 3039 3059	Менингеальных знаков
+T38	Treatment 1748 1790	беклазон был заменен на серетид 25/125 мкг
+T39	Drug 1772 1779	серетид
+T29	Severity 1309 1338	легкое персистирующее течение
+T17	Body_location 515 532	билиарного тракта
+T40	Drug 1748 1756	беклазон
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T25	Treatment 1171 1196	В терапии зиртек, аскорил
+T7	Severity 182 191	2 степени
+T75	Symptom 541 567	деформации желчного пузыря
+T72	Symptom 2910 2943	Сердечные тоны звучные, ритмичные
+T69	Symptom 2996 3003	дизурии
+T23	Disease 1109 1130	обструктивный бронхит
+T14	Disease 457 483	Хронический гастродуоденит
+T22	Drug 1041 1056	антигистаминные
+T48	Severity 2186 2197	1-2 степени
+T6	Disease 160 181	Гипертрофия аденоидов
+T32	Symptom 1429 1448	затруднения дыхания
+T56	Disease 2539 2564	рецидивирующая крапивница
+T59	Body_location 2831 2845	грудной клетки
+T28	Disease 1276 1307	бронхиальная астма, атопическая
+T21	Treatment 1013 1073	В терапии местные средства, антигистаминные препараты, диета
+T36	Drug 1621 1626	интал
+T70	Symptom 3009 3013	Стул
+T66	Symptom 2878 2896	с жестким оттенком
+T13	Disease 398 455	Кардиопатия, нарушение функции автоматизма: венечный ритм
+T10	Severity 292 307	тяжелое течение
+T68	Symptom 2753 2764	Зев спокоен
+T12	Disease 355 396	Врожденная дисплазия соединительной ткани
+T34	Severity 1587 1600	среднетяжелую
+T43	Symptom 1951 1970	затруднения дыхания
+T79	Drug 2335 2346	флутиказону
+T67	Body_location 2847 2855	В лёгких
+T63	Symptom 2731 2751	периорбитальные тени
+T30	Treatment 1340 1362	Назначен интал курсами
+T26	Drug 1181 1187	зиртек
+T41	Disease 1815 1846	бронхиальная астма, атопическая
+T20	Disease 989 1011	атопического дерматита
+T64	Symptom 2856 2876	дыхание везикулярное
+T42	Severity 1848 1878	тяжелое персистирующее течение
+T51	Disease 2389 2405	Пищевая аллергия
+T76	Course 1561 1600	с легкой была изменена на среднетяжелую
+T35	Treatment 1602 1658	В базисной терапии интал заменен на беклазон 400 мкг/сут
+T78	Drug 1349 1354	интал
+T4	Disease 90 125	Аллергический ринит, персистирующий
+T33	Disease 1542 1560	бронхиальной астмы
+T16	Disease 504 532	Дисфункция билиарного тракта
+T27	Drug 1189 1196	аскорил
+T52	Symptom 2418 2427	высыпания
+T61	Symptom 2766 2802	Носовое дыхание несколько затруднено
+T44	Disease 2037 2056	аллергический ринит
+T55	Disease 2504 2520	пищевая аллергия
+T53	Disease 2430 2452	Лекарственная аллергия
+T2	Severity 48 78	тяжелое персистирующее течение
+T57	Disease 2580 2596	пищевая аллергия
+T77	Disease 2379 2383	отек
+T15	Course 485 502	неполная ремиссия
+N1	Reference T60 UMLS:C0016842	воронкообразная деформация грудной клетки
+N2	Reference T19 UMLS:C0553668	затруднение дыхания
+N3	Reference T58 UMLS:C1123023	кожа
+N4	Reference T5 UMLS:C2316159	пищевая аллергия
+N5	Reference T49 UMLS:C0013154	введение лекарств ингаляционное
+N6	Reference T3 UMLS:C0035053	ремиссия спонтанная
+N7	Reference T31 UMLS:C0035243	респираторные инфекции
+N8	Reference T45 UMLS:C0001428	аденоиды
+N9	Reference T37 UMLS:C0004905	беклометазон
+N10	Reference T50 UMLS:C0017710	глюкокортикоиды
+N11	Reference T62 UMLS:CUILESS	бледный вид
+N12	Reference T8 UMLS:C0001427	аденоидит
+N13	Reference T54 UMLS:C0023660	лидокаин
+N14	Reference T9 UMLS:C1112176	синдром вегетативной недостаточности
+N15	Reference T47 UMLS:C1145670	дыхательная недостаточность
+N16	Reference T24 UMLS:C0035243	респираторные инфекции
+N17	Reference T73 UMLS:C0013154	противоастматические средства
+N18	Reference T65 UMLS:C3887661	хрип
+N19	Reference T74 UMLS:C0939232	серетид
+N20	Reference T11 UMLS:CUILESS	обострение боли
+N21	Reference T18 UMLS:C0016976	желчный пузырь
+N22	Reference T71 UMLS:C0025287	менингеальные знаки
+N23	Reference T38 UMLS:C0013154	замена препарата
+N24	Reference T39 UMLS:C0939232	серетид
+N25	Reference T29 UMLS:CUILESS	астма, хроническая
+N26	Reference T17 UMLS:C0005400	заболевание желчевыводящих путей
+N27	Reference T40 UMLS:C0004905	беклометазон
+N28	Reference T1 UMLS:C0004096	астма бронхиальная
+N29	Reference T25 UMLS:C0013154	гистамина h1 антагонисты
+N30	Reference T75 UMLS:C1397947	перегиб желчного пузыря
+N31	Reference T72 UMLS:C2712143	нормальный сердечный ритм
+N32	Reference T69 UMLS:C0013428	дизурия
+N33	Reference T23 UMLS:C0865791	обструктивный бронхит
+N34	Reference T14 UMLS:C4728231	хронический гастродуоденит
+N35	Reference T22 UMLS:C1504374	антигистаминная терапия
+N36	Reference T6 UMLS:C0149825	гипертрофия исключительно аденоидов
+N37	Reference T32 UMLS:C0553668	затруднение дыхания
+N38	Reference T56 UMLS:C1276118	крапивница, рецидивирующая
+N39	Reference T59 UMLS:C0817096	грудная клетка
+N40	Reference T28 UMLS:C0004096	астма, бронхиальная
+N41	Reference T21 UMLS:C1504374	антигистаминная терапия
+N42	Reference T36 UMLS:C0012694	интал
+N43	Reference T70 UMLS:C0232720	светлый стул
+N44	Reference T66 UMLS:C3666016	жесткое дыхание при аускультации легких
+N45	Reference T13 UMLS:C0878544	кардиомиопатии
+N46	Reference T10 UMLS:CUILESS	болезнь, индекс степени тяжести
+N47	Reference T68 UMLS:C0033771	зудящая сыпь
+N48	Reference T12 UMLS:C0009782	соединительной ткани дисплазия
+N49	Reference T34 UMLS:CUILESS	степень ухудшения бду
+N50	Reference T43 UMLS:C0553668	затруднение дыхания
+N51	Reference T79 UMLS:C0082607	флутиказон
+N52	Reference T67 UMLS:C0024109	легкие
+N53	Reference T63 UMLS:C4049523	периорбитальные петехии
+N54	Reference T30 UMLS:C1276366	антенатальное обучение
+N55	Reference T26 UMLS:C0055147	цетиризин
+N56	Reference T41 UMLS:C0004096	астма, бронхиальная
+N57	Reference T20 UMLS:C0011615	атопический дерматит
+N58	Reference T64 UMLS:UNKNOWN	аускультативная картина в легких
+N59	Reference T42 UMLS:CUILESS	астма, хроническая
+N60	Reference T51 UMLS:C0149696	пищевая аллергия
+N61	Reference T76 UMLS:CUILESS	болезнь, индекс степени тяжести
+N62	Reference T35 UMLS:C0013154	противоаллергические средства
+N63	Reference T78 UMLS:C0012694	интал
+N64	Reference T4 UMLS:C2607914	аллергический ринит
+N65	Reference T33 UMLS:C0004096	бронхиальная астма
+N66	Reference T16 UMLS:C0005424	заболевание желчевыводящих путей
+N67	Reference T27 UMLS:C0006220	бромгексин
+N68	Reference T52 UMLS:C0302295	высыпание
+N69	Reference T61 UMLS:C0853254	раздражение носовых ходов
+N70	Reference T44 UMLS:C2607914	аллергический ринит
+N71	Reference T55 UMLS:C0149696	пищевая аллергия
+N72	Reference T53 UMLS:UNKNOWN	перекрестная лекарственная аллергия
+N73	Reference T2 UMLS:CUILESS	астма, хроническая
+N74	Reference T57 UMLS:C0149696	пищевая аллергия
+N75	Reference T77 UMLS:C0013604	отек
+N76	Reference T15 UMLS:C0242793	ремиссия не достигнута
+#1	AnnotatorNotes T49	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||bert: C2361488||synonyms: клетки.терминальная дезоксирибонуклеотидил трансфераза/100 клеток:колдоля:тчкврм:тк:колич:проточная цитометрия||||
+#2	AnnotatorNotes T62	first_annotator_label: C0857342||synonyms: бледный вид||||second_annotator_label: C0598869||synonyms: аксеническая культура|стерильная культура|steril'naia kul'tura|чистая культура|aksenicheskaia kul'tura||||third_annotator_label: None||synonyms: ||||bert: C0598869||synonyms: аксеническая культура|стерильная культура|steril'naia kul'tura|чистая культура|aksenicheskaia kul'tura||||
+#3	AnnotatorNotes T9	first_annotator_label: C1112176||synonyms: синдром вегетативной недостаточности||||second_annotator_label: C0039082||synonyms: синдром|sindrom||||third_annotator_label: C0013364||synonyms: нервной системы вегетативной дисфункция наследственная|nervnoi sistemy vegetativnoi disfunktsiia semeinaia|nervnoi sistemy vegetativnoi disfunktsiia nasledstvennaia|raili-deia sindrom|синдром райли-дея||||bert: C0549384||synonyms: гипотонический гипореактивный эпизод||||
+#4	AnnotatorNotes T73	first_annotator_label: C0282556||synonyms: противоастматические средства|protivoastmaticheskie sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0482582||synonyms: соматотропин^до 250 мкг l-допа трижды в день 2 дня через рот:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T11	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C3494202||synonyms: время до начала лечения|period simptom-lechenie|vremennoi interval do nachala lecheniia|vremia do nachala lecheniia|временной интервал до начала лечения||||third_annotator_label: C0151985||synonyms: обострение ябж|обострение язвы желудка|язва желудка, обострение|язвенная болезнь желудка, обострение||||bert: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||
+#6	AnnotatorNotes T38	first_annotator_label: C0814761||synonyms: замена препарата||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3203506||synonyms: уровень углеводного антигена 125 в норме||||
+#7	AnnotatorNotes T29	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0235874||synonyms: ухудшение состояния|обострение заболевания||||third_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#8	AnnotatorNotes T17	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0086565||synonyms: нарушение функции печени|дисфункция печени, бду|нарушение функции печени, бду|нарушенная функция печени||||third_annotator_label: C0005400||synonyms: желчные протоки|zhelchnye protoki||||bert: C1142316||synonyms: устранение билиарного свища||||
+#9	AnnotatorNotes T25	first_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1112681||synonyms: аллергия на тараканов||||
+#10	AnnotatorNotes T75	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0016976||synonyms: желчный пузырь|zhelchnyi puzyr'||||third_annotator_label: C0876968||synonyms: патологии желчного пузыря, нкдр||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#11	AnnotatorNotes T66	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#12	AnnotatorNotes T10	first_annotator_label: C0036859||synonyms: болезнь, индекс степени тяжести|bolezn', indeks stepeni tiazhesti||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#13	AnnotatorNotes T34	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0425643||synonyms: среднесистолический щелчок||||
+#14	AnnotatorNotes T64	first_annotator_label: C0035234||synonyms: дыхательные шумы|dykhatel'nye shumy|khripy|plevry shum treniia|svistiashchee dykhanie||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#15	AnnotatorNotes T42	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#16	AnnotatorNotes T76	first_annotator_label: C0036859||synonyms: болезнь, индекс степени тяжести|bolezn', indeks stepeni tiazhesti||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0155908||synonyms: абсцесс легкого и средостения||||
+#17	AnnotatorNotes T35	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0941823||synonyms: пролактин^40 минут после 200 мкг трг внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#18	AnnotatorNotes T16	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0852578||synonyms: процедуры визуализации печени и желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#19	AnnotatorNotes T53	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C2316159||synonyms: пищевая аллергия||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||
+#20	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#21	AnnotatorNotes T15	first_annotator_label: C3888824||synonyms: ремиссия не достигнута||||second_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||

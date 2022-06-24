@@ -1,0 +1,118 @@
+T14	Symptom 329 338	высыпания
+T11	Body_location 212 232	поджелудочной железы
+T29	Treatment 1101 1172	купировался ингаляциями беродуала, лазолвана через небулайзер, эуфиллин
+T27	Drug 1054 1067	бепантен крем
+T21	Drug 786 794	лазолван
+T20	Drug 776 784	беродуал
+T22	Symptom 916 925	высыпания
+T47	Body_location 1739 1747	В лёгких
+T3	Course 81 96	период ремиссии
+T56	Disease 1352 1366	конъюнктивитом
+T48	Symptom 1748 1768	дыхание везикулярное
+T4	Disease 98 118	Атопический дерматит
+T38	Disease 1333 1336	ОРИ
+T25	Disease 982 1002	атопический дерматит
+T34	Disease 1279 1294	стеноза гортани
+T42	Body_location 1650 1664	Кожные покровы
+T17	Disease 711 725	ларинготрахеит
+T36	Body_location 1287 1294	гортани
+T30	Drug 1125 1134	беродуала
+T55	Disease 1435 1463	риноконъюнктивальный синдром
+T13	Symptom 312 327	симптомы ринита
+T32	Drug 1164 1172	эуфиллин
+T37	Body_location 1689 1692	Зев
+T7	Course 151 168	период обострения
+T9	Severity 179 189	II степени
+T8	Disease 170 178	Аденоиды
+T18	Treatment 757 811	В терапии супракс, беродуал, лазолван через небулайзер
+T44	Symptom 1673 1687	бледно-розовые
+T33	Disease 1245 1277	острого обструктивного ларингита
+T46	Symptom 1701 1737	Носовое дыхание несколько затруднено
+T6	Disease 130 149	Аллергический ринит
+T35	Severity 1295 1299	2 ст
+T15	Body_location 339 346	на коже
+T16	Symptom 348 377	сухой малопродуктивный кашель
+T28	Symptom 1094 1100	Кашель
+T50	Symptom 1782 1815	Сердечные тоны звучные, ритмичные
+T45	Symptom 1689 1699	Зев рыхлый
+T19	Drug 767 774	супракс
+T53	Symptom 1911 1931	Менингеальных знаков
+T43	Symptom 1665 1671	чистые
+T49	Symptom 1770 1776	хрипов
+T51	Symptom 1868 1875	дизурии
+T31	Drug 1136 1145	лазолвана
+T52	Symptom 1881 1909	Стул регулярный, оформленный
+T24	Symptom 936 965	сухой малопродуктивный кашель
+T26	Treatment 1004 1067	в терапии антигистаминные препараты, местные ГКС, бепантен крем
+T12	Symptom 293 310	заложенность носа
+T57	Treatment 1206 1234	получал терапию в стационаре
+T5	Course 120 128	ремиссия
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T10	Disease 191 232	Реактивные изменения поджелудочной железы
+T23	Body_location 926 933	на коже
+T54	Disease 321 327	ринита
+T2	Severity 48 79	легкое интермиттирующее течение
+T41	Disease 1530 1548	бронхиальная астма
+N1	Reference T14 UMLS:C0302295	высыпание
+N2	Reference T11 UMLS:C0030274	поджелудочная железа
+N3	Reference T29 UMLS:C0021459	ингаляционная терапия
+N4	Reference T27 UMLS:C3494477	крем для кожи
+N5	Reference T21 UMLS:C0002421	амброксол
+N6	Reference T20 UMLS:C0015840	фенотерол
+N7	Reference T22 UMLS:C0302295	высыпание
+N8	Reference T47 UMLS:C0024109	легкие
+N9	Reference T3 UMLS:C0242793	период ремиссии
+N10	Reference T56 UMLS:C0009763	конъюнктивит
+N11	Reference T48 UMLS:C0231855	нормальная аускультативная картина в легких
+N12	Reference T4 UMLS:C0011615	атопический дерматит
+N13	Reference T38 UMLS:C0035243	респираторные инфекции
+N14	Reference T25 UMLS:C0011615	атопический дерматит
+N15	Reference T34 UMLS:C0023075	стеноз гортани
+N16	Reference T42 UMLS:C1123023	кожа
+N17	Reference T17 UMLS:C0023076	ларинготрахеит
+N18	Reference T36 UMLS:C0023078	гортань
+N19	Reference T30 UMLS:C0015840	фенотерол
+N20	Reference T55 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N21	Reference T13 UMLS:C0858250	симптомы острого ринита
+N22	Reference T32 UMLS:C0002575	эуфиллин
+N23	Reference T37 UMLS:C0521367	ротовая полость
+N24	Reference T7 UMLS:CUILESS	обострение боли
+N25	Reference T8 UMLS:C0001428	аденоиды
+N26	Reference T18 UMLS:C0013154	введение лекарств ингаляционное
+N27	Reference T44 UMLS:C4505235	розовые
+N28	Reference T33 UMLS:C0155817	острый ларингофарингит
+N29	Reference T46 UMLS:C0853254	раздражение носовых ходов
+N30	Reference T6 UMLS:C2607914	аллергический ринит
+N31	Reference T15 UMLS:C1123023	кожа
+N32	Reference T16 UMLS:C0850149	сухой кашель
+N33	Reference T28 UMLS:C0010200	кашель
+N34	Reference T50 UMLS:C0018810	сердечный ритм
+N35	Reference T45 UMLS:UNKNOWN	отек глотки или носоглотки
+N36	Reference T19 UMLS:C0060400	цефиксим
+N37	Reference T53 UMLS:C0025287	менингеальные знаки
+N38	Reference T43 UMLS:C0598869	чистая культура
+N39	Reference T49 UMLS:C3887661	хрип
+N40	Reference T51 UMLS:C0013428	дизурия
+N41	Reference T31 UMLS:C0002421	амброксол
+N42	Reference T52 UMLS:CUILESS	мягкий стул
+N43	Reference T24 UMLS:C0850149	сухой кашель
+N44	Reference T26 UMLS:C1535925	антиаллергическая терапия
+N45	Reference T12 UMLS:C0027424	заложенность носа
+N46	Reference T57 UMLS:C0019993	размещение в стационар
+N47	Reference T5 UMLS:C0242793	безрецидивная выживаемость
+N48	Reference T1 UMLS:C0004096	астма бронхиальная
+N49	Reference T10 UMLS:C0030286	заболевания поджелудочной железы
+N50	Reference T23 UMLS:C1123023	кожа
+N51	Reference T54 UMLS:C0035455	ринит
+N52	Reference T2 UMLS:CUILESS	астма, хроническая
+N53	Reference T41 UMLS:C0004096	бронхиальная астма
+#1	AnnotatorNotes T29	first_annotator_label: C0021459||synonyms: ингаляционная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0155930||synonyms: зуба анкилоз|zuba ankiloz|ankiloz dentoal'veoliarnyi|ankiloz zuba|dentoal'veoliarnyi ankiloz||||
+#2	AnnotatorNotes T48	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#3	AnnotatorNotes T37	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#4	AnnotatorNotes T7	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C2607914||synonyms: ринит аллергический|allergicheskii rinit|rinit allergicheskii|аллергический ринит|аллергический риносинусит||||third_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||bert: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||
+#5	AnnotatorNotes T18	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2363790||synonyms: парциальное давление кислорода в альвеолах||||
+#6	AnnotatorNotes T45	first_annotator_label: C0155844||synonyms: отек глотки или носоглотки||||second_annotator_label: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||third_annotator_label: C1328351||synonyms: гипертрофия слизистой оболочки ротовой полости||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#7	AnnotatorNotes T52	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#8	AnnotatorNotes T26	first_annotator_label: C1535925||synonyms: антиаллергическая терапия||||second_annotator_label: C0854602||synonyms: местная антибактериальная терапия||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#9	AnnotatorNotes T57	first_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0011017||synonyms: дневной стационар|dnevnoi statsionar|gospitalizatsiia chastichnaia|gospitalizatsiia na dnevnoe vremia|statsionarnoe lechenie dnevnoe||||bert: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||
+#10	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0544688||synonyms: осложнение заболевания||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||

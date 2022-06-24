@@ -1,0 +1,192 @@
+T17	Treatment 986 1050	максидекс по 1к. 3 р/д 7 дней. Кромогексал по 1к. 3 р/д 3 недели
+T62	Drug 2747 2761	Локобейз рипеа
+T10	Disease 577 604	гипертрофия небных миндалин
+T76	Drug 2271 2277	Ксизал
+T51	Drug 2582 2590	фукорцин
+T66	Treatment 2819 2864	элидел или скин-кап 2 раза в день, длительно.
+T39	Drug 1941 1949	лекролин
+T9	Body_location 482 497	мочевого пузыря
+T70	Symptom 72 145	размер – средний; стенки – норма; форма – правильная; просвет – свободный
+T11	Body_location 589 604	небных миндалин
+T23	Body_location 1485 1500	мочевого пузыря
+T79	Drug 2387 2395	Лекролин
+T78	Drug 2319 2328	Максидекс
+T52	Symptom 2602 2616	места расчесов
+T20	Treatment 1099 1178	аэроионотерапия №10, ПС на область высыпаний №10, жемчужные ванны №10, ПеМП №10
+T31	Drug 1802 1816	Нейромультивит
+T2	Body_location 56 70	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T71	Symptom 168 230	увеличена: размер – 9х6х10 мм; паренхима – эхогенность снижена
+T69	Drug 2908 2914	элоком
+T58	Drug 2721 2726	дюкре
+T61	Treatment 2747 2784	Локобейз рипеа 1 раз в день длительно
+T50	Drug 2563 2580	Метиленовый синий
+T32	Treatment 1881 1958	зиртек, элоком, тридерм, локобейз, беллатаминал, максидекс, лекролин, маример
+T80	Disease 1606 1650	синдром дефицита внимания с гиперактивностью
+T24	Disease 1568 1603	Минимальная церебральная дисфункция
+T49	Treatment 2563 2650	Метиленовый синий (фукорцин) местно на места расчесов и ранок 1 раз в день на 5-7 дней.
+T25	Disease 1652 1662	Парасомнии
+T47	Treatment 2476 2559	беллатаминал по 1/3 т. на ночь (до 2х недель, затем снижение дозы в теч. 1 недели).
+T6	Body_location 344 351	ЖЕЛУДОК
+T77	Drug 2279 2285	зиртек
+T34	Drug 1889 1895	элоком
+T18	Drug 986 995	максидекс
+T19	Drug 1017 1028	Кромогексал
+T75	Symptom 404 430	секрета нет, стенки тонкие
+T15	Disease 722 741	острый ринофарингит
+T28	Treatment 1802 1857	Нейромультивит по ½ т. 2 раза в день после еды 20 дней.
+T59	Drug 2728 2732	авен
+T73	Symptom 269 342	размер – ЛД – 51 мм, 1й сегмент 14 мм; ПД – 85 мм; паренхима – однородная
+T48	Drug 2476 2488	беллатаминал
+T22	Body_location 1477 1482	яичек
+T35	Drug 1897 1904	тридерм
+T46	Symptom 2458 2473	выраженном зуде
+T13	Disease 613 634	Катаральный аденоидит
+T56	Drug 2698 2706	биодерма
+T5	Body_location 261 267	ПЕЧЕНЬ
+T68	Drug 2893 2906	адвантан крем
+T74	Symptom 354 384	секрета нет, стенки нормальные
+T53	Symptom 2619 2624	ранок
+T43	Treatment 2271 2314	Ксизал (зиртек) 10к. 1 раз в день длительно
+T26	Treatment 1679 1712	глицин 2т. 2 раза в день 7 недель
+T72	Symptom 244 259	размер 86х32 мм
+T55	Drug 2691 2696	урьяж
+T42	Treatment 2223 2267	Гипоаллергенная диета, элиминационный режим.
+T33	Drug 1881 1887	зиртек
+T44	Treatment 2319 2382	Максидекс (в каждый глаз) по 1к. 3 раза в день 3 дня продолжить
+T1	Body_location 31 54	органов брюшной полости
+T27	Treatment 1714 1800	Пантогам утро, день до 15.00 по 1 т. – 2 недели; по 2т. – 4 недели, по 1 т. – 1 неделя
+T57	Drug 2708 2719	ла рош позе
+T14	Disease 802 838	острый ринофарингит (реконвалесцент)
+T7	Body_location 386 403	12-ПЕРСТНАЯ КИШКА
+T16	Disease 941 970	аллергический конъюнктивит OU
+T45	Treatment 2387 2450	Лекролин (в каждый глаз) по 1к. 3 раза в день 3 дня продолжить.
+T21	Disease 1222 1242	атопический дерматит
+T65	Drug 2830 2838	скин-кап
+T36	Drug 1906 1914	локобейз
+T3	Body_location 147 167	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T67	Treatment 2893 2935	адвантан крем (элоком) 1 раз в день 7 дней
+T38	Drug 1930 1939	максидекс
+T8	Body_location 474 479	почек
+T37	Drug 1916 1928	беллатаминал
+T12	Severity 605 612	2-3 ст.
+T54	Treatment 2666 2742	средства ухода за кожей (урьяж, биодерма, ла рош позе, дюкре, авен, мустела)
+T40	Drug 1951 1958	маример
+T4	Body_location 233 242	СЕЛЕЗЕНКА
+T63	Symptom 2793 2816	минимальных проявлениях
+T41	Treatment 1990 2069	аэроионотерапия №10, ПС на область высыпаний №10, жемчужные ванны №10, ПеМП №10
+T30	Drug 1714 1722	Пантогам
+T64	Drug 2819 2825	элидел
+T60	Drug 2734 2741	мустела
+T29	Drug 1679 1685	глицин
+N1	Reference T17 UMLS:UNKNOWN	лекарств инстилляция
+N2	Reference T62 UMLS:CUILESS	лобо болезнь
+N3	Reference T10 UMLS:C0272386	гипертрофия миндалин
+N4	Reference T76 UMLS:C0055147	цетиризин
+N5	Reference T51 UMLS:C0085161	флероксацин
+N6	Reference T66 UMLS:C1268939	дневные учреждения для пожилых
+N7	Reference T39 UMLS:C1504374	антигистаминная терапия
+N8	Reference T9 UMLS:C0005682	мочевой пузырь
+N9	Reference T70 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N10	Reference T11 UMLS:C0040421	миндалины небные
+N11	Reference T23 UMLS:C0005682	мочевой пузырь
+N12	Reference T79 UMLS:C1504374	антигистаминная терапия
+N13	Reference T78 UMLS:C0011777	дексаметазон
+N14	Reference T52 UMLS:CUILESS	клетки места
+N15	Reference T20 UMLS:C0013154	аэроионизация
+N16	Reference T31 UMLS:C0042890	витамины
+N17	Reference T2 UMLS:C0016976	желчный пузырь
+N18	Reference T71 UMLS:CUILESS	увеличение поджелудочной железы
+N19	Reference T69 UMLS:C0066700	мометазона фуроат
+N20	Reference T58 UMLS:CUILESS	dekkera
+N21	Reference T61 UMLS:C0013154	туберкулёз реакция папула^1 день после дозы млекопитающих туберкулина внутрикожно:диам:тчкврм:кожа:колич
+N22	Reference T50 UMLS:C0025746	метиленовый синий
+N23	Reference T32 UMLS:UNKNOWN	противоаллергические средства
+N24	Reference T80 UMLS:C1263846	гиперактивности синдром с дефицитом внимания
+N25	Reference T24 UMLS:C1321905	минимальная мозговая дисфункция
+N26	Reference T49 UMLS:C0862462	уротелиальная карцинома устья мочеточника, местно-распространенная
+N27	Reference T25 UMLS:C0030508	парасомнии
+N28	Reference T47 UMLS:C0013154	беременность четверней с фетальной гибелью и сохранением одного или более плода(-ов)
+N29	Reference T6 UMLS:C0038351	желудок
+N30	Reference T77 UMLS:C0055147	цетиризин
+N31	Reference T34 UMLS:C0066700	мометазона фуроат
+N32	Reference T18 UMLS:C0011777	дексаметазон
+N33	Reference T19 UMLS:C0282555	десенсибилизирующие средства
+N34	Reference T75 UMLS:C0085122	рабочая нагрузка
+N35	Reference T15 UMLS:C0027441	ларингофарингит
+N36	Reference T28 UMLS:C0856055	применение мультивитаминных препаратов
+N37	Reference T59 UMLS:CUILESS	apnoe
+N38	Reference T73 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N39	Reference T48 UMLS:C0020592	буталамин
+N40	Reference T22 UMLS:C0039597	яички
+N41	Reference T35 UMLS:C3494477	крем для кожи
+N42	Reference T46 UMLS:C0033774	зуд
+N43	Reference T13 UMLS:C0001427	аденоидит
+N44	Reference T56 UMLS:CUILESS	эктодерма
+N45	Reference T5 UMLS:C0023884	печень
+N46	Reference T68 UMLS:C0017710	глюкокортикоиды
+N47	Reference T74 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N48	Reference T53 UMLS:C0254119	avoneks
+N49	Reference T43 UMLS:C1535925	антигистаминные h1 средства
+N50	Reference T26 UMLS:C0013154	ноотропные средства
+N51	Reference T72 UMLS:CUILESS	ультразвуковое исследование селезенки
+N52	Reference T55 UMLS:CUILESS	урахус
+N53	Reference T42 UMLS:C0425402	медицинская диета
+N54	Reference T33 UMLS:C0055147	цетиризин
+N55	Reference T44 UMLS:C0013154	инстилляция глазных капель
+N56	Reference T1 UMLS:C0230168	брюшная полость
+N57	Reference T27 UMLS:C0013154	ноотропные средства
+N58	Reference T57 UMLS:CUILESS	ла кросс вирус
+N59	Reference T14 UMLS:C0027441	острый ларингофарингит
+N60	Reference T7 UMLS:C0013303	двенадцатиперстная кишка
+N61	Reference T16 UMLS:C0009766	аллергический конъюнктивит
+N62	Reference T45 UMLS:C1504374	антигистаминная терапия
+N63	Reference T21 UMLS:C0011615	атопический дерматит
+N64	Reference T65 UMLS:C3494477	крем для кожи
+N65	Reference T36 UMLS:C3494477	крем для кожи
+N66	Reference T3 UMLS:C0030274	поджелудочная железа
+N67	Reference T67 UMLS:C0744425	терапия глюкокортикостероидами
+N68	Reference T38 UMLS:C0011777	дексаметазон
+N69	Reference T8 UMLS:C0022646	почки
+N70	Reference T37 UMLS:C0020592	барбитураты седативные
+N71	Reference T54 UMLS:C0860368	терапия с внешним пучком для лечения кожи
+N72	Reference T40 UMLS:C0036499	вода морская
+N73	Reference T4 UMLS:C0037993	селезенка
+N74	Reference T63 UMLS:C0027721	болезнь минимальных изменений
+N75	Reference T41 UMLS:C0013154	терапия аэроанионами
+N76	Reference T30 UMLS:C0242913	ноотропные средства
+N77	Reference T64 UMLS:C3494477	крем для кожи
+N78	Reference T60 UMLS:CUILESS	maackia
+N79	Reference T29 UMLS:C0017890	глицин
+#1	AnnotatorNotes T17	first_annotator_label: C0021616||synonyms: лекарств инстилляция|lekarstv instilliatsiia|instilliatsiia lekarstv|инстилляция лекарств||||second_annotator_label: C2706774||synonyms: кортизол^3 дня после дозы дексаметазона:молконц:тчкврм:сыв/плаз:колич||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2706774||synonyms: кортизол^3 дня после дозы дексаметазона:молконц:тчкврм:сыв/плаз:колич||||
+#2	AnnotatorNotes T62	first_annotator_label: C0152066||synonyms: лобомикоз|dzhordzha lobo bolezn'|lobo bolezn'|lobomikoz|джорджа лобо болезнь||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0152066||synonyms: лобомикоз|dzhordzha lobo bolezn'|lobo bolezn'|lobomikoz|джорджа лобо болезнь||||
+#3	AnnotatorNotes T39	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||bert: C0023413||synonyms: лейковорин|folinovaia kislota|leikovorin|n(5)-formiltetragidrofolat|tsitrovorum faktor||||
+#4	AnnotatorNotes T79	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||bert: C0023413||synonyms: лейковорин|folinovaia kislota|leikovorin|n(5)-formiltetragidrofolat|tsitrovorum faktor||||
+#5	AnnotatorNotes T52	first_annotator_label: C4277646||synonyms: клетки места|kletki mesta|гиппокампальные клетки места|gippokampal'nye kletki mesta||||second_annotator_label: C0033774||synonyms: зуд|zud|зудящий|зуд бду|неуточненное нарушение, связанное с зудом||||third_annotator_label: C0564444||synonyms: рана кожи||||bert: C4277646||synonyms: клетки места|kletki mesta|гиппокампальные клетки места|gippokampal'nye kletki mesta||||
+#6	AnnotatorNotes T20	first_annotator_label: C0001866||synonyms: воздуха ионизация|vozdukha ionizatsiia|aeroionizatsiia|аэроионизация||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0949766||synonyms: fizioterapiia|физиотерапия|терапия физическими факторами|fizioterapii metody|физиотерапевтические способы воздействия||||bert: C0489024||synonyms: жидкость поступление.назогастральная трубка:обск:10 часов:верхний жк тракт:колич||||
+#7	AnnotatorNotes T71	first_annotator_label: C1096352||synonyms: увеличение поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4704700||synonyms: отрицательные результаты|otritsatel'nye rezul'taty||||bert: C0482751||synonyms: плазминоген активатор тканевый тип^10 минут после венозного стаза:массконц:тчкврм:опп:колич:хромо||||
+#8	AnnotatorNotes T58	first_annotator_label: C0997408||synonyms: dekkera||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0997408||synonyms: dekkera||||
+#9	AnnotatorNotes T61	first_annotator_label: C1148245||synonyms: туберкулёз реакция папула^1 день после дозы млекопитающих туберкулина внутрикожно:диам:тчкврм:кожа:колич||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1148245||synonyms: туберкулёз реакция папула^1 день после дозы млекопитающих туберкулина внутрикожно:диам:тчкврм:кожа:колич||||
+#10	AnnotatorNotes T32	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0364073||synonyms: бета галактозидаза:каталконц:тчкврм:эритроциты:колич||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0364073||synonyms: бета галактозидаза:каталконц:тчкврм:эритроциты:колич||||
+#11	AnnotatorNotes T47	first_annotator_label: C0156909||synonyms: беременность четверней с фетальной гибелью и сохранением одного или более плода(-ов)||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C0156909||synonyms: беременность четверней с фетальной гибелью и сохранением одного или более плода(-ов)||||
+#12	AnnotatorNotes T15	first_annotator_label: C0023070||synonyms: ларингофарингит, бду|ларингофарингит||||second_annotator_label: C1112383||synonyms: риноларингит||||third_annotator_label: C0027441||synonyms: назофарингит|nazofaringit|ринофарингит||||bert: C0155817||synonyms: острый ларингофарингит||||
+#13	AnnotatorNotes T28	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1544350||synonyms: лютропин^20 минут после дозы тройной болюс:произвконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T59	first_annotator_label: C0003578||synonyms: апноэ|apnoe|отсутствие дыхания||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0003578||synonyms: апноэ|apnoe|отсутствие дыхания||||
+#15	AnnotatorNotes T73	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0881522||synonyms: парагрипп вирус 1 ат^1-й образец:титр:тчкврм:сыв:колич:компл фикс||||
+#16	AnnotatorNotes T48	first_annotator_label: C0029984||synonyms: оксадиазолы|oksadiazoly|butalamin|буталамин||||second_annotator_label: C0344106||synonyms: седативная терапия|процедура седации||||third_annotator_label: C0020592||synonyms: снотворные и седативные средства|snotvornye i sedativnye sredstva|snotvornye sredstva nebarbiturovye|barbituraty sedativnye|gipnoticheskie i sedativnye sredstva||||bert: C0029984||synonyms: оксадиазолы|oksadiazoly|butalamin|буталамин||||
+#17	AnnotatorNotes T56	first_annotator_label: C0013574||synonyms: эктодерма|ektoderma||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0013574||synonyms: эктодерма|ektoderma||||
+#18	AnnotatorNotes T68	first_annotator_label: C0017710||synonyms: глюкокортикоиды|gliukokortikoidy||||second_annotator_label: C0066700||synonyms: мометазона фуроат|asmaneks|асманекс|асманекс твистхейлер|asmaneks tvistkheiler||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C1142339||synonyms: аденома кишечника||||
+#19	AnnotatorNotes T74	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#20	AnnotatorNotes T43	first_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#21	AnnotatorNotes T26	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0914912||synonyms: рецептор брадикинина b2|брадикинина b2 рецептор|брадикинина типа 2 рецептор|retseptor bradikinina b2|bradikinina b2 retseptor||||
+#22	AnnotatorNotes T72	first_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||bert: C0032602||synonyms: полисорбаты|polisorbaty|polisorbat 20|polisorbat 80|sorbitana proizvodnye||||
+#23	AnnotatorNotes T55	first_annotator_label: C0041916||synonyms: урахус|urakhus|mochevoi khod|мочевой ход||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0041916||synonyms: урахус|urakhus|mochevoi khod|мочевой ход||||
+#24	AnnotatorNotes T42	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0012161||synonyms: диета атерогенная|dieta aterogennaia||||
+#25	AnnotatorNotes T44	first_annotator_label: C4727872||synonyms: инстилляция глазных капель||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C3178951||synonyms: введение лекарств в глаза|vvedenie lekarstv v glaza|глазное введение лекарств|лекарств введение глазное|lekarstv vvedenie glaznoe||||bert: C0482512||synonyms: кортизол^до 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#26	AnnotatorNotes T27	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1978287||synonyms: кортикотропин^до 1 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#27	AnnotatorNotes T57	first_annotator_label: C0022858||synonyms: ла кросс вирус|la kross virus||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0022858||synonyms: ла кросс вирус|la kross virus||||
+#28	AnnotatorNotes T14	first_annotator_label: C0155817||synonyms: острый ларингофарингит||||second_annotator_label: C0031350||synonyms: фарингит|faringit|воспаление глотки|фарингит, бду||||third_annotator_label: C0027441||synonyms: назофарингит|nazofaringit|ринофарингит||||bert: C0155817||synonyms: острый ларингофарингит||||
+#29	AnnotatorNotes T45	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C3178951||synonyms: введение лекарств в глаза|vvedenie lekarstv v glaza|глазное введение лекарств|лекарств введение глазное|lekarstv vvedenie glaznoe||||bert: C2926337||synonyms: кортикотропин^3 часа после дозы глюкагона:молконц:тчкврм:плаз:колич||||
+#30	AnnotatorNotes T67	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1716143||synonyms: алкогольные напитки в неделю:колскор:1 неделя:^пациент:колич:сообщенный||||
+#31	AnnotatorNotes T37	first_annotator_label: C0020592||synonyms: снотворные и седативные средства|snotvornye i sedativnye sredstva|snotvornye sredstva nebarbiturovye|barbituraty sedativnye|gipnoticheskie i sedativnye sredstva||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0029984||synonyms: оксадиазолы|oksadiazoly|butalamin|буталамин||||
+#32	AnnotatorNotes T41	first_annotator_label: C5243760||synonyms: терапия аэроанионами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0949766||synonyms: fizioterapiia|физиотерапия|терапия физическими факторами|fizioterapii metody|физиотерапевтические способы воздействия||||bert: C0489024||synonyms: жидкость поступление.назогастральная трубка:обск:10 часов:верхний жк тракт:колич||||
+#33	AnnotatorNotes T60	first_annotator_label: C0950062||synonyms: maackia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0950062||synonyms: maackia||||

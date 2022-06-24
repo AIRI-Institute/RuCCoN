@@ -1,0 +1,137 @@
+T15	Disease 950 960	аденоидиты
+T50	Symptom 2437 2462	Носовое дыхание свободное
+T39	Disease 2057 2060	ОРИ
+T24	Treatment 1286 1311	антигистаминные препараты
+T4	Disease 129 157	риноконъюнктивальный синдром
+T44	Disease 2298 2316	бронхиальная астма
+T52	Symptom 2488 2508	дыхание везикулярное
+T29	Course 1585 1593	ремиссия
+T37	Treatment 1896 1927	получал антигистамнный препарат
+T49	Symptom 2428 2435	спокоен
+T33	Disease 1674 1693	Аллергический ринит
+T63	Disease 90 98	Поллиноз
+T20	Drug 1098 1111	бронхолитином
+T60	Symptom 2571 2585	безболезненный
+T18	Symptom 1063 1083	эпизоды сухого кашля
+T28	Severity 1552 1583	лёгкое интермиттирующее течение
+T17	Disease 1048 1051	ОРИ
+T47	Symptom 2416 2422	чистые
+T40	Symptom 2063 2086	малопродуктивным кашлем
+T46	Body_location 2401 2415	Кожные покровы
+T48	Body_location 2424 2427	Зев
+T31	Disease 1634 1662	риноконъюнктивальный синдром
+T41	Treatment 2112 2147	применении симптоматической терапии
+T45	Disease 2332 2351	аллергический ринит
+T9	Symptom 457 474	угрозы прерывания
+T19	Treatment 1098 1122	бронхолитином, аскорилом
+T55	Body_location 2557 2562	Живот
+T65	Disease 1859 1865	ринита
+T62	Treatment 350 370	третьего курса АСИТ.
+T64	Disease 100 127	сезонная бронхиальная астма
+T13	Disease 904 907	ОРИ
+T53	Body_location 2479 2487	В лёгких
+T34	Treatment 1696 1786	Проведено два курса АСИТ с пыльцевыми аллергенами деревьев сублингвальным методом введения
+T57	Symptom 2617 2623	Диурез
+T27	Disease 1513 1550	Бронхиальная астма, атопическая форма
+T11	Body_location 794 798	кожа
+T30	Disease 1605 1632	сезонная бронхиальная астма
+T59	Symptom 2563 2569	мягкий
+T66	Drug 1723 1754	пыльцевыми аллергенами деревьев
+T8	Disease 444 454	нефропатии
+T3	Course 79 87	ремиссия
+T14	Symptom 910 933	малопродуктивным кашлем
+T23	Symptom 1246 1276	риноконъюнктивального синдрома
+T51	Symptom 2464 2473	выделений
+T32	Course 1664 1672	ремиссия
+T43	Disease 2264 2282	бронхиальная астма
+T5	Course 159 167	ремиссия
+T38	Drug 1904 1927	антигистамнный препарат
+T26	Symptom 1412 1435	бронхиальной обструкции
+T54	Symptom 2510 2516	хрипов
+T61	Symptom 2522 2555	Сердечные тоны громкие, ритмичные
+T2	Severity 48 77	легкое персистирующее течение
+T6	Disease 169 204	Аллергический ринит, персистирующий
+T10	Disease 708 724	пищевой аллергии
+T7	Disease 206 244	Хронический компенсированный тонзиллит
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T12	Disease 828 852	инфекционный мононуклеоз
+T16	Disease 978 1000	двустороннюю пневмонию
+T22	Treatment 1124 1161	Получал курсами ингаляционные кромоны
+T25	Treatment 1313 1328	местные кромоны
+T35	Disease 1817 1826	поллиноза
+T42	Symptom 2159 2178	затруднения дыхания
+T56	Symptom 2587 2591	Стул
+T21	Drug 1113 1122	аскорилом
+T58	Symptom 2636 2656	Менингеальных знаков
+N1	Reference T15 UMLS:C0001427	аденоидит
+N2	Reference T50 UMLS:C0035203	дыхание
+N3	Reference T39 UMLS:C0035243	респираторные инфекции
+N4	Reference T24 UMLS:C1504374	антигистаминная терапия
+N5	Reference T4 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N6	Reference T44 UMLS:C0004096	бронхиальная астма
+N7	Reference T52 UMLS:UNKNOWN	жесткое дыхание при аускультации легких
+N8	Reference T29 UMLS:C0035053	ремиссия спонтанная
+N9	Reference T37 UMLS:C1504374	антигистаминная терапия
+N10	Reference T49 UMLS:CUILESS	норма рабочая
+N11	Reference T33 UMLS:C2607914	аллергический ринит
+N12	Reference T63 UMLS:C0018621	поллиноз
+N13	Reference T20 UMLS:C0221367	бронхолитиаз
+N14	Reference T60 UMLS:C0857027	болезненность
+N15	Reference T18 UMLS:C0850149	сухой кашель
+N16	Reference T28 UMLS:CUILESS	степень ухудшения бду
+N17	Reference T17 UMLS:C0035243	респираторные инфекции
+N18	Reference T47 UMLS:C0598869	чистая культура
+N19	Reference T40 UMLS:C0850149	кашель, непродуктивный
+N20	Reference T46 UMLS:C1123023	кожа
+N21	Reference T48 UMLS:C0521367	ротоглотка
+N22	Reference T31 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N23	Reference T41 UMLS:C5243901	симптоматическое лечение
+N24	Reference T45 UMLS:C2607914	аллергический ринит
+N25	Reference T9 UMLS:C0000821	угроза выкидыша
+N26	Reference T19 UMLS:C3854610	баллонная бронхопластика
+N27	Reference T55 UMLS:C0000726	живот
+N28	Reference T65 UMLS:C0035455	ринит
+N29	Reference T62 UMLS:C0021083	иммуностимулирующая терапия
+N30	Reference T64 UMLS:C2919352	сезонная астма
+N31	Reference T13 UMLS:C0035243	респираторные инфекции
+N32	Reference T53 UMLS:C0024109	легкие
+N33	Reference T34 UMLS:C3658366	сублингвальная иммунотерапия
+N34	Reference T57 UMLS:C1287298	диурез
+N35	Reference T27 UMLS:C0004096	астма бронхиальная
+N36	Reference T11 UMLS:C1123023	кожа
+N37	Reference T30 UMLS:C2919352	сезонная астма
+N38	Reference T59 UMLS:C0026390	мягкокожие
+N39	Reference T66 UMLS:C1567994	аллергены растительные
+N40	Reference T8 UMLS:C0022658	нефропатии
+N41	Reference T3 UMLS:C0035053	ремиссия спонтанная
+N42	Reference T14 UMLS:C0850149	кашель, непродуктивный
+N43	Reference T23 UMLS:C5208240	ринобронхиальный синдром
+N44	Reference T51 UMLS:C2926602	выделения
+N45	Reference T32 UMLS:C0035053	ремиссия спонтанная
+N46	Reference T43 UMLS:C0004096	бронхиальная астма
+N47	Reference T5 UMLS:C0035053	ремиссия спонтанная
+N48	Reference T38 UMLS:C1504374	антигистаминная терапия
+N49	Reference T26 UMLS:C0221725	бронхиальная обструкция
+N50	Reference T54 UMLS:C3887661	хрип
+N51	Reference T61 UMLS:C0018810	сердечный ритм
+N52	Reference T2 UMLS:CUILESS	астма, хроническая
+N53	Reference T6 UMLS:C2607914	аллергический ринит
+N54	Reference T10 UMLS:C0149696	пищевая аллергия
+N55	Reference T7 UMLS:C0149517	хронический тонзиллит
+N56	Reference T1 UMLS:C0004096	астма бронхиальная
+N57	Reference T12 UMLS:C0021345	инфекционный мононуклеоз
+N58	Reference T16 UMLS:C1142578	двусторонняя пневмония
+N59	Reference T22 UMLS:C0038495	студенты лечебных факультетов
+N60	Reference T25 UMLS:C0154270	местное ожирение
+N61	Reference T35 UMLS:C0018621	поллиноз
+N62	Reference T42 UMLS:C0553668	затруднение дыхания
+N63	Reference T56 UMLS:C0232720	светлый стул
+N64	Reference T21 UMLS:CUILESS	отхаркивающие средства
+N65	Reference T58 UMLS:C0025287	менингеальные знаки
+#1	AnnotatorNotes T52	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#2	AnnotatorNotes T49	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: None||synonyms: ||||bert: C0038071||synonyms: сквален|skvalen||||
+#3	AnnotatorNotes T28	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||
+#4	AnnotatorNotes T62	first_annotator_label: C1535924||synonyms: иммуностимулирующая терапия||||second_annotator_label: C1510538||synonyms: дистанционное консультирование|distantsionnoe konsul'tirovanie|internet-konsul'tirovanie|e-консультирование|e-konsul'tirovanie||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C0028771||synonyms: акушерские щипцы|akusherskie shchiptsy||||
+#5	AnnotatorNotes T34	first_annotator_label: C3658366||synonyms: сублингвальная иммунотерапия|immunoterapiia pod"iazychnaia|иммунотерапия подъязычная|sublingval'naia immunoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0079612||synonyms: иммунотерапия активная|immunoterapiia aktivnaia|vaktsinoterapiia|вакцинотерапия||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#6	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#7	AnnotatorNotes T21	first_annotator_label: C0015314||synonyms: отхаркивающие средства|otkharkivaiushchie sredstva|mukoliticheskie sredstva|муколитические средства|mukoreguliatornye sredstva||||second_annotator_label: C0001927||synonyms: сальбутамол|sal'butamol|al'buterol|альбутерол||||third_annotator_label: C0001076||synonyms: acholeplasma|akholeplazmy|ахолеплазмы||||bert: C0001076||synonyms: acholeplasma|akholeplazmy|ахолеплазмы||||

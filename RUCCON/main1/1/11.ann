@@ -1,0 +1,212 @@
+T43	Body_location 1458 1466	аденоиды
+T34	Treatment 1084 1196	Физиомер 2-3 раза в день; 2) В левый слуховой проход теплое вазелиновое масло по 3-4 капли 2 раза в день. 5 дней
+T40	Body_location 1348 1368	аденоидных вегетаций
+T93	Body_location 3007 3013	Сердце
+T28	Body_location 778 785	клапаны
+T70	Body_location 2981 2992	Средостение
+T71	Treatment 3700 3932	проведение курсов: 1) галотерапии; 2) энтеральной оксигенации; 3) лазеротерапии околоносовых пазух, области миндалин, эндоназально; 4) ЭПС-массажа ладоней, стоп; 5) жемчужных ванн с хвойным экстрактом; 6) санаторно-курортное лечение
+T36	Body_location 1113 1136	В левый слуховой проход
+T88	Drug 4626 4636	пульмикорт
+T6	Symptom 152 171	просвет - свободный
+T22	Symptom 512 520	изменены
+T23	Body_location 686 692	сердца
+T7	Body_location 173 193	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T83	Drug 4500 4507	саламол
+T85	Disease 4583 4586	ОРИ
+T4	Symptom 102 116	стенки – норма
+T48	Disease 1600 1621	невротические реакции
+T18	Symptom 533 563	секрета нет, стенки нормальные
+T58	Symptom 2376 2413	изменение эластических свойств легких
+T60	Body_location 2558 2590	периферических дыхательных путей
+T13	Body_location 366 372	ПЕЧЕНЬ
+T41	Body_location 1382 1387	хоаны
+T30	Symptom 768 776	интактны
+T25	Body_location 736 742	стенки
+T86	Treatment 4587 4670	через небулайзер: беродуал 12 капель + пульмикорт 250 мкг 2 раза в день на 5-7 дней
+T52	Drug 1699 1713	Нейромультивит
+T33	Symptom 874 877	ВПС
+T90	Drug 4733 4742	лазолвана
+T66	Symptom 3105 3121	Синусы воздушные
+T61	Body_location 2342 2374	периферических дыхательных путей
+T26	Symptom 746 754	утолщены
+T65	Body_location 2704 2726	органов грудной клетки
+T10	Symptom 271 330	размер 77х37 мм; паренхима: однородная, средней эхогенности
+T3	Symptom 73 100	размер – несколько увеличен
+T5	Symptom 118 150	форма – лабильный перегиб в теле
+T27	Body_location 756 767	перегородки
+T12	Symptom 355 364	расширена
+T49	Treatment 1641 1694	Капли Зеленина - по 4-6 капель 3 раза в день, 30 дней
+T67	Symptom 3063 3103	Купола диафрагмы ровные, на VI-VII ребре
+T29	Body_location 795 809	крупные сосуды
+T73	Disease 4014 4021	аритмия
+T78	Drug 4343 4353	Пульмикорт
+T35	Drug 1084 1092	Физиомер
+T2	Body_location 57 71	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T79	Symptom 4422 4437	приступах кашля
+T20	Symptom 583 613	секрета нет, стенки нормальные
+T17	Body_location 523 530	ЖЕЛУДОК
+T39	Body_location 1318 1328	носоглотке
+T21	Body_location 492 507	Печеночные вены
+T24	Symptom 707 721	полости сердца
+T64	Symptom 2649 2683	Проба с вентолином – отрицательная
+T8	Symptom 194 258	нормальная: размер – 12х8х10 мм; паренхима – эхогенность средняя
+T72	Disease 3990 4001	брадикардия
+T47	Severity 1543 1552	I степени
+T55	Disease 1957 1968	Токсокароз?
+T11	Body_location 333 350	селезеночная вена
+T91	Treatment 4714 4801	добавить ингаляции лазолвана в растворе 1 мл 2 раза в день (не позднее 18.00) на 5 дней
+T16	Symptom 484 490	5,5 мм
+T44	Body_location 1445 1457	полость носа
+T57	Symptom 2292 2374	Имеются начальные признаки нарушения проходимости периферических дыхательных путей
+T37	Drug 1144 1161	вазелиновое масло
+T84	Treatment 4461 4555	использовать вентолин (сальбутамол или саламол) по 2 ингаляции через спейсер до 3-х раз в день
+T46	Disease 1521 1542	гипертрофия аденоидов
+T75	Drug 4093 4103	пульмикорт
+T38	Body_location 1253 1263	носоглотки
+T9	Body_location 260 269	СЕЛЕЗЕНКА
+T59	Symptom 2506 2590	исходно – начальные признаки нарушения проходимости периферических дыхательных путей
+T14	Symptom 374 467	размер – ЛД – 47 мм, 1й сегмент 15 мм; ПД –95 мм; паренхима – однородная, средней эхогенности
+T50	Treatment 1699 1854	Нейромультивит – по ½  таблетки 2 раза в день, 30 дней; 3) Глицин – по 2 таблетки 2 раза в день под язык до еды, 30 дней; 4) исключить просмотр телевизора.
+T51	Drug 1641 1655	Капли Зеленина
+T68	Symptom 3014 3032	расположено обычно
+T31	Symptom 813 821	изменены
+T82	Drug 4484 4495	сальбутамол
+T77	Treatment 4343 4413	Пульмикорт через небулайзер 125 мкг по 1 инг. 2 раза в день продолжить
+T1	Body_location 31 54	органов брюшной полости
+T54	Disease 1933 1955	Дисбактериоз кишечника
+T87	Drug 4605 4613	беродуал
+T19	Body_location 565 582	12-ПЕРСТНАЯ КИШКА
+T56	Treatment 1986 2071	Диета №5, с исключением жирного, жареного, острого, копченого, маринованных продуктов
+T92	Disease 1497 1507	воспаления
+T89	Symptom 4690 4713	малопродуктивного кашля
+T53	Drug 1758 1764	Глицин
+T15	Body_location 469 482	воротная вена
+T69	Symptom 3034 3061	форма и размеры не изменены
+T76	Treatment 4295 4338	Гипоаллергенная диета, элиминационный режим
+T32	Symptom 823 862	функциональные параметры сердца в норме
+T81	Drug 4474 4482	вентолин
+T63	Drug 2657 2667	вентолином
+T74	Treatment 4084 4142	лечение: пульмикорт 125 мкг через небулайзер 2 раза в день
+T62	Body_location 2407 2413	легких
+T80	Symptom 4439 4460	затрудненного дыхания
+T42	Body_location 1396 1425	глоточные устья слуховых труб
+N1	Reference T43 UMLS:C0001428	аденоиды
+N2	Reference T34 UMLS:C0013154	самостоятельное введение препарата
+N3	Reference T40 UMLS:C0155833	аденоидные вегетации
+N4	Reference T93 UMLS:C0018787	сердце
+N5	Reference T28 UMLS:C0018826	сердца клапаны
+N6	Reference T70 UMLS:C0025066	средостение
+N7	Reference T71 UMLS:C0013154	лазерная терапия
+N8	Reference T36 UMLS:C0013444	слуховой проход наружный
+N9	Reference T88 UMLS:C0054201	будезонид
+N10	Reference T6 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N11	Reference T22 UMLS:C0242863	absent
+N12	Reference T23 UMLS:C0018787	сердце
+N13	Reference T7 UMLS:C0030274	поджелудочная железа
+N14	Reference T83 UMLS:C0001927	сальбутамол
+N15	Reference T85 UMLS:C0035243	респираторные инфекции
+N16	Reference T4 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N17	Reference T48 UMLS:C0235172	невротическая реакция
+N18	Reference T18 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N19	Reference T58 UMLS:CUILESS	острое поражение легкого
+N20	Reference T60 UMLS:CUILESS	дыхательные пути, поток воздуха
+N21	Reference T13 UMLS:C0023884	печень
+N22	Reference T41 UMLS:C0027423	придаточные полости носа
+N23	Reference T30 UMLS:CUILESS	норма рабочая
+N24	Reference T25 UMLS:CUILESS	миокард
+N25	Reference T86 UMLS:C0880931	туберкулёз реакция папула^2 дня после дозы туберкулина млекопитающих внутрикожно:диам:тчкврм:кожа:колич
+N26	Reference T52 UMLS:C0042890	витамины
+N27	Reference T33 UMLS:C0152021	врожденный порок сердца
+N28	Reference T90 UMLS:C0002421	амброксол
+N29	Reference T66 UMLS:CUILESS	грудной клетки полость
+N30	Reference T61 UMLS:CUILESS	дыхательные пути, поток воздуха
+N31	Reference T26 UMLS:CUILESS	веса тела увеличение
+N32	Reference T65 UMLS:C0817096	грудная клетка
+N33	Reference T10 UMLS:C2181189	ультразвуковое исследование селезенки
+N34	Reference T3 UMLS:C1450569	органа размер
+N35	Reference T5 UMLS:C1397947	перегиб желчного пузыря
+N36	Reference T27 UMLS:C0018819	сердечная перегородка
+N37	Reference T12 UMLS:C0038257	расширители
+N38	Reference T49 UMLS:C0013154	спазмолитики
+N39	Reference T67 UMLS:C0011980	диафрагма
+N40	Reference T29 UMLS:C0042367	сосуды сосудов
+N41	Reference T73 UMLS:C0003811	аритмия
+N42	Reference T78 UMLS:C0054201	будезонид
+N43	Reference T35 UMLS:C0036499	вода морская
+N44	Reference T2 UMLS:C0016976	желчный пузырь
+N45	Reference T79 UMLS:C0742857	острый кашель
+N46	Reference T20 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N47	Reference T17 UMLS:C0038351	желудок
+N48	Reference T39 UMLS:C0027442	носоглотка
+N49	Reference T21 UMLS:C0019155	печеночные вены
+N50	Reference T24 UMLS:C0018787	сердце
+N51	Reference T64 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N52	Reference T8 UMLS:C4285854	результаты ультразвукового исследования поджелудочной железы в норме
+N53	Reference T72 UMLS:C0428977	брадикардия
+N54	Reference T55 UMLS:C0040553	токсокароз
+N55	Reference T11 UMLS:C0038001	селезеночная вена
+N56	Reference T91 UMLS:C0013154	введение лекарств ингаляционное
+N57	Reference T16 UMLS:CUILESS	результаты исследования сосудов в норме
+N58	Reference T44 UMLS:C0027423	носовая полость
+N59	Reference T57 UMLS:C0001883	дыхательных путей обструкция
+N60	Reference T37 UMLS:C0026156	вазелиновое масло
+N61	Reference T84 UMLS:C0013154	введение лекарств ингаляционное
+N62	Reference T46 UMLS:C0149825	гипертрофия исключительно аденоидов
+N63	Reference T75 UMLS:C0054201	будезонид
+N64	Reference T38 UMLS:C0027442	носоглотка
+N65	Reference T9 UMLS:C0037993	селезенка
+N66	Reference T59 UMLS:C0001883	дыхательных путей обструкция
+N67	Reference T14 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N68	Reference T50 UMLS:C0013154	применение мультивитаминных препаратов
+N69	Reference T51 UMLS:C0030511	спазмолитики
+N70	Reference T68 UMLS:CUILESS	нормальные результаты рентгенографии органов грудной клетки
+N71	Reference T31 UMLS:C0242863	absent
+N72	Reference T82 UMLS:C0001927	сальбутамол
+N73	Reference T77 UMLS:C0013154	введение лекарств ингаляционное
+N74	Reference T1 UMLS:C0230168	брюшная полость
+N75	Reference T54 UMLS:C4287543	дисбиоз кишечника
+N76	Reference T87 UMLS:C0015840	фенотерол
+N77	Reference T19 UMLS:C0013303	двенадцатиперстная кишка
+N78	Reference T56 UMLS:C0242970	диета с ограничением жиров
+N79	Reference T92 UMLS:C0021368	воспаления
+N80	Reference T89 UMLS:C0850149	кашель, непродуктивный
+N81	Reference T53 UMLS:C0017890	глицин
+N82	Reference T15 UMLS:C0032718	воротная вена
+N83	Reference T69 UMLS:C0005886	размеры тела
+N84	Reference T76 UMLS:C0425402	медицинская диета
+N85	Reference T32 UMLS:C0018803	сердца функциональные тесты
+N86	Reference T81 UMLS:C0001927	сальбутамол
+N87	Reference T63 UMLS:C0001927	сальбутамол
+N88	Reference T74 UMLS:C0013154	введение лекарств ингаляционное
+N89	Reference T62 UMLS:C0024109	легкие
+N90	Reference T80 UMLS:C0553668	затруднение дыхания
+N91	Reference T42 UMLS:C0015183	слуховая труба
+#1	AnnotatorNotes T34	first_annotator_label: C5208100||synonyms: самостоятельное введение препарата||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1315412||synonyms: максимальный бугорково-фиссурный контакт зубов левая срединная линия разность:дл:тчкврм:нижняя челюсть+лицо:колич:измеренный||||
+#2	AnnotatorNotes T71	first_annotator_label: C1955835||synonyms: лазерная терапия|lazernaia khirurgiia|lazernyi nozh|lazernyi skal'pel'|vaporizatsiia lazernaia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3666002||synonyms: установка (внутриартериального) катетера в периферическую артерию||||
+#3	AnnotatorNotes T18	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: C0038351||synonyms: желудок|zheludok|ventriculus gaster||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#4	AnnotatorNotes T58	first_annotator_label: C0242488||synonyms: легких повреждение острое|острое поражение легкого|ostraia travma legkikh|острая травма легких|legkikh povrezhdenie ostroe||||second_annotator_label: C0024109||synonyms: легкие|legkie||||third_annotator_label: C0851739||synonyms: бронхоспазм и обструкция||||bert: C1373189||synonyms: легочная элиминация|legochnaia eliminatsiia|легочное выведение веществ|eliminatsiia veshchestv cherez legkie|legochnaia ekskretsiia||||
+#5	AnnotatorNotes T60	first_annotator_label: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||second_annotator_label: C2717792||synonyms: дыхательных путей ремоделирование|ремоделирование дыхательных путей|перестройка дыхательных путей|dykhatel'nykh putei izmeneniia pri astme|дыхательных путей структурные изменения||||third_annotator_label: C0006255||synonyms: бронхи|bronkhi||||bert: C2717792||synonyms: дыхательных путей ремоделирование|ремоделирование дыхательных путей|перестройка дыхательных путей|dykhatel'nykh putei izmeneniia pri astme|дыхательных путей структурные изменения||||
+#6	AnnotatorNotes T41	first_annotator_label: C0030471||synonyms: носовые придаточные полости|nosovye pridatochnye polosti|okolonosovye pazukhi|pridatochnye polosti nosa|околоносовые пазухи||||second_annotator_label: C0584837||synonyms: стеноз хоан||||third_annotator_label: C0027423||synonyms: носовая полость|nosovaia polost'||||bert: C0008306||synonyms: холаны|kholany||||
+#7	AnnotatorNotes T30	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0014591||synonyms: носовое кровотечение|nosovoe krovotechenie|epistaksis|эпистаксис|носовые кровотечения||||third_annotator_label: None||synonyms: ||||bert: C0014591||synonyms: носовое кровотечение|nosovoe krovotechenie|epistaksis|эпистаксис|носовые кровотечения||||
+#8	AnnotatorNotes T25	first_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#9	AnnotatorNotes T66	first_annotator_label: C0230139||synonyms: грудной клетки полость|grudnoi kletki polost'||||second_annotator_label: C0010271||synonyms: черепные синусы|cherepnye sinusy||||third_annotator_label: C0030471||synonyms: носовые придаточные полости|nosovye pridatochnye polosti|okolonosovye pazukhi|pridatochnye polosti nosa|околоносовые пазухи||||bert: C0001878||synonyms: альвеолярный мешочек|al'veoliarnyi meshochek|plavatel'nyi puzyr'|vozdushnyi puzyr'|воздушный пузырь||||
+#10	AnnotatorNotes T61	first_annotator_label: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||second_annotator_label: C2717792||synonyms: дыхательных путей ремоделирование|ремоделирование дыхательных путей|перестройка дыхательных путей|dykhatel'nykh putei izmeneniia pri astme|дыхательных путей структурные изменения||||third_annotator_label: C0006255||synonyms: бронхи|bronkhi||||bert: C2717792||synonyms: дыхательных путей ремоделирование|ремоделирование дыхательных путей|перестройка дыхательных путей|dykhatel'nykh putei izmeneniia pri astme|дыхательных путей структурные изменения||||
+#11	AnnotatorNotes T26	first_annotator_label: C0043094||synonyms: веса тела увеличение|vesa tela uvelichenie|увеличение весового индекса рорера|увеличение веса|увеличение массы тела||||second_annotator_label: C0013142||synonyms: утопление|utoplenie||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0013142||synonyms: утопление|utoplenie||||
+#12	AnnotatorNotes T65	first_annotator_label: C0817096||synonyms: грудная клетка|grudnaia kletka|grud'|грудь||||second_annotator_label: C0149725||synonyms: инфекция нижних дыхательных путей|инфекция органов грудной клетки|инфекция нижн. дых. путей|инфекция нижних отделов дыхательных путей, бду|индп||||third_annotator_label: C0205076||synonyms: грудной клетки стенка|grudnaia stenka|grudnoi kletki stenka|грудная стенка||||bert: C0149725||synonyms: инфекция нижних дыхательных путей|инфекция органов грудной клетки|инфекция нижн. дых. путей|инфекция нижних отделов дыхательных путей, бду|индп||||
+#13	AnnotatorNotes T3	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0043094||synonyms: веса тела увеличение|vesa tela uvelichenie|увеличение весового индекса рорера|увеличение веса|увеличение массы тела||||
+#14	AnnotatorNotes T49	first_annotator_label: C0030511||synonyms: парасимпатолитики|parasimpatolitiki|antispazmaticheskie sredstva|spazmoliticheskie sredstva|spazmolitiki||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C3258485||synonyms: насколько часто вы ели цельнозерновой хлеб в прошедшие 30 дней:находка:тчкврм:^пациент:пор:phenx||||
+#15	AnnotatorNotes T20	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#16	AnnotatorNotes T64	first_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||second_annotator_label: C0005507||synonyms: биологическая проба|biologicheskaia proba|bioproba|биопроба||||third_annotator_label: C0802903||synonyms: дыхание тест прогноз метод:тип:тчкврм:дыхательная система:ном:*||||bert: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||
+#17	AnnotatorNotes T8	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0489094||synonyms: протеин поступление:массск:10 часов:^пациент:колич||||
+#18	AnnotatorNotes T91	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2735219||synonyms: водород/выдыхаемый газ^1.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#19	AnnotatorNotes T16	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: C0000578||synonyms: 5-гидрокситриптофан|5-gidroksitriptofan|5-ntr|5-oksitriptofan|gidroksitriptofan||||third_annotator_label: None||synonyms: ||||bert: C0000578||synonyms: 5-гидрокситриптофан|5-gidroksitriptofan|5-ntr|5-oksitriptofan|gidroksitriptofan||||
+#20	AnnotatorNotes T57	first_annotator_label: C0001883||synonyms: дыхательных путей обструкция|dykhatel'nykh putei obstruktsiia|asfiksiia mekhanicheskaia|asfiksiia obstruktivnaia|обструкция дыхательных путей||||second_annotator_label: C0264886||synonyms: сердца проводящей системы болезнь|serdtsa provodiashchei sistemy bolezn'|нарушение проводимости (бду)|нарушение проводимости, неуточненное|нарушения проводимости||||third_annotator_label: C0085649||synonyms: периферический отек|отёкшие конечности|отек периферический|периферический отёк|отёк периферический||||bert: C0264222||synonyms: острая инфекция верхних дыхательных путей|острые инфекции верхних дыхательных путей неуточненной локализации||||
+#21	AnnotatorNotes T84	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C5197816||synonyms: аллилбензола производные|1-metil-1-feniletilena proizvodnye|1-фенил-2-пропен производные|аллилбензолы|винилтолуола производные||||
+#22	AnnotatorNotes T59	first_annotator_label: C0001883||synonyms: дыхательных путей обструкция|dykhatel'nykh putei obstruktsiia|asfiksiia mekhanicheskaia|asfiksiia obstruktivnaia|обструкция дыхательных путей||||second_annotator_label: C0264222||synonyms: острая инфекция верхних дыхательных путей|острые инфекции верхних дыхательных путей неуточненной локализации||||third_annotator_label: C0235906||synonyms: бронхоспазм, обострение||||bert: C0264222||synonyms: острая инфекция верхних дыхательных путей|острые инфекции верхних дыхательных путей неуточненной локализации||||
+#23	AnnotatorNotes T14	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1632383||synonyms: тело жир процент:массдол:тчкврм:^пациент:колич:измеренный||||
+#24	AnnotatorNotes T50	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C3172648||synonyms: был ли период жизни, когда вы курили сигареты каждый день в течение как минимум 30 дней:находка:тчкврм:^пациент:пор:phenx||||
+#25	AnnotatorNotes T51	first_annotator_label: C0030511||synonyms: парасимпатолитики|parasimpatolitiki|antispazmaticheskie sredstva|spazmoliticheskie sredstva|spazmolitiki||||second_annotator_label: C0029083||synonyms: глазные капли|glaznye kapli||||third_annotator_label: C1533719||synonyms: медицина растительная|gerbalizm|meditsina rastitel'naia|гербализм|лекарственное средство из растений||||bert: C0858657||synonyms: зеленоватый кал||||
+#26	AnnotatorNotes T68	first_annotator_label: C0239026||synonyms: нормальные результаты рентгенографии органов грудной клетки|результаты рентгенографии бду грудной клетки в норме|результаты рентгенографии органов грудной клетки в норме||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C2752549||synonyms: клетки тело|тело клетки|telo kletki|kletki telo||||
+#27	AnnotatorNotes T77	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C1978288||synonyms: кортикотропин^после 1 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#28	AnnotatorNotes T76	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#29	AnnotatorNotes T74	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0363778||synonyms: туберкулёз реакция папула^3 дня после 25 ет внутрикожно:диам:тчкврм:кожа:колич||||

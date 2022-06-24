@@ -1,0 +1,74 @@
+T19	Symptom 987 1001	бледно-розовые
+T24	Symptom 1095 1121	Носовое дыхание затруднено
+T7	Symptom 204 244	желто-зеленые выделения из носовых ходов
+T10	Treatment 649 675	Получал эреспал, бронхикум
+T8	Disease 606 609	ОРИ
+T27	Symptom 1154 1160	хрипов
+T34	Symptom 1365 1385	Менингеальных знаков
+T26	Symptom 1132 1152	дыхание везикулярное
+T9	Symptom 631 647	кашлевой синдром
+T25	Body_location 1123 1131	В лёгких
+T14	Disease 785 788	ОРИ
+T31	Symptom 1233 1239	мягкий
+T33	Symptom 1335 1363	Стул регулярный, оформленный
+T4	Body_location 75 95	поджелудочной железы
+T15	Symptom 811 817	кашель
+T2	Disease 34 53	Себорейный дерматит
+T18	Body_location 972 986	Кожные покровы
+T20	Body_location 1003 1029	на волосистой части головы
+T21	Symptom 1030 1061	единичные корочки желтого цвета
+T30	Body_location 1227 1232	Живот
+T12	Drug 666 675	бронхикум
+T1	Disease 9 32	Катаральный риносинусит
+T6	Symptom 246 252	кашель
+T23	Symptom 1083 1093	Зев рыхлый
+T22	Symptom 1063 1081	чешуйки, шелушение
+T3	Disease 55 95	Вторичные изменения поджелудочной железы
+T28	Symptom 1166 1199	Сердечные тоны звучные, ритмичные
+T17	Drug 846 857	кленбутерол
+T16	Treatment 837 874	принимал кленбутерол в сиропе на ночь
+T35	Disease 166 172	ринита
+T32	Symptom 1255 1269	безболезненный
+T13	Symptom 718 724	кашель
+T11	Drug 657 664	эреспал
+T29	Symptom 1201 1225	слабый систолический шум
+N1	Reference T19 UMLS:C4505235	розовые
+N2	Reference T24 UMLS:C0027424	дыхание, затрудненное
+N3	Reference T7 UMLS:C3203645	изменение цвета носовых выделений
+N4	Reference T10 UMLS:C0013154	симптоматическое лечение
+N5	Reference T8 UMLS:C0325564	orly
+N6	Reference T27 UMLS:C3887661	хрип
+N7	Reference T34 UMLS:C0025287	менингеальные знаки
+N8	Reference T26 UMLS:C0231855	нормальная аускультативная картина в легких
+N9	Reference T9 UMLS:C0234435	кашлевой обморок
+N10	Reference T25 UMLS:C0024109	легкие
+N11	Reference T14 UMLS:C0035243	респираторные инфекции
+N12	Reference T31 UMLS:C0026390	мягкокожие
+N13	Reference T33 UMLS:CUILESS	мягкий стул
+N14	Reference T4 UMLS:C0030274	поджелудочная железа
+N15	Reference T15 UMLS:C0010200	кашель
+N16	Reference T2 UMLS:C0036508	себорейный дерматит
+N17	Reference T18 UMLS:C1123023	кожа
+N18	Reference T20 UMLS:C0036270	кожа волосистой части головы
+N19	Reference T21 UMLS:C0425791	симптом лимонной корочки
+N20	Reference T30 UMLS:C0000726	живот
+N21	Reference T12 UMLS:C0015314	отхаркивающие средства
+N22	Reference T1 UMLS:C2607914	аллергический риносинусит
+N23	Reference T6 UMLS:C0010200	кашель
+N24	Reference T23 UMLS:C0521367	ротоглотка
+N25	Reference T22 UMLS:C4728163	шелушение кожи головы
+N26	Reference T3 UMLS:C0030286	поджелудочной железы болезни
+N27	Reference T28 UMLS:C0018810	сердечный ритм
+N28	Reference T17 UMLS:C0008932	кленбутерол
+N29	Reference T16 UMLS:C0013154	адреномиметики
+N30	Reference T35 UMLS:C0035455	ринит
+N31	Reference T32 UMLS:C0857027	болезненность
+N32	Reference T13 UMLS:C0010200	кашель
+N33	Reference T11 UMLS:C0019592	терапевтическая концентрация бронходилататора, бду
+N34	Reference T29 UMLS:C0232257	систолический шум
+#1	AnnotatorNotes T24	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0272427||synonyms: травма носа|повреждение носа||||
+#2	AnnotatorNotes T10	first_annotator_label: C5243901||synonyms: симптоматическое лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0238132||synonyms: бронхоплевральная фистула||||
+#3	AnnotatorNotes T26	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#4	AnnotatorNotes T33	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#5	AnnotatorNotes T16	first_annotator_label: C0001637||synonyms: адренергические средства|adrenergicheskie sredstva|adrenergicheskie mediatory, ugnetaiushchie sredstva|adrenergicheskikh neironov sredstva|adrenoliticheskie sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1406371||synonyms: нёбо курильщика||||
+#6	AnnotatorNotes T11	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0001927||synonyms: сальбутамол|sal'butamol|al'buterol|альбутерол||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0337435||synonyms: эстриол||||

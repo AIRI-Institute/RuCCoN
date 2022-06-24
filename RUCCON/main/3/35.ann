@@ -1,0 +1,67 @@
+T36	Disease 631 653	атопического дерматита
+T23	Symptom 1309 1331	бледно-розовые, чистые
+T33	Symptom 1489 1509	Менингеальных знаков
+T31	Symptom 1463 1467	Стул
+T28	Symptom 1389 1417	Тоны сердца ясные, ритмичные
+T39	Disease 938 951	конъюнктивита
+T22	Symptom 1298 1307	суховатые
+T30	Symptom 1425 1447	мягкий, безболезненный
+T21	Body_location 1283 1297	Кожные покровы
+T2	Course 49 57	ремиссия
+T5	Disease 112 128	Пищевая аллергия
+T41	Body_location 1333 1336	Зев
+T40	Disease 1080 1088	поллиноз
+T10	Disease 596 602	ангины
+T27	Symptom 1377 1383	хрипов
+T3	Disease 59 100	Аллергический ринит, персистирующая форма
+T20	Disease 1205 1227	лекарственная аллергия
+T26	Body_location 1346 1354	В легких
+T38	Disease 929 935	ринита
+T8	Disease 571 584	ветряная оспа
+T34	Disease 9 17	Поллиноз
+T32	Symptom 1469 1475	диурез
+T13	Symptom 712 721	высыпания
+T29	Body_location 1419 1424	Живот
+T12	Treatment 670 697	диетой, местными средствами
+T4	Course 102 111	ремиссия.
+T18	Treatment 981 1021	использовании антигистаминных препаратов
+T37	Disease 856 869	отеков Квинке
+T6	Symptom 190 218	затруднение носового дыхания
+T24	Symptom 1333 1344	Зев спокоен
+T25	Symptom 1355 1375	дыхание везикулярное
+T9	Disease 586 594	краснуха
+T1	Disease 19 47	риноконъюнктивальный синдром
+T42	Disease 796 806	крапивницы
+T35	Disease 244 256	отеки Квинке
+N1	Reference T36 UMLS:C0011615	атопический дерматит
+N2	Reference T23 UMLS:C4505235	розовые
+N3	Reference T33 UMLS:C0025287	менингеальные знаки
+N4	Reference T28 UMLS:C2712143	нормальный сердечный ритм
+N5	Reference T39 UMLS:C0009763	конъюнктивит
+N6	Reference T22 UMLS:C0151908	сухая кожа
+N7	Reference T21 UMLS:C1123023	кожа
+N8	Reference T2 UMLS:C0242793	период ремиссии
+N9	Reference T5 UMLS:C0149696	пищевая аллергия
+N10	Reference T41 UMLS:C0521367	ротоглотка
+N11	Reference T40 UMLS:C0018621	поллиноз
+N12	Reference T10 UMLS:C0276143	вирусная ангина
+N13	Reference T27 UMLS:C3887661	хрип
+N14	Reference T3 UMLS:C2607914	аллергический ринит
+N15	Reference T20 UMLS:C0013182	аллергия на лекарственный препарат
+N16	Reference T26 UMLS:C0024109	легкие
+N17	Reference T38 UMLS:C0035455	ринит
+N18	Reference T8 UMLS:C0008049	ветряная оспа
+N19	Reference T34 UMLS:C0018621	поллиноз
+N20	Reference T32 UMLS:C1287298	диурез
+N21	Reference T13 UMLS:C0302295	высыпание
+N22	Reference T29 UMLS:C0000726	живот
+N23	Reference T12 UMLS:C5243901	симптоматическое лечение
+N24	Reference T4 UMLS:C0242793	период ремиссии
+N25	Reference T18 UMLS:C1504374	антигистаминная терапия
+N26	Reference T37 UMLS:C0002994	отек квинке
+N27	Reference T6 UMLS:C0553668	затруднение дыхания
+N28	Reference T25 UMLS:C0231855	нормальная аускультативная картина в легких
+N29	Reference T9 UMLS:C0035920	краснуха
+N30	Reference T1 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N31	Reference T42 UMLS:C0042109	крапивница
+N32	Reference T35 UMLS:C0002994	отек квинке

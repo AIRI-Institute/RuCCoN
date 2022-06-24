@@ -1,0 +1,84 @@
+T40	Disease 261 274	конъюнктивита
+T17	Course 1091 1099	ремиссия
+T42	Disease 777 793	пищевой аллергии
+T10	Symptom 276 293	заложенность носа
+T5	Disease 114 135	Гиперплазия аденоидов
+T7	Disease 147 168	Хронический тонзиллит
+T38	Disease 1298 1314	Пищевая аллергия
+T28	Body_location 1569 1577	В лёгких
+T43	Disease 856 865	поллиноза
+T35	Symptom 1742 1749	дизурии
+T44	Disease 1051 1059	Поллиноз
+T41	Disease 649 671	атопического дерматита
+T2	Course 49 57	ремиссия
+T24	Body_location 1479 1493	Кожные покровы
+T23	Disease 1371 1387	пищевая аллергия
+T36	Symptom 1755 1783	Стул регулярный, оформленный
+T25	Symptom 1494 1516	чистые, бледно-розовые
+T29	Symptom 1578 1598	дыхание везикулярное
+T19	Disease 1138 1154	Пищевая аллергия
+T20	Disease 1156 1182	Цефалгии смешанного генеза
+T22	Disease 1361 1369	поллиноз
+T39	Disease 9 17	Поллиноз
+T31	Symptom 1612 1645	Сердечные тоны звучные, ритмичные
+T37	Symptom 1785 1805	Менингеальных знаков
+T45	Body_location 1518 1521	Зев
+T16	Disease 1061 1089	риноконъюнктивальный синдром
+T32	Body_location 1647 1652	Живот
+T30	Symptom 1600 1606	хрипов
+T6	Severity 136 145	1 степени
+T27	Symptom 1531 1567	Носовое дыхание несколько затруднено
+T12	Treatment 688 745	диетой, антигистаминными препаратами, местными средствами
+T26	Symptom 1518 1529	Зев спокоен
+T8	Course 170 192	компенсированная форма
+T4	Disease 96 112	Пищевая аллергия
+T34	Symptom 1675 1690	безболезненный.
+T33	Symptom 1653 1659	мягкий
+T3	Disease 59 94	Аллергический ринит, персистирующий
+T15	Treatment 916 951	В терапии антигистаминные препараты
+T1	Disease 19 47	риноконъюнктивальный синдром
+T18	Disease 1101 1136	Аллергический ринит, персистирующий
+N1	Reference T40 UMLS:C0009763	конъюнктивит
+N2	Reference T17 UMLS:C3888824	ремиссия не достигнута
+N3	Reference T42 UMLS:C0149696	пищевая аллергия
+N4	Reference T10 UMLS:C0027424	заложенность носа
+N5	Reference T5 UMLS:C0149825	гипертрофия исключительно аденоидов
+N6	Reference T7 UMLS:C0149517	хронический тонзиллит
+N7	Reference T38 UMLS:C0149696	пищевая аллергия
+N8	Reference T28 UMLS:C0024109	легкие
+N9	Reference T43 UMLS:C0018621	поллиноз
+N10	Reference T35 UMLS:C0013428	дизурия
+N11	Reference T44 UMLS:C0018621	поллиноз
+N12	Reference T41 UMLS:C0011615	атопический дерматит
+N13	Reference T2 UMLS:C3888824	ремиссия не достигнута
+N14	Reference T24 UMLS:C1123023	кожа
+N15	Reference T23 UMLS:C0149696	пищевая аллергия
+N16	Reference T25 UMLS:C4505235	норма рабочая
+N17	Reference T29 UMLS:C0231855	нормальная аускультативная картина в легких
+N18	Reference T19 UMLS:C0149696	пищевая аллергия
+N19	Reference T20 UMLS:C0393735	цефалгии синдром
+N20	Reference T22 UMLS:C0018621	поллиноз
+N21	Reference T39 UMLS:C0018621	поллиноз
+N22	Reference T31 UMLS:C0018810	сердечный ритм
+N23	Reference T37 UMLS:C0025287	менингеальные знаки
+N24	Reference T45 UMLS:C0521367	ротовая полость
+N25	Reference T16 UMLS:C5208240	ринобронхиальный синдром
+N26	Reference T32 UMLS:C0000726	живот
+N27	Reference T30 UMLS:C3887661	хрип
+N28	Reference T6 UMLS:CUILESS	гипертрофия глоточных миндалин (аденоидов)
+N29	Reference T27 UMLS:C0853254	раздражение носовых ходов
+N30	Reference T12 UMLS:C0854601	местная профилактика антибактериальными препаратами
+N31	Reference T26 UMLS:CUILESS	отсутствие реакции
+N32	Reference T8 UMLS:C2363928	компенсаторная пауза
+N33	Reference T4 UMLS:C0149696	пищевая аллергия
+N34	Reference T34 UMLS:C0857027	болезненность
+N35	Reference T33 UMLS:C0026390	мягкокожие
+N36	Reference T3 UMLS:C2607914	аллергический ринит
+N37	Reference T15 UMLS:C1504374	антигистаминная терапия
+N38	Reference T1 UMLS:C5208240	ринобронхиальный синдром
+N39	Reference T18 UMLS:C2607914	аллергический ринит
+#1	AnnotatorNotes T25	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||
+#2	AnnotatorNotes T29	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#3	AnnotatorNotes T45	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#4	AnnotatorNotes T6	first_annotator_label: C0149825||synonyms: гипертрофия глоточных миндалин (аденоидов)|гипертрофия исключительно аденоидов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||
+#5	AnnotatorNotes T26	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||third_annotator_label: None||synonyms: ||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||

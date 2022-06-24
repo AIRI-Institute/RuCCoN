@@ -1,0 +1,115 @@
+T14	Disease 475 478	ОРИ
+T18	Symptom 939 949	обструкции
+T32	Disease 1402 1405	ОРИ
+T25	Drug 1134 1142	серетида
+T26	Treatment 1179 1268	Обострения купируются ингаляцией саломола или беродуалом и пульмикортом через небулайзер.
+T2	Severity 42 71	легкое персистирующее течение
+T15	Symptom 387 418	эпизоды малопродуктивного кашля
+T10	Body_location 227 247	желчевыводящих путей
+T9	Disease 216 247	Дискинезия желчевыводящих путей
+T44	Body_location 1832 1840	В легких
+T19	Disease 958 980	респираторных инфекций
+T41	Symptom 1791 1830	единичные эритематозно-сквамозные очаги
+T36	Disease 1610 1638	риноконъюнктивальный синдром
+T37	Body_location 1730 1744	кожные покровы
+T6	Course 164 172	ремиссия
+T3	Disease 89 124	Аллергический ринит, персистирующий
+T12	Body_location 354 361	на коже
+T4	Course 126 140	вне обострения
+T21	Severity 1039 1054	легкого течения
+T23	Drug 1073 1078	интал
+T39	Symptom 1761 1766	сухие
+T42	Symptom 1841 1861	дыхание везикулярное
+T22	Treatment 1056 1118	Получала курсами интал, затем серетид 50/25 мкг 2 раза в день.
+T35	Disease 1590 1608	бронхиальная астма
+T50	Drug 1365 1373	саламола
+T52	Treatment 1129 1177	курс серетида в той же дозировке до января 2042г
+T27	Drug 1212 1220	саломола
+T45	Symptom 1895 1923	Тоны сердца ясные, ритмичные
+T11	Body_location 267 282	желчного пузыря
+T28	Drug 1225 1235	беродуалом
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T51	Disease 807 829	атопического дерматита
+T40	Body_location 1768 1790	в подколенных областях
+T47	Symptom 1955 1961	диурез
+T48	Symptom 1974 1994	Менингеальных знаков
+T8	Body_location 194 214	поджелудочной железы
+T7	Disease 174 214	Вторичные изменения поджелудочной железы
+T43	Symptom 1883 1889	хрипов
+T13	Symptom 344 353	высыпания
+T16	Symptom 421 440	затруднение дыхания
+T30	Symptom 1288 1307	затруднения дыхания
+T31	Treatment 1344 1373	Купирован ингаляцией саламола
+T20	Disease 1006 1037	бронхиальная астма, атопическая
+T24	Drug 1086 1093	серетид
+T29	Drug 1238 1250	пульмикортом
+T46	Symptom 1925 1953	Стул ежедневный, оформленный
+T49	Symptom 1863 1881	с жестким оттенком
+T38	Symptom 1745 1760	бледно-розовые,
+T33	Symptom 1432 1455	бронхиальной обструкции
+T34	Disease 1540 1562	обструктивные бронхиты
+T5	Disease 142 162	Атопический дерматит
+N1	Reference T14 UMLS:C0035243	респираторные инфекции
+N2	Reference T18 UMLS:C0028778	обструкция, бду
+N3	Reference T32 UMLS:C0035243	респираторные инфекции
+N4	Reference T25 UMLS:C0939232	серетид
+N5	Reference T26 UMLS:C0013154	введение лекарств ингаляционное
+N6	Reference T2 UMLS:CUILESS	астма, хроническая
+N7	Reference T15 UMLS:C0850149	кашель, непродуктивный
+N8	Reference T10 UMLS:C0005424	заболевание желчевыводящих путей
+N9	Reference T9 UMLS:C0005416	дискинезия желчевыводящих путей
+N10	Reference T44 UMLS:C0024109	легкие
+N11	Reference T19 UMLS:C0035243	респираторные инфекции
+N12	Reference T41 UMLS:CUILESS	эритема
+N13	Reference T36 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N14	Reference T37 UMLS:C1123023	кожа
+N15	Reference T6 UMLS:C0242793	период ремиссии
+N16	Reference T3 UMLS:C2607914	аллергический ринит
+N17	Reference T12 UMLS:C1123023	кожа
+N18	Reference T4 UMLS:C0242793	период ремиссии
+N19	Reference T21 UMLS:CUILESS	степень ухудшения бду
+N20	Reference T23 UMLS:C0012694	интал
+N21	Reference T39 UMLS:C0151908	сухая кожа
+N22	Reference T42 UMLS:C0231855	нормальная аускультативная картина в легких
+N23	Reference T22 UMLS:C0013154	введение лекарств ингаляционное
+N24	Reference T35 UMLS:C0004096	бронхиальная астма
+N25	Reference T50 UMLS:C0001927	сальбутамол
+N26	Reference T52 UMLS:C0013154	введение лекарств ингаляционное
+N27	Reference T27 UMLS:C0001927	сальбутамол
+N28	Reference T45 UMLS:C2230284	нормальный сердечный ритм
+N29	Reference T11 UMLS:C0016976	желчный пузырь
+N30	Reference T28 UMLS:C0015840	фенотерол
+N31	Reference T1 UMLS:C0004096	астма, бронхиальная
+N32	Reference T51 UMLS:C0011615	атопический дерматит
+N33	Reference T40 UMLS:C1267157	подколенные сухожилия
+N34	Reference T47 UMLS:C1287298	диурез
+N35	Reference T48 UMLS:C0025287	менингеальные знаки
+N36	Reference T8 UMLS:C0030274	поджелудочная железа
+N37	Reference T7 UMLS:C0030286	поджелудочной железы болезни
+N38	Reference T43 UMLS:C3887661	хрип
+N39	Reference T13 UMLS:C0302295	высыпание
+N40	Reference T16 UMLS:C0553668	затруднение дыхания
+N41	Reference T30 UMLS:C0553668	затруднение дыхания
+N42	Reference T31 UMLS:C0021459	введение лекарств ингаляционное
+N43	Reference T20 UMLS:C0004096	астма, бронхиальная
+N44	Reference T24 UMLS:C0939232	серетид
+N45	Reference T29 UMLS:C0054201	будесонид
+N46	Reference T46 UMLS:CUILESS	мягкий стул
+N47	Reference T49 UMLS:C3666016	жесткое дыхание при аускультации легких
+N48	Reference T38 UMLS:C4505235	розовые
+N49	Reference T33 UMLS:C0221725	бронхиальная обструкция
+N50	Reference T34 UMLS:C0865791	обструктивный бронхит
+N51	Reference T5 UMLS:C0011615	атопический дерматит
+#1	AnnotatorNotes T26	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0151580||synonyms: кальциевая кристаллурия|оксалатно-кальциевая кристаллурия||||
+#2	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0024115||synonyms: легких болезни|legkikh bolezni|legochnye bolezni|нарушение со стороны легких (бду)|нарушение со стороны легкого||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#3	AnnotatorNotes T41	first_annotator_label: C0041834||synonyms: эритема|eritema|эритематозные состояния|эритемы|кожная эритема||||second_annotator_label: C0013595||synonyms: экзема|ekzema|dermatit ekzematoznyi|экзематозный дерматит|экзематозная сыпь||||third_annotator_label: C0423234||synonyms: точечная эрозия эпителия||||bert: C0024141||synonyms: волчанка красная системная|volchanka krasnaia sistemnaia|endokardit volchanochnyi|libmana-saksa bolezn'|volchanka eritematoznaia sistemnaia||||
+#4	AnnotatorNotes T6	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: None||synonyms: ||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#5	AnnotatorNotes T4	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#6	AnnotatorNotes T21	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C2919352||synonyms: сезонная астма||||third_annotator_label: None||synonyms: ||||bert: C0001868||synonyms: воздуха движение|vozdukha dvizhenie||||
+#7	AnnotatorNotes T42	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#8	AnnotatorNotes T22	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1978291||synonyms: кортикотропин^до 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#9	AnnotatorNotes T52	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0854078||synonyms: терминальная стадия болезни почек при диабете||||
+#10	AnnotatorNotes T45	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C3853525||synonyms: четвертый тон сердца||||
+#11	AnnotatorNotes T31	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C1005958||synonyms: санталум|sandalovoe derevo|santalum|сандаловое дерево||||
+#12	AnnotatorNotes T46	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||third_annotator_label: None||synonyms: ||||bert: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||
+#13	AnnotatorNotes T49	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||

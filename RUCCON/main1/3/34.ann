@@ -1,0 +1,45 @@
+T4	Treatment 135 198	ксизал по 1т. х 1 раз в день, туалет носа с физиомер, назонекс.
+T17	Treatment 935 979	Назонекс в нос (1+1) 1 р/д в течение 20 дней
+T11	Treatment 593 661	СИТ с пыльцевыми аллергенами сублингвально по схеме (схема на руках)
+T5	Drug 135 141	ксизал
+T18	Drug 935 943	Назонекс
+T6	Drug 179 187	физиомер
+T12	Drug 593 621	СИТ с пыльцевыми аллергенами
+T9	Drug 214 251	СИТ с пыльцевыми аллергенами (березы)
+T13	Treatment 663 840	Поддерживающая доза аллергена в разведении 1:10  6 капель (0,3 мл) 1 раз в неделю, затем 1 раз в 2 недели, далее 1 раз в 3 недели до периода цветения (только в периоде ремиссии)
+T2	Severity 57 71	персистирующий
+T7	Drug 189 197	назонекс
+T14	Treatment 845 930	Зиртек (ксизал) 1 т. 1 раз в день продолжить на время проведения основного курса АСИТ
+T1	Disease 36 55	аллергический ринит
+T15	Drug 845 851	Зиртек
+T16	Drug 853 859	ксизал
+T8	Treatment 214 318	СИТ с пыльцевыми аллергенами (березы) сублингвальным методом по классической схеме до разведения 1:1000.
+T3	Course 73 87	вне обострения
+T10	Treatment 537 577	Соблюдать диету ГА, элиминационный режим
+N1	Reference T4 UMLS:C2350442	промывание носа
+N2	Reference T17 UMLS:C0013154	терапия глюкокортикостероидами
+N3	Reference T11 UMLS:C3658366	сублингвальная иммунотерапия
+N4	Reference T5 UMLS:C0055147	tsetirizin
+N5	Reference T18 UMLS:C0066700	назонекс
+N6	Reference T6 UMLS:C0036499	вода морская
+N7	Reference T12 UMLS:C0178702	аллергены растительные
+N8	Reference T9 UMLS:C0178702	аллергены растительные
+N9	Reference T13 UMLS:C0013154	иммунотерапия
+N10	Reference T2 UMLS:CUILESS	хронический ринит
+N11	Reference T7 UMLS:C0066700	назонекс
+N12	Reference T14 UMLS:C0013154	антигистаминная терапия
+N13	Reference T1 UMLS:C2607914	аллергический ринит
+N14	Reference T15 UMLS:C0055147	цетиризин
+N15	Reference T16 UMLS:C0055147	цетиризин
+N16	Reference T8 UMLS:C0178702	сублингвальная иммунотерапия
+N17	Reference T3 UMLS:C0242793	ремиссия спонтанная
+N18	Reference T10 UMLS:C0425402	медицинская диета
+#1	AnnotatorNotes T17	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#2	AnnotatorNotes T12	first_annotator_label: C1567994||synonyms: антигены растительные|аллергены растительные|растений антигены|antigeny rastitel'nye|allergeny rastitel'nye||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||
+#3	AnnotatorNotes T9	first_annotator_label: C1567994||synonyms: антигены растительные|аллергены растительные|растений антигены|antigeny rastitel'nye|allergeny rastitel'nye||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#4	AnnotatorNotes T13	first_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C0948188||synonyms: снижение уровня альфа-1 кислого гликопротеина||||
+#5	AnnotatorNotes T2	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0748412||synonyms: вирусный ринит||||third_annotator_label: C0333241||synonyms: постоянный отек|хронический отек||||bert: C0562483||synonyms: персистирующий кашель||||
+#6	AnnotatorNotes T14	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C1717376||synonyms: пролактин^1 час после дозы трг внутривенно:произвконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T8	first_annotator_label: C3658366||synonyms: сублингвальная иммунотерапия|immunoterapiia pod"iazychnaia|иммунотерапия подъязычная|sublingval'naia immunoterapiia||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#8	AnnotatorNotes T3	first_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||second_annotator_label: C4042866||synonyms: симптомов временное обострение|vremennoe obostrenie simptomov bolezni|simptomov vremennoe obostrenie|simptomov vspyshka|временное обострение симптомов болезни||||third_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#9	AnnotatorNotes T10	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0919610||synonyms: диадинамическая электротерапия||||

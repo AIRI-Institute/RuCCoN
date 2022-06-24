@@ -1,0 +1,141 @@
+T51	Severity 4969 4979	незначимый
+T63	Disease 1514 1524	воспаления
+T2	Treatment 218 234	кесарево сечение
+T45	Severity 4216 4226	выраженная
+T6	Symptom 703 713	боли в шее
+T46	Disease 4341 4372	блокада правой ножки пучка Гиса
+T73	Drug 7722 7732	эуфиллином
+T40	Disease 3780 3798	дистальные эпифизы
+T42	Disease 4183 4194	БРАДИКАРДИЯ
+T68	Disease 7043 7049	кифоза
+T34	Symptom 2991 3005	безболезненный
+T71	Disease 7930 7942	плоскостопии
+T37	Body_location 3056 3065	селезенка
+T49	Disease 4980 4987	пролапс
+T72	Disease 8185 8191	кифоза
+T27	Symptom 2624 2630	хрипов
+T26	Symptom 2602 2622	дыхание везикулярное
+T22	Body_location 1949 1956	грудной
+T61	Treatment 7203 7363	Режим – щадяще-тренирующий, ЛГ при нарушении осанки, плоскостопии дыхательная гимнастика; периферическая гимнастика, Массаж: воротниковой зоны, спины -№ 10, е/д
+T33	Symptom 2982 2988	мягкий
+T50	Body_location 4988 4995	створок
+T69	Disease 7170 7182	плоскостопие
+T59	Body_location 7034 7042	грудного
+T8	Body_location 1421 1435	Кожные покровы
+T31	Body_location 2903 2908	живот
+T35	Body_location 3036 3042	печень
+T28	Symptom 2722 2743	тоны ритмичные, ясные
+T52	Disease 5733 5740	пролапс
+T5	Body_location 80 85	в шее
+T16	Body_location 1532 1541	миндалины
+T29	Body_location 2891 2895	язык
+T67	Disease 6900 6907	лордоза
+T70	Disease 7256 7268	плоскостопии
+T66	Disease 1957 1962	кифоз
+T54	Severity 5722 5732	незначимый
+T23	Body_location 2106 2120	Грудная клетка
+T53	Body_location 5741 5768	створок митрального клапана
+T39	Symptom 3233 3254	менингеальные явления
+T3	Disease 309 317	Асфиксия
+T11	Body_location 1462 1480	Слизистые оболочки
+T9	Symptom 1437 1443	чистые
+T32	Symptom 2933 2945	симметричный
+T10	Symptom 1445 1460	обычной окраски
+T12	Symptom 1482 1488	чистые
+T15	Body_location 1527 1530	Зев
+T13	Symptom 1491 1498	влажные
+T24	Symptom 2126 2136	деформаций
+T36	Symptom 3046 3055	увеличена
+T43	Severity 4196 4205	умеренная
+T44	Disease 4207 4214	АРИТМИЯ
+T48	Symptom 4398 4407	расширена
+T55	Disease 6029 6049	Легочной гипертензии
+T65	Disease 1940 1946	лордоз
+T56	Symptom 6438 6451	ангиодистония
+T7	Body_location 708 713	в шее
+T17	Symptom 1544 1551	налетов
+T30	Symptom 2896 2902	чистый
+T20	Body_location 1933 1939	шейный
+T38	Symptom 3069 3078	увеличена
+T62	Treatment 7705 8035	получил: 1.Э/ф с эуфиллином №10 на шейный отдел позвоночника.2.ЭПС массаж стопы,паравертебрально№10.3.Аэроионотерапия№10.4.Энтеральная оксигенотерапия№10.5.Бальнеотерапия№10 (гидровоздушные ванны).6. ЛГ при нарушении осанки, плоскостопии дыхательная гимнастика; периферическая гимнастика, 7. Массаж: воротниковой зоны, спины -№ 10
+T4	Disease 384 391	желтуха
+T47	Body_location 4388 4393	АОРТА
+T25	Body_location 2593 2601	в легких
+T58	Body_location 6892 6899	шейного
+T64	Disease 1553 1562	гиперемии
+T41	Body_location 3799 3814	локтевых костей
+T1	Symptom 75 85	боли в шее
+N1	Reference T63 UMLS:C0021368	воспаления
+N2	Reference T2 UMLS:C0007876	кесарево сечение
+N3	Reference T6 UMLS:C0007859	боль в шее
+N4	Reference T46 UMLS:C0085615	блокада правой ножки пучка гиса
+N5	Reference T73 UMLS:C0002575	эуфиллин
+N6	Reference T40 UMLS:C0014570	эпифизы
+N7	Reference T42 UMLS:C0428977	брадикардия
+N8	Reference T68 UMLS:C0022821	кифоз
+N9	Reference T34 UMLS:CUILESS	норма рабочая
+N10	Reference T71 UMLS:C0016202	плоскостопие
+N11	Reference T37 UMLS:C0037993	селезенка
+N12	Reference T49 UMLS:C0033377	пролапс
+N13	Reference T72 UMLS:C0022821	кифоз
+N14	Reference T27 UMLS:C3887661	хрип
+N15	Reference T26 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N16	Reference T22 UMLS:C0817096	грудь
+N17	Reference T61 UMLS:C0452240	гимнастика
+N18	Reference T33 UMLS:CUILESS	норма рабочая
+N19	Reference T50 UMLS:CUILESS	митральный клапан
+N20	Reference T69 UMLS:C0016202	плоскостопие
+N21	Reference T59 UMLS:C0817096	грудь
+N22	Reference T8 UMLS:C1123023	кожа
+N23	Reference T31 UMLS:C0000726	живот
+N24	Reference T35 UMLS:C0023884	печень
+N25	Reference T28 UMLS:C2230284	нормальный сердечный ритм
+N26	Reference T52 UMLS:C0033377	пролапс
+N27	Reference T5 UMLS:C0027530	шея
+N28	Reference T16 UMLS:C0040421	миндалина
+N29	Reference T29 UMLS:C0040408	язык
+N30	Reference T67 UMLS:C0024003	лордоз
+N31	Reference T70 UMLS:C0016202	плоскостопие
+N32	Reference T66 UMLS:C0022821	кифоз
+N33	Reference T23 UMLS:C0817096	грудная клетка
+N34	Reference T53 UMLS:C0026267	пролапс створки митрального клапана
+N35	Reference T39 UMLS:C0154728	менингеальная патология
+N36	Reference T3 UMLS:C0004044	асфиксия
+N37	Reference T11 UMLS:C0026724	слизистая оболочка
+N38	Reference T9 UMLS:C0598869	чистая культура
+N39	Reference T32 UMLS:CUILESS	норма рабочая
+N40	Reference T10 UMLS:CUILESS	норма рабочая
+N41	Reference T12 UMLS:C0598869	чистая культура
+N42	Reference T15 UMLS:C0521367	ротоглотка
+N43	Reference T13 UMLS:C0020167	влажность
+N44	Reference T24 UMLS:C0302142	деформация
+N45	Reference T36 UMLS:C0231249	увеличение роста
+N46	Reference T44 UMLS:C0003811	аритмия
+N47	Reference T48 UMLS:C0038257	расширители
+N48	Reference T55 UMLS:C0020542	легочные гипертензии
+N49	Reference T65 UMLS:C0024003	лордоз
+N50	Reference T56 UMLS:C0013421	дистония
+N51	Reference T7 UMLS:C0027530	шея
+N52	Reference T17 UMLS:C0221732	налет в полости рта
+N53	Reference T30 UMLS:CUILESS	норма рабочая
+N54	Reference T20 UMLS:C0027530	шея
+N55	Reference T38 UMLS:C0038002	увеличение селезенки
+N56	Reference T62 UMLS:UNKNOWN	комплексонная терапия
+N57	Reference T4 UMLS:C0022346	желтуха
+N58	Reference T47 UMLS:C0003483	аорта
+N59	Reference T25 UMLS:C0024109	легкие
+N60	Reference T58 UMLS:C0027530	шея
+N61	Reference T64 UMLS:C0020452	гиперемия
+N62	Reference T41 UMLS:C0041600	локтевая кость
+N63	Reference T1 UMLS:C0007859	боль в шее
+#1	AnnotatorNotes T34	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||third_annotator_label: None||synonyms: ||||bert: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||
+#2	AnnotatorNotes T61	first_annotator_label: C0018409||synonyms: гимнастика|gimnastika|khudozhestvennaia gimnastika|ritmicheskaia gimnastika|ритмическая гимнастика||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0452240||synonyms: физическая культура лечебная|fizicheskaia kul'tura lechebnaia|fizicheskaia trenirovka cheloveka, lechebnaia|лечебная физкультура|физическая тренировка человека, лечебная||||bert: C4087139||synonyms: тренировка мышц диафрагмы таза||||
+#3	AnnotatorNotes T33	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0026390||synonyms: мягкокожие|miagkokozhie|mollicutes|tenericutes||||third_annotator_label: None||synonyms: ||||bert: C0026390||synonyms: мягкокожие|miagkokozhie|mollicutes|tenericutes||||
+#4	AnnotatorNotes T50	first_annotator_label: C0026264||synonyms: митральный клапан|mitral'nyi klapan|клапан предсердно-желудочковый левый|klapan predserdno-zheludochkovyi levyi|dvustvorchatyi klapan||||second_annotator_label: C1707539||synonyms: разрыв створки||||third_annotator_label: None||synonyms: ||||bert: C1707539||synonyms: разрыв створки||||
+#5	AnnotatorNotes T28	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C2230284||synonyms: тоны сердца||||bert: C0234857||synonyms: пение|pesni|ritmicheskaia vokalizatsiia|свист|penie||||
+#6	AnnotatorNotes T32	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0039451||synonyms: телеметрия|telemetriia||||third_annotator_label: None||synonyms: ||||bert: C0039451||synonyms: телеметрия|telemetriia||||
+#7	AnnotatorNotes T10	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C5197887||synonyms: съедобные пленки|s"edobnaia upakovka|съедобная упаковка|съедобная пленка|natural'naia upakovka||||third_annotator_label: None||synonyms: ||||bert: C5197887||synonyms: съедобные пленки|s"edobnaia upakovka|съедобная упаковка|съедобная пленка|natural'naia upakovka||||
+#8	AnnotatorNotes T17	first_annotator_label: C0221732||synonyms: налет в полости рта|налет в ротовой полости||||second_annotator_label: C0009144||synonyms: язык с налетом|налет языка|налет на языке|налет на поверхности языка||||third_annotator_label: C3854496||synonyms: налет во рту||||bert: C0009144||synonyms: язык с налетом|налет языка|налет на языке|налет на поверхности языка||||
+#9	AnnotatorNotes T30	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1083570||synonyms: чистец|chistets||||third_annotator_label: None||synonyms: ||||bert: C1083570||synonyms: чистец|chistets||||
+#10	AnnotatorNotes T38	first_annotator_label: C0038002||synonyms: спленомегалия|splenomegaliia|увеличение селезенки||||second_annotator_label: C0037993||synonyms: селезенка|selezenka||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0231249||synonyms: увеличение роста||||
+#11	AnnotatorNotes T62	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C1510538||synonyms: дистанционное консультирование|distantsionnoe konsul'tirovanie|internet-konsul'tirovanie|e-консультирование|e-konsul'tirovanie||||third_annotator_label: C0949766||synonyms: fizioterapiia|физиотерапия|терапия физическими факторами|fizioterapii metody|физиотерапевтические способы воздействия||||bert: C1978226||synonyms: эозионофилы.палочкоядерная форма/100 клеток:колдоля:тчкврм:костный мозг:колич:ручной подсчет||||

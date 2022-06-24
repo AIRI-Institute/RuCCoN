@@ -1,0 +1,130 @@
+T11	Symptom 914 938	общая мышечная гипотония
+T36	Symptom 4527 4566	Удлинение интервала QT на 0,08-0,09 сек
+T16	Body_location 1329 1365	на верхушке и по левому краю грудины
+T32	Disease 4278 4288	АВ-блокада
+T8	Symptom 775 801	втяжение грудины при крике
+T31	Body_location 3686 3702	левого желудочка
+T34	Symptom 4341 4387	89 изолированных левожелудочковых экстрасистол
+T42	Body_location 6650 6663	Воротная вена
+T45	Body_location 2756 2773	ПРАВОЕ ПРЕДСЕРДИЕ
+T26	Disease 2153 2193	Неполная блокада правой ножки пучка Гиса
+T15	Symptom 1311 1365	систолический шум на верхушке и по левому краю грудины
+T40	Symptom 5983 6023	ренгенологические признаки кардиомегалии
+T60	Body_location 8005 8017	ПРАВАЯ ПОЧКА
+T21	Severity 1941 1947	легкая
+T17	Disease 1635 1667	задержка психомоторного развития
+T14	Body_location 1288 1309	над легочной артерией
+T23	Body_location 1982 2007	миокарда обоих предсердий
+T39	Symptom 5676 5764	левая граница расширена на; 2,5 см; талия сердца сглажена за счет ушка левого предсердия
+T47	Body_location 2838 2854	ПРАВЫЙ ЖЕЛУДОЧЕК
+T52	Body_location 4881 4888	Ключицы
+T55	Body_location 6835 6855	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T48	Severity 3047 3050	49%
+T12	Symptom 1244 1259	приглушен 1 тон
+T20	Symptom 1932 1939	АРИТМИЯ
+T46	Body_location 2800 2826	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T4	Body_location 452 476	носогубного треугольника
+T35	Symptom 4449 4503	Нарушение процесса реполяризации в миокарде желудочков
+T51	Body_location 4751 4756	Ребра
+T59	Body_location 7394 7405	ЛЕВАЯ ПОЧКА
+T1	Symptom 320 364	Рост относительно возраста ниже 3 процентиля
+T57	Body_location 7209 7225	Д\ПЕРСТНАЯ КИШКА
+T7	Symptom 649 669	тургор тканей снижен
+T2	Symptom 421 443	выраженная мраморность
+T9	Symptom 803 830	голова гидроцефальной формы
+T22	Disease 1970 2007	гипертрофии миокарда обоих предсердий
+T53	Body_location 6351 6365	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T38	Symptom 5649 5673	Размеры сердца: изменены
+T58	Body_location 7262 7271	ЛИМФОУЗЛЫ
+T18	Symptom 1669 1698	негативно реагирует на осмотр
+T49	Severity 3009 3013	0,49
+T54	Body_location 6470 6476	ПЕЧЕНЬ
+T27	Severity 2195 2205	преходящая
+T33	Severity 4289 4298	1 степени
+T5	Body_location 479 495	периорбитальный,
+T30	Symptom 3651 3702	небольшое снижение фракции выброса левого желудочка
+T3	Symptom 445 519	цианоз носогубного треугольника и периорбитальный, усиливающийся при крике
+T41	Symptom 6699 6719	ангиометоз.трансформ
+T6	Symptom 558 579	обильное слюнотечение
+T25	Symptom 2083 2119	перегрузку миокарда левого желудочка
+T29	Symptom 3168 3208	ЗАДНЯЯ СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА: утолщена
+T43	Body_location 2713 2729	ЛЕВОЕ ПРЕДСЕРДИЕ
+T44	Body_location 3091 3118	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА
+T56	Body_location 7014 7023	СЕЛЕЗЕНКА
+T24	Symptom 2009 2063	низкоамплитудные комплексы QRS в стандартных отведения
+T37	Symptom 5601 5647	Сердце расположено широко прилежит к диафрагме
+T19	Symptom 1912 1930	ТАХИКАРДИЯ: резкая
+T10	Symptom 855 896	комбинированная деформация грудной клетки
+T13	Symptom 1261 1309	непостоянный акцент 2 тона над легочной артерией
+T50	Body_location 3534 3551	НИЖНЯЯ ПОЛАЯ ВЕНА
+T28	Symptom 2207 2261	Нарушения процесса реполяризации в миокарде желудочков
+T61	Body_location 8659 8673	МОЧЕВОЙ ПУЗЫРЬ
+N1	Reference T11 UMLS:C0026827	мышечная гипотония
+N2	Reference T36 UMLS:C0151878	удлиненный интервал qt
+N3	Reference T16 UMLS:CUILESS	грудина
+N4	Reference T32 UMLS:C0004245	av блокада
+N5	Reference T8 UMLS:CUILESS	деформация грудины
+N6	Reference T31 UMLS:C0080310	сердца желудочка левого функция
+N7	Reference T34 UMLS:C0151636	экстрасистола желудочковая
+N8	Reference T42 UMLS:C0032718	воротная вена
+N9	Reference T45 UMLS:C0078996	предсердие правое, функция
+N10	Reference T26 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N11	Reference T15 UMLS:C0232257	систолические шумы
+N12	Reference T40 UMLS:C0018800	кардиомегалия, бду
+N13	Reference T60 UMLS:C0022646	почки
+N14	Reference T21 UMLS:CUILESS	степень ухудшения бду
+N15	Reference T17 UMLS:C0235909	задержка психомоторного развития
+N16	Reference T14 UMLS:C0034052	легочная артерия
+N17	Reference T23 UMLS:UNKNOWN	предсердия функция
+N18	Reference T39 UMLS:UNKNOWN	увеличенное сердце
+N19	Reference T47 UMLS:C0080311	сердца желудочка правого функция
+N20	Reference T52 UMLS:C0008913	ключица
+N21	Reference T55 UMLS:C0030274	поджелудочная железа
+N22	Reference T12 UMLS:C0577822	патологические сердечные тоны
+N23	Reference T20 UMLS:C0003811	аритмия
+N24	Reference T46 UMLS:C2717762	перегородки межпредсердной обтуратор
+N25	Reference T4 UMLS:C1262254	цианоз носогубного треугольника
+N26	Reference T35 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N27	Reference T51 UMLS:C0035561	ребра
+N28	Reference T59 UMLS:C0022646	почки
+N29	Reference T1 UMLS:C0018273	роста нарушения
+N30	Reference T57 UMLS:C0013303	двенадцатиперстная кишка
+N31	Reference T7 UMLS:C0241166	тургор кожи
+N32	Reference T2 UMLS:C0029454	мраморная болезнь
+N33	Reference T9 UMLS:C0020255	гидроцефалия
+N34	Reference T22 UMLS:C0340278	гипертрофия предсердия
+N35	Reference T53 UMLS:C0016976	желчный пузырь
+N36	Reference T38 UMLS:C0018800	увеличение сердца
+N37	Reference T58 UMLS:C0024204	лимфатические узлы
+N38	Reference T18 UMLS:C0085194	окрашивание негативное
+N39	Reference T54 UMLS:C0023884	печень
+N40	Reference T27 UMLS:CUILESS	степень ухудшения бду
+N41	Reference T5 UMLS:C0151205	периорбитальный отек
+N42	Reference T30 UMLS:C0860560	снижение фракции выброса левого желудочка
+N43	Reference T3 UMLS:C1262254	цианоз носогубного треугольника
+N44	Reference T41 UMLS:C0002992	ангиоматоз
+N45	Reference T6 UMLS:C0013132	слюнотечение
+N46	Reference T25 UMLS:C1168331	инфаркт миокарда верхушки левого желудочка
+N47	Reference T29 UMLS:C3495916	гипертрофия миокарда
+N48	Reference T43 UMLS:C0078995	предсердие левое, функция
+N49	Reference T44 UMLS:C0225870	межжелудочковая перегородка
+N50	Reference T56 UMLS:C0037993	селезенка
+N51	Reference T24 UMLS:C0429027	укорочение комплекса qrs на электрокардиограмме
+N52	Reference T37 UMLS:C0018787	увеличенное сердце
+N53	Reference T19 UMLS:C0039231	тахикардия, неуточненная
+N54	Reference T10 UMLS:C1439256	деформация грудной клетки
+N55	Reference T13 UMLS:C0577822	патологические сердечные тоны
+N56	Reference T50 UMLS:C0042458	полая вена, нижняя
+N57	Reference T28 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N58	Reference T61 UMLS:C0005682	мочевой пузырь
+#1	AnnotatorNotes T16	first_annotator_label: C0038293||synonyms: грудина|grudina||||second_annotator_label: C0038846||synonyms: тела положение на спине|tela polozhenie na spine|supinirovannoe polozhenie tela|положение лежа лицом вверх|супинированное положение тела||||third_annotator_label: None||synonyms: ||||bert: C0038846||synonyms: тела положение на спине|tela polozhenie na spine|supinirovannoe polozhenie tela|положение лежа лицом вверх|супинированное положение тела||||
+#2	AnnotatorNotes T8	first_annotator_label: C1536139||synonyms: деформация грудины||||second_annotator_label: C0851172||synonyms: крикет, спорт|kriket, sport|igra v kriket|игра в крикет||||third_annotator_label: None||synonyms: ||||bert: C0851172||synonyms: крикет, спорт|kriket, sport|igra v kriket|игра в крикет||||
+#3	AnnotatorNotes T21	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0024109||synonyms: легкие|legkie||||bert: C0024109||synonyms: легкие|legkie||||
+#4	AnnotatorNotes T23	first_annotator_label: C0078994||synonyms: предсердия функция|predserdie, funktsiia|predserdiia funktsiia|предсердие, функция||||second_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||third_annotator_label: C0018792||synonyms: предсердие|predserdie||||bert: C0340293||synonyms: инфаркт передней стенки миокарда|передний инфаркт миокарда|передний им|инфаркт миокарда передней стенки|передне-боковой инфаркт миокарда||||
+#5	AnnotatorNotes T39	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C1655737||synonyms: ультразвуковое исследование сердца||||bert: C0262537||synonyms: левая паховая грыжа||||
+#6	AnnotatorNotes T35	first_annotator_label: C0948857||synonyms: нарушения реполяризации на электрокардиограмме|нарушения реполяризации на экг||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0860151||synonyms: удлинение реполяризации желудочков|удлиненная реполяризация желудочков||||bert: C0027056||synonyms: миокарда реваскуляризация|miokarda revaskuliarizatsiia|grudnoi vnutrennei arterii implantatsiia|грудной внутренней артерии имплантация||||
+#7	AnnotatorNotes T1	first_annotator_label: C0018273||synonyms: роста нарушения|rosta narusheniia|нарушение роста||||second_annotator_label: C0009508||synonyms: комплемента компонента 3 нефритический фактор|komplementa c3 nefriticheskii faktor|c3 nefriticheskii faktor|komplementa 3 nefriticheskii faktor|komplementa komponenta 3 nefriticheskii faktor||||third_annotator_label: None||synonyms: ||||bert: C0009508||synonyms: комплемента компонента 3 нефритический фактор|komplementa c3 nefriticheskii faktor|c3 nefriticheskii faktor|komplementa 3 nefriticheskii faktor|komplementa komponenta 3 nefriticheskii faktor||||
+#8	AnnotatorNotes T27	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0155003||synonyms: преходящая слепота|временная потеря зрения|временная слепота|слепота преходящая|преходящая потеря зрения||||bert: C0155003||synonyms: преходящая слепота|временная потеря зрения|временная слепота|слепота преходящая|преходящая потеря зрения||||
+#9	AnnotatorNotes T29	first_annotator_label: C3495916||synonyms: гипертрофия миокарда||||second_annotator_label: C0242698||synonyms: сердца желудочка левого дисфункция|serdtsa zheludochka levogo disfunktsiia|levogo zheludochka serdtsa disfunktsiia|дисфункция левого желудочка|левого желудочка сердца дисфункция||||third_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||bert: C1697885||synonyms: обструкция выходного тракта левого желудочка||||
+#10	AnnotatorNotes T37	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C0013580||synonyms: сердца эктопия|эктопия сердца|serdtsa ektopiia|ektopiia kordis|сердца смещение врожденное||||bert: C0457846||synonyms: шейный отдел спинного мозга|диафрагмальное ядро|iadro diafragmal'nogo nerva|добавочное ядро|ядро добавочного нерва||||
+#11	AnnotatorNotes T28	first_annotator_label: C0948857||synonyms: нарушения реполяризации на электрокардиограмме|нарушения реполяризации на экг||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0860151||synonyms: удлинение реполяризации желудочков|удлиненная реполяризация желудочков||||bert: C0027056||synonyms: миокарда реваскуляризация|miokarda revaskuliarizatsiia|grudnoi vnutrennei arterii implantatsiia|грудной внутренней артерии имплантация||||

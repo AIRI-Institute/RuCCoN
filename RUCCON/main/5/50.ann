@@ -1,0 +1,155 @@
+T35	Drug 1603 1611	назонекс
+T72	Disease 1517 1530	конъюнктивита
+T79	Severity 110 124	персистирующий
+T51	Symptom 2291 2300	суховатые
+T16	Body_location 397 404	на коже
+T17	Symptom 421 449	затруднение носового дыхания
+T29	Body_location 1218 1224	кожные
+T57	Symptom 2397 2408	Зев спокоен
+T59	Body_location 2441 2449	В лёгких
+T46	Symptom 1987 1996	зуд языка
+T40	Drug 1775 1785	беродуалом
+T50	Symptom 2275 2289	бледно-розовые
+T61	Symptom 2472 2478	хрипов
+T1	Disease 19 46	сезонная бронхиальная астма
+T71	Disease 1509 1515	ринита
+T10	Disease 220 248	Дисфункция билиарного тракта
+T14	Body_location 305 325	поджелудочной железы
+T20	Body_location 810 816	кожные
+T21	Symptom 817 834	проявления атопии
+T12	Body_location 231 248	билиарного тракта
+T54	Body_location 2353 2379	Видимые слизистые оболочки
+T9	Course 208 218	обострение
+T5	Course 126 140	вне обострения
+T15	Symptom 387 404	высыпания на коже
+T32	Disease 1547 1555	поллиноз
+T39	Treatment 1752 1809	в терапии: ингаляции с беродуалом и пульмикортом, серетид
+T77	Disease 1956 1967	отек Квинке
+T55	Symptom 2380 2387	розовые
+T19	Symptom 547 579	протекавшей с угрозой прерывания
+T27	Symptom 1218 1234	кожные высыпания
+T69	Body_location 1256 1260	кожи
+T25	Treatment 998 1035	подборе адаптированной молочной смеси
+T41	Drug 1788 1800	пульмикортом
+T22	Treatment 836 897	В терапии элидел, антигистаминные препараты короткими курсами
+T49	Body_location 2260 2274	Кожные покровы
+T63	Symptom 2583 2605	Стул склонен к запорам
+T75	Disease 9 17	Поллиноз
+T67	Symptom 2525 2533	изменена
+T53	Body_location 2333 2351	в области запястий
+T68	Symptom 1062 1079	кожные проявления
+T23	Drug 846 852	элидел
+T43	Disease 1882 1900	Инсектная аллергия
+T62	Symptom 2535 2566	Сердечные тоны ясные, ритмичные
+T65	Symptom 2620 2640	Менингеальных знаков
+T56	Symptom 2389 2395	чистые
+T2	Disease 48 76	риноконъюнктивальный синдром
+T36	Drug 1614 1625	кромогексал
+T33	Treatment 1557 1635	В терапии антигистаминные препараты (ксизал), назонекс и кромогексал (в глаза)
+T73	Disease 1998 2004	хейлит
+T74	Body_location 1627 1634	в глаза
+T28	Symptom 1237 1255	выраженная сухость
+T44	Disease 1929 1945	Пищевая аллергия
+T48	Disease 2056 2074	бронхиальная астма
+T6	Disease 142 158	Пищевая аллергия
+T52	Symptom 2302 2332	единичные папулезные высыпания
+T42	Drug 1802 1809	серетид
+T18	Symptom 452 484	симптомы бронхиальной обструкции
+T64	Symptom 2607 2614	Дизурии
+T7	Disease 160 178	Инсектная аллергия
+T11	Body_location 268 283	желчного пузыря
+T13	Disease 285 325	Вторичные изменения поджелудочной железы
+T34	Drug 1594 1600	ксизал
+T76	Disease 1684 1714	риноконъюнктивального синдрома
+T60	Symptom 2450 2470	дыхание везикулярное
+T66	Body_location 2497 2511	Область сердца
+T4	Disease 89 108	Аллергический ринит
+T8	Disease 180 206	Хронический гастродуоденит
+T58	Symptom 2410 2439	Носовое дыхание не затруднено
+T78	Disease 1729 1750	обструктивный синдром
+T3	Course 78 86	ремиссия
+T24	Symptom 967 992	лактазная недостаточность
+T70	Disease 1118 1129	отек Квинке
+N1	Reference T35 UMLS:C0066700	назонекс
+N2	Reference T72 UMLS:C0009763	конъюнктивит
+N3	Reference T79 UMLS:CUILESS	хронический ринит
+N4	Reference T51 UMLS:C0151908	сухая кожа
+N5	Reference T16 UMLS:C1123023	кожа
+N6	Reference T17 UMLS:C0553668	затруднение дыхания
+N7	Reference T29 UMLS:C1123023	кожа
+N8	Reference T57 UMLS:C0521367	ротоглотка
+N9	Reference T59 UMLS:C0024109	легкие
+N10	Reference T46 UMLS:C2748057	зуд языка
+N11	Reference T40 UMLS:C0015840	фенотерол
+N12	Reference T50 UMLS:C4505235	розовые
+N13	Reference T61 UMLS:C3887661	хрип
+N14	Reference T1 UMLS:C2919352	сезонная астма
+N15	Reference T71 UMLS:C0035455	ринит
+N16	Reference T10 UMLS:C0005424	желчных путей болезни
+N17	Reference T14 UMLS:C0030274	поджелудочная железа
+N18	Reference T20 UMLS:C1123023	кожа
+N19	Reference T21 UMLS:C0947961	атопические нарушения
+N20	Reference T12 UMLS:C0005423	желчные пути
+N21	Reference T54 UMLS:C0026724	слизистая оболочка
+N22	Reference T9 UMLS:C0853946	обострение боли
+N23	Reference T5 UMLS:UNKNOWN	ремиссия спонтанная
+N24	Reference T15 UMLS:C0239521	высыпание на коже лица
+N25	Reference T32 UMLS:C0018621	поллиноз
+N26	Reference T39 UMLS:C0013154	введение лекарств ингаляционное
+N27	Reference T77 UMLS:C0002994	отек квинке
+N28	Reference T55 UMLS:C4505235	розовые
+N29	Reference T19 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N30	Reference T27 UMLS:C0015230	кожное высыпание
+N31	Reference T69 UMLS:C1123023	кожа
+N32	Reference T25 UMLS:C4049215	питания контроль
+N33	Reference T41 UMLS:C0054201	будесонид
+N34	Reference T22 UMLS:C1504374	антигистаминная терапия
+N35	Reference T49 UMLS:C1123023	кожа
+N36	Reference T63 UMLS:C0267509	хронический идиопатический запор
+N37	Reference T75 UMLS:C0018621	поллиноз
+N38	Reference T67 UMLS:C0242863	absent
+N39	Reference T53 UMLS:C0043262	запястье
+N40	Reference T68 UMLS:C0037285	кожные проявления
+N41	Reference T23 UMLS:C0003209	противовоспалительные средства нестероидные
+N42	Reference T43 UMLS:C1261392	аллергия на укусы насекомых
+N43	Reference T62 UMLS:C2712143	нормальный сердечный ритм
+N44	Reference T65 UMLS:C0025287	менингеальные знаки
+N45	Reference T56 UMLS:C0598869	чистая культура
+N46	Reference T2 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N47	Reference T36 UMLS:C0282555	противоаллергические средства
+N48	Reference T33 UMLS:C1504374	антигистаминная терапия
+N49	Reference T73 UMLS:C0007971	хейлит
+N50	Reference T74 UMLS:C0015392	глаз
+N51	Reference T28 UMLS:C0151908	сухая кожа
+N52	Reference T44 UMLS:C0149696	пищевая аллергия
+N53	Reference T48 UMLS:C0004096	бронхиальная астма
+N54	Reference T6 UMLS:C0149696	пищевая аллергия
+N55	Reference T52 UMLS:C1519353	сыпь, папулезная
+N56	Reference T42 UMLS:C0939232	серетид
+N57	Reference T18 UMLS:C0865791	обструктивный бронхит
+N58	Reference T64 UMLS:C0013428	дизурия
+N59	Reference T7 UMLS:C1261392	аллергия на укусы насекомых
+N60	Reference T11 UMLS:C0016976	желчный пузырь
+N61	Reference T13 UMLS:C0030286	поджелудочной железы болезни
+N62	Reference T34 UMLS:C0055147	цетиризин
+N63	Reference T76 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N64	Reference T60 UMLS:C0231855	нормальная аускультативная картина в легких
+N65	Reference T66 UMLS:C0018799	сердца болезни
+N66	Reference T4 UMLS:C2607914	аллергический ринит
+N67	Reference T8 UMLS:C4728231	хронический гастродуоденит
+N68	Reference T58 UMLS:C0035203	дыхание
+N69	Reference T78 UMLS:C3665783	обструктивный шок
+N70	Reference T3 UMLS:C0242793	период ремиссии
+N71	Reference T24 UMLS:C0302813	недостаточность лактазы
+N72	Reference T70 UMLS:C0002994	отек квинке
+#1	AnnotatorNotes T79	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#2	AnnotatorNotes T10	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||third_annotator_label: C4552284||synonyms: гипофункция желчного пузыря||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#3	AnnotatorNotes T12	first_annotator_label: C0005423||synonyms: желчные пути|zhelchnye puti||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C1142316||synonyms: устранение билиарного свища||||
+#4	AnnotatorNotes T5	first_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#5	AnnotatorNotes T39	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0106269||synonyms: хлорид-бикарбонатов антипортеры|khlorid-bikarbonatov antiportery||||
+#6	AnnotatorNotes T25	first_annotator_label: C0028713||synonyms: питания контроль|pitaniia kontrol'||||second_annotator_label: C0452415||synonyms: диета здоровая|здоровая диета|zdorovaia dieta|здоровое питание|zdorovoe pitanie||||third_annotator_label: C4049215||synonyms: смесь для детского питания||||bert: C0151511||synonyms: молочной железы, атрофия|атрофия молочной железы|мастатрофия|атрофированная молочная железа|уменьшение объема молочной железы||||
+#7	AnnotatorNotes T63	first_annotator_label: C0267509||synonyms: хронический идиопатический запор||||second_annotator_label: C3897342||synonyms: блокада поперечного пространства живота|tap-блок||||third_annotator_label: None||synonyms: ||||bert: C3897342||synonyms: блокада поперечного пространства живота|tap-блок||||
+#8	AnnotatorNotes T23	first_annotator_label: C0003211||synonyms: противовоспалительные средства нестероидные|protivovospalitel'nye sredstva nesteroidnye|npvs|npvp|нпвп||||second_annotator_label: C1148278||synonyms: такролимус:масса:тчкврм:доза:колич||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C1001360||synonyms: водокрасовые|elodeia|talassiia|vodokrasovye|талассия||||
+#9	AnnotatorNotes T7	first_annotator_label: C1261392||synonyms: аллергия на укусы насекомых||||second_annotator_label: C0559469||synonyms: гиперсенсибилизация к яйцам|аллергия на яйца|giperchuvstvitel'nost' k iaitsam|gipersensibilizatsiia k iaitsam|гиперчувствительность к яйцам||||third_annotator_label: C0740318||synonyms: аллергия на жало насекомого|аллергия на ужаливание насекомым||||bert: C0559469||synonyms: гиперсенсибилизация к яйцам|аллергия на яйца|giperchuvstvitel'nost' k iaitsam|gipersensibilizatsiia k iaitsam|гиперчувствительность к яйцам||||
+#10	AnnotatorNotes T60	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#11	AnnotatorNotes T3	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||

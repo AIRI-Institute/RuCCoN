@@ -1,0 +1,124 @@
+T33	Treatment 2166 2253	В терапии сингуляр, получил курс противолямблиозной терапии, курс антацидных препаратов
+T9	Symptom 711 730	затруднения дыхания
+T16	Symptom 935 958	бронхиальной обструкции
+T48	Symptom 2705 2725	Менингеальных знаков
+T19	Symptom 1302 1312	обструкции
+T25	Course 2001 2015	вне обострения
+T10	Disease 758 780	респираторной инфекции
+T27	Disease 2043 2069	Хронический гастродуоденит
+T23	Severity 1906 1937	легкое интермиттирующее течение
+T11	Treatment 782 872	Получал терапию в стационаре: эуфиллин, дексаметазон, супрастин в/м, беродуал в ингаляциях
+T34	Drug 2176 2184	сингуляр
+T38	Disease 2392 2411	аллергический ринит
+T45	Symptom 2649 2677	Тоны сердца ясные, ритмичные
+T15	Drug 851 859	беродуал
+T37	Disease 2364 2383	контактный дерматит
+T49	Symptom 2553 2569	смуглым оттенком
+T30	Body_location 2094 2111	билиарного тракта
+T3	Disease 93 135	Аллергический ринит, персистирующиая форма
+T6	Symptom 264 291	эпизоды затруднения дыхания
+T20	Treatment 1334 1387	Для купирования симптомов используется беродуал (ДАИ)
+T41	Body_location 2535 2549	Кожные покровы
+T52	Treatment 1011 1039	получал терапию в стационаре
+T22	Disease 1873 1904	Бронхиальная астма, атопическая
+T32	Disease 2155 2163	Лямблиоз
+T46	Symptom 2679 2683	Стул
+T56	Disease 1705 1712	герпеса
+T8	Disease 665 678	ветряная оспа
+T53	Body_location 2133 2153	поджелудочной железы
+T14	Drug 836 845	супрастин
+T17	Disease 922 925	ОРИ
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T42	Body_location 2579 2587	В легких
+T29	Disease 2083 2111	Дисфункция билиарного тракта
+T13	Drug 822 834	дексаметазон
+T44	Symptom 2625 2630	хрипы
+T47	Symptom 2685 2691	диурез
+T36	Symptom 2300 2319	затруднения дыхания
+T50	Symptom 2571 2577	чистые
+T55	Disease 1474 1481	герпесу
+T2	Severity 42 73	легкое интермиттирующее течение
+T39	Body_location 2468 2471	Зев
+T24	Disease 1957 1999	Аллергический ринит, персистирующиая форма
+T35	Drug 2232 2253	антацидных препаратов
+T43	Symptom 2588 2623	аускультативно везикулярное дыхание
+T21	Drug 1373 1381	беродуал
+T54	Disease 565 586	развитие без задержек
+T26	Disease 2017 2041	Атопический конъюнктивит
+T40	Symptom 2476 2495	катаральных явлений
+T51	Symptom 2497 2533	Носовое дыхание несколько затруднено
+T7	Disease 300 322	респираторных инфекций
+T28	Course 2071 2081	обострение
+T5	Symptom 214 242	затруднение носового дыхания
+T31	Disease 2113 2153	Вторичные изменения поджелудочной железы
+T18	Symptom 1263 1291	затруднение носового дыхания
+T12	Drug 812 820	эуфиллин
+T4	Course 137 151	вне обострения
+N1	Reference T33 UMLS:C0013154	комплексное лечение
+N2	Reference T9 UMLS:C0553668	затруднение дыхания
+N3	Reference T16 UMLS:C0221725	бронхиальная обструкция
+N4	Reference T48 UMLS:C0025287	менингеальные знаки
+N5	Reference T19 UMLS:C0028778	обструкция, бду
+N6	Reference T25 UMLS:C0242793	период ремиссии
+N7	Reference T10 UMLS:C0035243	респираторные инфекции
+N8	Reference T27 UMLS:C4728231	хронический гастродуоденит
+N9	Reference T23 UMLS:CUILESS	астма, хроническая
+N10	Reference T11 UMLS:C0013154	введение лекарств ингаляционное
+N11	Reference T34 UMLS:C3654961	терапевтическая концентрация бронходилататора, бду
+N12	Reference T38 UMLS:C2607914	аллергический ринит
+N13	Reference T45 UMLS:C2230284	нормальный сердечный ритм
+N14	Reference T15 UMLS:C0015840	фенотерол
+N15	Reference T37 UMLS:C0011616	контактный дерматит
+N16	Reference T49 UMLS:CUILESS	цвет
+N17	Reference T30 UMLS:C1142316	устранение билиарного свища
+N18	Reference T3 UMLS:C2607914	аллергический ринит
+N19	Reference T6 UMLS:C0553668	затруднение дыхания
+N20	Reference T20 UMLS:C0013154	введение лекарств ингаляционное
+N21	Reference T41 UMLS:C1123023	кожа
+N22	Reference T52 UMLS:C0019993	размещение в стационар
+N23	Reference T22 UMLS:C0004096	астма, бронхиальная
+N24	Reference T32 UMLS:C0017536	лямблиоз
+N25	Reference T46 UMLS:CUILESS	мягкий стул
+N26	Reference T56 UMLS:C0019372	герпес
+N27	Reference T8 UMLS:C0008049	ветряная оспа
+N28	Reference T53 UMLS:C0030274	поджелудочная железа
+N29	Reference T14 UMLS:C0019592	антигистаминные h1 средства
+N30	Reference T17 UMLS:C0035243	респираторные инфекции
+N31	Reference T1 UMLS:C0004096	астма, бронхиальная
+N32	Reference T42 UMLS:C3805066	боль в легких
+N33	Reference T29 UMLS:C0005395	патологии желчевыводящих путей
+N34	Reference T13 UMLS:C0011777	дексаметазон
+N35	Reference T44 UMLS:C0035234	хрипы
+N36	Reference T47 UMLS:C1287298	диурез
+N37	Reference T36 UMLS:C0553668	затруднение дыхания
+N38	Reference T50 UMLS:C0598869	чистая культура
+N39	Reference T55 UMLS:C0019372	герпес
+N40	Reference T2 UMLS:CUILESS	астма, хроническая
+N41	Reference T39 UMLS:C0521367	ротоглотка
+N42	Reference T24 UMLS:C2607914	аллергический ринит
+N43	Reference T35 UMLS:C1096697	применение антацидов
+N44	Reference T43 UMLS:C0947985	аускультативные исследования сосудов
+N45	Reference T21 UMLS:C0015840	фенотерол
+N46	Reference T54 UMLS:C0008071	детей развитие
+N47	Reference T26 UMLS:C0009766	атопический конъюнктивит
+N48	Reference T40 UMLS:UNKNOWN	патология
+N49	Reference T51 UMLS:C0853254	раздражение носовых ходов
+N50	Reference T7 UMLS:C0035243	респираторные инфекции
+N51	Reference T28 UMLS:C0853946	обострение боли
+N52	Reference T5 UMLS:C0553668	затруднение дыхания
+N53	Reference T31 UMLS:C0030286	поджелудочной железы болезни
+N54	Reference T18 UMLS:C0553668	затруднение дыхания
+N55	Reference T12 UMLS:C0002575	эуфиллин
+#1	AnnotatorNotes T33	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1262055||synonyms: терапевтическая концентрация противоастматического лекарственного препарата||||
+#2	AnnotatorNotes T25	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#3	AnnotatorNotes T23	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0024115||synonyms: легких болезни|legkikh bolezni|legochnye bolezni|нарушение со стороны легких (бду)|нарушение со стороны легкого||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||
+#4	AnnotatorNotes T11	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0037556||synonyms: натрия тетрадецилсульфат|natriia tetradetsilsul'fat||||
+#5	AnnotatorNotes T34	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C3654961||synonyms: монтелукаст индуцированный нейтрофил ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C3654714||synonyms: монтелукаст индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||bert: C0342853||synonyms: сиаловой кислоты отложений болезни|болезнь накопления сиаловых кислот|sialovoi kisloty kumuliatsii bolezn' u mladentsev|sialovoi kisloty otlozhenii bolezni|sialuriia||||
+#6	AnnotatorNotes T45	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C3853525||synonyms: четвертый тон сердца||||
+#7	AnnotatorNotes T49	first_annotator_label: C0009393||synonyms: цвет|tsvet||||second_annotator_label: C1053942||synonyms: sphagnopsida|sfagnum|мох сфагнум|мхи торфяные|сфагнум||||third_annotator_label: None||synonyms: ||||bert: C1053942||synonyms: sphagnopsida|sfagnum|мох сфагнум|мхи торфяные|сфагнум||||
+#8	AnnotatorNotes T20	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0791227||synonyms: анализ на кандиду||||
+#9	AnnotatorNotes T52	first_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||second_annotator_label: C0011017||synonyms: дневной стационар|dnevnoi statsionar|gospitalizatsiia chastichnaia|gospitalizatsiia na dnevnoe vremia|statsionarnoe lechenie dnevnoe||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||
+#10	AnnotatorNotes T46	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#11	AnnotatorNotes T29	first_annotator_label: C0005395||synonyms: желчных протоков болезни|zhelchnykh protokov bolezni|патологии желчевыводящих путей||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C0005416||synonyms: желчных путей дискинезия|zhelchnykh putei diskineziia|дискинезия желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#12	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0024115||synonyms: легких болезни|legkikh bolezni|legochnye bolezni|нарушение со стороны легких (бду)|нарушение со стороны легкого||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||
+#13	AnnotatorNotes T40	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||

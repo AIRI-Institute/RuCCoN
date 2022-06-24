@@ -1,0 +1,456 @@
+T43	Body_location 10133 10142	Паренхима
+T139	Symptom 7020 7077	(некоторые - с блокадой проведения по правой ножке п.Гиса
+T70	Symptom 2010 2026	расширение обоих
+T98	Symptom 4122 4208	расщепление II тона, систолический шум, на верхушке I тон приглушен, систолический шум
+T19	Symptom 1378 1418	нарастание перикардита, появление асцита
+T131	Symptom 5750 5769	Створки не изменены
+T99	Body_location 4302 4306	Язык
+T186	Treatment 15052 15175	в/м Бициллин-5 (Бензатина бензилпенициллин+ Бензилпенициллин прокаина+Бензилпенициллин) 1млн 200тЕД 17 число каждого месяца
+T12	Symptom 790 813	Физиологическая желтуха
+T30	Drug 2604 2617	спиронолактон
+T113	Body_location 4909 4925	ЛЕГОЧНАЯ АРТЕРИЯ
+T182	Treatment 14839 14895	Колхицин (колхицин) 500 мг 2 р/д, после еды - постоянно.
+T194	Drug 15068 15094	Бензатина бензилпенициллин
+T124	Body_location 5727 5748	РИКУСПИДАЛЬНЫЙ КЛАПАН
+T20	Symptom 1449 1459	увеличение
+T73	Symptom 2077 2104	утолщение листков перикарда
+T26	Disease 2358 2395	Хронический констриктивный перикардит
+T116	Body_location 5049 5065	ЛЕВОЕ ПРЕДСЕРДИЕ
+T81	Severity 2540 2554	II ФК по NYHA"
+T25	Symptom 1732 1777	признаки перегрузки миокарда обоих предсердий
+T120	Body_location 5383 5398	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T28	Drug 2583 2591	колхицин
+T149	Symptom 9196 9240	просвет бронхов не расширен, не деформирован
+T177	Drug 13529 13536	Нексиум
+T212	Symptom 3315 3343	крупнопластинчатое шелушение
+T209	Treatment 98 184	линейной пластики дивертикула правого желудочка, дренирования перикарда от 27.11.2054г
+T60	Drug 2715 2727	джозамицином
+T17	Disease 1154 1194	Дивертикул правого желудочка, перикардит
+T42	Disease 9797 9829	выбухание дуги легочной артерии,
+T122	Body_location 5590 5620	ЗАДНЯЯ СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА
+T21	Body_location 1460 1466	живота
+T132	Body_location 5951 5959	ПЕРИКАРД
+T77	Symptom 2191 2218	утолщение листков перикарда
+T137	Symptom 6133 6167	сообщающегося с полостью желудочка
+T100	Body_location 4315 4319	Живо
+T106	Symptom 4496 4520	Дизурических явлений нет
+T48	Body_location 10433 10448	Печеночные вены
+T9	Symptom 426 439	Сопутствующий
+T63	Severity 410 424	II ФК по NYHA.
+T166	Body_location 12598 12610	ПРАВАЯ ПОЧКА
+T76	Body_location 2130 2147	и печеночных вен,
+T104	Body_location 4400 4409	Селезенка
+T2	Disease 393 398	Асцит
+T151	Symptom 9610 9642	дифференцируется; с двух сторон.
+T7	Body_location 3280 3313	по срединной линии грудной клетки
+T188	Drug 14777 14787	Верошпирон
+T163	Body_location 11837 11851	МОЧЕВОЙ ПУЗЫРЬ
+T119	Body_location 5182 5199	ПРАВЫЙ ЖЕЛУДОЧЕК:
+T160	Body_location 10907 10922	\ПЕРСТНАЯ КИШКА
+T115	Symptom 4957 4968	не изменен.
+T18	Treatment 1206 1338	проведена линейная пластика дивертикула правого желудочка, пункция перикарда, задета печень, экстренно проведено оперативное лечение
+T154	Disease 9830 9852	легочная гипертензия.;
+T168	Symptom 12003 12027	норма; Размер 110Х40 мм;
+T210	Body_location 128 145	правого желудочка
+T147	Symptom 9525 9564	по положению и конфигурации не изменена
+T62	Severity 404 408	2Аст
+T80	Severity 2534 2538	2Аст
+T110	Symptom 4769 4788	створки не изменены
+T161	Body_location 11192 11202	ЕВАЯ ПОЧКА
+T183	Treatment 14899 14946	Нексиум (эзомепразол) 20 мг на ночь - постоянно
+T5	Severity 197 201	2Аст
+T39	Disease 8569 8574	Асцит
+T49	Symptom 10449 10468	изменены, расширены
+T35	Symptom 7458 7524	Сохраняется уплотнение и неравномерное утолщение листков перикарда
+T44	Symptom 10143 10181	мелкоочаговая диффузная неоднородность
+T191	Drug 14952 14960	Панангин
+T97	Body_location 4105 4121	егочной артерией
+T105	Symptom 4410 4422	не увеличена
+T195	Drug 15096 15121	Бензилпенициллин прокаина
+T174	Drug 13444 13450	Диувер
+T67	Disease 1526 1548	портальной гипертензии
+T167	Body_location 12165 12174	Паренхима
+T83	Body_location 3188 3202	Кожные покровы
+T187	Drug 14720 14726	Диувер
+T58	Treatment 14720 14771	Диувер (торасемид) 10 мг х 1 р/д в 8.00 – постоянно
+T3	Disease 186 192	Асцит.
+T173	Symptom 12537 12596	не расширена; нижняя треть не расширена; стенки не изменены
+T129	Symptom 5622 5649	не утолщена - толщина 7 мм.
+T190	Drug 14899 14906	Нексиум
+T10	Symptom 522 532	увеличение
+T32	Treatment 2699 2756	получал лечение джозамицином 500 мг/сут в течение 10 дней
+T107	Body_location 4565 4577	Слух, зрение
+T45	Symptom 10277 10292	стенки утолщены
+T1	Disease 21 58	Хронический констриктивный перикардит
+T46	Body_location 10397 10400	ОЖП
+T11	Body_location 533 539	живота
+T40	Disease 8554 8567	Кардиомегалия
+T71	Body_location 2027 2037	предсердий
+T178	Drug 13554 13561	МагнеB6
+T136	Disease 6102 6131	Девиртикула правого желудочка
+T200	Symptom 9116 9142	главных бронхов не изменен
+T91	Symptom 3532 3553	без видимой патологии
+T23	Symptom 1701 1714	гепатомегалия
+T16	Body_location 1087 1092	аорты
+T180	Severity 13920 13933	II ФК по NYHA
+T145	Body_location 9592 9608	Синусы диафрагмы
+T199	Body_location 9109 9115	трахеи
+T24	Symptom 1716 1721	асцит
+T69	Symptom 1961 1974	кардиомегалия
+T41	Body_location 8734 8755	Скелет грудной клетки
+T192	Drug 15007 15015	Магнерот
+T94	Symptom 3810 3831	визуально не изменена
+T112	Body_location 4877 4902	Правая коронарная артерия
+T134	Body_location 5988 6005	НИЖНЯЯ ПОЛАЯ ВЕНА
+T153	Symptom 9913 9941	Локализация в типичном месте
+T213	Drug 14789 14802	спиронолактон
+T155	Body_location 10030 10036	ПЕЧЕНЬ
+T133	Symptom 5961 5987	Листки утолщены, слоистые.
+T37	Body_location 7718 7724	Сердце
+T90	Body_location 3516 3531	Костная система
+T96	Symptom 4053 4098	ритмичные, приглушены по правому краю грудины
+T125	Symptom 5086 5094	увеличен
+T169	Symptom 12176 12202	дифференцировка сохранена;
+T189	Drug 14839 14847	Колхицин
+T164	Body_location 11990 12001	ЛЕВАЯ ПОЧКА
+T157	Body_location 10481 10502	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА:
+T56	Disease 13910 13913	ХСН
+T179	Drug 13577 13585	Панангин
+T172	Body_location 12525 12535	Мочеточник
+T117	Body_location 5096 5113	ПРАВОЕ ПРЕДСЕРДИЕ
+T150	Symptom 9584 9590	четкий
+T114	Body_location 4950 4956	Клапан
+T144	Body_location 9566 9582	Куполы диафрагмы
+T176	Drug 13507 13515	Колхицин
+T72	Symptom 2039 2074	дрожание межжелудочковой перегородк
+T214	Drug 14728 14737	торасемид
+T93	Body_location 3803 3809	сердца
+T85	Body_location 3242 3247	груди
+T206	Symptom 11204 11228	Размер 110Х40 мм - норма
+T140	Symptom 8756 8822	сформирован симметрично, ограниченные утолщения плевры отсутствуют
+T8	Disease 440 458	Кардиальный фиброз
+T34	Body_location 6950 6976	НАДЖЕЛУДОЧКОВАЯ АКТИВНОСТЬ
+T156	Symptom 10038 10065	Размер ЛД 124 мм - увеличен
+T103	Symptom 4376 4398	+2,5 см , край плотный
+T193	Drug 15056 15066	Бициллин-5
+T31	Drug 2630 2638	бициллин
+T207	Body_location 11421 11430	Паренхима
+T171	Symptom 13280 13349	заполнен; Форма обычная; Стенки не изменены; Внутренний контур ровный
+T204	Symptom 10869 10882	Стенки норма.
+T13	Symptom 1020 1031	гипертрофию
+T92	Symptom 3706 3779	Аускультативно дыхание везикулярное, проводится во все отделы, хрипов нет
+T79	Disease 2530 2533	ХСН
+T65	Disease 1502 1515	гепатомегалия
+T197	Body_location 8017 8035	сосудистый рисунок
+T211	Body_location 160 169	перикарда
+T196	Drug 15122 15138	Бензилпенициллин
+T14	Body_location 1032 1048	обоих желудочков
+T27	Treatment 2435 2506	линейной пластики дивертикула правого желудочка, дренирования перикарда
+T111	Body_location 4846 4870	Левая коронарная артерия
+T68	Symptom 1864 1916	нарушения реполяризации с признаками ишемии миокарда
+T22	Symptom 1679 1699	шум трения перикарда
+T130	Symptom 5669 5706	Створки - пролапс митрального клапана
+T181	Treatment 14777 14834	Верошпирон (спиронолактон) 75 мг 1 р/д, 17.00 - постоянно
+T158	Body_location 10683 10692	СЕЛЕЗЕНКА
+T142	Symptom 8959 9051	усилен, обогащен за счет сосудистого компонента, в прикорневых зонах, ослаблен по периферии.
+T205	Symptom 10924 10961	Стенки - норма .Секреция - содержимое
+T53	Treatment 13444 13597	Диувер 10 мг х 1 р/д 8.00 4. Верошпирон 75 мг х 1 р/д 17.00 5. Колхицин 1 мг 8.00 6. Нексиум 20 мг на ночь 7. МагнеB6 1 т х 3 р/д 8. Панангин 1 т х 3 р/д
+T175	Drug 13473 13483	Верошпирон
+T198	Symptom 8036 8059	усилен, не деформирован
+T95	Body_location 4046 4052	сердца
+T108	Body_location 4656 4661	АОРТА
+T47	Symptom 10415 10430	стенки утолщены
+T75	Body_location 2117 2129	нижней полой
+T102	Body_location 4369 4375	Печень
+T50	Body_location 10503 10510	Головка
+T6	Disease 228 265	Хронический констриктивный перикардит
+T57	Severity 13914 13918	2Аст
+T78	Disease 2523 2528	Асцит
+T82	Treatment 2583 2644	колхицин, торасемид, спиронолактон, ежемесячно бициллин-5 в/м
+T84	Body_location 3233 3240	на лице
+T86	Body_location 3249 3254	спине
+T170	Symptom 12612 12636	норма; Размер 109Х40 мм;
+T88	Symptom 3256 3279	послеоперационный рубец
+T135	Symptom 6007 6047	расширена, коллабирует на вдох менее 50%
+T109	Body_location 4746 4767	Клапан трехстворчатый
+T33	Symptom 3377 3396	Катаральных явлений
+T52	Treatment 13417 13443	Режим общий 2. Диета №5 3.
+T54	Disease 13738 13776	Хронический констриктивный перикардит.
+T127	Symptom 5253 5381	оп.особенности в области верхушки правого желудочка определяется полость 14*6 мм заполняемая кровью из полости правого желудочка
+T128	Symptom 5541 5567	не утолщена - толщина 8 мм
+T162	Body_location 11231 11243	РАВАЯ ПОЧКА:
+T51	Symptom 10519 10528	увеличена
+T74	Symptom 2106 2116	расширение
+T143	Body_location 9513 9523	Дуга аорты
+T89	Body_location 3402 3421	Подкожная клетчатка
+T36	Symptom 7569 7637	В области верхушки сердца линейной формы высокоплотностное включение
+T123	Body_location 5650 5667	МИТРАЛЬНЫЙ КЛАПАН
+T165	Body_location 13264 13278	МОЧЕВОЙ ПУЗЫРЬ
+T121	Body_location 5512 5539	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА
+T4	Disease 193 196	ХСН
+T159	Body_location 10860 10867	ЖЕЛУДОК
+T118	Body_location 5144 5170	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T148	Symptom 9151 9195	прослежены до уровня субсегментарных ветвей,
+T138	Symptom 6978 7019	16 изолированных предсердных экстрасистол
+T38	Symptom 7725 7745	увеличено в размерах
+T185	Treatment 15007 15047	Магнерот (магния оротат) по 1 т х 3 р/д.
+T203	Symptom 11804 11835	не расширен, стенки не изменены
+T29	Drug 2593 2602	торасемид
+T55	Disease 13903 13908	Асцит
+T59	Severity 203 218	II ФК по NYHA..
+T141	Body_location 8942 8958	Легочный рисунок
+T15	Symptom 1076 1086	коарктацию
+T202	Body_location 11792 11803	Мочеточник:
+T87	Symptom 3203 3217	бледно-розовые
+T61	Disease 400 403	ХСН
+T126	Symptom 5134 5142	увеличен
+T152	Body_location 9897 9911	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T184	Treatment 14952 15001	Панангин (Калия и магния аспарагинат) 1 т х 3 р/д
+T101	Symptom 4321 4367	увеличен в объеме, доступен глубокой пальпации
+T66	Symptom 1517 1525	признаки
+T208	Symptom 11432 11581	дифференцировка сохранена, эхогенность коркового слоя нормальная, эхогенность мозгового слоя нормальная, толщина - норма, стенки сосудов не изменены.
+T201	Symptom 10694 10717	Размер 120х56 мм, норма
+T146	Body_location 9144 9150	Бронхи
+T64	Symptom 650 660	токсикозом
+N1	Reference T43 UMLS:C4277702	паренхиматозная ткань
+N2	Reference T139 UMLS:C0085615	блокада правой ножки пучка гиса
+N3	Reference T70 UMLS:C4324595	увеличение обоих предсердий
+N4	Reference T98 UMLS:CUILESS	систолические шумы
+N5	Reference T19 UMLS:C0155679	острый перикардит
+N6	Reference T131 UMLS:CUILESS	норма рабочая
+N7	Reference T99 UMLS:C0040408	язык
+N8	Reference T186 UMLS:C0854606	антибиотикотерапия
+N9	Reference T12 UMLS:C1565887	физиологическая желтуха у младенцев
+N10	Reference T30 UMLS:C0037982	спиронолактон
+N11	Reference T113 UMLS:C0034052	легочная артерия
+N12	Reference T182 UMLS:C0459914	снижение уровня мочевой кислоты
+N13	Reference T194 UMLS:C0030829	бензатин пенициллин
+N14	Reference T124 UMLS:C0040960	трехстворчатый клапан
+N15	Reference T20 UMLS:C0231249	увеличение роста
+N16	Reference T73 UMLS:C4285909	утолщение перикарда
+N17	Reference T26 UMLS:C0031048	констриктивный перикардит
+N18	Reference T116 UMLS:C0078995	предсердие левое, функция
+N19	Reference T25 UMLS:C3241958	болезни миокарда
+N20	Reference T120 UMLS:C0149721	увеличение левого желудочка
+N21	Reference T28 UMLS:C0009262	колхицин
+N22	Reference T149 UMLS:CUILESS	бронхов гиперреактивность
+N23	Reference T177 UMLS:C0937846	нексиум
+N24	Reference T212 UMLS:C0520893	шелушение кожи кистей рук и подошвы стоп
+N25	Reference T209 UMLS:CUILESS	редукционная пластика желудочка
+N26	Reference T60 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N27	Reference T17 UMLS:C0031046	перикардит
+N28	Reference T122 UMLS:C0018827	миокард
+N29	Reference T21 UMLS:C0000726	живот
+N30	Reference T132 UMLS:C0031050	перикард
+N31	Reference T77 UMLS:C4285909	утолщение перикарда
+N32	Reference T100 UMLS:C0023914	живая воля
+N33	Reference T106 UMLS:C0856125	дизурия, обострение
+N34	Reference T48 UMLS:C0019155	печеночные вены
+N35	Reference T9 UMLS:C0009488	сопутствующие болезни
+N36	Reference T166 UMLS:C0022646	почки
+N37	Reference T76 UMLS:C0019155	печеночные вены
+N38	Reference T104 UMLS:C0037993	селезенка
+N39	Reference T2 UMLS:C0003962	асцит
+N40	Reference T151 UMLS:C0007589	клетки дифференциация
+N41	Reference T7 UMLS:C0817096	грудная клетка
+N42	Reference T188 UMLS:C0037982	верошпирон
+N43	Reference T163 UMLS:C0005682	мочевой пузырь
+N44	Reference T119 UMLS:C0018827	сердца желудочек
+N45	Reference T160 UMLS:C0013303	двенадцатиперстная кишка
+N46	Reference T115 UMLS:C0237284	отсутствие реакции
+N47	Reference T18 UMLS:C0543467	оперативное лечение
+N48	Reference T154 UMLS:C0020542	гипертензия, легочная
+N49	Reference T168 UMLS:C1450569	органа размер
+N50	Reference T210 UMLS:C0018827	сердца желудочки
+N51	Reference T147 UMLS:CUILESS	результаты исследования сосудов в норме
+N52	Reference T161 UMLS:C0022646	почки
+N53	Reference T183 UMLS:C0459914	протонных насосов ингибиторы
+N54	Reference T39 UMLS:C0003962	асцит
+N55	Reference T49 UMLS:CUILESS	дилатация печеночной вены
+N56	Reference T35 UMLS:C4285909	утолщение перикарда
+N57	Reference T44 UMLS:CUILESS	жировые включения в паренхиме печени
+N58	Reference T191 UMLS:C0032835	калия, магния аспарагинат
+N59	Reference T97 UMLS:C0034052	легочная артерия
+N60	Reference T105 UMLS:CUILESS	органа размер
+N61	Reference T195 UMLS:C0030829	бензатин пенициллин
+N62	Reference T174 UMLS:C0076840	торасемид
+N63	Reference T67 UMLS:C0020541	портальные гипертензии
+N64	Reference T167 UMLS:C4277702	паренхиматозная ткань
+N65	Reference T83 UMLS:C1123023	кожа
+N66	Reference T187 UMLS:C0076840	торасемид
+N67	Reference T58 UMLS:C0459914	диуретики
+N68	Reference T3 UMLS:C0003962	асцит
+N69	Reference T173 UMLS:C0085122	норма рабочая
+N70	Reference T129 UMLS:CUILESS	норма рабочая
+N71	Reference T190 UMLS:C0937846	нексиум
+N72	Reference T10 UMLS:C0231249	увеличение роста
+N73	Reference T32 UMLS:C0854606	системная антибактериальная терапия
+N74	Reference T107 UMLS:C0042826	зрение, поля зрения
+N75	Reference T45 UMLS:C3888534	утолщение стенки кишечника
+N76	Reference T1 UMLS:C0031048	констриктивный перикардит
+N77	Reference T46 UMLS:C2609414	опп
+N78	Reference T11 UMLS:C0000726	живот
+N79	Reference T40 UMLS:C0018800	кардиомегалия
+N80	Reference T71 UMLS:C0018792	предсердие
+N81	Reference T178 UMLS:C1096534	добавки магния
+N82	Reference T136 UMLS:CUILESS	желудочный дивертикул
+N83	Reference T200 UMLS:CUILESS	норма рабочая
+N84	Reference T23 UMLS:C0019209	гепатомегалия
+N85	Reference T16 UMLS:C0003483	аорта
+N86	Reference T145 UMLS:C0457846	диафрагмальное ядро
+N87	Reference T199 UMLS:C0040578	трахея
+N88	Reference T24 UMLS:C0003962	асцит
+N89	Reference T69 UMLS:C0018800	кардиомегалия
+N90	Reference T41 UMLS:C0817096	грудная клетка
+N91	Reference T192 UMLS:C0206112	магния соединения
+N92	Reference T112 UMLS:C0010075	коронарная артериограмма
+N93	Reference T134 UMLS:C0042458	полая вена, нижняя
+N94	Reference T153 UMLS:C0158158	выпот в сустав различных мест локализации
+N95	Reference T213 UMLS:C0037982	спиронолактон
+N96	Reference T155 UMLS:C0023884	печень
+N97	Reference T133 UMLS:C4285909	утолщение перикарда
+N98	Reference T37 UMLS:C0018787	сердце
+N99	Reference T90 UMLS:C0816871	скелет
+N100	Reference T125 UMLS:C0231249	увеличение роста
+N101	Reference T169 UMLS:C0007589	клетки дифференциация
+N102	Reference T189 UMLS:C0009262	колхицин
+N103	Reference T164 UMLS:C0022646	почки
+N104	Reference T157 UMLS:C0030274	поджелудочная железа
+N105	Reference T56 UMLS:C0264716	хроническая сердечная недостаточность
+N106	Reference T179 UMLS:C0032835	калия, магния аспарагинат
+N107	Reference T172 UMLS:C0041951	мочеточник
+N108	Reference T117 UMLS:C0078996	предсердие правое, функция
+N109	Reference T150 UMLS:CUILESS	норма рабочая
+N110	Reference T114 UMLS:C0003501	клапан аорты
+N111	Reference T144 UMLS:C0011980	диафрагма
+N112	Reference T176 UMLS:C0009262	колхицин
+N113	Reference T72 UMLS:C0225870	межжелудочковая перегородка
+N114	Reference T214 UMLS:C0076840	торасемид
+N115	Reference T93 UMLS:C0018787	сердце
+N116	Reference T85 UMLS:C0817096	грудь
+N117	Reference T206 UMLS:C1450569	органа размер
+N118	Reference T140 UMLS:CUILESS	рентгенография грудной клетки
+N119	Reference T8 UMLS:C3495905	кардиальный фиброз печени
+N120	Reference T34 UMLS:C0033036	наджелудочковая экстрасистола
+N121	Reference T156 UMLS:C0019209	увеличение печени
+N122	Reference T193 UMLS:C0030829	бициллин
+N123	Reference T31 UMLS:C0030829	бициллин
+N124	Reference T207 UMLS:C4277702	паренхиматозная ткань
+N125	Reference T171 UMLS:CUILESS	результаты ультразвукового исследования мочевого пузыря в норме
+N126	Reference T204 UMLS:C1112281	нормальный рост
+N127	Reference T13 UMLS:C0020564	гипертрофия
+N128	Reference T92 UMLS:C0035234	аускультативная картина в легких
+N129	Reference T79 UMLS:C0264716	хроническая сердечная недостаточность
+N130	Reference T65 UMLS:C0019209	гепатомегалия
+N131	Reference T197 UMLS:C0175316	сосудистый орган
+N132	Reference T211 UMLS:C0031050	перикард
+N133	Reference T196 UMLS:C0030827	бензилпенициллин
+N134	Reference T14 UMLS:C4014398	увеличение обоих желудочков
+N135	Reference T27 UMLS:C0242707	дисфункция правого желудочка
+N136	Reference T111 UMLS:C0010075	коронарная артериограмма
+N137	Reference T68 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N138	Reference T22 UMLS:C0232267	шум трения перикарда
+N139	Reference T130 UMLS:C0026267	пролапс створки митрального клапана
+N140	Reference T181 UMLS:C2363849	диуретики калийсберегающие
+N141	Reference T158 UMLS:C0037993	селезенка
+N142	Reference T142 UMLS:C0858975	отклонения от нормы на рентгенограмме органов грудной клетки
+N143	Reference T205 UMLS:CUILESS	выделение секрета
+N144	Reference T53 UMLS:C0459914	комплексонная терапия
+N145	Reference T175 UMLS:C0037982	верошпирон
+N146	Reference T198 UMLS:C0853946	усиление боли
+N147	Reference T95 UMLS:C0018799	сердца болезни
+N148	Reference T108 UMLS:C0003483	аорта
+N149	Reference T47 UMLS:C3888534	утолщение стенки кишечника
+N150	Reference T75 UMLS:C0265072	синдром нижней полой вены
+N151	Reference T102 UMLS:C0023884	печень
+N152	Reference T50 UMLS:CUILESS	поджелудочная железа
+N153	Reference T6 UMLS:C0031048	констриктивный перикардит
+N154	Reference T78 UMLS:C0003962	асцит
+N155	Reference T82 UMLS:C1953209	соматотропин^1.5 часа после дозы бетаксолол+глюкагон:произвконц:тчкврм:сыв/плаз:колич
+N156	Reference T84 UMLS:C0015450	лицо
+N157	Reference T86 UMLS:C0004600	спина
+N158	Reference T170 UMLS:C1450569	органа размер
+N159	Reference T88 UMLS:C0334150	послеоперационный рубец
+N160	Reference T135 UMLS:C0600495	угнетающая концентрация 50
+N161	Reference T109 UMLS:C0040960	трехстворчатый клапан
+N162	Reference T33 UMLS:CUILESS	другие общие симптомы
+N163	Reference T52 UMLS:C0425402	медицинская диета
+N164	Reference T54 UMLS:C0031048	констриктивный перикардит
+N165	Reference T127 UMLS:CUILESS	желудочный дивертикул
+N166	Reference T128 UMLS:C0172956	матрикса металлопротеиназа 8
+N167	Reference T162 UMLS:C0022646	почки
+N168	Reference T51 UMLS:CUILESS	увеличение поджелудочной железы
+N169	Reference T74 UMLS:C0038257	расширители
+N170	Reference T143 UMLS:C1522460	аорты дуга
+N171	Reference T89 UMLS:C0278403	подкожная клетчатка
+N172	Reference T36 UMLS:C0333286	кровоточение под ногтевой пластиной, внешне напоминающее занозы
+N173	Reference T123 UMLS:C0026264	митральный клапан
+N174	Reference T165 UMLS:C0005682	мочевой пузырь
+N175	Reference T121 UMLS:C0225870	межжелудочковая перегородка
+N176	Reference T4 UMLS:C0264716	хроническая сердечная недостаточность
+N177	Reference T159 UMLS:C0038351	желудок
+N178	Reference T118 UMLS:C0225836	предсердная перегородка
+N179	Reference T138 UMLS:C0033036	предсердные экстрасистолы
+N180	Reference T38 UMLS:C0231249	увеличение роста
+N181	Reference T185 UMLS:C1096534	добавки магния
+N182	Reference T203 UMLS:C0085122	норма рабочая
+N183	Reference T29 UMLS:C0076840	торасемид
+N184	Reference T55 UMLS:C0003962	асцит
+N185	Reference T141 UMLS:C0024109	легкие
+N186	Reference T15 UMLS:C0003492	коарктация аорты
+N187	Reference T202 UMLS:C0041951	мочеточник
+N188	Reference T87 UMLS:C4505235	розовые
+N189	Reference T61 UMLS:C0264716	хроническая сердечная недостаточность
+N190	Reference T126 UMLS:C0231249	увеличение роста
+N191	Reference T152 UMLS:C0016976	желчный пузырь
+N192	Reference T184 UMLS:C0032835	калия, магния аспарагинат
+N193	Reference T66 UMLS:C0518766	признаки жизни
+N194	Reference T208 UMLS:CUILESS	результаты ультразвукового исследования почек в норме
+N195	Reference T201 UMLS:C2181189	ультразвуковое исследование селезенки
+N196	Reference T146 UMLS:C0006255	бронхи
+N197	Reference T64 UMLS:C0032914	беременности токсикоз, опг
+#1	AnnotatorNotes T98	first_annotator_label: C0232257||synonyms: систолические шумы|систолический шум|sistolicheskie shumy||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1142245||synonyms: парадоксальное расщепление второго тона сердца||||bert: C0154182||synonyms: сахарный диабет i типа с периферическими циркуляторными нарушениями||||
+#2	AnnotatorNotes T131	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1707539||synonyms: разрыв створки||||third_annotator_label: None||synonyms: ||||bert: C1707539||synonyms: разрыв створки||||
+#3	AnnotatorNotes T186	first_annotator_label: C0338237||synonyms: антибиотикотерапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||bert: C0030829||synonyms: бициллин|bitsillin|benzatin penitsillin|penitsillin g, benzatin|бензатин пенициллин||||
+#4	AnnotatorNotes T182	first_annotator_label: C1868910||synonyms: снижение уровня мочевой кислоты||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0482493||synonyms: кортизол^2 дня после 500 мкг кортикотропина внутримышечно:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T25	first_annotator_label: C3241958||synonyms: болезни миокарда|патология миокарда||||second_annotator_label: C0340293||synonyms: инфаркт передней стенки миокарда|передний инфаркт миокарда|передний им|инфаркт миокарда передней стенки|передне-боковой инфаркт миокарда||||third_annotator_label: None||synonyms: ||||bert: C0340293||synonyms: инфаркт передней стенки миокарда|передний инфаркт миокарда|передний им|инфаркт миокарда передней стенки|передне-боковой инфаркт миокарда||||
+#6	AnnotatorNotes T149	first_annotator_label: C0085129||synonyms: бронхов гиперреактивность|bronkhov giperreaktivnost'|bronkhial'naia giperreaktivnost'|гиперреактивность бронхов|гиперчувствительность бронхов||||second_annotator_label: C3160856||synonyms: эндобронхиальное ультразвуковое исследование||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0006264||synonyms: бронхов новообразования|bronkhov novoobrazovaniia|новообразование бронхов||||
+#7	AnnotatorNotes T212	first_annotator_label: C0857170||synonyms: шелушение кожи кистей рук и подошвы стоп||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0520893||synonyms: локализованная эксфолиация|шелушение||||bert: C0969740||synonyms: vaccinium macrocarpon|клюква крупноплодная|kliukva krupnoplodnaia|kliukva|kalina istinnaia||||
+#8	AnnotatorNotes T209	first_annotator_label: C1963787||synonyms: редукционная пластика желудочка||||second_annotator_label: C0543467||synonyms: хирургические операции|khirurgicheskie operatsii|khirurgiia operativnaia|операция, бду|оперативное лечение||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0242707||synonyms: сердца желудочка правого дисфункция|serdtsa zheludochka pravogo disfunktsiia|pravogo zheludochka serdtsa disfunktsiia|дисфункция правого желудочка|правого желудочка сердца дисфункция||||
+#9	AnnotatorNotes T122	first_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0018827||synonyms: сердца желудочки|serdtsa zheludochki|serdtsa zheludochek|сердца желудочек||||bert: C0920035||synonyms: перегрузка левого желудочка||||
+#10	AnnotatorNotes T18	first_annotator_label: C0543467||synonyms: хирургические операции|khirurgicheskie operatsii|khirurgiia operativnaia|операция, бду|оперативное лечение||||second_annotator_label: C0242707||synonyms: сердца желудочка правого дисфункция|serdtsa zheludochka pravogo disfunktsiia|pravogo zheludochka serdtsa disfunktsiia|дисфункция правого желудочка|правого желудочка сердца дисфункция||||third_annotator_label: None||synonyms: ||||bert: C0242707||synonyms: сердца желудочка правого дисфункция|serdtsa zheludochka pravogo disfunktsiia|pravogo zheludochka serdtsa disfunktsiia|дисфункция правого желудочка|правого желудочка сердца дисфункция||||
+#11	AnnotatorNotes T168	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0203408||synonyms: ультразвуковое исследование почек|узи почек||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0804324||synonyms: образец объём:об:10 часов:моча:колич||||
+#12	AnnotatorNotes T147	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: C0552152||synonyms: исследование наблюдение:находка:тчкврм:аорта дуга^плод:ном:уз||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C5243823||synonyms: отсутствие компонента устройства||||
+#13	AnnotatorNotes T183	first_annotator_label: C0358591||synonyms: протонных насосов ингибиторы|protonnykh nasosov ingibitory||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T49	first_annotator_label: C2609157||synonyms: дилатация печеночной вены||||second_annotator_label: C0856761||synonyms: бадда-киари синдром|pechenochnoi veny tromboz|badda-kiari sindrom|kiari sindrom|болезнь бадда-киари||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0034933||synonyms: рефлекс патологический|refleks patologicheskii|изменение рефлексов|измененный рефлекс|аномальные рефлексы||||
+#15	AnnotatorNotes T44	first_annotator_label: C0151765||synonyms: жировые включения в паренхиме печени|жировые депозиты в паренхиме печени||||second_annotator_label: C1263846||synonyms: внимания дефицит с гиперактивностью|vnimaniia rasstroistva s giperaktivnost'iu|sindrom narusheniia vnimaniia s giperaktivnost'iu|синдром нарушения внимания с гиперактивностью|giperaktivnosti sindrom s defitsitom vnimaniia||||third_annotator_label: None||synonyms: ||||bert: C1263846||synonyms: внимания дефицит с гиперактивностью|vnimaniia rasstroistva s giperaktivnost'iu|sindrom narusheniia vnimaniia s giperaktivnost'iu|синдром нарушения внимания с гиперактивностью|giperaktivnosti sindrom s defitsitom vnimaniia||||
+#16	AnnotatorNotes T105	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0231249||synonyms: увеличение роста||||bert: C0231249||synonyms: увеличение роста||||
+#17	AnnotatorNotes T174	first_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0012797||synonyms: диурез|diurez|процесс образования и выделения мочи||||
+#18	AnnotatorNotes T187	first_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0012797||synonyms: диурез|diurez|процесс образования и выделения мочи||||
+#19	AnnotatorNotes T58	first_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#20	AnnotatorNotes T129	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C3889082||synonyms: определение толщины желтого пятна||||
+#21	AnnotatorNotes T32	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0338237||synonyms: антибиотикотерапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#22	AnnotatorNotes T178	first_annotator_label: C1096534||synonyms: добавки магния||||second_annotator_label: C0024467||synonyms: магний|magnii||||third_annotator_label: C0087162||synonyms: витамин b 6|vitamin b6|vitamin b 6|витамин b6||||bert: C0024488||synonyms: магнетизм|magnetizm||||
+#23	AnnotatorNotes T136	first_annotator_label: C0038355||synonyms: желудка дивертикул|zheludka divertikul|желудочный дивертикул|дивертикул желудка|divertikul zheludka||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012817||synonyms: дивертикул|divertikul|divertikulez|дивертикулы|дивертикул, бду||||bert: C0162770||synonyms: сердца желудочка правого гипертрофия|serdtsa zheludochka pravogo gipertrofiia|gipertrofiia pravogo zheludochka serdtsa|pravogo zheludochka gipertrofiia|pravozheludochkovaia gipertrofiia||||
+#24	AnnotatorNotes T200	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0006261||synonyms: бронхов болезни|bronkhov bolezni|нарушение со стороны бронхов||||third_annotator_label: None||synonyms: ||||bert: C0006261||synonyms: бронхов болезни|bronkhov bolezni|нарушение со стороны бронхов||||
+#25	AnnotatorNotes T192	first_annotator_label: C0206112||synonyms: магния соединения|magniia soedineniia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1096534||synonyms: добавки магния||||bert: C3256111||synonyms: железа ii, iii оксид|magnetit|ферумокситол|ferumoksitol|магнетит||||
+#26	AnnotatorNotes T112	first_annotator_label: C0085532||synonyms: коронарная ангиография|koronarnaia angiografiia|angiografiia koronarnaia|коронарная ангиограмма|коронарная артериограмма||||second_annotator_label: C0264684||synonyms: артериит коронарных артерий|коронарный артериит||||third_annotator_label: C0010075||synonyms: коронарные сосуды|koronarnye sosudy|venechnye sosudy|венечные сосуды||||bert: C3267166||synonyms: стеноз правой коронарной артерии||||
+#27	AnnotatorNotes T133	first_annotator_label: C4285909||synonyms: утолщение перикарда||||second_annotator_label: C0010701||synonyms: новообразование филлоидное|novoobrazovanie listovidnoe|listovidnaia opukhol'|tsistosarkoma listovidnaia|филлоидная опухоль||||third_annotator_label: None||synonyms: ||||bert: C0010701||synonyms: новообразование филлоидное|novoobrazovanie listovidnoe|listovidnaia opukhol'|tsistosarkoma listovidnaia|филлоидная опухоль||||
+#28	AnnotatorNotes T150	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0206578||synonyms: чехия|chekhiia|cheshskaia respublika|чешская республика||||third_annotator_label: None||synonyms: ||||bert: C0206578||synonyms: чехия|chekhiia|cheshskaia respublika|чешская республика||||
+#29	AnnotatorNotes T206	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0203408||synonyms: ультразвуковое исследование почек|узи почек||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0804324||synonyms: образец объём:об:10 часов:моча:колич||||
+#30	AnnotatorNotes T140	first_annotator_label: C3665494||synonyms: рентгенография торакальная|rentgenografiia torakal'naia|grudnoi kletki rentgenografiia|рентгенография грудной клетки|грудной клетки рентгенография||||second_annotator_label: C0817096||synonyms: грудная клетка|grudnaia kletka|grud'|грудь||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0877379||synonyms: снижение пульсации периферической артерии||||
+#31	AnnotatorNotes T156	first_annotator_label: C0019209||synonyms: гепатомегалия|gepatomegaliia|увеличение печени||||second_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||third_annotator_label: C3888808||synonyms: гипертрофия печени||||bert: C0365303||synonyms: образец объём:массск:24 часа:тело ждк:колич||||
+#32	AnnotatorNotes T193	first_annotator_label: C0030829||synonyms: бициллин|bitsillin|benzatin penitsillin|penitsillin g, benzatin|бензатин пенициллин||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C4255074||synonyms: перилипин-5|perilipin-5|plin5 belok|plin5 белок||||
+#33	AnnotatorNotes T171	first_annotator_label: C0855958||synonyms: результаты ультразвукового исследования мочевого пузыря в норме||||second_annotator_label: C4324673||synonyms: изменение окраски стенки сосуда|изменение цвета стенки сосуда||||third_annotator_label: None||synonyms: ||||bert: C4324673||synonyms: изменение окраски стенки сосуда|изменение цвета стенки сосуда||||
+#34	AnnotatorNotes T111	first_annotator_label: C0085532||synonyms: коронарная ангиография|koronarnaia angiografiia|angiografiia koronarnaia|коронарная ангиограмма|коронарная артериограмма||||second_annotator_label: C1697534||synonyms: дилатация коронарной артерии||||third_annotator_label: C0010075||synonyms: коронарные сосуды|koronarnye sosudy|venechnye sosudy|венечные сосуды||||bert: C5197884||synonyms: аномальное отхождение левой коронарной артерии|аномалия левой коронарной артерии|anomaliia levoi koronarnoi arterii|alcapa sindrom|aolka sindrom||||
+#35	AnnotatorNotes T181	first_annotator_label: C0304490||synonyms: диуретики калийсберегающие|kaliisberegaiushchie mochegonnye sredstva|diuretiki kaliisberegaiushchie|калийсберегающие мочегонные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2925955||synonyms: с пептид^10 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#36	AnnotatorNotes T142	first_annotator_label: C0436503||synonyms: отклонения от нормы на рентгенограмме органов грудной клетки|отклонения от нормы результатов рентгенографии органов грудной клетки|отклонение от нормы результатов рентгенографии бду грудной клетки||||second_annotator_label: C1962945||synonyms: рентгенография|rentgenografiia|rentgenovskoe izluchenie, diagnosticheskoe|rentgenodiagnostika|рентгеновское излучение, диагностическое||||third_annotator_label: C0858975||synonyms: усиление легочного рисунка||||bert: C0282490||synonyms: пищевых продуктов упаковка|pishchevykh produktov upakovka|konteinery dlia pishchevykh produktov|upakovka pishchevykh produktov|контейнеры для пищевых продуктов||||
+#37	AnnotatorNotes T205	first_annotator_label: C1096020||synonyms: выделение секрета||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0948572||synonyms: операция на железе внутренней секреции||||
+#38	AnnotatorNotes T53	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2925955||synonyms: с пептид^10 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#39	AnnotatorNotes T50	first_annotator_label: C0030274||synonyms: поджелудочная железа|podzheludochnaia zheleza||||second_annotator_label: C0018681||synonyms: головная боль|golovnaia bol'|головные боли|цефалгия|головная боль бду||||third_annotator_label: None||synonyms: ||||bert: C0018681||synonyms: головная боль|golovnaia bol'|головные боли|цефалгия|головная боль бду||||
+#40	AnnotatorNotes T170	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0203408||synonyms: ультразвуковое исследование почек|узи почек||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0019955||synonyms: больницы, число коек от 100 до 299|bol'nitsa, chislo koek ot 100 do 299|bol'nitsy, chislo koek ot 100 do 299|больница, число коек от 100 до 299||||
+#41	AnnotatorNotes T33	first_annotator_label: C0029625||synonyms: другие общие симптомы||||second_annotator_label: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||
+#42	AnnotatorNotes T52	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0190010||synonyms: фонтена операция|norvuda operatsiia, stadiia 3|норвуда операция, стадия 2|норвуда операция, стадия 3|norvuda operatsiia, stadiia 2||||
+#43	AnnotatorNotes T127	first_annotator_label: C0038355||synonyms: желудка дивертикул|zheludka divertikul|желудочный дивертикул|дивертикул желудка|divertikul zheludka||||second_annotator_label: C0241671||synonyms: выбухание грудной клетки в области правого желудочка||||third_annotator_label: None||synonyms: ||||bert: C0241671||synonyms: выбухание грудной клетки в области правого желудочка||||
+#44	AnnotatorNotes T51	first_annotator_label: C1096352||synonyms: увеличение поджелудочной железы||||second_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0231249||synonyms: увеличение роста||||
+#45	AnnotatorNotes T208	first_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||second_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||

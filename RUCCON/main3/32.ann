@@ -1,0 +1,309 @@
+T73	Symptom 2828 2875	длительно (до 1 - 1.5месяцев) сохранялся кашель
+T106	Symptom 5006 5138	Некомпактный миокард в медиальном и апикальном сегментах ЛЖ: передней, передне-боковой, задней и нижней стенок, асинхрония стенок ЛЖ
+T82	Symptom 3481 3505	недостаточность клапанов
+T16	Disease 452 472	Легочная гипертензия
+T63	Severity 1736 1751	высокой степени
+T54	Disease 1326 1385	порок аортального клапана ( бикуспидальный с регургитацией)
+T89	Symptom 3766 3802	сердечная область несколько выбухает
+T17	Disease 474 476	НК
+T121	Symptom 6185 6265	очаговые нарушения в базальных и средних сегментах МЖП, передней и нижней стенок
+T6	Body_location 190 213	левой огибающей артерии
+T71	Disease 2583 2591	краснуха
+T78	Symptom 3298 3325	перегрузка миокарда ЛЖ и ЛП
+T90	Symptom 3804 3913	границы относительной тупости сердца перкуторно расширены преимущественно влево до передней аксиллярной линии
+T36	Disease 915 960	блокада передней ветви левой ножки пучка Гиса
+T67	Severity 2400 2414	слабой степени
+T61	Disease 1728 1735	миопией
+T1	Disease 21 77	Неклассифицируемая кардиомиопатия, дилатационный вариант
+T104	Symptom 4756 4772	Удлинение инт.QT
+T53	Disease 1320 1324	ДКМП
+T46	Body_location 1081 1098	билиарного тракта
+T110	Symptom 5421 5458	НПВ не расширена, коллабирует на вдох
+T97	Disease 4164 4174	АВ блокада
+T49	Disease 1135 1165	Дисплазия соединительной ткани
+T118	Disease 6109 6122	расширение ПЖ
+T88	Disease 3629 3632	ООО
+T33	Severity 860 878	V градации по Lown
+T124	Symptom 6418 6489	Слева незначительное количество свободной жидкости в плевральном синусе
+T8	Severity 282 300	V градации по Lown
+T23	Body_location 540 555	желчного пузыря
+T24	Disease 557 587	Дисплазия соединительной ткани
+T48	Body_location 1118 1133	желчного пузыря
+T102	Symptom 4698 4716	Депрессиея сегм.ST
+T134	Drug 7993 8003	тромбо АСС
+T87	Disease 3607 3627	легочная гипертензия
+T32	Disease 832 859	желудочковая экстрасистолия
+T15	Disease 426 450	Межпредсердное сообщение
+T112	Symptom 5562 5582	ЛЖ, ПЖ, ЛП расширены
+T10	Severity 330 334	I ст
+T126	Treatment 7625 8117	в/в поляризующая смесь №7, в/в лазикс 5мг после поляр.смеси, в/в цитофлавин в связи с аллергической реакцией заменен на реамберин №14; дигоксин 0.06мг х 1р/д; капотен 1мг х 3р/д с постепенным повышением до 18.75мг х 3р/д; фуросемид с 12.04 10 мг х 1р/д; кордарон 250мг х 1р/д с 5.04 по 11.04, 500мг с 12.04 по 21.04, далее 250мг (5мг/кг) х 1р/д; трентал 100мг х 3р/д; тромбо АСС 100мг х 1р/д; вильпрафен 750мг х 3р/д с 12.04 по 21.04; панангин 2таб х 3р/д; хофитол 2таб х 3р/д с 6.04 по 19.04
+T127	Drug 7656 7662	лазикс
+T14	Body_location 401 424	правой ножки пучка Гиса
+T3	Disease 113 180	Недостаточность аортального, митрального, трикуспидального клапанов
+T20	Disease 492 520	Дисфункция билиарного тракта
+T140	Drug 8623 8630	диакарб
+T52	Symptom 1297 1312	снижение зрения
+T132	Drug 7879 7887	кордарон
+T111	Symptom 5506 5560	сократительная активность всех стенок выражено снижена
+T130	Drug 7784 7791	капотен
+T117	Disease 6075 6107	полость ЛЖ значительно расширена
+T40	Disease 1004 1028	Межпредсердное сообщение
+T13	Disease 384 424	неполная блокада правой ножки пучка Гиса
+T30	Disease 760 791	Аплазия левой огибающей артерии
+T100	Severity 4633 4647	L4b-L5 по Lown
+T80	Symptom 3435 3479	снижение сократительной способности миокарда
+T120	Symptom 6161 6183	Перфузия неравномерная
+T128	Drug 7690 7700	цитофлавин
+T139	Drug 8605 8612	капотен
+T35	Course 908 912	I ст
+T108	Body_location 5289 5309	медиальной стенки ЛЖ
+T47	Disease 1107 1133	деформации желчного пузыря
+T81	Body_location 3471 3479	миокарда
+T138	Treatment 8605 8879	капотен 54мг/сут, диакарб курсами,верошпирон 6,25мг/сут и фуросемид 10мг/сут замнен на диувер 10мг\сут, кордарон 300мг\сут, дилатренд с повышением дозы с 3,125мг до 6,25мг\сут, трентал 300мг\сут, панангин 6т/сут, тромбо АСС 100мг\сут, предуктал 79мг/сут, элькар, цитофлавин.
+T51	Symptom 1217 1263	сниженная толерантность к физическим нагрузкам
+T84	Disease 3507 3511	ДМПП
+T74	Symptom 3001 3021	стал быстрее устават
+T58	Symptom 1652 1693	угрозой прерывания в 18 недель, 31 недель
+T119	Symptom 6135 6159	зоны акинеза и дискинеза
+T86	Symptom 3553 3575	сужение просвета аорты
+T114	Symptom 5733 5839	определяются единичные минимально выраженные участки замедления перфузии по перегородке в среднем сегменте
+T56	Disease 1573 1595	крапивница (на солнце)
+T9	Disease 302 329	атриовентрикулярная блокада
+T26	Disease 657 689	Бикуспидальный аортальный клапан
+T28	Disease 691 758	Недостаточность аортального, митрального, трикуспидального клапанов
+T129	Drug 7745 7754	реамберин
+T135	Drug 8018 8030	вильпрафен 7
+T44	Severity 1063 1068	ФК II
+T2	Disease 79 111	Бикуспидальный аортальный клапан
+T136	Drug 8060 8068	панангин
+T39	Body_location 979 1002	правой ножки пучка Гиса
+T72	Disease 2822 2826	ОРВИ
+T65	Disease 2315 2342	Перинатальная энцефалопатия
+T64	Symptom 1853 1874	Вес при рождении 3300
+T57	Body_location 1332 1351	аортального клапана
+T92	Symptom 3973 4000	повышение ТТГ до 7.45мМЕд/л
+T96	Disease 4134 4162	блокадой передней ветви ЛНПГ
+T116	Body_location 5936 5964	огибающей коронарной артерии
+T22	Disease 529 555	деформации желчного пузыря
+T7	Disease 254 281	желудочковая экстрасистолия
+T55	Disease 1412 1436	артериальная гипертензия
+T103	Symptom 4736 4754	двухфазные зубцы Т
+T131	Drug 7847 7856	фуросемид
+T11	Disease 337 382	блокада передней ветви левой ножки пучка Гиса
+T109	Symptom 5311 5372	ЗСЛЖ в апикальном отделе утолщена за счет требекулярного слоя
+T95	Disease 4113 4119	НБПНПГ
+T41	Disease 1030 1050	Легочная гипертензия
+T59	Disease 1695 1702	анемией
+T62	Body_location 1752 1763	обоих глаз.
+T69	Disease 2556 2566	о.ларингит
+T50	Symptom 1192 1215	повышенная утомляемость
+T107	Disease 5280 5309	дискинез медиальной стенки ЛЖ
+T123	Symptom 6289 6344	область гипоперфузии в апикальном отделе боковой стенки
+T85	Disease 3513 3551	множественные хорды в области верхушки
+T93	Symptom 3955 3971	pro-BNP 880пг/мл
+T113	Symptom 5584 5648	Определяются толстые редко расположенные трабекулы по стенкам ЛЖ
+T70	Disease 2568 2581	ветряная оспа
+T76	Symptom 3157 3217	снижение результативности в спорте и повышенную утомляемость
+T31	Body_location 768 791	левой огибающей артерии
+T66	Disease 2393 2399	Миопия
+T37	Body_location 923 960	передней ветви левой ножки пучка Гиса
+T12	Body_location 360 382	левой ножки пучка Гиса
+T25	Disease 599 655	Неклассифицируемая кардиомиопатия, дилатационный вариант
+T101	Symptom 4649 4668	3 изолированные ПЭС
+T5	Disease 182 213	Аплазия левой огибающей артерии
+T38	Disease 962 1002	неполная блокада правой ножки пучка Гиса
+T29	Body_location 707 758	аортального, митрального, трикуспидального клапанов
+T99	Symptom 4188 4208	частой монотопной ЖЭ
+T137	Symptom 8375 8422	повышена трабекулярность в апикальных сегментах
+T27	Body_location 672 689	аортальный клапан
+T77	Symptom 3265 3287	Одиночные и парные ЖЭС
+T19	Severity 485 490	ФК II
+T4	Body_location 172 180	клапанов
+T125	Course 6784 7196	отмечено улучшение самочувствия ребенка (стал меньше уставать, нет чувства усиленного сердцебиения), уменьшились симптомы сердечной недостаточности как клинически, так и по данным инструментальных обследований (купировался гидроторакс, по УЗИ уменьшение размеров печени, селезенка, поджелудочной железы, нормализовалось коллабирование нижней полой вены, на фоне подключения кордарона отмечена нормализация ритма)
+T115	Disease 5928 5964	аплазия огибающей коронарной артерии
+T94	Symptom 4018 4072	Положительные АТ IgG к ЭБВ, ЦМВ, IgG, IgM к микоплазме
+T133	Drug 7971 7978	трентал
+T43	Course 1055 1061	IIа ст
+T34	Disease 880 907	атриовентрикулярная блокада
+T45	Disease 1070 1098	Дисфункция билиарного тракта
+T122	Body_location 6236 6265	МЖП, передней и нижней стенок
+T21	Body_location 503 520	билиарного тракта
+T60	Severity 1703 1726	средней степени тяжести
+T83	Body_location 3497 3505	клапанов
+T68	Disease 2550 2554	ОРВИ
+T105	Disease 4868 4886	бикуспидальный АоК
+T18	Severity 477 483	IIа ст
+T91	Symptom 3915 3940	аритмичные сердечные тоны
+T98	Severity 4175 4179	I ст
+T79	Symptom 3410 3433	дилатация всех полостей
+T42	Disease 1052 1054	НК
+T75	Symptom 3052 3093	перед сном замечал усиленное сердцебиение
+N1	Reference T73 UMLS:C0010200	кашель
+N2	Reference T106 UMLS:C3241958	болезни миокарда
+N3	Reference T82 UMLS:C0264879	недостаточность клапана сердца
+N4	Reference T16 UMLS:C0020542	гипертензия, легочная
+N5	Reference T54 UMLS:C1260873	поражение аортального клапана
+N6	Reference T89 UMLS:CUILESS	увеличенное сердце
+N7	Reference T17 UMLS:C1392658	сердечная недостаточность
+N8	Reference T121 UMLS:CUILESS	межжелудочковой перегородки дефекты
+N9	Reference T6 UMLS:C0034052	легочная артерия
+N10	Reference T71 UMLS:C0035920	краснуха
+N11	Reference T78 UMLS:CUILESS	миокарда болезни
+N12	Reference T90 UMLS:C0948147	отклонение от нормы при перкуссии
+N13	Reference T36 UMLS:C0264912	блокада передней ветви левой ножки пучка гиса
+N14	Reference T61 UMLS:C0027092	миопия
+N15	Reference T1 UMLS:C0007193	дилатационная кардиомиопатия
+N16	Reference T104 UMLS:C0151878	удлиненный интервал qt
+N17	Reference T53 UMLS:C0007193	кардиомиопатия дилатационная
+N18	Reference T46 UMLS:UNKNOWN	патологии желчевыводящих путей
+N19	Reference T110 UMLS:C0042458	повышение давления в правом предсердии
+N20	Reference T97 UMLS:C0004245	av блокада 1 степени
+N21	Reference T49 UMLS:C4014739	дисплазия соединительной ткани
+N22	Reference T118 UMLS:C0162770	сердца желудочка правого гипертрофия
+N23	Reference T88 UMLS:C0029048	oogonii
+N24	Reference T33 UMLS:CUILESS	степень ухудшения бду
+N25	Reference T124 UMLS:C2242629	анализ плевральной жидкости
+N26	Reference T23 UMLS:C0016976	желчный пузырь
+N27	Reference T24 UMLS:C4014739	дисплазия соединительной ткани
+N28	Reference T48 UMLS:C0016976	желчный пузырь
+N29	Reference T102 UMLS:C0520887	депрессия сегмента st
+N30	Reference T134 UMLS:C0004057	аспирин
+N31	Reference T87 UMLS:C0020542	гипертензия, легочная
+N32	Reference T32 UMLS:C0151636	экстрасистола желудочковая
+N33	Reference T15 UMLS:C2609256	межпредсердное содинение
+N34	Reference T112 UMLS:UNKNOWN	сердца желудочка левого гипертрофия
+N35	Reference T126 UMLS:C2363849	комплексонная терапия
+N36	Reference T127 UMLS:C0752094	лазик
+N37	Reference T14 UMLS:C0006382	пучок гиса
+N38	Reference T3 UMLS:C0375259	поражение митрального и аортального клапана
+N39	Reference T20 UMLS:UNKNOWN	дискинетические синдромы
+N40	Reference T140 UMLS:C0000981	диакарб
+N41	Reference T52 UMLS:C0042798	ухудшение зрения
+N42	Reference T132 UMLS:C0002598	амиодарон
+N43	Reference T111 UMLS:C0340288	стабильная стенокардия напряжения
+N44	Reference T130 UMLS:C0006938	каптоприл
+N45	Reference T117 UMLS:C0149721	увеличение левого желудочка
+N46	Reference T40 UMLS:C2609256	межпредсердное содинение
+N47	Reference T13 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N48	Reference T30 UMLS:C0242855	атрезия клапана легочной артерии
+N49	Reference T80 UMLS:C0858526	снижение сократительной функции миокарда
+N50	Reference T120 UMLS:UNKNOWN	миокарда перфузии изображение
+N51	Reference T128 UMLS:C1142101	никотинамид
+N52	Reference T139 UMLS:C0006938	каптоприл
+N53	Reference T35 UMLS:CUILESS	степень ухудшения бду
+N54	Reference T108 UMLS:C0013101	мединский струнец
+N55	Reference T47 UMLS:C1397947	перегиб желчного пузыря
+N56	Reference T81 UMLS:C0027061	миокард
+N57	Reference T138 UMLS:C0459914	антигипертензивные средства
+N58	Reference T51 UMLS:C0162521	физическая нагрузка, толерантность
+N59	Reference T84 UMLS:C0018817	межпредсердной перегородки дефекты
+N60	Reference T74 UMLS:C0231230	быстрая утомляемость
+N61	Reference T58 UMLS:C0000821	угроза выкидыша
+N62	Reference T119 UMLS:CUILESS	дискинезия, нкдр
+N63	Reference T86 UMLS:C0003507	аортального клапана стеноз
+N64	Reference T114 UMLS:C5207970	миокардиальная гипоперфузия
+N65	Reference T56 UMLS:C0263610	солнечная крапивница
+N66	Reference T9 UMLS:C0004245	атриовентрикулярная блокада
+N67	Reference T26 UMLS:C0003505	аортального клапана пролапс
+N68	Reference T28 UMLS:C0375259	поражение митрального и аортального клапана
+N69	Reference T129 UMLS:C0012005	меглумина диатризоат
+N70	Reference T135 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N71	Reference T44 UMLS:CUILESS	степень ухудшения бду
+N72	Reference T2 UMLS:C0003505	аортального клапана пролапс
+N73	Reference T136 UMLS:C0032835	калия, магния аспартат
+N74	Reference T39 UMLS:C0085615	блокада правой ножки пучка гиса
+N75	Reference T72 UMLS:C0035243	орви
+N76	Reference T65 UMLS:C0085584	энцефалопатия
+N77	Reference T64 UMLS:C0005612	вес при рождении
+N78	Reference T57 UMLS:C0003501	аортальный клапан
+N79	Reference T92 UMLS:C0586553	тиреотропный гормон в крови
+N80	Reference T96 UMLS:C0264912	блокада передней ветви левой ножки пучка гиса
+N81	Reference T116 UMLS:C0190188	операция на коронарной артерии
+N82	Reference T22 UMLS:C1397947	перегиб желчного пузыря
+N83	Reference T7 UMLS:C0151636	экстрасистола желудочковая
+N84	Reference T55 UMLS:C0020538	артериальная гипертензия
+N85	Reference T103 UMLS:C0919667	двухфазный зубец т на экг
+N86	Reference T131 UMLS:C0016860	фуросемид
+N87	Reference T11 UMLS:C0264912	блокада передней ветви левой ножки пучка гиса
+N88	Reference T109 UMLS:C4523825	утолщение створок клапана сердца
+N89	Reference T95 UMLS:C0085615	бпнпг
+N90	Reference T41 UMLS:C0020542	гипертензия, легочная
+N91	Reference T59 UMLS:C0002871	анемия
+N92	Reference T62 UMLS:C0015392	глаз
+N93	Reference T69 UMLS:C0023067	ларингит
+N94	Reference T50 UMLS:C0856136	ухудшение утомляемости
+N95	Reference T107 UMLS:C1869094	гипокинезия левого желудочка
+N96	Reference T123 UMLS:C1740794	гипертрофия стенки аорты
+N97	Reference T85 UMLS:C4324431	ложная хорда левого желудочка
+N98	Reference T93 UMLS:CUILESS	натрийуретические гормоны
+N99	Reference T113 UMLS:CUILESS	ложная хорда левого желудочка
+N100	Reference T70 UMLS:C0008049	ветряная оспа
+N101	Reference T76 UMLS:C0231230	быстрая утомляемость
+N102	Reference T31 UMLS:C0034052	легочная артерия
+N103	Reference T66 UMLS:C0027092	миопия
+N104	Reference T37 UMLS:C0264912	блокада передней ветви левой ножки пучка гиса
+N105	Reference T12 UMLS:C0006382	пучок гиса
+N106	Reference T25 UMLS:C0007193	дилатационная кардиомиопатия
+N107	Reference T101 UMLS:CUILESS	экстрасистола предсердная
+N108	Reference T5 UMLS:C0243065	аплазия
+N109	Reference T38 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N110	Reference T29 UMLS:C0375259	поражение митрального и аортального клапана
+N111	Reference T99 UMLS:C1739417	постоянные желудочковые экстрасистолы
+N112	Reference T137 UMLS:CUILESS	трабекулярная сеть
+N113	Reference T27 UMLS:C0003501	аортальный клапан
+N114	Reference T77 UMLS:C0235477	парные экстрасистолы
+N115	Reference T4 UMLS:C0018826	сердца клапаны
+N116	Reference T125 UMLS:CUILESS	улучшение уже имеющегося заболевания
+N117	Reference T115 UMLS:C0243065	аплазия
+N118	Reference T94 UMLS:C0741132	положительный результат анализа на антитела
+N119	Reference T133 UMLS:C0030899	трентал
+N120	Reference T43 UMLS:CUILESS	степень ухудшения бду
+N121	Reference T34 UMLS:C0004245	атриовентрикулярная блокада
+N122	Reference T45 UMLS:C0042075	урологические болезни
+N123	Reference T122 UMLS:C0225870	межжелудочковая перегородка
+N124	Reference T21 UMLS:UNKNOWN	патология желчевыводящих путей (smq)
+N125	Reference T83 UMLS:C0003501	клапан аорты
+N126	Reference T68 UMLS:C0035243	орви
+N127	Reference T105 UMLS:C0034543	апикальная киста
+N128	Reference T91 UMLS:C0003811	аритмии сердечные
+N129	Reference T79 UMLS:C1322279	дилатация
+N130	Reference T42 UMLS:C0392173	сердечная недостаточность
+N131	Reference T75 UMLS:C0549267	усиление сердцебиения
+#1	AnnotatorNotes T106	first_annotator_label: C3241958||synonyms: болезни миокарда|патология миокарда||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0018799||synonyms: сердца болезни|serdtsa bolezni|нарушения со стороны сердца|card|поражения сердца, бду||||bert: C0155644||synonyms: острый инфаркт миокарда другой базальной локализации, неуточненный эпизод лечения||||
+#2	AnnotatorNotes T89	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0025084||synonyms: анамнеза сбор|anamneza sbor||||third_annotator_label: C1383860||synonyms: гипертрофия сердца||||bert: C0190065||synonyms: операция на сердечном клапане|операция на сердечном клапане, бду||||
+#3	AnnotatorNotes T17	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#4	AnnotatorNotes T121	first_annotator_label: C0018818||synonyms: межжелудочковой перегородки дефекты|mezhzheludochkovoi peregorodki defekty|врожденный дефект межжелудочковой перегородки|дефект межжелудочковой перегородки, бду|дефект межжелудочковой перегородки||||second_annotator_label: C0225870||synonyms: межжелудочковая перегородка|mezhzheludochkovaia peregorodka||||third_annotator_label: C0348668||synonyms: другая патология сердечно-сосудистой системы|прочие нарушения системы кровообращения, прочие||||bert: C0155642||synonyms: острый инфаркт миокарда задне-базальной стенки левого желудочка, последующий эпизод лечения||||
+#5	AnnotatorNotes T78	first_annotator_label: C0878544||synonyms: кардиомиопатии|miokarda bolezni|kardiomiopatii|miokardial'naia bolezn' pervichnaia|miokardial'naia bolezn' vtorichnaia||||second_annotator_label: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||third_annotator_label: C3495916||synonyms: гипертрофия миокарда||||bert: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||
+#6	AnnotatorNotes T90	first_annotator_label: C0948147||synonyms: отклонение от нормы при перкуссии||||second_annotator_label: C0749862||synonyms: перфорация в верхних отделах желудочно-кишечного тракта||||third_annotator_label: None||synonyms: ||||bert: C0749862||synonyms: перфорация в верхних отделах желудочно-кишечного тракта||||
+#7	AnnotatorNotes T46	first_annotator_label: C0005395||synonyms: желчных протоков болезни|zhelchnykh protokov bolezni|патологии желчевыводящих путей||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C1142316||synonyms: устранение билиарного свища||||
+#8	AnnotatorNotes T110	first_annotator_label: C1868852||synonyms: повышение давления в правом предсердии||||second_annotator_label: C0080306||synonyms: полая вена, фильтры|polaia vena, fil'try|fil'try zontichnye dlia nizhnei poloi veny|kava-fil'try|polaia vena nizhniaia, lechebnye fil'try||||third_annotator_label: C0042458||synonyms: полая вена, нижняя|polaia vena, nizhniaia||||bert: C0857074||synonyms: коллапс ног||||
+#9	AnnotatorNotes T97	first_annotator_label: C0085614||synonyms: av блокада 1 степени|блокада сердца первой степени|замедление av проведения|блокада сердца 1-й степени|av блокада первой степени||||second_annotator_label: C0155700||synonyms: av блокада второй степени ii типа|av блокада второй степени, мобитц ii||||third_annotator_label: C0004245||synonyms: атриовентрикулярная блокада|atrioventrikuliarnaia blokada|предсердно-желудочковая блокада, бду|предсердно-желудочковая блокада, неуточненная|блокада сердца, атриовентрикулярная||||bert: C0037188||synonyms: синоатриальная блокада|sinoatrial'naia blokada|sinuso-predserdnaia blokada|са блокада|блок порта||||
+#10	AnnotatorNotes T33	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1520113||synonyms: wnt сигнальный путь|signal'nye puti wnt|сигнальные пути wnt|wnt signal'nyi put'||||bert: C1520113||synonyms: wnt сигнальный путь|signal'nye puti wnt|сигнальные пути wnt|wnt signal'nyi put'||||
+#11	AnnotatorNotes T112	first_annotator_label: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||second_annotator_label: C0037943||synonyms: люмбальная пункция (лп)|поясничный прокол||||third_annotator_label: None||synonyms: ||||bert: C0037943||synonyms: люмбальная пункция (лп)|поясничный прокол||||
+#12	AnnotatorNotes T126	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#13	AnnotatorNotes T20	first_annotator_label: C0026650||synonyms: движения расстройства|dvizheniia rasstroistva|diskineticheskie sindromy|двигательное нарушение, бду|двигательные нарушения, бду||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0042075||synonyms: урологические болезни|urologicheskie bolezni|mochevoi sistemy bolezni|дисфункция мочевыводящих путей|заболевание мочевыводящих путей, бду||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#14	AnnotatorNotes T132	first_annotator_label: C0002598||synonyms: амиодарон|amiodaron||||second_annotator_label: C0969719||synonyms: кориандр|koriandr||||third_annotator_label: C0003195||synonyms: противоаритмические средства|protivoaritmicheskie sredstva|antiaritmicheskie sredstva|kardial'nye depressanty|miokardial'nye depressanty||||bert: C0969719||synonyms: кориандр|koriandr||||
+#15	AnnotatorNotes T117	first_annotator_label: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0340279||synonyms: гипертрофия желудочков||||bert: C4524108||synonyms: образование полости в опухоли|полость в опухоли||||
+#16	AnnotatorNotes T120	first_annotator_label: C2350390||synonyms: миокарда перфузии изображение|miokarda stintigrafiia|миокарда стинтиграфия|miokarda krovosnabzheniia vizualizatsiia|миокарда кровоснабжения визуализация||||second_annotator_label: C2350393||synonyms: перфузии изображение|krovoobrashcheniia vizualizatsiia|кровообращения визуализация|stsintigrafiia perfuzii|perfuzii izobrazhenie||||third_annotator_label: None||synonyms: ||||bert: C2350393||synonyms: перфузии изображение|krovoobrashcheniia vizualizatsiia|кровообращения визуализация|stsintigrafiia perfuzii|perfuzii izobrazhenie||||
+#17	AnnotatorNotes T128	first_annotator_label: C1142101||synonyms: никотинамид||||second_annotator_label: C0021528||synonyms: инозин|inozin||||third_annotator_label: C0016410||synonyms: фолиевая кислота|folievaia kislota|vitamin bc|витамин bc|folatsin||||bert: C0010830||synonyms: cytophagaceae|tsitofagovye|flexibacteraceae|цитофаговые||||
+#18	AnnotatorNotes T35	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0032413||synonyms: поли i|poli i|inozinovye polinukleotidy|inozinpolinukleotidy|poliinozinovye kisloty||||bert: C0032413||synonyms: поли i|poli i|inozinovye polinukleotidy|inozinpolinukleotidy|poliinozinovye kisloty||||
+#19	AnnotatorNotes T47	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0744254||synonyms: инфекция желчного пузыря||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#20	AnnotatorNotes T138	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0941822||synonyms: пролактин^30 минут после 200 мкг трг внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#21	AnnotatorNotes T119	first_annotator_label: C0852872||synonyms: дискинезия, нкдр||||second_annotator_label: C0234992||synonyms: дискинезия острая|острая дискинезия||||third_annotator_label: None||synonyms: ||||bert: C0234992||synonyms: дискинезия острая|острая дискинезия||||
+#22	AnnotatorNotes T114	first_annotator_label: C5207970||synonyms: миокардиальная гипоперфузия||||second_annotator_label: C4727927||synonyms: проверка кожного перфузионного давления||||third_annotator_label: None||synonyms: ||||bert: C4727927||synonyms: проверка кожного перфузионного давления||||
+#23	AnnotatorNotes T129	first_annotator_label: C0012005||synonyms: меглумина диатризоат|meglumina diatrizoat|diatrizoat meglumina|diatrizoat metilgliukamina|diatrizoevoi kisloty metilgliukamin||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0525069||synonyms: фармацевтические растворы|farmatsevticheskie rastvory|lekarstv rastvory|mikstury|rastvory farmatsevticheskie||||bert: C1142933||synonyms: римонабант|zimulti|акомплиа|rimonabant|akomplia||||
+#24	AnnotatorNotes T44	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033706||synonyms: протромбин|protrombin|faktor ii|фактор ii||||bert: C0033706||synonyms: протромбин|protrombin|faktor ii|фактор ii||||
+#25	AnnotatorNotes T92	first_annotator_label: C0853130||synonyms: тиреотропный гормон в крови||||second_annotator_label: C0202230||synonyms: ттг|тиреотропный гормон|тиреотропин|тиротропин||||third_annotator_label: C0586553||synonyms: высокий уровень ттг|повышение уровня тиреотропного гормона|повышенный уровень ттг|повышение уровня тиреотропного гормона в сыворотке|повыш. ур. ттг||||bert: C1096367||synonyms: повышение среднего объема тромбоцитов||||
+#26	AnnotatorNotes T22	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#27	AnnotatorNotes T107	first_annotator_label: C0920012||synonyms: гипокинезия левого желудочка||||second_annotator_label: C1869094||synonyms: дискинезия (smq)||||third_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||bert: C4523804||synonyms: дискинезия лопатки||||
+#28	AnnotatorNotes T93	first_annotator_label: C1258001||synonyms: натрийуретические средства|натрийуретические гормоны|натриуретические гормоны|натриуретические средства|natriiureticheskie sredstva||||second_annotator_label: C2599055||synonyms: базальная мембрана bp180 ат.igg:произвконц:тчкврм:сыв/плаз:колич||||third_annotator_label: None||synonyms: ||||bert: C2599055||synonyms: базальная мембрана bp180 ат.igg:произвконц:тчкврм:сыв/плаз:колич||||
+#29	AnnotatorNotes T113	first_annotator_label: C4324431||synonyms: ложная хорда левого желудочка|фиброзно-мышечный тяж в левом желудочке||||second_annotator_label: C4324594||synonyms: утолщение створок клапана легочной артерии||||third_annotator_label: None||synonyms: ||||bert: C4324594||synonyms: утолщение створок клапана легочной артерии||||
+#30	AnnotatorNotes T101	first_annotator_label: C0033036||synonyms: экстрасистола предсердная|ekstrasistola predserdnaia|ekstrasistola nadzheludochkovaia|nadzheludochkovaia ekstrasistola|predserdii ektopicheskie sokrashcheniia||||second_annotator_label: C0080096||synonyms: рецепторы интерлейкина-3|retseptory interleikina-3|il-3 retseptory|interleikina-3 retseptory|il-3 рецепторы||||third_annotator_label: None||synonyms: ||||bert: C0080096||synonyms: рецепторы интерлейкина-3|retseptory interleikina-3|il-3 retseptory|interleikina-3 retseptory|il-3 рецепторы||||
+#31	AnnotatorNotes T99	first_annotator_label: C1739417||synonyms: постоянные желудочковые экстрасистолы||||second_annotator_label: C4087466||synonyms: тройные желудочковые экстрасистолы||||third_annotator_label: C0151636||synonyms: экстрасистола желудочковая|ekstrasistola zheludochkovaia|rannie zheludochkovye ekstrasistoly|zheludochkov ekstrasistoly|zheludochkov ektopicheskie sistoly||||bert: C0392185||synonyms: монотонная речь|палилалия||||
+#32	AnnotatorNotes T137	first_annotator_label: C0040573||synonyms: трабекулярная сеть|trabekuliarnaia set'|raduzhki grebenchataia sviazka|радужки гребенчатая связка||||second_annotator_label: C2745924||synonyms: повышение агрегации тромбоцитов|повышение агрегации тромбоцитов бду||||third_annotator_label: None||synonyms: ||||bert: C2745924||synonyms: повышение агрегации тромбоцитов|повышение агрегации тромбоцитов бду||||
+#33	AnnotatorNotes T125	first_annotator_label: C0521988||synonyms: улучшение уже имеющегося заболевания||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C4042834||synonyms: усталость от сострадания|utrata chuvstva sostradaniia|vtorichnyi travmaticheskii stress|vikarnaia travma|prituplenie chuvstva sostradaniia||||
+#34	AnnotatorNotes T94	first_annotator_label: C0741132||synonyms: положительный результат анализа на антитела|положительный результат анализа на антитела бду|анализ на антитела положительный||||second_annotator_label: C0003241||synonyms: антитела|antitela||||third_annotator_label: C1168134||synonyms: положительный результат анализа на антитиреоидные антитела||||bert: C1954823||synonyms: грипп вирус а ат.igg:массконц:тчкврм:цсж:колич||||
+#35	AnnotatorNotes T43	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0103406||synonyms: аннексин a4|anneksin iv|kalelektrin|lipokortin iv|pap-ii||||bert: C0103406||synonyms: аннексин a4|anneksin iv|kalelektrin|lipokortin iv|pap-ii||||
+#36	AnnotatorNotes T21	first_annotator_label: C1963987||synonyms: патология желчевыводящих путей (smq)||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C1142316||synonyms: устранение билиарного свища||||
+#37	AnnotatorNotes T42	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#38	AnnotatorNotes T75	first_annotator_label: C0549267||synonyms: усиление сердцебиения||||second_annotator_label: C0030252||synonyms: сердцебиение|ускоренное сердцебиение||||third_annotator_label: C0039231||synonyms: тахикардия|takhikardiia|trepetanie-mertsanie zheludochkov|высокая частота сердечных сокращений|учащение пульса||||bert: C0189745||synonyms: операция на открытом сердце||||

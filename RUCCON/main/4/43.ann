@@ -1,0 +1,90 @@
+T28	Symptom 1286 1297	лихенизация
+T22	Body_location 905 924	на фалангах пальцев
+T16	Symptom 442 460	угрозой прерывания
+T31	Body_location 1344 1370	Видимые слизистые оболочки
+T7	Disease 140 159	Аллергический ринит
+T30	Symptom 1328 1342	ониходистрофия
+T6	Disease 90 98	Поллиноз
+T9	Disease 193 233	Вторичные изменения поджелудочной железы
+T33	Symptom 1388 1399	Зев спокоен
+T21	Treatment 797 834	При приеме антигистаминных препаратов
+T47	Symptom 1516 1524	изменена
+T37	Symptom 1463 1469	хрипов
+T13	Body_location 324 331	на коже
+T3	Course 78 88	обострение
+T46	Disease 781 794	конъюнктивита
+T18	Treatment 672 706	Постоянно получает местную терапию
+T48	Severity 161 175	персистирующий
+T36	Symptom 1441 1461	дыхание везикулярное
+T27	Symptom 1275 1284	шелушение
+T10	Body_location 213 233	поджелудочной железы
+T38	Symptom 1526 1557	Сердечные тоны ясные, ритмичные
+T42	Symptom 1604 1624	Менингеальных знаков
+T39	Body_location 1488 1502	Область сердца
+T43	Disease 100 128	риноконъюнктивальный синдром
+T23	Disease 978 986	поллиноз
+T26	Body_location 1233 1263	На кончиках пальцев кистей рук
+T12	Symptom 314 323	высыпания
+T45	Disease 772 778	ринита
+T29	Symptom 1299 1315	единичные папулы
+T11	Disease 235 251	Пищевая аллергия
+T1	Disease 9 53	Атопический дерматит, распространенная форма
+T35	Body_location 1432 1440	В лёгких
+T25	Symptom 1104 1113	высыпаний
+T5	Course 130 138	ремиссия
+T40	Symptom 1574 1589	Стул регулярный
+T8	Course 177 191	вне обострения
+T24	Disease 1050 1066	Пищевая аллергия
+T15	Symptom 363 369	кашель
+T2	Severity 55 76	среднетяжелое течение
+T41	Symptom 1591 1598	Дизурии
+T32	Symptom 1371 1386	розовые, чистые
+T44	Disease 636 658	атопического дерматита
+T34	Symptom 1401 1430	Носовое дыхание не затруднено
+T14	Symptom 333 361	затруднение носового дыхания
+N1	Reference T28 UMLS:C0023653	лихенификация
+N2	Reference T22 UMLS:C0223792	пальцев фаланги
+N3	Reference T16 UMLS:C1710384	прерывание лечения
+N4	Reference T31 UMLS:C0023693	свет видимый
+N5	Reference T7 UMLS:C2607914	аллергический ринит
+N6	Reference T30 UMLS:C0221260	ониходистрофия
+N7	Reference T6 UMLS:C0018621	поллиноз
+N8	Reference T9 UMLS:C2936598	поджелудочной железы звездчатые клетки
+N9	Reference T33 UMLS:C0033771	зудящая сыпь
+N10	Reference T21 UMLS:C1504374	антигистаминная терапия
+N11	Reference T47 UMLS:C0242863	absent
+N12	Reference T37 UMLS:C3887661	хрип
+N13	Reference T13 UMLS:C0191275	операция на коже
+N14	Reference T3 UMLS:CUILESS	обострение боли
+N15	Reference T46 UMLS:C0009763	конъюнктивит
+N16	Reference T18 UMLS:C0854602	местная антибактериальная терапия
+N17	Reference T48 UMLS:C0562483	персистирующий кашель
+N18	Reference T36 UMLS:C0263237	везикулезное высыпание
+N19	Reference T27 UMLS:C0282576	шелушение
+N20	Reference T10 UMLS:C0030274	поджелудочная железа
+N21	Reference T38 UMLS:C2712143	нормальный сердечный ритм
+N22	Reference T42 UMLS:C0025287	менингеальные знаки
+N23	Reference T39 UMLS:C0018799	сердца болезни
+N24	Reference T43 UMLS:C5208240	ринобронхиальный синдром
+N25	Reference T23 UMLS:C0018621	поллиноз
+N26	Reference T26 UMLS:C0522040	отёк пальцев рук
+N27	Reference T12 UMLS:C0302295	высыпание
+N28	Reference T45 UMLS:C0035455	ринит
+N29	Reference T29 UMLS:C0034642	единичные хрипы
+N30	Reference T11 UMLS:C0149696	пищевая аллергия
+N31	Reference T1 UMLS:C0011615	атопический дерматит
+N32	Reference T35 UMLS:C3805066	боль в легких
+N33	Reference T25 UMLS:C0302295	высыпание
+N34	Reference T5 UMLS:C3888824	ремиссия не достигнута
+N35	Reference T40 UMLS:C0577115	мягкий стул
+N36	Reference T8 UMLS:C3899187	внеузловое распространение
+N37	Reference T24 UMLS:C0149696	пищевая аллергия
+N38	Reference T15 UMLS:C0010200	кашель
+N39	Reference T2 UMLS:CUILESS	среднеатлантический регион
+N40	Reference T41 UMLS:C0013428	дизурия
+N41	Reference T32 UMLS:C0035854	розовые угри
+N42	Reference T44 UMLS:C0011615	атопический дерматит
+N43	Reference T34 UMLS:C0027339	неуточненное заболевание ногтя
+N44	Reference T14 UMLS:C0553668	затруднение дыхания
+#1	AnnotatorNotes T3	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||
+#2	AnnotatorNotes T2	first_annotator_label: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||

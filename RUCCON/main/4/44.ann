@@ -1,0 +1,112 @@
+T3	Symptom 2152 2180	Тоны сердца ясные, ритмичные
+T18	Disease 1795 1814	аллергический ринит
+T53	Severity 2053 2073	единичные проявления
+T17	Severity 1787 1791	2 ст
+T20	Severity 42 71	легкое персистирующее течение
+T8	Symptom 2026 2035	суховатые
+T27	Symptom 289 317	затруднение носового дыхания
+T42	Drug 1310 1320	лазолваном
+T28	Symptom 332 338	одышка
+T43	Symptom 1428 1452	бронхиальной обструкцией
+T40	Treatment 1275 1349	В терапии ингаляции с беродуалом и лазолваном, антибактериальные препараты
+T52	Disease 2074 2097	фолликулярного кератоза
+T22	Course 134 142	ремиссия
+T49	Treatment 958 986	Получал терапию в стационаре
+T1	Symptom 2208 2228	Менингеальных знаков
+T31	Symptom 708 716	судороги
+T38	Disease 1239 1242	ОРИ
+T44	Treatment 1471 1503	Купировали ингаляциями беродуала
+T9	Symptom 2037 2051	бледно-розовые
+T36	Disease 1017 1039	атопического дерматита
+T16	Disease 1765 1786	гиперплазия аденоидов
+T37	Treatment 1041 1095	В терапии местные средства и антигистаминные препараты
+T24	Disease 153 175	лекарственная аллергия
+T14	Drug 1920 1930	пенициллин
+T47	Symptom 1707 1711	храп
+T7	Body_location 2011 2025	кожные покровы
+T4	Body_location 2109 2117	В легких
+T35	Disease 899 914	химический ожог
+T19	Disease 9 40	Бронхиальная астма, атопическая
+T48	Disease 763 766	ОРИ
+T26	Disease 187 205	Катаральная ангина
+T54	Disease 785 803	фебрильных судорог
+T39	Disease 1252 1273	обструктивный бронхит
+T10	Symptom 2053 2097	единичные проявления фолликулярного кератоза
+T25	Course 177 185	ремиссия
+T32	Symptom 750 761	фебрилитета
+T34	Symptom 863 875	гипергидроза
+T55	Severity 112 132	персистирующая форма
+T51	Disease 1391 1413	респираторной инфекции
+T21	Disease 91 110	Аллергический ринит
+T6	Symptom 2140 2146	хрипов
+T50	Disease 1836 1866	риноконъюнктивального синдрома
+T46	Symptom 1643 1671	затруднение носового дыхания
+T45	Drug 1494 1503	беродуала
+T12	Disease 1975 1991	пищевая аллергия
+T29	Symptom 431 449	угрозой прерывания
+T23	Disease 144 151	Пищевая
+T2	Symptom 2182 2194	Стул, диурез
+T5	Symptom 2118 2138	дыхание везикулярное
+T30	Disease 674 706	ЧМТ (сотрясение головного мозга)
+T11	Body_location 2098 2107	на плечах
+T13	Disease 1894 1916	Лекарственная аллергия
+T41	Drug 1297 1307	беродуалом
+N1	Reference T3 UMLS:C2230284	тоны сердца
+N2	Reference T18 UMLS:C2607914	аллергический ринит
+N3	Reference T53 UMLS:CUILESS	единичного случая исследование как тема
+N4	Reference T20 UMLS:CUILESS	болезни прогрессирующей лечение
+N5	Reference T8 UMLS:C0151908	сухая кожа
+N6	Reference T27 UMLS:C0553668	затруднение дыхания
+N7	Reference T42 UMLS:C0002421	амброксол
+N8	Reference T28 UMLS:C0013404	одышка
+N9	Reference T43 UMLS:C0221725	бронхиальная обструкция
+N10	Reference T40 UMLS:C0855920	субтерапевтическая концентрация аналгезирующего лекарственного препарата, бду
+N11	Reference T52 UMLS:C0022595	фолликулярный кератоз
+N12	Reference T22 UMLS:C3888824	ремиссия не достигнута
+N13	Reference T49 UMLS:C0011017	стационарное лечение дневное
+N14	Reference T1 UMLS:C0025287	менингеальные знаки
+N15	Reference T31 UMLS:C0036572	судороги
+N16	Reference T38 UMLS:C0035243	респираторные инфекции
+N17	Reference T44 UMLS:C0005118	бербериновые алкалоиды
+N18	Reference T9 UMLS:C4505235	розовые
+N19	Reference T36 UMLS:C0011615	атопический дерматит
+N20	Reference T16 UMLS:C0149825	гипертрофия исключительно аденоидов
+N21	Reference T37 UMLS:C0013154	антигистаминная терапия
+N22	Reference T24 UMLS:C1070217	алтей лекарственный
+N23	Reference T14 UMLS:C0030842	пенициллины
+N24	Reference T47 UMLS:C0037384	храп
+N25	Reference T7 UMLS:C1123023	кожа
+N26	Reference T4 UMLS:C0024109	легкие
+N27	Reference T35 UMLS:C0006435	химический ожог
+N28	Reference T19 UMLS:C0004096	астма, бронхиальная
+N29	Reference T48 UMLS:C0035243	респираторные инфекции
+N30	Reference T26 UMLS:C0036689	стрептококковая ангина
+N31	Reference T54 UMLS:C0009952	фебрильная судорога
+N32	Reference T39 UMLS:C0865791	обструктивный бронхит
+N33	Reference T10 UMLS:C0022595	кератоз фолликулярный вегетирующий
+N34	Reference T25 UMLS:C0035053	ремиссия спонтанная
+N35	Reference T32 UMLS:C4255101	фибриллины
+N36	Reference T34 UMLS:C0020458	гипергидроз
+N37	Reference T55 UMLS:CUILESS	хронический ринит
+N38	Reference T51 UMLS:C0035243	респираторные инфекции
+N39	Reference T21 UMLS:C2607914	аллергический ринит
+N40	Reference T6 UMLS:C3887661	хрип
+N41	Reference T50 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N42	Reference T46 UMLS:C0553668	затруднение дыхания
+N43	Reference T45 UMLS:C0015840	фенотерол
+N44	Reference T12 UMLS:C0149696	пищевая аллергия
+N45	Reference T29 UMLS:C0000821	угроза выкидыша
+N46	Reference T23 UMLS:C0016452	пищевые продукты
+N47	Reference T2 UMLS:C1287298	диурез
+N48	Reference T5 UMLS:UNKNOWN	исследования дыхательной системы и легких (искл. газы крови)
+N49	Reference T30 UMLS:C0006107	мозга головного сотрясение
+N50	Reference T11 UMLS:C0037004	плечо
+N51	Reference T13 UMLS:C0013182	перекрестная лекарственная аллергия
+N52	Reference T41 UMLS:C0015840	фенотерол
+#1	AnnotatorNotes T53	first_annotator_label: C5197772||synonyms: единичного случая исследование как тема|chastnogo sluchaia issledovanie|edinichnykh sluchaev issledovaniia|частного случая исследование|otdel'nykh sluchaev izuchenie kak tema||||second_annotator_label: C4552198||synonyms: минимальная концентрация препарата||||third_annotator_label: None||synonyms: ||||bert: C0034642||synonyms: крепитация|единичные хрипы|крепитация, бду|легочная крепитация|крепитация легких||||
+#2	AnnotatorNotes T20	first_annotator_label: C0033357||synonyms: больному помощь пропорционально тяжести болезни|bol'nomu pomoshch' proportsional'no tiazhesti bolezni|болезни прогрессирующей лечение|bolezni progressiruiushchei lechenie||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#3	AnnotatorNotes T37	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#4	AnnotatorNotes T26	first_annotator_label: C0036689||synonyms: стрептококковый фарингит|боль в горле при стрептококковой инфекции|стрептококковая ангина||||second_annotator_label: C0017575||synonyms: гингивит язвенно-некротический|gingivit iazvenno-nekroticheskii|simanovskogo-plauta-vensana angina|stomatit iazvennyi|vensana infektsiia||||third_annotator_label: C0031157||synonyms: перитонзиллярный абсцесс|peritonzilliarnyi abstsess|abstsess peritonzilliarnyi|острый тонзиллит|гнойный тонзиллит||||bert: C1306068||synonyms: капсулы помутнение|вторичная катаракта, неуточненная|катаракта вторичная|вторичная катаракта|pomutnenie zadnei kapsuly khrustalika||||
+#5	AnnotatorNotes T55	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0152165||synonyms: персистирующая рвота||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#6	AnnotatorNotes T5	first_annotator_label: C0851556||synonyms: исследования дыхательной системы и легких (искл. газы крови)||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#7	AnnotatorNotes T13	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C0013182||synonyms: лекарственная гиперсенсибилизация|lekarstvennaia gipersensibilizatsiia|аллергия на лекарственный препарат|аллергическая реакция на препарат|гиперчувствительность к лекарственному препарату||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||

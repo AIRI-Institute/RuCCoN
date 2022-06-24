@@ -1,0 +1,90 @@
+T3	Body_location 1403 1423	поджелудочной железы
+T7	Severity 1519 1528	умеренная
+T15	Disease 4747 4769	респираторной инфекции
+T13	Severity 2847 2851	2 ст
+T4	Disease 1506 1517	брадикардия
+T24	Treatment 4068 4300	Гипоаллергенная диета (исключить икру, морепродукты, орехи, цитрусовые, шоколад,  продукты с консервантами и красителями) на основании стола №5 дробное питание с исключением жирных, жареных, копченых продуктов, газированных напитков
+T21	Treatment 5060 5237	При обострении аллергического ринита – назонекс (авамис) после туалета носа с физиомером по 2 инст. в каждую ноздрю 1 раз в день 1 неделю, затем по 1 инст. 1 раз в день 2 недели
+T25	Drug 2540 2548	Физиомер
+T2	Disease 1383 1423	Вторичные изменения поджелудочной железы
+T39	Drug 5109 5115	авамис
+T23	Treatment 4330 4549	При возникновении симптомов обструкции (одышка, свистящее дыхание, приступы затруднения дыхания и малопродуктивного кашля) использовать вентолин (сальбутамол или саламол) по 1-2 ингаляции через спейсер до 4-х раз в день
+T10	Disease 2776 2783	сколиоз
+T32	Drug 4466 4474	вентолин
+T26	Drug 2550 2557	Маример
+T27	Drug 3029 3041	Поливитамины
+T38	Drug 5099 5107	назонекс
+T30	Drug 3093 3104	мульти-табс
+T9	Disease 2390 2421	Искривление носовой перегородки
+T36	Drug 4797 4806	лазолвана
+T8	Disease 2347 2366	Аллергический ринит
+T31	Drug 3896 3906	фликсоназе
+T29	Drug 3081 3091	кальцинова
+T33	Drug 4476 4487	сальбутамол
+T22	Treatment 5239 5281	Внутрь – левоцетиризин по 1т. 1 раз в день
+T1	Disease 455 483	искривление оси позвоночника
+T41	Drug 5248 5261	левоцетиризин
+T35	Drug 4620 4630	пульмикорт
+T14	Disease 4577 4580	ОРИ
+T18	Drug 4599 4607	беродуал
+T28	Drug 3072 3079	центрум
+T37	Drug 5030 5040	физиомером
+T12	Disease 2834 2846	плоскостопие
+T11	Body_location 2784 2812	грудного отдела позвоночника
+T42	Drug 5511 5533	пыльцевыми аллергенами
+T19	Treatment 4581 4665	через небулайзер: беродуал 16 капель + пульмикорт 250 мкг 3 раза в день на 7-10 дней
+T6	Disease 1529 1536	аритмия
+T5	Severity 1499 1505	лёгкая
+T16	Disease 5075 5096	аллергического ринита
+T34	Drug 4492 4499	саламол
+T40	Drug 5138 5148	физиомером
+T17	Drug 3872 3880	физиомер
+T20	Treatment 5016 5054	Туалет носа с физиомером 3 раза в день
+N1	Reference T3 UMLS:C0030274	поджелудочная железа
+N2	Reference T7 UMLS:CUILESS	степень ухудшения бду
+N3	Reference T15 UMLS:C0035243	респираторные инфекции
+N4	Reference T4 UMLS:C0428977	брадикардия
+N5	Reference T24 UMLS:C0012155	диета
+N6	Reference T21 UMLS:C0013154	промывание носа
+N7	Reference T25 UMLS:C0036499	вода морская
+N8	Reference T2 UMLS:C0030286	поджелудочной железы болезни
+N9	Reference T39 UMLS:C0082607	флутиказон
+N10	Reference T23 UMLS:C0001559	введение лекарств ингаляционное
+N11	Reference T10 UMLS:C0036439	сколиоз
+N12	Reference T32 UMLS:C0001927	сальбутамол
+N13	Reference T26 UMLS:C0036499	вода морская
+N14	Reference T27 UMLS:C0042890	витамины
+N15	Reference T38 UMLS:C0066700	назонекс
+N16	Reference T30 UMLS:C0042890	витамины
+N17	Reference T9 UMLS:C0549397	искривление перегородки носа
+N18	Reference T36 UMLS:C0002421	амброксол
+N19	Reference T8 UMLS:C2607914	аллергический ринит
+N20	Reference T31 UMLS:C0082607	флутиказон
+N21	Reference T29 UMLS:C0042890	витамины
+N22	Reference T33 UMLS:C0001927	сальбутамол
+N23	Reference T22 UMLS:C1504374	антигистаминная терапия
+N24	Reference T1 UMLS:C0037932	искривление позвоночника
+N25	Reference T41 UMLS:C0055147	цетиризин
+N26	Reference T35 UMLS:C0054201	будесонид
+N27	Reference T14 UMLS:C0035243	респираторные инфекции
+N28	Reference T18 UMLS:C0015840	фенотерол
+N29	Reference T28 UMLS:C0042890	витамины
+N30	Reference T37 UMLS:C0036499	вода морская
+N31	Reference T12 UMLS:C0016202	плоскостопие
+N32	Reference T11 UMLS:C1963815	уплощение грудного отдела позвоночника
+N33	Reference T42 UMLS:C1567994	аллергены растительные
+N34	Reference T19 UMLS:C0021459	введение лекарств ингаляционное
+N35	Reference T6 UMLS:C0003811	аритмия
+N36	Reference T5 UMLS:CUILESS	степень ухудшения бду
+N37	Reference T16 UMLS:C2607914	аллергический ринит
+N38	Reference T34 UMLS:C0001927	сальбутамол
+N39	Reference T40 UMLS:C0036499	вода морская
+N40	Reference T17 UMLS:C0036499	вода морская
+N41	Reference T20 UMLS:C2350442	промывание носа
+#1	AnnotatorNotes T7	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0428977||synonyms: брадикардия|bradikardiia|bradiaritmiia|брадикардия, бду|чсс ниже нормы||||third_annotator_label: C0024109||synonyms: легкие|legkie||||bert: C0008946||synonyms: климат|klimat||||
+#2	AnnotatorNotes T21	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0856907||synonyms: аллергия на бензоат натрия||||
+#3	AnnotatorNotes T39	first_annotator_label: C0082607||synonyms: флутиказон|flutikazon|фликсотид|кутивейт|fliksotid||||second_annotator_label: C0939232||synonyms: флутиказон-салметерол комбинированный препарат|flutikazon-salmeterol kombinatsiia|адваир|флутиказона пропионат, салметерола ксинафоат комбинированный препарат|флутиказон-салметерол комбинация||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0376288||synonyms: амавроз||||
+#4	AnnotatorNotes T22	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C1978288||synonyms: кортикотропин^после 1 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#5	AnnotatorNotes T19	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0942082||synonyms: пиридоксин^после 250 мг пиридоксина через рот:молконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T5	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0428977||synonyms: брадикардия|bradikardiia|bradiaritmiia|брадикардия, бду|чсс ниже нормы||||third_annotator_label: C0024109||synonyms: легкие|legkie||||bert: C0024109||synonyms: легкие|legkie||||
+#7	AnnotatorNotes T20	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1315965||synonyms: водород/выдыхаемый газ^3 часа после дозы лактозы через рот:обфр:тчкврм:выд газ:колич||||bert: C1315965||synonyms: водород/выдыхаемый газ^3 часа после дозы лактозы через рот:обфр:тчкврм:выд газ:колич||||

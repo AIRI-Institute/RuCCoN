@@ -1,0 +1,103 @@
+T34	Treatment 2685 2786	Курсы щелочных минеральных вод (без газа) по 1/3 ст. х 3 раза в день, 2 недели в месяц, курс 3 месяца
+T24	Treatment 2226 2316	При необходимости через небулайзер: лазолван 0.5 мл + беродуал 8 капель+пульмикорт 250 мкг
+T32	Treatment 2545 2605	Хофитол по 1/2 т. х 3 раза в день за 20 мин. до еды 2 недели
+T14	Drug 1709 1718	фликсотид
+T5	Disease 1309 1333	Дискинезия желчных путей
+T26	Drug 2280 2288	беродуал
+T42	Drug 2471 2476	Креон
+T30	Treatment 2434 2466	Ф99 местно на весь кожный покров
+T40	Drug 1820 1827	хофитол
+T27	Drug 2298 2308	пульмикорт
+T19	Treatment 2032 2089	Соблюдение гипоаллергенной диеты и элиминационного режима
+T1	Disease 670 675	отека
+T36	Treatment 2857 2902	Биотредин 0.1 по 1т. х 2 раза в день 2 недели
+T12	Course 1650 1664	вне обострения
+T23	Drug 2195 2203	вентолин
+T17	Drug 2792 2801	Пикамилон
+T31	Treatment 2471 2540	Креон 10000 по 1к. х 3 раза в день по 2 недели в месяц, курс 3 месяца
+T4	Severity 744 753	Умеренная
+T35	Treatment 2792 2851	Пикамилон 0.02 1/2т. х 2 раза в день (утро, день) после еды
+T16	Drug 1783 1788	креон
+T44	Drug 2385 2391	Элоком
+T41	Drug 2545 2552	Хофитол
+T7	Body_location 1423 1441	толстого кишечника
+T18	Drug 2857 2866	Биотредин
+T15	Drug 1743 1749	элоком
+T29	Treatment 2385 2429	Элоком 1 раз в день местно продолжить 7 дней
+T38	Treatment 2979 3007	Хвойно-солевые ванны 3-4 мес
+T28	Treatment 2321 2379	Пикфлоуметрия (ежедневно) с ведением дневника самоконтроля
+T6	Disease 1412 1441	Дискинезия толстого кишечника
+T11	Disease 1629 1648	Аллергический ринит
+T25	Drug 2262 2270	лазолван
+T13	Disease 2154 2172	бронхиальной астмы
+T9	Disease 1370 1410	Вторичные изменения поджелудочной железы
+T3	Disease 764 776	брадиаритмия
+T39	Drug 2908 2916	Пантогам
+T43	Drug 2610 2617	Тыквеол
+T10	Body_location 1390 1410	поджелудочной железы
+T22	Treatment 2141 2224	При приступе бронхиальной астмы или кашлевом синдроме вентолин по 1-2 инг. до 4 р/д
+T21	Drug 2094 2103	Фликсотид
+T37	Treatment 2908 2972	Пантогам 0.25 по 1т. утром, ½ т. день, курс1.5 мес. (апрель, май
+T2	Body_location 676 694	слизистой оболочки
+T20	Treatment 2094 2136	Фликсотид 50 мкг по 1 инг. Х 2 раза в день
+T33	Treatment 2610 2679	Тыквеол по 1ч.л. х 3 раза в день за 20 мин. до еды, 3 недели в апреле
+T8	Body_location 1320 1333	желчных путей
+N1	Reference T34 UMLS:C0026157	минеральные воды
+N2	Reference T24 UMLS:C0001559	введение лекарств ингаляционное
+N3	Reference T32 UMLS:C0013154	желчегонные и желчеобразующие средства
+N4	Reference T14 UMLS:C0082607	фликсотид
+N5	Reference T5 UMLS:C0005416	желчных путей дискинезия
+N6	Reference T26 UMLS:C0015840	фенотерол
+N7	Reference T42 UMLS:C0030304	креон
+N8	Reference T30 UMLS:UNKNOWN	увлажнение сухой кожи тела
+N9	Reference T40 UMLS:C0008304	желчегонные и желчеобразующие средства
+N10	Reference T27 UMLS:C0054201	будесонид
+N11	Reference T19 UMLS:C0425402	медицинская диета
+N12	Reference T1 UMLS:C0013604	отек
+N13	Reference T36 UMLS:C1533658	витаминные добавки
+N14	Reference T12 UMLS:CUILESS	ринит аллергический
+N15	Reference T23 UMLS:C0001927	сальбутамол
+N16	Reference T17 UMLS:C0242913	ноотропные средства
+N17	Reference T31 UMLS:C4523842	заместительная терапия ферментами поджелудочной железы
+N18	Reference T35 UMLS:C0013154	ноотропные средства
+N19	Reference T16 UMLS:C0030304	креон
+N20	Reference T44 UMLS:C0066700	мометазона фуроат
+N21	Reference T41 UMLS:C0008304	желчегонные и желчеобразующие средства
+N22	Reference T7 UMLS:C0021851	кишечник толстый
+N23	Reference T18 UMLS:C0034272	пиридоксин
+N24	Reference T15 UMLS:C0066700	мометазона фуроат
+N25	Reference T29 UMLS:C0003209	глюкокортикоиды местного действия
+N26	Reference T38 UMLS:C1504484	лечебные ванны
+N27	Reference T28 UMLS:C0035423	флоуметрия
+N28	Reference T6 UMLS:C0400865	гипокинезия кишечника
+N29	Reference T11 UMLS:C2607914	аллергический ринит
+N30	Reference T25 UMLS:C0002421	амброксол
+N31	Reference T13 UMLS:C0004096	бронхиальная астма
+N32	Reference T9 UMLS:C0030286	поджелудочной железы болезни
+N33	Reference T3 UMLS:C0428977	брадиаритмия
+N34	Reference T39 UMLS:C0242913	ноотропные средства
+N35	Reference T43 UMLS:CUILESS	желчегонные и желчеобразующие средства
+N36	Reference T10 UMLS:C0030274	поджелудочная железа
+N37	Reference T22 UMLS:UNKNOWN	введение лекарств ингаляционное
+N38	Reference T21 UMLS:C0082607	фликсотид
+N39	Reference T37 UMLS:C0013154	ноотропные средства
+N40	Reference T2 UMLS:C0026724	слизистая оболочка
+N41	Reference T20 UMLS:C0013154	введение лекарств ингаляционное
+N42	Reference T33 UMLS:C0013154	желчегонные и желчеобразующие средства
+N43	Reference T8 UMLS:C0005423	желчные пути
+#1	AnnotatorNotes T34	first_annotator_label: C0026157||synonyms: минеральные воды|mineral'nye vody||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0013124||synonyms: питьевое поведение|pit'evoe povedenie||||bert: C0800121||synonyms: водород/выдыхаемый газ^3 часа после дозы глюкозы:обфр:тчкврм:выд газ:колич||||
+#2	AnnotatorNotes T32	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978291||synonyms: кортикотропин^до 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#3	AnnotatorNotes T30	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0943724||synonyms: овощей волокна:колплощ:тчкврм:фекалии:колич:микроскопия.световой||||
+#4	AnnotatorNotes T19	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0063083||synonyms: гидрогель, полиэтиленгликоля диметакрилат|gidrogel'|gidrogel', polietilenglikolia dimetakrilat|гидрогель на основе диметакрилата полиэтиленгликоля|gidrogel' na osnove dimetakrilata polietilenglikolia||||
+#5	AnnotatorNotes T36	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C3267042||synonyms: нефропротективная терапия||||bert: C1114107||synonyms: эпидемический паротит реакция папула^2 дня после 0.1 мл эпидемического паротита вируса препарата внутрикожно:диам:тчкврм:кожа:колич||||
+#6	AnnotatorNotes T12	first_annotator_label: C2607914||synonyms: ринит аллергический|allergicheskii rinit|rinit allergicheskii|аллергический ринит|аллергический риносинусит||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#7	AnnotatorNotes T31	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0363725||synonyms: лютропин^2 часа после 100 г лютропина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#8	AnnotatorNotes T35	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1977048||synonyms: кальцитонин^2 минуты после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#9	AnnotatorNotes T18	first_annotator_label: C0034272||synonyms: пиридоксин|piridoksin||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0040005||synonyms: треонин|treonin||||bert: C0005562||synonyms: биоптерин|biopterin||||
+#10	AnnotatorNotes T29	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1716143||synonyms: алкогольные напитки в неделю:колскор:1 неделя:^пациент:колич:сообщенный||||
+#11	AnnotatorNotes T6	first_annotator_label: C0948389||synonyms: гипокинезия кишечника||||second_annotator_label: C1869094||synonyms: дискинезия (smq)||||third_annotator_label: C0400865||synonyms: нарушение перистальтики кишечника|патология перистальтики кишечника||||bert: C0232168||synonyms: дискинезия желудочка||||
+#12	AnnotatorNotes T43	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003402||synonyms: антиоксиданты|antioksidanty||||bert: C0282503||synonyms: тезаурус|tezaurus|spisok terminov kontroliruemyi|terminov spisok kontroliruemyi|список терминов контролируемый||||
+#13	AnnotatorNotes T22	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0039082||synonyms: синдром|sindrom||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0152575||synonyms: туберкулез бронхов, без упоминания о бактериолог. или гистол. подтверждении (сейчас)||||
+#14	AnnotatorNotes T37	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0803927||synonyms: кальцитонин^2 минуты после 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T20	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0363650||synonyms: глюкоза^2 часа после 50 г лактозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#16	AnnotatorNotes T33	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1879713||synonyms: антиоксидантная терапия||||bert: C0482512||synonyms: кортизол^до 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||

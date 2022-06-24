@@ -1,0 +1,196 @@
+T82	Drug 11509 11517	соталола
+T55	Drug 3635 3643	дифлюкан
+T8	Drug 12069 12076	Трентал
+T24	Disease 1455 1470	сахарный диабет
+T6	Drug 12218 12225	Диакарб
+T85	Drug 2018 2028	цефотаксим
+T31	Drug 2809 2819	ванкомицин
+T62	Drug 3804 3814	акваДетрим
+T79	Body_location 10642 10651	СЕЛЕЗЕНКА
+T86	Drug 2030 2040	ванкомицин
+T53	Drug 3593 3609	карнитина хлорид
+T33	Drug 2831 2842	сульперазон
+T19	Severity 339 343	ФК 2
+T35	Drug 2853 2861	микосист
+T1	Drug 12662 12668	Элькар
+T63	Treatment 3728 3814	верошпирон 12 мг/сут, элькар 30% 0,5 мл 2 р/д, фолиевая кислота, мальтофер, акваДетрим
+T75	Body_location 10081 10095	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T28	Drug 2778 2787	добутрекс
+T37	Drug 2879 2886	гепарин
+T80	Body_location 10791 10798	ЖЕЛУДОК
+T64	Symptom 3919 3934	Нарушение ритма
+T48	Body_location 3407 3424	правого желудочка
+T27	Drug 2769 2776	допамин
+T70	Symptom 7130 7138	увеличен
+T16	Body_location 267 273	сердца
+T76	Body_location 10169 10175	ПЕЧЕНЬ
+T60	Drug 3775 3791	фолиевая кислота
+T87	Drug 2042 2050	амикацин
+T58	Drug 3728 3738	верошпирон
+T83	Drug 11534 11545	пропафенона
+T29	Drug 2789 2802	нитроглицерин
+T12	Treatment 11821 12726	Верошпирон (Спиронолактон) 6,25 мг 1 раз в день в 8.00, длительно..
+6. Сотагексал (Соталола гидрохлорид) 10 мг 4 раза в день в 7.00, 12.00, 17.00, 22.00, длительно..
+7. Пропанорм (Пропафенон) 20 мг 3 раза в день в 8.00,15.00, 23.00, длительно..
+8. Трентал (Пентоксифиллин) 6 мг 3 раза в день, после еды, длительно..
+9. Аспаркам (Калия и магния аспарагинат) 1/4 таб. 2 раза в день, длительно..
+10. Диакарб 31 мг 1 раз в день в 8.00, 1, 2, 3 число месяца..
+11. Магне В6 5 мл 1 раз в день, июль, август..
+12. Аква Д3 5 кап. 1 раз в день, длительно, по апрель 2051 г..
+13. Фенибут 1/8 таб. на ночь, июль, август..
+14. Мальтофер 7 кап. 2 раза в день, во время еды, август, под контролем ОАК в конце августа, при нормальных показателях профилактический курс 2 кап. 2 раза в день в течение 2 мес. под наблюдением педиатра по месту жительства..
+15. Элькар (Левокарнитин) 30% 5 кап. 2 раза в день, август, сентябрь
+T10	Drug 11892 11902	Сотагексал
+T4	Drug 12327 12334	Аква Д3
+T67	Body_location 7027 7044	ПРАВОЕ ПРЕДСЕРДИЕ
+T77	Body_location 10553 10573	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T21	Disease 669 672	ХСН
+T56	Drug 3649 3656	меронем
+T45	Disease 3259 3261	НК
+T43	Symptom 3283 3345	неврологической симптоматики в виде синдрома мышечной дистонии
+T52	Drug 3580 3587	глюкоза
+T26	Disease 1481 1488	инсульт
+T11	Drug 11821 11831	Верошпирон
+T61	Drug 3793 3802	мальтофер
+T20	Disease 363 386	Врожденный порок сердца
+T9	Drug 11990 11999	Пропанорм
+T51	Drug 3558 3574	глюконат кальция
+T17	Disease 327 330	ХСН
+T40	Drug 2911 2919	аминовен
+T54	Drug 3615 3628	натрия хлорид
+T38	Drug 2888 2897	фуросемид
+T7	Drug 12140 12148	Аспаркам
+T78	Body_location 10896 10905	ЛИМФОУЗЛЫ
+T18	Severity 331 338	2 А ст.
+T39	Drug 2899 2909	верошпирон
+T46	Severity 3262 3268	2 А ст
+T41	Drug 2921 2931	липофундин
+T5	Drug 12280 12288	Магне В6
+T2	Drug 12435 12444	Мальтофер
+T13	Disease 21 44	Врожденный порок сердца
+T59	Drug 3750 3756	элькар
+T36	Drug 2863 2877	магния сульфат
+T71	Body_location 7186 7201	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T81	Body_location 10839 10855	Д\ПЕРСТНАЯ КИШКА
+T34	Drug 2844 2851	меронем
+T42	Treatment 2809 2963	ванкомицин, амикацин, сульперазон, меронем, микосист; магния сульфат, гепарин, фуросемид, верошпирон, аминовен, липофундин, переливание эритроцитной массы
+T88	Treatment 2018 2050	цефотаксим, ванкомицин, амикацин
+T65	Body_location 6549 6554	АОРТА
+T30	Treatment 2769 2802	допамин, добутрекс, нитроглицерин
+T47	Symptom 3395 3424	Гипертрофия правого желудочка
+T89	Drug 2110 2124	простагландино
+T69	Body_location 7074 7100	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T68	Body_location 7112 7128	ПРАВЫЙ ЖЕЛУДОЧЕК
+T14	Symptom 47 81	транспозиция магистральных сосудов
+T73	Body_location 7729 7737	ПЕРИКАРД
+T74	Body_location 7759 7776	НИЖНЯЯ ПОЛАЯ ВЕНА
+T84	Treatment 11509 11548	соталола 6,6 мг/кг/сут и пропафенона 10
+T15	Symptom 275 302	Желудочковая экстрасистолия
+T25	Disease 1472 1479	инфаркт
+T32	Drug 2821 2829	амикацин
+T49	Drug 3510 3520	верошпирон
+T57	Treatment 3510 3660	верошпирон 12 мг/сут; в/в: аминовен-инфант 10%, глюконат кальция 10%, глюкоза 10%, карнитина хлорид 10%, натрия хлорид 0,9%; дифлюкан № 3, меронем № 7
+T66	Body_location 6780 6796	ЛЕГОЧНАЯ АРТЕРИЯ
+T23	Disease 710 733	Железодефицитная анемия
+T44	Symptom 3271 3281	гипотрофии
+T3	Drug 12390 12397	Фенибут
+T22	Severity 673 679	2 А ст
+T72	Body_location 7557 7579	ТРИКУСПИДАЛЬНЫЙ КЛАПАН
+T50	Drug 3537 3552	аминовен-инфант
+N1	Reference T82 UMLS:C0037707	соталол
+N2	Reference T55 UMLS:C0016277	флуконазол
+N3	Reference T8 UMLS:C0030899	трентал
+N4	Reference T24 UMLS:C0011849	сахарный диабет
+N5	Reference T6 UMLS:C0000981	диакарб
+N6	Reference T85 UMLS:C0007554	цефотаксим
+N7	Reference T31 UMLS:C0042313	ванкомицин
+N8	Reference T62 UMLS:C0008318	холекальциферол
+N9	Reference T79 UMLS:C0037993	селезенка
+N10	Reference T86 UMLS:C0042313	ванкомицин
+N11	Reference T53 UMLS:C0696229	карнитин
+N12	Reference T33 UMLS:C0038742	сульфинпиразон
+N13	Reference T35 UMLS:C0016277	флуконазол
+N14	Reference T1 UMLS:C0007258	l-karnitin
+N15	Reference T63 UMLS:C0459914	комплексонная терапия
+N16	Reference T75 UMLS:C0016976	желчный пузырь
+N17	Reference T28 UMLS:C0012963	добутамин
+N18	Reference T37 UMLS:C0019134	гепарин
+N19	Reference T80 UMLS:C0038351	желудок
+N20	Reference T64 UMLS:C0003811	нарушения ритма, неуточненное
+N21	Reference T48 UMLS:C0162770	увеличение правого желудочка
+N22	Reference T27 UMLS:C0013030	допамин
+N23	Reference T70 UMLS:C0231249	увеличение роста
+N24	Reference T16 UMLS:C0018787	сердце
+N25	Reference T76 UMLS:C0023884	печень
+N26	Reference T60 UMLS:C0016410	фолиевая кислота
+N27	Reference T87 UMLS:C0002499	амикацин
+N28	Reference T58 UMLS:C0037982	верошпирон
+N29	Reference T83 UMLS:C0033429	пропафенон
+N30	Reference T29 UMLS:C0017887	нитроглицерин
+N31	Reference T12 UMLS:C2925955	с пептид^10 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич
+N32	Reference T10 UMLS:C0037707	соталол
+N33	Reference T4 UMLS:C0008318	холекальциферол
+N34	Reference T67 UMLS:C0078996	предсердие правое, функция
+N35	Reference T77 UMLS:C0030274	поджелудочная железа
+N36	Reference T21 UMLS:C0264716	хроническая сердечная недостаточность
+N37	Reference T56 UMLS:C0066005	меропенем
+N38	Reference T45 UMLS:C1392658	сердечная недостаточность
+N39	Reference T43 UMLS:C0752252	мышечных болезней симптоматика
+N40	Reference T52 UMLS:C0017725	глюкоза
+N41	Reference T26 UMLS:C1263853	инсульт
+N42	Reference T11 UMLS:C0037982	верошпирон
+N43	Reference T61 UMLS:C3537005	добавки железа
+N44	Reference T20 UMLS:C0152021	врожденный порок сердца
+N45	Reference T9 UMLS:C0033429	пропафенон
+N46	Reference T51 UMLS:C0006699	кальция глюконат
+N47	Reference T17 UMLS:C0264716	хроническая сердечная недостаточность
+N48	Reference T40 UMLS:C0002520	аминокислоты
+N49	Reference T54 UMLS:C0037494	натрия хлорид
+N50	Reference T38 UMLS:C0016860	фуросемид
+N51	Reference T7 UMLS:C0032835	калия, магния аспарагинат
+N52	Reference T78 UMLS:C0024204	лимфатические узлы
+N53	Reference T39 UMLS:C0037982	верошпирон
+N54	Reference T41 UMLS:C0015667	жировые эмульсии внутривенные
+N55	Reference T5 UMLS:C0162799	мярнп u6
+N56	Reference T2 UMLS:C0919650	добавки железа
+N57	Reference T13 UMLS:C0152021	врожденный порок сердца
+N58	Reference T59 UMLS:C0007258	карнитин
+N59	Reference T36 UMLS:C0024480	магния сульфат
+N60	Reference T71 UMLS:C0080310	сердца желудочка левого функция
+N61	Reference T81 UMLS:C0013303	двенадцатиперстная кишка
+N62	Reference T34 UMLS:C0066005	меропенем
+N63	Reference T42 UMLS:C0459914	комплексонная терапия
+N64	Reference T88 UMLS:C0854606	системная антибактериальная терапия
+N65	Reference T65 UMLS:C0003483	аорта
+N66	Reference T30 UMLS:C0009429	комплексное лечение
+N67	Reference T47 UMLS:C0162770	гипертрофия правого желудочка
+N68	Reference T89 UMLS:C0033554	простагландины
+N69	Reference T69 UMLS:C2717762	перегородки межпредсердной обтуратор
+N70	Reference T68 UMLS:CUILESS	правый желудочек сердца, функция
+N71	Reference T14 UMLS:C0040761	транспозиция магистральных сосудов
+N72	Reference T73 UMLS:C0031050	перикард
+N73	Reference T74 UMLS:C0042458	полая вена, нижняя
+N74	Reference T84 UMLS:C0003195	антиаритмические средства
+N75	Reference T15 UMLS:C0151636	экстрасистола желудочковая
+N76	Reference T25 UMLS:C0021308	инфаркт
+N77	Reference T32 UMLS:C0002499	амикацин
+N78	Reference T49 UMLS:C0037982	верошпирон
+N79	Reference T57 UMLS:C0459914	инфузии внутривенные
+N80	Reference T66 UMLS:C0034052	легочная артерия
+N81	Reference T23 UMLS:C0162316	железодефицитная анемия
+N82	Reference T44 UMLS:C0152208	гипотропия
+N83	Reference T3 UMLS:C0242913	ноотропные средства
+N84	Reference T72 UMLS:C0040960	трехстворчатый клапан
+N85	Reference T50 UMLS:C0002520	аминокислоты
+#1	AnnotatorNotes T63	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#2	AnnotatorNotes T4	first_annotator_label: C0008318||synonyms: холекальциферол|kholekal'tsiferol|vitamin d3|витамин d3||||second_annotator_label: C0042866||synonyms: витамин d|vitamin d|kal'tsiferol|кальциферол||||third_annotator_label: C0919758||synonyms: витамин d||||bert: C0256421||synonyms: аквапорин 3|akvaporin 3||||
+#3	AnnotatorNotes T45	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#4	AnnotatorNotes T61	first_annotator_label: C3537005||synonyms: добавки железа||||second_annotator_label: C0302583||synonyms: железо|zhelezo||||third_annotator_label: C0015860||synonyms: железа трехвалентного соединения|zheleza trekhvalentnogo soedineniia|zheleza trekhvalentnogo lekarstvennye preparaty|железа трехвалентного лекарственные препараты|zheleza iii soedineniia||||bert: C0024653||synonyms: мальта|mal'ta||||
+#5	AnnotatorNotes T2	first_annotator_label: C0919650||synonyms: добавки железа||||second_annotator_label: C0302583||synonyms: железо|zhelezo||||third_annotator_label: C0015860||synonyms: железа трехвалентного соединения|zheleza trekhvalentnogo soedineniia|zheleza trekhvalentnogo lekarstvennye preparaty|железа трехвалентного лекарственные препараты|zheleza iii soedineniia||||bert: C0024653||synonyms: мальта|mal'ta||||
+#6	AnnotatorNotes T42	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0398639||synonyms: амегакариоцитарная тромбоцитопения||||
+#7	AnnotatorNotes T88	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0006961||synonyms: карбамоилфосфатсинтаза (аммиак)|karbamoilfosfatsintaza (ammiak)|karbamoilfosfatsintaza i|карбамоилфосфатсинтаза i||||
+#8	AnnotatorNotes T30	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0034797||synonyms: рецепторы цитоадгезина|retseptory tsitoadgezina|retseptory glikoproteinov vnekletochnogo matriksa|рецепторы гликопротеинов внеклеточного матрикса||||
+#9	AnnotatorNotes T68	first_annotator_label: C0080311||synonyms: сердца желудочка правого функция|serdtsa zheludochka pravogo funktsiia|pravozheludochkovaia funktsiia serdtsa|pravozheludochkovaia funktsiia|pravyi zheludochek serdtsa, funktsiia||||second_annotator_label: C5243553||synonyms: системный правый желудочек||||third_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||bert: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||
+#10	AnnotatorNotes T84	first_annotator_label: C0003195||synonyms: противоаритмические средства|protivoaritmicheskie sredstva|antiaritmicheskie sredstva|kardial'nye depressanty|miokardial'nye depressanty||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T57	first_annotator_label: C0021440||synonyms: инфузии внутривенные|infuzii vnutrivennye|kapel'nye infuzii|vnutrivennoe kapel'noe vlivanie|vnutrivennye infuzii||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2969786||synonyms: убихинон 10/протеин:мольотн:тчкврм:тк:колич||||
+#12	AnnotatorNotes T50	first_annotator_label: C0002520||synonyms: аминокислоты|aminokisloty||||second_annotator_label: C0002586||synonyms: амидопирин|amidopirin|amidofenazon|aminofenazon|dimetilaminofenazon||||third_annotator_label: C0717967||synonyms: питания парентерального растворы|rastvory dlia parenteral'nogo pitaniia|растворы для парентерального питания|pitaniia parenteral'nogo rastvory||||bert: C0002586||synonyms: амидопирин|amidopirin|amidofenazon|aminofenazon|dimetilaminofenazon||||

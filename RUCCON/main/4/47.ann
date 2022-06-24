@@ -1,0 +1,126 @@
+T28	Disease 743 758	ларинготрахеиты
+T30	Symptom 809 823	стеноз гортани
+T24	Disease 600 613	ветряная оспа
+T40	Symptom 1230 1253	малопродуктивный кашель
+T36	Symptom 1104 1127	бронхиальной обструкции
+T35	Disease 1013 1031	коклюшная инфекция
+T27	Disease 738 741	ОРИ
+T5	Symptom 2088 2095	бледные
+T11	Symptom 2232 2265	Сердечные тоны звучные, ритмичные
+T4	Symptom 2080 2086	чистые
+T18	Disease 91 112	Гипертрофия аденоидов
+T53	Drug 1825 1835	беродуалом
+T22	Disease 196 222	Личностная инфальтильность
+T7	Symptom 2119 2129	Зев рыхлый
+T32	Disease 894 906	микоплазмоза
+T20	Disease 124 150	Цефалгии смешанного генеза
+T25	Disease 625 631	ангины
+T34	Symptom 959 965	кашель
+T1	Body_location 2065 2079	Кожные покровы
+T38	Drug 1139 1146	аскорил
+T56	Symptom 1898 1921	малопродуктивный кашель
+T6	Symptom 2097 2117	периорбитальные тени
+T50	Drug 1756 1763	авамиса
+T2	Symptom 2131 2167	Носовое дыхание несколько затруднено
+T31	Disease 873 892	серозного менингита
+T57	Disease 1049 1071	респираторные инфекции
+T49	Treatment 1742 1763	использовании авамиса
+T33	Disease 908 922	трахеобронхита
+T13	Symptom 2331 2359	Стул регулярный, оформленный
+T9	Symptom 2200 2218	с жестким оттенком
+T8	Symptom 2178 2198	дыхание везикулярное
+T41	Disease 1308 1311	ОРИ
+T45	Drug 1375 1380	эриус
+T47	Symptom 1434 1457	малопродуктивный кашель
+T54	Drug 1837 1845	макропен
+T26	Disease 643 663	врожденным стридором
+T52	Treatment 1803 1854	В терапии ингаляции с беродуалом, макропен, эреспал
+T14	Symptom 2361 2381	Менингеальных знаков
+T51	Disease 1798 1801	ОРИ
+T3	Body_location 2169 2177	В лёгких
+T59	Treatment 1129 1196	В терапии аскорил, ингаляции с беродуалом, симптоматическая терапия
+T23	Symptom 282 305	малопродуктивный кашель
+T17	Course 79 89	обострение
+T46	Drug 1382 1390	макропен
+T55	Drug 1847 1854	эреспал
+T48	Symptom 1687 1704	заложенность носа
+T58	Treatment 834 862	получал терапию в стационаре
+T21	Disease 152 194	Парциальный дефицит познавательных функций
+T19	Severity 113 122	1 степени
+T39	Drug 1160 1170	беродуалом
+T12	Symptom 2318 2325	дизурии
+T10	Symptom 2220 2226	хрипов
+T29	Drug 797 806	гексорала
+T16	Severity 48 77	легкое персистирующее течение
+T44	Drug 1366 1373	аскорил
+T15	Disease 9 46	Бронхиальная астма, атопическая форма
+T43	Treatment 1356 1390	В терапии аскорил, эриус, макропен
+T37	Drug 1561 1571	беродуалом
+T42	Disease 1333 1354	обструктивный бронхит
+N1	Reference T28 UMLS:C0023076	ларинготрахеит
+N2	Reference T30 UMLS:C0023075	стеноз гортани
+N3	Reference T24 UMLS:C0008049	ветряная оспа
+N4	Reference T40 UMLS:C0850149	кашель, непродуктивный
+N5	Reference T36 UMLS:C0221725	бронхиальная обструкция
+N6	Reference T35 UMLS:C0043167	коклюш
+N7	Reference T27 UMLS:C0035243	респираторные инфекции
+N8	Reference T5 UMLS:C0678215	бледный
+N9	Reference T11 UMLS:C0018810	сердечный ритм
+N10	Reference T4 UMLS:C0598869	чистая культура
+N11	Reference T18 UMLS:C0149825	гипертрофия исключительно аденоидов
+N12	Reference T53 UMLS:C0015840	фенотерол
+N13	Reference T22 UMLS:C0338971	инфантильная личность
+N14	Reference T7 UMLS:C0236065	отек ротовой полости
+N15	Reference T32 UMLS:C0026936	микоплазмозы
+N16	Reference T20 UMLS:C0393735	цефалгии синдром
+N17	Reference T25 UMLS:C0276143	вирусная ангина
+N18	Reference T34 UMLS:C0010200	кашель
+N19	Reference T1 UMLS:C1123023	кожа
+N20	Reference T38 UMLS:C0015314	муколитические средства
+N21	Reference T56 UMLS:C0850149	кашель, непродуктивный
+N22	Reference T6 UMLS:C4049523	периорбитальные петехии
+N23	Reference T50 UMLS:C0082607	флутиказон
+N24	Reference T2 UMLS:C0853254	раздражение носовых ходов
+N25	Reference T31 UMLS:C1403852	серозный менингит
+N26	Reference T57 UMLS:C0035243	респираторные инфекции
+N27	Reference T49 UMLS:C0744425	терапия глюкокортикостероидами
+N28	Reference T33 UMLS:C0040586	трахеобронхит
+N29	Reference T13 UMLS:CUILESS	мягкий стул
+N30	Reference T9 UMLS:C3666016	жесткое дыхание при аускультации легких
+N31	Reference T8 UMLS:C0035203	дыхание
+N32	Reference T41 UMLS:C0035243	респираторные инфекции
+N33	Reference T45 UMLS:C2923532	дезлоратадин:массконц:тчкврм:кр:колич
+N34	Reference T47 UMLS:C0850149	кашель, непродуктивный
+N35	Reference T54 UMLS:C0279516	антибактериальные средства
+N36	Reference T26 UMLS:C0858233	врожденный стридор
+N37	Reference T52 UMLS:C0851107	исследование на вирус эпштейна-барр
+N38	Reference T14 UMLS:C0025287	менингеальные знаки
+N39	Reference T51 UMLS:C0035243	респираторные инфекции
+N40	Reference T3 UMLS:C0024109	легкие
+N41	Reference T59 UMLS:C0013154	введение лекарств ингаляционное
+N42	Reference T23 UMLS:C0850149	кашель, непродуктивный
+N43	Reference T17 UMLS:C0853946	обострение боли
+N44	Reference T46 UMLS:C0282563	макролиды
+N45	Reference T55 UMLS:C0019592	противовоспалительные средства
+N46	Reference T48 UMLS:C0027424	заложенность носа
+N47	Reference T58 UMLS:C0011017	стационарное лечение дневное
+N48	Reference T21 UMLS:C0011263	слабоумие парциальное
+N49	Reference T39 UMLS:C0015840	фенотерол
+N50	Reference T12 UMLS:C0013428	дизурия
+N51	Reference T10 UMLS:C3887661	хрип
+N52	Reference T29 UMLS:C0019468	гексетидин
+N53	Reference T16 UMLS:CUILESS	астма, хроническая
+N54	Reference T44 UMLS:C0015314	отхаркивающие средства
+N55	Reference T15 UMLS:C0004096	астма бронхиальная
+N56	Reference T43 UMLS:C0750934	артроскопическая операция
+N57	Reference T37 UMLS:C0015840	фенотерол
+N58	Reference T42 UMLS:C0865791	обструктивный бронхит
+#1	AnnotatorNotes T7	first_annotator_label: C0236065||synonyms: отек полости рта|отек рта|отечность полости рта|отек ротовой полости|отечность рта||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0863112||synonyms: раздражение ротоглотки||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#2	AnnotatorNotes T49	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0752340||synonyms: авраамово дерево|avraamovo derevo|vitex agnus-castus||||
+#3	AnnotatorNotes T13	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#4	AnnotatorNotes T9	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#5	AnnotatorNotes T45	first_annotator_label: C2923532||synonyms: дезлоратадин:массконц:тчкврм:кр:колич||||second_annotator_label: C0373748||synonyms: zn|цинк|двухвалентный цинк||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0014996||synonyms: эфиры|efiry|fluroksen|флуроксен||||
+#6	AnnotatorNotes T59	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2317067||synonyms: лекарственной терапии амбулаторной мониторинг|lekarstvennoi terapii ambulatornoi monitoring||||
+#7	AnnotatorNotes T46	first_annotator_label: C0282563||synonyms: макролиды|makrolidy||||second_annotator_label: C0026202||synonyms: миокамицин|miokamitsin|понсиномицин|ponsinomitsin||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C4551492||synonyms: микропенис||||
+#8	AnnotatorNotes T55	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C0031379||synonyms: феназопиридин|fenazopiridin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0337435||synonyms: эстриол||||
+#9	AnnotatorNotes T16	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||

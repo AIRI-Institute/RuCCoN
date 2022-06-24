@@ -1,0 +1,74 @@
+T15	Disease 723 739	пищевой аллергии
+T7	Disease 138 166	Дисфункция билиарного тракта
+T22	Symptom 1110 1120	Зев рыхлый
+T24	Body_location 1160 1168	В лёгких
+T9	Body_location 149 166	билиарного тракта
+T2	Course 49 57	ремиссия
+T34	Disease 236 242	ринита
+T6	Disease 110 136	Хронический гастродуоденит
+T35	Disease 244 257	конъюнктивита
+T14	Treatment 620 667	В терапии местные средства, при коррекции диеты
+T36	Body_location 1110 1113	Зев
+T18	Treatment 853 915	В терапии антигистаминные препараты, симптоматические средства
+T20	Disease 1005 1013	поллиноз
+T13	Disease 596 618	атопического дерматита
+T5	Disease 77 108	Искривление носовой перегородки
+T4	Disease 9 17	Поллиноз
+T19	Disease 970 986	пищевая аллергия
+T23	Symptom 1122 1158	Носовое дыхание несколько затруднено
+T21	Body_location 1066 1080	Кожные покровы
+T28	Symptom 1289 1296	дизурии
+T26	Symptom 1191 1197	хрипов
+T27	Symptom 1203 1236	Сердечные тоны звучные, ритмичные
+T31	Symptom 1081 1087	чистые
+T38	Disease 838 851	конъюнктивита
+T30	Symptom 1332 1352	Менингеальных знаков
+T8	Body_location 89 108	носовой перегородки
+T12	Symptom 354 372	угрозой прерывания
+T3	Disease 59 75	Пищевая аллергия
+T25	Symptom 1169 1189	дыхание везикулярное
+T33	Disease 19 47	риноконъюнктивальный синдром
+T29	Symptom 1302 1330	Стул регулярный, оформленный
+T32	Symptom 1089 1108	со смуглым оттенком
+T37	Disease 830 836	ринита
+N1	Reference T15 UMLS:C0149696	пищевая аллергия
+N2	Reference T7 UMLS:C1963987	патология желчевыводящих путей (smq)
+N3	Reference T22 UMLS:C0236065	отек полости рта
+N4	Reference T24 UMLS:C0024109	легкие
+N5	Reference T9 UMLS:C1142316	устранение билиарного свища
+N6	Reference T2 UMLS:C0242793	период ремиссии
+N7	Reference T34 UMLS:C0035455	ринит
+N8	Reference T6 UMLS:C4728231	хронический гастродуоденит
+N9	Reference T35 UMLS:C0009763	конъюнктивит
+N10	Reference T14 UMLS:C5243901	симптоматическое лечение
+N11	Reference T36 UMLS:C0521367	ротовая полость
+N12	Reference T18 UMLS:C1504374	антигистаминная терапия
+N13	Reference T20 UMLS:C0018621	поллиноз
+N14	Reference T13 UMLS:C0011615	атопический дерматит
+N15	Reference T5 UMLS:C0549397	искривление перегородки носа
+N16	Reference T4 UMLS:C0018621	поллиноз
+N17	Reference T19 UMLS:C0149696	пищевая аллергия
+N18	Reference T23 UMLS:C0853254	раздражение носовых ходов
+N19	Reference T21 UMLS:C1123023	кожа
+N20	Reference T28 UMLS:C0013428	дизурия
+N21	Reference T26 UMLS:C3887661	хрип
+N22	Reference T27 UMLS:C2712143	нормальный сердечный ритм
+N23	Reference T31 UMLS:C0598869	чистая культура
+N24	Reference T38 UMLS:C0009763	конъюнктивит
+N25	Reference T30 UMLS:C0025287	менингеальные знаки
+N26	Reference T8 UMLS:C0027432	носа перегородка
+N27	Reference T12 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N28	Reference T3 UMLS:C0149696	пищевая аллергия
+N29	Reference T25 UMLS:C0231855	нормальная аускультативная картина в легких
+N30	Reference T33 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N31	Reference T29 UMLS:CUILESS	мягкий стул
+N32	Reference T32 UMLS:CUILESS	цвет
+N33	Reference T37 UMLS:C0035455	ринит
+#1	AnnotatorNotes T7	first_annotator_label: C1963987||synonyms: патология желчевыводящих путей (smq)||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0005416||synonyms: желчных путей дискинезия|zhelchnykh putei diskineziia|дискинезия желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#2	AnnotatorNotes T22	first_annotator_label: C0236065||synonyms: отек полости рта|отек рта|отечность полости рта|отек ротовой полости|отечность рта||||second_annotator_label: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||third_annotator_label: None||synonyms: ||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#3	AnnotatorNotes T2	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#4	AnnotatorNotes T14	first_annotator_label: C5243901||synonyms: симптоматическое лечение||||second_annotator_label: C0161642||synonyms: отравление местными вяжущими средствами и местными детергентами||||third_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||bert: C0161642||synonyms: отравление местными вяжущими средствами и местными детергентами||||
+#5	AnnotatorNotes T36	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#6	AnnotatorNotes T25	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#7	AnnotatorNotes T29	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#8	AnnotatorNotes T32	first_annotator_label: C0009393||synonyms: цвет|tsvet||||second_annotator_label: C1053942||synonyms: sphagnopsida|sfagnum|мох сфагнум|мхи торфяные|сфагнум||||third_annotator_label: None||synonyms: ||||bert: C1053942||synonyms: sphagnopsida|sfagnum|мох сфагнум|мхи торфяные|сфагнум||||

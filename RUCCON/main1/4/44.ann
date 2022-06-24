@@ -1,0 +1,423 @@
+T68	Body_location 491 514	органов брюшной полости
+T35	Disease 4611 4625	рубцовый фимоз
+T148	Disease 3297 3304	коклюша
+T145	Disease 3259 3271	полиомиелита
+T99	Symptom 859 867	изменены
+T167	Disease 4512 4532	гемофильной инфекции
+T131	Body_location 2557 2573	Небные миндалины
+T44	Body_location 2484 2494	Ротоглотка
+T123	Symptom 1843 1854	секрета нет
+T91	Symptom 1021 1051	секрета нет, стенки нормальные
+T28	Body_location 5085 5119	нижних срединно-стволовых структур
+T82	Body_location 1215 1229	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T132	Severity 2574 2586	I-II степени
+T3	Treatment 5788 5828	Сингуляр 4 мг по 1т 1 раз в день на ночь
+T140	Drug 2936 2944	Физиомер
+T56	Body_location 312 318	Сердце
+T163	Disease 4336 4359	эпидемического паротита
+T22	Drug 5299 5305	ксизал
+T5	Symptom 5871 5894	малопродуктивного кашля
+T156	Disease 4091 4100	столбняка
+T34	Body_location 4857 4884	задневисочные отделы справа
+T121	Body_location 1782 1799	селезёночная вена
+T151	Treatment 3541 3567	антигистаминных препаратов
+T38	Symptom 2349 2373	незначительно затруднено
+T66	Symptom 2108 2125	умеренная аритмия
+T114	Symptom 1451 1511	размер увеличен (ЛД = 60 мм, 1-й сегмент 15 мм, ПД = 109 мм)
+T172	Symptom 4886 5007	Усиление медленно-волновой активности в ряду ритмики в затылочно-задневисочных отделах, иногда то больше справа, то слева
+T166	Drug 4501 4509	Превенар
+T106	Body_location 599 605	стенки
+T149	Disease 3306 3314	дифтерии
+T10	Treatment 5995 6078	через небулайзер – пульмикорт 250 мкг + беродуал 10 капель  3 раза в день на 7 дней
+T77	Body_location 640 660	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T126	Symptom 1288 1306	стенки не изменены
+T147	Drug 3328 3337	Инфанрикс
+T36	Body_location 2303 2317	наружного носа
+T127	Symptom 1258 1286	лабильная перегородка в теле
+T16	Treatment 6208 6257	Туалет носа с физиомером 3 раза в день продолжить
+T23	Drug 5319 5327	назонекс
+T125	Symptom 1242 1256	размер средний
+T58	Body_location 379 395	Куполы диафрагмы
+T86	Body_location 1814 1841	ЖЕЛУДОК и 12-ПЕРСТНАЯ КИШКА
+T1	Treatment 5602 5660	Соблюдение гипоаллергенного стола и элиминационного режима
+T146	Drug 3273 3286	Имовакс-полио
+T80	Body_location 992 1019	ЖЕЛУДОК и 12-ПЕРСТНАЯ КИШКА
+T47	Body_location 19 42	органов грудной полости
+T39	Symptom 2407 2421	бледно-розовая
+T43	Symptom 2440 2460	Слизистое отделяемое
+T152	Disease 3681 3701	вирусного гепатита В
+T135	Symptom 2652 2667	розовая, чистая
+T89	Symptom 1077 1113	лабильной деформации желчного пузыря
+T137	Disease 2844 2878	Аллергический персистирующий ринит
+T112	Body_location 1423 1429	проток
+T84	Body_location 1443 1449	ПЕЧЕНЬ
+T165	Disease 4476 4499	пневмококковой инфекции
+T134	Symptom 2592 2619	патологического содержимого
+T97	Symptom 818 838	паренхима однородная
+T139	Body_location 2913 2935	слизистую полости носа
+T178	Body_location 2764 2766	Mt
+T14	Treatment 6131 6203	лазолван в растворе по 1,5 мл 3 раза в день на 5 дней (не позднее 18.30)
+T20	Treatment 5265 5434	туалет носа с физиомером х 3 р/д, ксизал 10 к. 1 р/д, назонекс, зиннат (250 мг) по 1т 2 р/д (7 дн), линекс по 1 к. 3 р/д, фликсотид 125 мкг по 1 инг 2 р/д через спейсер.
+T161	Disease 4319 4323	кори
+T154	Disease 4073 4080	коклюша
+T169	Drug 4546 4554	Хиберикс
+T117	Body_location 1661 1676	печёночные вены
+T101	Symptom 917 937	паренхима однородная
+T143	Drug 3003 3013	Аква-марис
+T59	Body_location 415 432	уровне V-VI рёбер
+T53	Symptom 285 296	структурные
+T31	Body_location 5029 5063	корково-подкорковых взаимодействий
+T150	Disease 3317 3326	столбняка
+T85	Body_location 1690 1699	СЕЛЕЗЁНКА
+T90	Symptom 1115 1132	увеличения печени
+T155	Disease 4081 4089	дифтерии
+T111	Symptom 1392 1421	эхогенность паренхимы снижена
+T12	Drug 6035 6043	беродуал
+T158	Drug 4138 4147	Полиорикс
+T110	Symptom 1362 1390	размер увеличен (15х20х17мм)
+T109	Symptom 619 638	просвет анэхогенный
+T26	Drug 5387 5396	фликсотид
+T94	Symptom 743 751	расширен
+T54	Symptom 301 310	расширены
+T62	Symptom 396 410	ровные, чёткие
+T102	Symptom 939 958	средней эхогенности
+T18	Drug 5788 5796	Сингуляр
+T4	Symptom 5847 5866	затруднения дыхания
+T136	Body_location 2631 2651	Задняя стенка глотки
+T130	Symptom 1680 1688	изменены
+T64	Symptom 2092 2106	Ритм синусовый
+T138	Treatment 2895 3059	Ежедневно орошать слизистую полости носа Физиомер (с 2-х нед. и старше) (или Аквалор софт, или Маример, или Аква-марис) х 3-4 раза в день (тщательное отсмаркивание)
+T118	Symptom 1712 1737	размер увеличен (93х42мм)
+T177	Symptom 2744 2762	широкие, свободные
+T70	Body_location 1920 1935	желчного пузыря
+T15	Drug 6131 6139	лазолван
+T2	Treatment 5729 5783	Фликсотид 125 мкг по 1 инг 2 раза в день через спейсер
+T9	Disease 5972 5994	респираторной инфекции
+T61	Symptom 319 354	расположено обычно, форма и размеры
+T75	Symptom 1958 2008	реактивных изменений печени и поджелудочной железы
+T153	Disease 4059 4071	полиомиелита
+T159	Drug 4156 4165	Инфанрикс
+T41	Body_location 2375 2406	Слизистая оболочка полости носа
+T108	Symptom 569 597	лабильная перегородка в теле
+T157	Drug 4120 4133	Имовакс-полио
+T173	Body_location 2674 2698	AD et AS заушные области
+T25	Drug 5365 5371	линекс
+T160	Disease 4282 4295	полиоимиелита
+T48	Symptom 98 134	очаговых и инфильтративных изменений
+T164	Drug 4361 4369	Приорикс
+T17	Drug 6222 6232	физиомером
+T6	Treatment 5896 5942	вентолин (саломол) по 1-2 инг. до 3 раз в день
+T79	Body_location 869 878	СЕЛЕЗЁНКА
+T174	Symptom 2702 2710	изменены
+T21	Drug 5279 5289	физиомером
+T76	Symptom 2321 2329	изменена
+T105	Symptom 543 567	размер средний (46х13мм)
+T176	Body_location 2727 2743	Слуховые проходы
+T30	Symptom 5065 5084	Признаки дисфункции
+T8	Drug 5906 5913	саломол
+T83	Body_location 1329 1349	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T142	Drug 2990 2997	Маример
+T95	Symptom 761 801	размер увеличен (ЛД = 59 мм, ПД = 99 мм)
+T104	Symptom 981 990	расширена
+T133	Body_location 2622 2629	лакунах
+T19	Drug 5729 5738	Фликсотид
+T13	Symptom 6098 6121	малопродуктивного кашля
+T11	Drug 6014 6024	пульмикорт
+T144	Disease 3196 3216	вирусного гепатита В
+T88	Body_location 1126 1132	печени
+T67	Symptom 2164 2213	Непостоянное удлинение систолы желудочков на 0.05
+T37	Body_location 2345 2348	нос
+T122	Symptom 1803 1812	расширена
+T96	Symptom 803 816	контур ровный
+T72	Body_location 1988 2008	поджелудочной железы
+T168	Drug 4534 4541	Акт-ХИБ
+T107	Symptom 609 617	изменены
+T46	Symptom 2540 2555	розовая, чистая
+T45	Body_location 2496 2539	Слизистая оболочка преддверия и полости рта
+T124	Symptom 1856 1873	стенки нормальные
+T93	Body_location 733 739	проток
+T175	Symptom 2712 2725	безболезненны
+T42	Body_location 2461 2482	в общих носовых ходах
+T74	Symptom 1937 1956	гепатоспленомегалии
+T129	Symptom 1513 1569	контур ровный, паренхима однородная, средней эхогенности
+T87	Body_location 1098 1113	желчного пузыря
+T63	Symptom 441 457	дифференцируются
+T60	Body_location 434 440	Синусы
+T98	Body_location 840 855	печёночные вены
+T55	Body_location 272 284	Корни лёгких
+T24	Drug 5329 5335	зиннат
+T50	Symptom 148 188	Пневматизация лёгочной ткани не изменена
+T170	Symptom 4711 4790	Дезорганизованный тип ЭЭГ с нерегулярным по частоте и амплитуде основным ритмом
+T162	Disease 4325 4333	краснухи
+T7	Drug 5896 5904	вентолин
+T73	Symptom 1899 1935	лабильной деформации желчного пузыря
+T49	Body_location 162 176	лёгочной ткани
+T40	Symptom 2423 2438	умеренно отечна
+T65	Symptom 2066 2090	Нормальное положение ЭОС
+T115	Symptom 1571 1637	резко усилен сосудистый рисунок, выражено уплотнены стенки сосудов
+T29	Body_location 5122 5153	дисфункции подкорковых структур
+T52	Symptom 235 270	несколько усилен по смешанному типу
+T179	Symptom 2767 2803	бледно-розового цвета, контурируются
+T69	Body_location 516 530	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T116	Body_location 1639 1652	воротная вена
+T171	Symptom 4792 4884	Непостоянное смешение амплитудного акцента основной активности в задневисочные отделы справа
+T51	Symptom 190 233	Лёгочный рисунок сгущён с базальных отделах
+T113	Symptom 1433 1441	расширен
+T141	Drug 2972 2984	Аквалор софт
+T78	Body_location 753 759	ПЕЧЕНЬ
+T128	Symptom 1308 1327	просвет анэхогенный
+T57	Body_location 216 233	базальных отделах
+T81	Body_location 1190 1213	органов брюшной полости
+T71	Body_location 1979 1985	печени
+T100	Symptom 891 915	размер средний (73х37мм)
+T120	Symptom 1761 1780	средней эхогенности
+T92	Symptom 673 731	размер средний (14х12х14мм), эхогенность паренхимы средняя
+T103	Body_location 960 977	селезёночная вена
+T32	Symptom 5009 5028	Признаки дисфункции
+T27	Symptom 5155 5223	Типичной эпилептической, пароксизмальной активности, грубых очаговых
+T119	Symptom 1739 1759	паренхима однородная
+T33	Body_location 4941 4972	затылочно-задневисочных отделах
+N1	Reference T68 UMLS:C0230168	брюшная полость
+N2	Reference T35 UMLS:C0345326	фимоз
+N3	Reference T148 UMLS:C0043167	коклюш
+N4	Reference T145 UMLS:C0032371	полиомиелит
+N5	Reference T99 UMLS:CUILESS	расширители
+N6	Reference T167 UMLS:C0348321	сепсис, вызванный гемофильной инфекцией
+N7	Reference T131 UMLS:C0040421	миндалины небные
+N8	Reference T44 UMLS:C0521367	ротоглотка
+N9	Reference T123 UMLS:C1096020	выделение секрета
+N10	Reference T91 UMLS:CUILESS	результаты обследования желудочно-кишечного тракта в норме
+N11	Reference T28 UMLS:C0006121	ствол мозга
+N12	Reference T82 UMLS:C0016976	желчный пузырь
+N13	Reference T3 UMLS:C0013154	лекарства применения схема
+N14	Reference T140 UMLS:C0036499	вода морская
+N15	Reference T56 UMLS:C0018787	сердце
+N16	Reference T163 UMLS:C0026780	эпидемический паротит
+N17	Reference T22 UMLS:C0055147	цетиризин
+N18	Reference T5 UMLS:C0850149	кашель, непродуктивный
+N19	Reference T156 UMLS:C0039614	столбняк
+N20	Reference T34 UMLS:C0039485	нарушения биоэлектрической активности мозга по данным ээг (бду)
+N21	Reference T121 UMLS:C0038001	селезеночная вена
+N22	Reference T151 UMLS:C1504374	антигистаминная терапия
+N23	Reference T38 UMLS:C0553668	затруднённое дыхание
+N24	Reference T66 UMLS:C0003811	аритмия бду
+N25	Reference T114 UMLS:C0019209	увеличение печени
+N26	Reference T172 UMLS:C0151611	отклонение от нормы результатов ээг
+N27	Reference T166 UMLS:C0358314	превенар
+N28	Reference T106 UMLS:CUILESS	утолщение стенки желчного пузыря
+N29	Reference T149 UMLS:C0012546	дифтерия
+N30	Reference T10 UMLS:C0001559	введение лекарств ингаляционное
+N31	Reference T77 UMLS:C0030274	поджелудочная железа
+N32	Reference T126 UMLS:CUILESS	утолщение стенки желчного пузыря
+N33	Reference T147 UMLS:C1277100	вакцина дифтерийно-столбнячно-коклюшная
+N34	Reference T36 UMLS:C0028429	нос
+N35	Reference T127 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N36	Reference T16 UMLS:C2350442	промывание носа
+N37	Reference T23 UMLS:C0066700	назонекс
+N38	Reference T125 UMLS:C1450569	органа размер
+N39	Reference T58 UMLS:C0011980	диафрагма
+N40	Reference T86 UMLS:C0013303	двенадцатиперстная кишка
+N41	Reference T1 UMLS:C0425402	медицинская диета
+N42	Reference T146 UMLS:C0718003	вакцина против полиомиелита инактивированная
+N43	Reference T80 UMLS:C0013303	двенадцатиперстная кишка
+N44	Reference T47 UMLS:C0230139	грудной клетки полость
+N45	Reference T39 UMLS:C4505235	розовые
+N46	Reference T43 UMLS:C0585350	слизистые выделения
+N47	Reference T152 UMLS:C0019186	гепатита вирусы
+N48	Reference T135 UMLS:CUILESS	норма рабочая
+N49	Reference T89 UMLS:C0302142	деформация
+N50	Reference T137 UMLS:C2607914	аллергический ринит
+N51	Reference T112 UMLS:C0030288	поджелудочной железы протоки
+N52	Reference T84 UMLS:C0023884	печень
+N53	Reference T165 UMLS:C0032269	пневмококковая инфекция
+N54	Reference T134 UMLS:CUILESS	патология
+N55	Reference T97 UMLS:C4277702	паренхиматозная ткань
+N56	Reference T139 UMLS:C0027428	носа слизистая оболочка
+N57	Reference T178 UMLS:C0041445	барабанная перепонка
+N58	Reference T14 UMLS:C0013154	введение лекарств ингаляционное
+N59	Reference T20 UMLS:C0013154	комплексонная терапия
+N60	Reference T161 UMLS:C0025007	корь
+N61	Reference T154 UMLS:C0043167	коклюш
+N62	Reference T169 UMLS:C0206514	вакцины против haemophilus инфекций
+N63	Reference T117 UMLS:C0019155	печеночные вены
+N64	Reference T101 UMLS:C4277702	паренхиматозная ткань
+N65	Reference T143 UMLS:C0036499	вода морская
+N66	Reference T53 UMLS:C0026349	модели структурные
+N67	Reference T31 UMLS:CUILESS	мозга головного кора префронтальная
+N68	Reference T150 UMLS:C0039614	столбняк
+N69	Reference T85 UMLS:C0037993	селезенка
+N70	Reference T90 UMLS:C0019209	увеличение печени
+N71	Reference T155 UMLS:C0012546	дифтерия
+N72	Reference T111 UMLS:CUILESS	отклонение от нормы результатов ультразвукового исследования поджелудочной железы
+N73	Reference T12 UMLS:C0015840	фенотерол
+N74	Reference T158 UMLS:C0718003	вакцина против полиомиелита инактивированная
+N75	Reference T110 UMLS:UNKNOWN	увеличение поджелудочной железы
+N76	Reference T109 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N77	Reference T26 UMLS:C0082607	фликсотид
+N78	Reference T94 UMLS:CUILESS	расширители
+N79	Reference T54 UMLS:CUILESS	расширители
+N80	Reference T102 UMLS:C2181189	ультразвуковое исследование селезенки
+N81	Reference T18 UMLS:C3654961	повышенная концентрация бронходилататора, бду
+N82	Reference T4 UMLS:C0553668	затруднение дыхания
+N83	Reference T136 UMLS:C0031354	глотка
+N84	Reference T130 UMLS:CUILESS	расширители
+N85	Reference T64 UMLS:C0232201	синусовый ритм
+N86	Reference T138 UMLS:C2350442	промывание носа
+N87	Reference T118 UMLS:C0038002	увеличение селезенки
+N88	Reference T70 UMLS:C0016976	желчный пузырь
+N89	Reference T15 UMLS:C0002421	амброксол
+N90	Reference T2 UMLS:C0021459	введение лекарств ингаляционное
+N91	Reference T9 UMLS:C0035243	респираторные инфекции
+N92	Reference T61 UMLS:CUILESS	органа размер
+N93	Reference T75 UMLS:CUILESS	патологические изменения органов брюшной полости
+N94	Reference T153 UMLS:C0032371	полиомиелит
+N95	Reference T159 UMLS:C1277100	вакцина дифтерийно-столбнячно-коклюшная
+N96	Reference T41 UMLS:C0027428	носа слизистая оболочка
+N97	Reference T108 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N98	Reference T157 UMLS:C0718003	вакцина против полиомиелита инактивированная
+N99	Reference T173 UMLS:CUILESS	выступающие уши
+N100	Reference T25 UMLS:C0525033	пребиотики
+N101	Reference T160 UMLS:C0032371	полиомиелит
+N102	Reference T48 UMLS:C1735346	острое диффузное инфильтративное заболевание легких
+N103	Reference T164 UMLS:C0025010	вакцина коревая
+N104	Reference T17 UMLS:C0036499	вода морская
+N105	Reference T6 UMLS:C0035239	введение лекарств ингаляционное
+N106	Reference T79 UMLS:C0037993	селезенка
+N107	Reference T174 UMLS:CUILESS	деформация
+N108	Reference T21 UMLS:C0036499	вода морская
+N109	Reference T76 UMLS:CUILESS	деформация носа
+N110	Reference T105 UMLS:C1450569	органа размер
+N111	Reference T176 UMLS:C0004308	слуховые проводящие пути
+N112	Reference T30 UMLS:C0262405	мозговая дисфункция
+N113	Reference T8 UMLS:C0001927	сальбутамол
+N114	Reference T83 UMLS:C0030274	поджелудочная железа
+N115	Reference T142 UMLS:C0036499	вода морская
+N116	Reference T95 UMLS:C0019209	увеличение печени
+N117	Reference T104 UMLS:C0038257	расширители
+N118	Reference T133 UMLS:C0040421	небные миндалины
+N119	Reference T19 UMLS:C0082607	фликсотид
+N120	Reference T13 UMLS:C0850149	кашель, непродуктивный
+N121	Reference T11 UMLS:C0054201	будесонид
+N122	Reference T144 UMLS:C0019186	гепатита вирусы
+N123	Reference T88 UMLS:C0023884	печень
+N124	Reference T67 UMLS:C0151878	удлинение интервала qt на электрокардиограмме
+N125	Reference T37 UMLS:C0028429	нос
+N126	Reference T122 UMLS:C0038257	расширители
+N127	Reference T96 UMLS:CUILESS	тела контурирование
+N128	Reference T72 UMLS:C0030274	поджелудочная железа
+N129	Reference T168 UMLS:C0206514	гемофильная инфлюэнца, вакцины
+N130	Reference T107 UMLS:CUILESS	норма рабочая
+N131	Reference T46 UMLS:CUILESS	норма рабочая
+N132	Reference T45 UMLS:C0026639	гортани слизистая оболочка
+N133	Reference T124 UMLS:C1112281	нормальный рост
+N134	Reference T93 UMLS:C0030288	ультразвуковое исследование желчевыводящих путей
+N135	Reference T175 UMLS:C0085122	норма рабочая
+N136	Reference T42 UMLS:C0027423	придаточные полости носа
+N137	Reference T74 UMLS:C0019214	гепатоспленомегалия
+N138	Reference T129 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N139	Reference T87 UMLS:C0016976	желчный пузырь
+N140	Reference T63 UMLS:C0007589	клетки дифференциация
+N141	Reference T60 UMLS:C0030471	грудной клетки полость
+N142	Reference T98 UMLS:C0019155	печеночные вены
+N143	Reference T55 UMLS:C0024109	легкие
+N144	Reference T24 UMLS:C0007562	цефуроксим
+N145	Reference T50 UMLS:C0438186	норма рабочая
+N146	Reference T170 UMLS:C0151611	отклонение от нормы результатов ээг
+N147	Reference T162 UMLS:C0035920	краснуха
+N148	Reference T7 UMLS:C0001927	сальбутамол
+N149	Reference T73 UMLS:C0302142	деформация
+N150	Reference T49 UMLS:C0024109	легкие
+N151	Reference T40 UMLS:C0013604	отек
+N152	Reference T65 UMLS:C0863071	вариант нормы на экг
+N153	Reference T115 UMLS:CUILESS	усиление сосудистого рисунка
+N154	Reference T29 UMLS:C0262405	подкорковые ядра
+N155	Reference T52 UMLS:C0858975	фиброз легких
+N156	Reference T179 UMLS:CUILESS	норма рабочая
+N157	Reference T69 UMLS:C0016976	желчный пузырь
+N158	Reference T116 UMLS:C0032718	воротная вена
+N159	Reference T171 UMLS:C0151611	отклонение от нормы результатов ээг
+N160	Reference T51 UMLS:C0858975	дыхательных путей структурные изменения
+N161	Reference T113 UMLS:C0038257	расширители
+N162	Reference T141 UMLS:C0036499	вода морская
+N163	Reference T78 UMLS:C0023884	печень
+N164	Reference T128 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N165	Reference T57 UMLS:CUILESS	легкие
+N166	Reference T81 UMLS:C0230168	брюшная полость
+N167	Reference T71 UMLS:C0023884	печень
+N168	Reference T100 UMLS:C2181189	ультразвуковое исследование селезенки
+N169	Reference T120 UMLS:C2181189	ультразвуковое исследование селезенки
+N170	Reference T92 UMLS:CUILESS	результаты ультразвукового исследования поджелудочной железы в норме
+N171	Reference T103 UMLS:C0038001	селезеночная вена
+N172	Reference T32 UMLS:C0262405	мозговая дисфункция
+N173	Reference T27 UMLS:C0393734	комплексный парциальный эпилептический статус
+N174	Reference T119 UMLS:C4277702	паренхиматозная ткань
+N175	Reference T33 UMLS:C0028785	задний мозг
+#1	AnnotatorNotes T99	first_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#2	AnnotatorNotes T167	first_annotator_label: C0854324||synonyms: сепсис, обусловленный бактериями рода haemophilus|септицемия, вызываемая гемофилами|септицемия, вызванная гемофилами|сепсис, вызванный гемофильной инфекцией||||second_annotator_label: C0684275||synonyms: гемофилия|дефицит фактора свертывания крови|гемофилия, бду||||third_annotator_label: C0348321||synonyms: инфекция, вызванная haemophilus influenza|инфекция, вызываемая гемофильной палочкой|инфекция, вызванная гемофильной палочкой||||bert: C0684275||synonyms: гемофилия|дефицит фактора свертывания крови|гемофилия, бду||||
+#3	AnnotatorNotes T91	first_annotator_label: C2609114||synonyms: результаты обследования желудочно-кишечного тракта в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#4	AnnotatorNotes T28	first_annotator_label: C0006121||synonyms: ствол мозга|stvol mozga||||second_annotator_label: C0576481||synonyms: смещение срединных структур головного мозга||||third_annotator_label: C1113654||synonyms: нервные стволовые клетки|nervnye stvolovye kletki||||bert: C0576481||synonyms: смещение срединных структур головного мозга||||
+#5	AnnotatorNotes T34	first_annotator_label: C0151611||synonyms: изменения на электроэнцефалограмме|отклонение от нормы результатов ээг|отклонение от нормы показателей на электроэнцефалограмме|отклонение от нормы результатов электроэнцефалографии (ээг)|нарушения биоэлектрической активности мозга по данным ээг (бду)||||second_annotator_label: C0039484||synonyms: височная кость|visochnaia kost'||||third_annotator_label: C0039485||synonyms: височная доля|visochnaia dolia|izvilina veretenoobraznaia|izvilina zatylochno-visochnaia|verkhniaia visochnaia izvilina||||bert: C0242473||synonyms: выпадение заднего прохода|выпадение прямой кишки||||
+#6	AnnotatorNotes T38	first_annotator_label: C0013404||synonyms: одышка|odyshka|диспноэ|нехватка воздуха|затруднённое дыхание||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||bert: C0162429||synonyms: питание недостаточное|мальнутриция, бду|недостаточное потребление пищи или несбалансированная диета|pitanie nedostatochnoe||||
+#7	AnnotatorNotes T66	first_annotator_label: C0392684||synonyms: аритмия бду|пульсовая аритмия|нерегулярный пульс||||second_annotator_label: C0856486||synonyms: суточная аритмия||||third_annotator_label: C0003811||synonyms: аритмии сердечные|aritmiia|аритмия, бду|нарушения сердечного ритма|аритмия (бду)||||bert: C0856486||synonyms: суточная аритмия||||
+#8	AnnotatorNotes T114	first_annotator_label: C0019209||synonyms: гепатомегалия|gepatomegaliia|увеличение печени||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1715896||synonyms: образец размер.дополнительное измерение 1:площадь:тчкврм:молочная железа опухоль:колич||||
+#9	AnnotatorNotes T172	first_annotator_label: C0151611||synonyms: изменения на электроэнцефалограмме|отклонение от нормы результатов ээг|отклонение от нормы показателей на электроэнцефалограмме|отклонение от нормы результатов электроэнцефалографии (ээг)|нарушения биоэлектрической активности мозга по данным ээг (бду)||||second_annotator_label: C0150165||synonyms: лечение отека головного мозга|лечение отека мозга||||third_annotator_label: C0476391||synonyms: отклонение от нормы результатов эхоэнцефалографии|неспецифические отклонения от нормы результатов эхоэнцефалографии||||bert: C0857666||synonyms: уровень кортикотропина в плазме в норме||||
+#10	AnnotatorNotes T166	first_annotator_label: C0389545||synonyms: семивалентная пневмококковая конъюгированная вакцина|prevenar|пневмококковая семивалентная конъюгированная вакцина|semivalentnaia pnevmokokkovaia kon"iugirovannaia vaktsina|превенар||||second_annotator_label: C0358314||synonyms: вакцины пневмококковые|pnevmokokkovye vaktsiny polisakharidnye|vaktsiny pnevmokokkovye|пневмококковые вакцины полисахаридные||||third_annotator_label: C0042196||synonyms: вакцинация|vaktsinatsiia|immunizatsiia aktivnaia|проведение вакцинации|профилактическая вакцинация||||bert: C0389545||synonyms: семивалентная пневмококковая конъюгированная вакцина|prevenar|пневмококковая семивалентная конъюгированная вакцина|semivalentnaia pnevmokokkovaia kon"iugirovannaia vaktsina|превенар||||
+#11	AnnotatorNotes T106	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#12	AnnotatorNotes T126	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0007623||synonyms: клетки стенка|kletki stenka||||
+#13	AnnotatorNotes T125	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#14	AnnotatorNotes T1	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0267994||synonyms: нарушения водно-электролитного баланса и кислотно-основного состояния||||
+#15	AnnotatorNotes T146	first_annotator_label: C0718003||synonyms: вакцина против полиомиелита инактивированная|inaktivirovannaia vaktsina solka|solka vaktsina|vaktsina protiv poliomielita inaktivirovannaia|инактивированная вакцина солка||||second_annotator_label: C1277100||synonyms: вакцина дифтерийно-столбнячно-коклюшная|difteriino-stolbniachno-kokliushnaia vaktsina|akds vaktsina|difteriino-kokliushno-stolbniachnaia vaktsina|dpt vaktsina||||third_annotator_label: C0199809||synonyms: вакцинация от полиомиелита|вакцина против полиомиелита|иммунизация от полиомиелита||||bert: C0600615||synonyms: полоксамер|poloksamer|poloksamery|полоксамеры||||
+#16	AnnotatorNotes T135	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0001198||synonyms: акродиния|akrodiniia|feera bolezn'|svifta bolezn'|болезнь билдербека||||
+#17	AnnotatorNotes T134	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1096020||synonyms: выделение секрета||||bert: C0001950||synonyms: идиосинкрастическая алкогольная интоксикация|патологическое пьянство||||
+#18	AnnotatorNotes T97	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#19	AnnotatorNotes T14	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2735218||synonyms: водород/выдыхаемый газ^3.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#20	AnnotatorNotes T20	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1714759||synonyms: туберкулёз реакция папула^3 дня после 1 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#21	AnnotatorNotes T101	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#22	AnnotatorNotes T31	first_annotator_label: C0162783||synonyms: мозга головного кора префронтальная|mozga golovnogo kora prefrontal'naia|prefrontal'naia kora golovnogo mozga|префронтальная кора головного мозга||||second_annotator_label: C0006104||synonyms: мозг головной|mozg golovnoi||||third_annotator_label: C0007582||synonyms: клеток взаимодействие|kletok vzaimodeistvie||||bert: C1956033||synonyms: белков взаимодействия домены и мотивы|belkov vzaimodeistviia motivy|белков взаимодействия домены|belkov vzaimodeistviia domeny i motivy|belkov vzaimodeistviia domeny||||
+#23	AnnotatorNotes T111	first_annotator_label: C4285853||synonyms: отклонение от нормы результатов ультразвукового исследования поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#24	AnnotatorNotes T158	first_annotator_label: C0718003||synonyms: вакцина против полиомиелита инактивированная|inaktivirovannaia vaktsina solka|solka vaktsina|vaktsina protiv poliomielita inaktivirovannaia|инактивированная вакцина солка||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0199809||synonyms: вакцинация от полиомиелита|вакцина против полиомиелита|иммунизация от полиомиелита||||bert: C0206435||synonyms: полиомиелита вирус|poliomielita virusy|poliomielita virusy cheloveka 1-3|brungil'd virus|lansing virus||||
+#25	AnnotatorNotes T110	first_annotator_label: C1096352||synonyms: увеличение поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0860402||synonyms: применение ил-15|применение интерлейкина-15||||
+#26	AnnotatorNotes T94	first_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#27	AnnotatorNotes T54	first_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#28	AnnotatorNotes T18	first_annotator_label: C0861109||synonyms: повышенная концентрация бронходилататора, бду||||second_annotator_label: C3654961||synonyms: монтелукаст индуцированный нейтрофил ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0342853||synonyms: сиаловой кислоты отложений болезни|болезнь накопления сиаловых кислот|sialovoi kisloty kumuliatsii bolezn' u mladentsev|sialovoi kisloty otlozhenii bolezni|sialuriia||||
+#29	AnnotatorNotes T130	first_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#30	AnnotatorNotes T138	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0001566||synonyms: введение лекарств местное|vvedenie lekarstv mestnoe|lekarstv vvedenie mestnoe|mestnoe vvedenie lekarstv|лекарств введение местное||||bert: C3665992||synonyms: эзофагит, вызванный вирусом ветряной оспы|эзофагит, обусловленный вирусом ветряной оспы||||
+#31	AnnotatorNotes T118	first_annotator_label: C0038002||synonyms: спленомегалия|splenomegaliia|увеличение селезенки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C0151994||synonyms: увеличение матки|увеличение размеров матки|увеличение матки в размерах||||
+#32	AnnotatorNotes T2	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0797050||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#33	AnnotatorNotes T61	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0037669||synonyms: соматотипы|teloslozheniia tipy|slozheniia tipy|somatotipy|сложения типы||||
+#34	AnnotatorNotes T75	first_annotator_label: C0851974||synonyms: патологические изменения органов брюшной полости||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1964007||synonyms: неспецифическое воспаление желудочно-кишечного тракта (smq)||||bert: C0524545||synonyms: печеночно-поджелудочная железа|гепатопанкреас|gepatopankreas|pechenochno-podzheludochnaia zheleza||||
+#35	AnnotatorNotes T157	first_annotator_label: C0718003||synonyms: вакцина против полиомиелита инактивированная|inaktivirovannaia vaktsina solka|solka vaktsina|vaktsina protiv poliomielita inaktivirovannaia|инактивированная вакцина солка||||second_annotator_label: C1277100||synonyms: вакцина дифтерийно-столбнячно-коклюшная|difteriino-stolbniachno-kokliushnaia vaktsina|akds vaktsina|difteriino-kokliushno-stolbniachnaia vaktsina|dpt vaktsina||||third_annotator_label: C0199809||synonyms: вакцинация от полиомиелита|вакцина против полиомиелита|иммунизация от полиомиелита||||bert: C0600615||synonyms: полоксамер|poloksamer|poloksamery|полоксамеры||||
+#36	AnnotatorNotes T173	first_annotator_label: C3203458||synonyms: выступающие уши||||second_annotator_label: C0455216||synonyms: осмотр органа слуха||||third_annotator_label: C0928075||synonyms: ушная раковина|naruzhnoe ukho|ushnaia rakovina|наружное ухо||||bert: C1512142||synonyms: ets мотив|ets-домен|спираль-изгиб-спираль, ets-тип домен содержащий|spiral'-izgib-spiral', ets-tip domen soderzhashchii|ets motiv||||
+#37	AnnotatorNotes T25	first_annotator_label: C2717875||synonyms: пребиотики|prebiotiki||||second_annotator_label: C0525033||synonyms: пробиотики|probiotiki||||third_annotator_label: C0005380||synonyms: бифидобактерии|bifidobakterii|bifidobacterium||||bert: C0023726||synonyms: линкомицин|linkomitsin|linkolnensin|линколненсин||||
+#38	AnnotatorNotes T6	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C1544338||synonyms: фоллитропин^2 часа после дозы тройной болюс:произвконц:тчкврм:сыв/плаз:колич||||
+#39	AnnotatorNotes T174	first_annotator_label: C0302142||synonyms: деформация||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#40	AnnotatorNotes T76	first_annotator_label: C0240547||synonyms: деформация носа|деформация носа, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#41	AnnotatorNotes T105	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#42	AnnotatorNotes T30	first_annotator_label: C0262405||synonyms: мозговая дисфункция||||second_annotator_label: C1145628||synonyms: нервной системы вегетативной болезни|nervnoi sistemy vegetativnoi bolezni|vegetativnaia disfunktsiia|нарушения вегетативной нервной системы|нарушения со стороны автономной нервной системы||||third_annotator_label: C0338656||synonyms: когнитивная дисфункция|kognitivnoe narushenie umerennoe|когнитивное нарушение умеренное|legkie kognitivnye rasstroistva|синдром мягкого когнитивного снижения||||bert: C0151746||synonyms: аномальная функция почек|функция почек, аномальная|дисфункция почек|патологическая функция почек|дисфункция почки||||
+#43	AnnotatorNotes T95	first_annotator_label: C0019209||synonyms: гепатомегалия|gepatomegaliia|увеличение печени||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0005893||synonyms: индекс массы тела (имт)||||
+#44	AnnotatorNotes T67	first_annotator_label: C0151878||synonyms: удлинение интервала qt на электрокардиограмме|удлинение интервала qt|длинный интервал qt|увеличение qt|удлиненный интервал qt||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0860151||synonyms: удлинение реполяризации желудочков|удлиненная реполяризация желудочков||||bert: C0861534||synonyms: злокачественное новообразование тела желудка, стадия 0||||
+#45	AnnotatorNotes T96	first_annotator_label: C2224569||synonyms: тела контурирование|formirovanie figury|контуринг тела|konturing tela|tela konturirovanie||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0155164||synonyms: рубец конъюнктивы|конъюнктивальные рубцы|конъюнктивальный рубец|рубцевание конъюнктивы||||
+#46	AnnotatorNotes T168	first_annotator_label: C0206514||synonyms: вакцины против haemophilus инфекций|haemophilus vaktsiny|gemofil'naia infliuentsa, vaktsiny|vaktsiny protiv haemophilus infektsii|haemophilus вакцины||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042196||synonyms: вакцинация|vaktsinatsiia|immunizatsiia aktivnaia|проведение вакцинации|профилактическая вакцинация||||bert: C0001271||synonyms: актины|aktiny|f-aktin|g-aktin|f-актин||||
+#47	AnnotatorNotes T107	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#48	AnnotatorNotes T46	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0001198||synonyms: акродиния|akrodiniia|feera bolezn'|svifta bolezn'|болезнь билдербека||||
+#49	AnnotatorNotes T45	first_annotator_label: C0023053||synonyms: гортани слизистая оболочка|gortani slizistaia obolochka||||second_annotator_label: C0026639||synonyms: ротовой полости слизистая оболочка|rotovoi polosti slizistaia obolochka||||third_annotator_label: C0027423||synonyms: носовая полость|nosovaia polost'||||bert: C0549353||synonyms: рак слизистой оболочки преддверия рта||||
+#50	AnnotatorNotes T93	first_annotator_label: C1535949||synonyms: ультразвуковое исследование желчевыводящих путей||||second_annotator_label: C0010672||synonyms: желчного пузыря проток|zhelchnogo puzyria protok|ductus cysticus|puzyrnyi protok|пузырный проток||||third_annotator_label: C0030288||synonyms: поджелудочной железы протоки|podzheludochnoi zhelezy protoki|dvenadtsatiperstnoi kishki malyi sosochek|santoriniev sosochek|virzungov protok||||bert: C1323110||synonyms: улитковый проток|ulitkovyi protok|kanal ulitki|protok ulitki|protok ulitkovyi||||
+#51	AnnotatorNotes T42	first_annotator_label: C0030471||synonyms: носовые придаточные полости|nosovye pridatochnye polosti|okolonosovye pazukhi|pridatochnye polosti nosa|околоносовые пазухи||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0027423||synonyms: носовая полость|nosovaia polost'||||bert: C0853254||synonyms: раздражение носовых ходов||||
+#52	AnnotatorNotes T129	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1954484||synonyms: респираторный аллерген панель, сша - средне-атлантические штаты:-:тчкврм:сыв:-||||
+#53	AnnotatorNotes T60	first_annotator_label: C0230139||synonyms: грудной клетки полость|grudnoi kletki polost'||||second_annotator_label: C0010271||synonyms: черепные синусы|cherepnye sinusy||||third_annotator_label: C0030471||synonyms: носовые придаточные полости|nosovye pridatochnye polosti|okolonosovye pazukhi|pridatochnye polosti nosa|околоносовые пазухи||||bert: C0039097||synonyms: синовиальная жидкость|sinovial'naia zhidkost'|sinoviia|синовия||||
+#54	AnnotatorNotes T24	first_annotator_label: C0007562||synonyms: цефуроксим|tsefuroksim||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0663182||synonyms: даклизумаб|zinbrita|дакликсимаб|zenapaks|dakliksimab||||
+#55	AnnotatorNotes T50	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0264383||synonyms: организующаяся пневмония|пневмония организующаяся||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C1112565||synonyms: пневматоз кишечника||||
+#56	AnnotatorNotes T170	first_annotator_label: C0151611||synonyms: изменения на электроэнцефалограмме|отклонение от нормы результатов ээг|отклонение от нормы показателей на электроэнцефалограмме|отклонение от нормы результатов электроэнцефалографии (ээг)|нарушения биоэлектрической активности мозга по данным ээг (бду)||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0476391||synonyms: отклонение от нормы результатов эхоэнцефалографии|неспецифические отклонения от нормы результатов эхоэнцефалографии||||bert: C4505315||synonyms: ионной подвижности спектрометрия|differentsial'noi podvizhnosti analiz|ims|sip|ionnoi podvizhnosti spektrometriia||||
+#57	AnnotatorNotes T40	first_annotator_label: C0013604||synonyms: отек|otek|vodianka|отек, бду|отёк||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0034063||synonyms: легких отек|legkikh otek|otechnoe legkoe|отек легких|отек, легочный||||bert: C0034063||synonyms: легких отек|legkikh otek|otechnoe legkoe|отек легких|отек, легочный||||
+#58	AnnotatorNotes T65	first_annotator_label: C0863071||synonyms: вариант нормы на экг||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#59	AnnotatorNotes T115	first_annotator_label: C1142378||synonyms: усиление сосудистого рисунка||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1142378||synonyms: усиление сосудистого рисунка||||
+#60	AnnotatorNotes T29	first_annotator_label: C0004781||synonyms: базальные ганглии|bazal'nye ganglii|bazal'nye iadra|ganglii bazal'nye|podkorkovye iadra||||second_annotator_label: C1145628||synonyms: нервной системы вегетативной болезни|nervnoi sistemy vegetativnoi bolezni|vegetativnaia disfunktsiia|нарушения вегетативной нервной системы|нарушения со стороны автономной нервной системы||||third_annotator_label: C0262405||synonyms: мозговая дисфункция||||bert: C1698635||synonyms: дисфункция верхней конечности||||
+#61	AnnotatorNotes T52	first_annotator_label: C0034069||synonyms: легочный фиброз|legochnyi fibroz|al'veolit fibroziruiushchii|khemmena-richa sindrom|pnevmoskleroz||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0858975||synonyms: усиление легочного рисунка||||bert: C0040960||synonyms: трехстворчатый клапан|trekhstvorchatyi klapan|klapan atrioventrikuliarnyi pravyi|klapan predserdno-zheludochkovyi pravyi|клапан атриовентрикулярный правый||||
+#62	AnnotatorNotes T179	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2224569||synonyms: тела контурирование|formirovanie figury|контуринг тела|konturing tela|tela konturirovanie||||bert: C3854642||synonyms: рвотные массы темного цвета|темный цвет рвотных масс||||
+#63	AnnotatorNotes T171	first_annotator_label: C0151611||synonyms: изменения на электроэнцефалограмме|отклонение от нормы результатов ээг|отклонение от нормы показателей на электроэнцефалограмме|отклонение от нормы результатов электроэнцефалографии (ээг)|нарушения биоэлектрической активности мозга по данным ээг (бду)||||second_annotator_label: C0391853||synonyms: снижение активности||||third_annotator_label: C0476391||synonyms: отклонение от нормы результатов эхоэнцефалографии|неспецифические отклонения от нормы результатов эхоэнцефалографии||||bert: C0376447||synonyms: аппетит-стимулирующие средства|appetit-stimuliruiushchie sredstva||||
+#64	AnnotatorNotes T51	first_annotator_label: C2717792||synonyms: дыхательных путей ремоделирование|ремоделирование дыхательных путей|перестройка дыхательных путей|dykhatel'nykh putei izmeneniia pri astme|дыхательных путей структурные изменения||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0858975||synonyms: усиление легочного рисунка||||bert: C0085156||synonyms: бруха мембрана|brukha membrana|sosudistoi obolochki glaza bazal'naia plastinka|сосудистой оболочки глаза базальная пластинка||||
+#65	AnnotatorNotes T57	first_annotator_label: C0024109||synonyms: легкие|legkie||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0006255||synonyms: бронхи|bronkhi||||bert: C0004781||synonyms: базальные ганглии|bazal'nye ganglii|bazal'nye iadra|ganglii bazal'nye|podkorkovye iadra||||
+#66	AnnotatorNotes T92	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C1618608||synonyms: матрикса металлопротеиназа 14|матрикс-металлопротеиназа-14|металлопротеиназа 14 матриксная|matriks-metalloproteinaza-14|matriksa metalloproteinaza 14||||
+#67	AnnotatorNotes T32	first_annotator_label: C0262405||synonyms: мозговая дисфункция||||second_annotator_label: C1145628||synonyms: нервной системы вегетативной болезни|nervnoi sistemy vegetativnoi bolezni|vegetativnaia disfunktsiia|нарушения вегетативной нервной системы|нарушения со стороны автономной нервной системы||||third_annotator_label: C0338656||synonyms: когнитивная дисфункция|kognitivnoe narushenie umerennoe|когнитивное нарушение умеренное|legkie kognitivnye rasstroistva|синдром мягкого когнитивного снижения||||bert: C0151746||synonyms: аномальная функция почек|функция почек, аномальная|дисфункция почек|патологическая функция почек|дисфункция почки||||
+#68	AnnotatorNotes T119	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#69	AnnotatorNotes T33	first_annotator_label: C0032639||synonyms: варолиев мост|varoliev most|zadnii mozg|задний мозг|мост мозга||||second_annotator_label: C2331620||synonyms: базальные отделы переднего мозга|bazal'nye otdely perednego mozga||||third_annotator_label: C0028785||synonyms: затылочная доля|zatylochnaia dolia||||bert: C0862744||synonyms: злокачественное новообразование задней стенки носоглотки, рецидивирующее||||

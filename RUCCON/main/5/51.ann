@@ -1,0 +1,125 @@
+T37	Drug 1647 1657	вентолином
+T16	Drug 810 819	кетотифен
+T9	Disease 660 668	краснуха
+T5	Disease 148 186	Хронический компенсированный тонзиллит
+T7	Symptom 274 301	эпизоды затруднения дыхания
+T41	Symptom 1780 1786	с акне
+T42	Symptom 1788 1802	бледно-розовые
+T55	Treatment 596 621	Профилактические прививки
+T6	Symptom 249 272	малопродуктивный кашель
+T33	Symptom 1330 1352	Обострения заболевания
+T26	Drug 1155 1165	пульмикорт
+T21	Severity 1070 1091	среднетяжелое течение
+T36	Treatment 1636 1657	купируются вентолином
+T27	Treatment 1205 1226	получал 2 мес. тайлед
+T2	Severity 42 78	среднетяжелое персистирующее течение
+T29	Treatment 1241 1269	получал фликсотид, симбикорт
+T35	Symptom 1575 1605	приступы затрудненного дыхания
+T20	Disease 1050 1068	Бронхиальная астма
+T10	Disease 670 673	ОРИ
+T18	Drug 865 870	интал
+T28	Drug 1220 1226	тайлед
+T14	Disease 780 798	бронхиальная астма
+T34	Symptom 1437 1467	Приступы затрудненного дыхания
+T22	Disease 1092 1126	круглогодичный аллергический ринит
+T17	Treatment 855 870	в терапии интал
+T12	Symptom 715 742	приступ затруднения дыхания
+T30	Drug 1249 1258	фликсотид
+T13	Disease 759 762	ОРИ
+T50	Symptom 2034 2041	дизурии
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T40	Body_location 1765 1779	Кожные покровы
+T56	Disease 1782 1786	акне
+T47	Symptom 1875 1893	с жестким оттенком
+T15	Treatment 800 819	В терапии кетотифен
+T44	Symptom 1816 1842	Носовое дыхание затруднено
+T31	Drug 1260 1269	симбикорт
+T52	Symptom 2077 2097	Менингеальных знаков
+T25	Drug 1145 1153	вентолин
+T46	Symptom 1853 1873	дыхание везикулярное
+T51	Symptom 2047 2075	Стул регулярный, оформленный
+T48	Symptom 1931 1946	свистящие хрипы
+T54	Body_location 344 348	носа
+T8	Symptom 331 359	заложенность носа постоянно.
+T4	Severity 113 146	осложененный бактериальной флорой
+T11	Disease 675 681	ангины
+T53	Disease 92 111	Аллергический ринит
+T45	Body_location 1844 1852	В лёгких
+T19	Treatment 923 962	получал только симптоматическое лечение
+T38	Disease 1686 1694	поллиноз
+T24	Treatment 1135 1182	В терапии вентолин, пульмикорт через небулайзер
+T32	Symptom 1308 1325	заложенность носа
+T39	Disease 1703 1715	отеки Квинке
+T43	Symptom 1804 1814	Зев рыхлый
+T23	Disease 1128 1132	ДЖВП
+T49	Symptom 1948 1981	Сердечные тоны звучные, ритмичные
+T3	Course 80 90	обострение
+N1	Reference T37 UMLS:C0001927	сальбутамол
+N2	Reference T16 UMLS:C0022642	кетотифен
+N3	Reference T9 UMLS:C0035920	краснуха
+N4	Reference T5 UMLS:C0149517	хронический тонзиллит
+N5	Reference T7 UMLS:C0553668	затруднение дыхания
+N6	Reference T41 UMLS:C0263437	акне у детей
+N7	Reference T42 UMLS:C4505235	розовые
+N8	Reference T55 UMLS:C0042196	профилактическая вакцинация
+N9	Reference T6 UMLS:C0850149	кашель, непродуктивный
+N10	Reference T33 UMLS:C0235874	обострение заболевания
+N11	Reference T26 UMLS:C0054201	будесонид
+N12	Reference T21 UMLS:CUILESS	степень ухудшения бду
+N13	Reference T36 UMLS:CUILESS	токолитическая терапия
+N14	Reference T27 UMLS:C0013154	противовоспалительные средства
+N15	Reference T2 UMLS:CUILESS	астма, хроническая
+N16	Reference T29 UMLS:C0013154	терапевтическая концентрация бронходилататора, бду
+N17	Reference T35 UMLS:C0424332	приступ задержки дыхания
+N18	Reference T20 UMLS:C0004096	бронхиальная астма
+N19	Reference T10 UMLS:C0035243	респираторные инфекции
+N20	Reference T18 UMLS:C0012694	интал
+N21	Reference T28 UMLS:C0068483	недокромил
+N22	Reference T14 UMLS:C0004096	бронхиальная астма
+N23	Reference T34 UMLS:C0424332	приступ задержки дыхания
+N24	Reference T22 UMLS:C0035457	круглогодичный аллергический ринит
+N25	Reference T17 UMLS:C0021459	ингаляционная терапия
+N26	Reference T12 UMLS:C0424332	приступ задержки дыхания
+N27	Reference T30 UMLS:C0082607	фликсотид
+N28	Reference T13 UMLS:C0035243	респираторные инфекции
+N29	Reference T50 UMLS:C0013428	дизурия
+N30	Reference T1 UMLS:C0004096	астма, бронхиальная
+N31	Reference T40 UMLS:C1123023	кожа
+N32	Reference T56 UMLS:C0001144	акне
+N33	Reference T47 UMLS:C3666016	жесткое дыхание при аускультации легких
+N34	Reference T15 UMLS:C0282555	противоаллергические средства
+N35	Reference T44 UMLS:C0027424	дыхание, затрудненное
+N36	Reference T31 UMLS:C4042792	симбикорт
+N37	Reference T52 UMLS:C0025287	менингеальные знаки
+N38	Reference T25 UMLS:C0001927	сальбутамол
+N39	Reference T46 UMLS:C0231855	нормальная аускультативная картина в легких
+N40	Reference T51 UMLS:CUILESS	мягкий стул
+N41	Reference T48 UMLS:C0043144	свистящие хрипы
+N42	Reference T54 UMLS:C0028429	нос
+N43	Reference T8 UMLS:C0027424	заложенность носа
+N44	Reference T4 UMLS:C0004623	бактериальные инфекции
+N45	Reference T11 UMLS:C0276143	вирусная ангина
+N46	Reference T53 UMLS:C2607914	аллергический ринит
+N47	Reference T45 UMLS:C0024109	легкие
+N48	Reference T19 UMLS:C5243901	симптоматическое лечение
+N49	Reference T38 UMLS:C0018621	поллиноз
+N50	Reference T24 UMLS:C0013154	ингаляция
+N51	Reference T32 UMLS:C0027424	заложенность носа
+N52	Reference T39 UMLS:C0002994	отек квинке
+N53	Reference T43 UMLS:C0521367	ротоглотка
+N54	Reference T23 UMLS:C0005416	дискинезия желчевыводящих путей
+N55	Reference T49 UMLS:C0018810	сердечный ритм
+N56	Reference T3 UMLS:C0853946	обострение боли
+#1	AnnotatorNotes T21	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#2	AnnotatorNotes T36	first_annotator_label: C0040348||synonyms: токолиз|tokoliz|rodovoi deiatel'nosti snizhenie|tokoliticheskaia terapiia|родовой деятельности снижение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0017440||synonyms: генцианвиолет|gentsianviolet|kristal violet|metil violet|metilrozanilina khlorid||||
+#3	AnnotatorNotes T27	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0252528||synonyms: галектин 2|galektin 2||||
+#4	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#5	AnnotatorNotes T29	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0070775||synonyms: протон-фосфатов симпортеры|proton-fosfatov simportery||||
+#6	AnnotatorNotes T28	first_annotator_label: C0068483||synonyms: недокромил|nedokromil||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||bert: C0039725||synonyms: таиланд|tailand||||
+#7	AnnotatorNotes T47	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#8	AnnotatorNotes T15	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C1510538||synonyms: дистанционное консультирование|distantsionnoe konsul'tirovanie|internet-konsul'tirovanie|e-консультирование|e-konsul'tirovanie||||third_annotator_label: C0234945||synonyms: инфильтрационная анестезия|инфильтрационное обезболивание||||bert: C0199974||synonyms: цитокиноваи терапии||||
+#9	AnnotatorNotes T44	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0272427||synonyms: травма носа|повреждение носа||||
+#10	AnnotatorNotes T46	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#11	AnnotatorNotes T51	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#12	AnnotatorNotes T4	first_annotator_label: C0004623||synonyms: бактериальные инфекции|bakterial'nye infektsii|бактериальная инфекция, бду|инфекция бактериальная|нарушения, вызванные бактериальной инфекцией||||second_annotator_label: C1699100||synonyms: бактериальный ринит||||third_annotator_label: None||synonyms: ||||bert: C0242436||synonyms: волоски бактериальные|voloski bakterial'nye|bakterial'nye voloski|voloski kon"iugirovannye|бактериальные волоски||||
+#13	AnnotatorNotes T24	first_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0026782||synonyms: вакцина против паротита эпидемического|vaktsina protiv svinki|vaktsina protiv parotita epidemicheskogo|вакцина против свинки||||

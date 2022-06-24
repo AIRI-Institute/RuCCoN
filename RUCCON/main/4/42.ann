@@ -1,0 +1,229 @@
+T33	Disease 1697 1719	респираторных инфекций
+T24	Disease 1160 1163	ОРИ
+T34	Treatment 1734 1754	ингаляцией вентолина
+T106	Course 3819 3829	обострения
+T98	Symptom 4639 4659	Менингеальных знаков
+T56	Severity 3086 3117	легкое интермиттирующее течение
+T30	Treatment 1464 1518	В качестве базисной терапии назначен интал на 3 месяца
+T112	Drug 1745 1754	вентолина
+T29	Severity 1439 1462	средней степени тяжести
+T73	Symptom 3670 3693	малопродуктивный кашель
+T92	Symptom 4520 4526	хрипов
+T17	Disease 867 889	атопического дерматита
+T111	Disease 1830 1844	приступ удушья
+T10	Disease 256 276	Вульгарные бородавки
+T69	Drug 3351 3357	ксизал
+T41	Drug 2100 2105	интал
+T16	Disease 784 797	ветряная оспа
+T52	Treatment 2630 2699	базисной терапии получал серетид мультидиск 50/100 мкг 2 раза в сутки
+T91	Symptom 4498 4518	дыхание везикулярное
+T95	Symptom 4571 4577	мягкий
+T8	Disease 223 254	Искривление носовой перегородки
+T80	Symptom 4089 4095	кашель
+T75	Treatment 3766 3807	получил 2 курса антибактериальной терапии
+T93	Symptom 4532 4563	Сердечные топы ясные, ритмичные
+T3	Disease 107 134	сезонная бронхиальная астма
+T2	Severity 48 79	легкое интермиттирующее течение
+T53	Drug 2655 2673	серетид мультидиск
+T15	Disease 454 457	ОРИ
+T13	Symptom 372 395	малопродуктивный кашель
+T88	Symptom 4439 4449	Зев рыхлый
+T46	Disease 2388 2425	бронхиальная астма, атопическая форма
+T82	Symptom 4218 4227	высыпаний
+T110	Disease 1290 1304	приступ удушья
+T32	Symptom 1638 1662	эпизоды бронхообструкции
+T68	Drug 3327 3335	физиомер
+T76	Disease 3830 3853	хронического тонзиллита
+T103	Disease 356 369	конъюнктивита
+T77	Disease 3916 3920	отит
+T108	Disease 4057 4087	риноконъюнктивального синдрома
+T66	Treatment 3316 3409	В терапии: физиомер 3 раза в день, ксизал по 1т. 1 раз в день, авамис по 1 инст. 1 раз в день
+T87	Symptom 4402 4437	единичные элементы с гиперкератозом
+T63	Disease 3261 3293	Искривление носовой перегородки.
+T45	Treatment 2267 2301	приемом антигистаминных препаратов
+T104	Disease 3647 3653	ринита
+T20	Disease 992 995	ОРИ
+T85	Symptom 4364 4378	бледно-розовые
+T14	Symptom 422 445	бронхиальной обструкции
+T6	Disease 176 211	Аллергический ринит, персистирующий
+T7	Course 213 221	ремиссия
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T35	Disease 1816 1819	ОРИ
+T50	Disease 2512 2543	искривление носовой перегородки
+T70	Drug 3379 3385	авамис
+T37	Treatment 1912 1971	небулайзерной терапией и однократным в/в ведением эуфиллина
+T100	Disease 3145 3172	сезонная бронхиальная астма
+T21	Treatment 1019 1049	В терапии эуфиллин в таблетках
+T90	Body_location 4489 4497	В легких
+T86	Symptom 4380 4389	суховатые
+T81	Disease 4194 4210	пищевая аллергия
+T47	Severity 2427 2456	легкое персистирующее течение
+T101	Disease 3174 3202	риноконъюнктивальный синдром
+T115	Severity 3235 3249	персистирующий
+T26	Disease 1277 1280	ОРИ
+T42	Symptom 2196 2212	чихания по утрам
+T64	Body_location 3273 3292	носовой перегородки
+T61	Disease 3214 3233	Аллергический ринит
+T22	Drug 1029 1037	эуфиллин
+T54	Treatment 2710 2758	получил три курса АСИТ с аллергенами пыльцы трав
+T9	Body_location 235 254	носовой перегородки
+T114	Drug 3441 3463	пыльцевыми аллергенами
+T48	Disease 2458 2477	аллергический ринит
+T40	Drug 2055 2063	альдецин
+T74	Disease 3758 3764	ангину
+T43	Symptom 2214 2237	малопродуктивный кашель
+T25	Treatment 1179 1224	приеме эуфиллина и антигистаминных препаратов
+T5	Course 166 174	ремиссия
+T18	Treatment 891 926	В терапии антигистаминные препараты
+T94	Body_location 4565 4570	Живот
+T60	Course 3204 3212	ремиссия
+T49	Disease 2479 2510	синдром вегетативной дисфункции
+T96	Symptom 4593 4607	безболезненный
+T105	Disease 3655 3668	конъюнктивита
+T19	Disease 962 983	обструктивный бронхит
+T55	Disease 3047 3084	Бронхиальная астма, атопическая форма
+T58	Disease 3135 3143	Поллиноз
+T65	Disease 3294 3314	Вульгарные бородавки
+T84	Body_location 4349 4363	кожные покровы
+T102	Disease 348 354	ринита
+T78	Treatment 3922 3997	В терапии местные симптоматические средства, курс антибактериальной терапии
+T62	Course 3251 3259	ремиссия
+T4	Disease 136 164	риноконъюнктивальный синдром
+T23	Disease 1090 1112	обструктивные бронхиты
+T39	Treatment 2046 2117	назначен альдецин по 2 ингаляции 3 раза в день, затем интал на 3 месяца
+T51	Body_location 2524 2543	носовой перегородки
+T67	Treatment 3412 3463	Получил четвертый курс СИТ с пыльцевыми аллергенами
+T107	Treatment 3854 3882	получал терапию в стационаре
+T109	Disease 2248 2254	ринита
+T38	Drug 1962 1971	эуфиллина
+T31	Drug 1501 1506	интал
+T83	Body_location 4228 4235	на коже
+T28	Disease 1401 1438	бронхиальная астма, атопической формы
+T99	Disease 97 105	Поллиноз
+T97	Symptom 4609 4637	Стул ежедневный, оформленный
+T113	Drug 2735 2758	аллергенами пыльцы трав
+T89	Symptom 4451 4487	Носовое дыхание несколько затруднено
+N1	Reference T33 UMLS:C0035243	респираторные инфекции
+N2	Reference T24 UMLS:C0035243	респираторные инфекции
+N3	Reference T34 UMLS:C0001559	введение лекарств ингаляционное
+N4	Reference T106 UMLS:C0853946	обострение боли
+N5	Reference T98 UMLS:C0025287	менингеальные знаки
+N6	Reference T56 UMLS:CUILESS	астма, хроническая
+N7	Reference T30 UMLS:C0013154	интал
+N8	Reference T112 UMLS:C0001927	сальбутамол
+N9	Reference T29 UMLS:CUILESS	степень ухудшения бду
+N10	Reference T73 UMLS:C0850149	кашель, непродуктивный
+N11	Reference T92 UMLS:C3887661	хрип
+N12	Reference T17 UMLS:C0011615	атопический дерматит
+N13	Reference T111 UMLS:C0546947	чувство удушья
+N14	Reference T10 UMLS:C3665596	бородавки
+N15	Reference T69 UMLS:C0055147	цетиризин
+N16	Reference T41 UMLS:C0012694	интал
+N17	Reference T16 UMLS:C0008049	ветряная оспа
+N18	Reference T52 UMLS:C0013154	введение лекарств ингаляционное
+N19	Reference T91 UMLS:C0231855	нормальная аускультативная картина в легких
+N20	Reference T95 UMLS:C0026390	мягкокожие
+N21	Reference T8 UMLS:C0549397	искривление перегородки носа
+N22	Reference T80 UMLS:C0010200	кашель
+N23	Reference T75 UMLS:C0854606	системная антибактериальная терапия
+N24	Reference T93 UMLS:C2712143	нормальный сердечный ритм
+N25	Reference T3 UMLS:C2919352	сезонная астма
+N26	Reference T2 UMLS:CUILESS	астма, хроническая
+N27	Reference T53 UMLS:C0939232	флутиказон-салметерол комбинированный препарат
+N28	Reference T15 UMLS:C0035243	респираторные инфекции
+N29	Reference T13 UMLS:C0850149	кашель, непродуктивный
+N30	Reference T88 UMLS:C0029166	ротовая полость при патологических состояниях
+N31	Reference T46 UMLS:C0004096	астма бронхиальная
+N32	Reference T82 UMLS:C0302295	высыпание
+N33	Reference T110 UMLS:C0004044	жизнеугрожающее удушье
+N34	Reference T32 UMLS:C0221725	бронхиальная обструкция
+N35	Reference T68 UMLS:C0036499	вода морская
+N36	Reference T76 UMLS:C0149517	хронический тонзиллит
+N37	Reference T103 UMLS:C0009763	конъюнктивит
+N38	Reference T77 UMLS:C0029877	отит
+N39	Reference T108 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N40	Reference T66 UMLS:C0006914	гонорар за 1 пациента
+N41	Reference T87 UMLS:C0870082	гиперкератозные поражения
+N42	Reference T63 UMLS:C0549397	искривление перегородки носа
+N43	Reference T45 UMLS:C1504374	антигистаминная терапия
+N44	Reference T104 UMLS:C0035455	ринит
+N45	Reference T20 UMLS:C0035243	респираторные инфекции
+N46	Reference T85 UMLS:C4505235	розовые
+N47	Reference T14 UMLS:C0221725	бронхиальная обструкция
+N48	Reference T6 UMLS:C2607914	аллергический ринит
+N49	Reference T7 UMLS:C0035053	ремиссия спонтанная
+N50	Reference T1 UMLS:C0004096	астма бронхиальная
+N51	Reference T35 UMLS:C0035243	респираторные инфекции
+N52	Reference T50 UMLS:C0549397	искривление перегородки носа
+N53	Reference T70 UMLS:C0082607	флутиказон
+N54	Reference T37 UMLS:C0013154	введение лекарств ингаляционное
+N55	Reference T100 UMLS:C2919352	сезонная астма
+N56	Reference T21 UMLS:C0002575	аминофиллин
+N57	Reference T90 UMLS:C0024109	легкие
+N58	Reference T86 UMLS:C0151908	сухая кожа
+N59	Reference T81 UMLS:C0149696	пищевая аллергия
+N60	Reference T47 UMLS:CUILESS	астма, хроническая
+N61	Reference T101 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N62	Reference T115 UMLS:CUILESS	хронический ринит
+N63	Reference T26 UMLS:C0035243	респираторные инфекции
+N64	Reference T42 UMLS:C0037383	чихание
+N65	Reference T64 UMLS:C0027432	носа перегородка
+N66	Reference T61 UMLS:C2607914	аллергический ринит
+N67	Reference T22 UMLS:C0002575	эуфиллин
+N68	Reference T54 UMLS:C0178702	иммунотерапия
+N69	Reference T9 UMLS:C0027432	носа перегородка
+N70	Reference T114 UMLS:C1567994	аллергены растительные
+N71	Reference T48 UMLS:C2607914	аллергический ринит
+N72	Reference T40 UMLS:C0004905	беклометазон
+N73	Reference T74 UMLS:C0036689	стрептококковая ангина
+N74	Reference T43 UMLS:C0850149	кашель, непродуктивный
+N75	Reference T25 UMLS:C0013154	антигистаминная терапия
+N76	Reference T5 UMLS:C0035053	ремиссия спонтанная
+N77	Reference T18 UMLS:C1504374	антигистаминная терапия
+N78	Reference T94 UMLS:C0000726	живот
+N79	Reference T60 UMLS:C0035053	ремиссия спонтанная
+N80	Reference T49 UMLS:C1145628	вегетативная дисфункция
+N81	Reference T96 UMLS:C0857027	болезненность
+N82	Reference T105 UMLS:C0009763	конъюнктивит
+N83	Reference T19 UMLS:C0865791	обструктивный бронхит
+N84	Reference T55 UMLS:C0004096	астма бронхиальная
+N85	Reference T58 UMLS:C0018621	поллиноз
+N86	Reference T65 UMLS:C3665596	бородавки
+N87	Reference T84 UMLS:C1123023	кожа
+N88	Reference T102 UMLS:C0035455	ринит
+N89	Reference T78 UMLS:C0854606	системная антибактериальная терапия
+N90	Reference T62 UMLS:C0035053	ремиссия спонтанная
+N91	Reference T4 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N92	Reference T23 UMLS:C0865791	обструктивный бронхит
+N93	Reference T39 UMLS:C0013154	терапия глюкокортикостероидами
+N94	Reference T51 UMLS:C0027432	носа перегородка
+N95	Reference T67 UMLS:C0178702	иммунотерапия
+N96	Reference T107 UMLS:C0019993	размещение в стационар
+N97	Reference T109 UMLS:C0035455	ринит
+N98	Reference T38 UMLS:C0002575	эуфиллин
+N99	Reference T31 UMLS:C0012694	интал
+N100	Reference T83 UMLS:C1123023	кожа
+N101	Reference T28 UMLS:C0004096	астма бронхиальная
+N102	Reference T99 UMLS:C0018621	поллиноз
+N103	Reference T97 UMLS:CUILESS	мягкий стул
+N104	Reference T113 UMLS:C0018621	аллергия на пыльцу
+N105	Reference T89 UMLS:C0853254	раздражение носовых ходов
+#1	AnnotatorNotes T56	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||
+#2	AnnotatorNotes T30	first_annotator_label: C0012694||synonyms: кромолин-натрий|kromolin-natrii|dinatriia kromoglikat|intal|kromoglikat-natrii||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C4324296||synonyms: назначен противопоказанный препарат||||
+#3	AnnotatorNotes T29	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#4	AnnotatorNotes T52	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1978193||synonyms: эпендимное+сосудистое сплетение клетки/100 лейкоцитов:отношение:тчкврм:цсж:колич||||
+#5	AnnotatorNotes T91	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#6	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||
+#7	AnnotatorNotes T53	first_annotator_label: C0939232||synonyms: флутиказон-салметерол комбинированный препарат|flutikazon-salmeterol kombinatsiia|адваир|флутиказона пропионат, салметерола ксинафоат комбинированный препарат|флутиказон-салметерол комбинация||||second_annotator_label: C0082607||synonyms: флутиказон|flutikazon|фликсотид|кутивейт|fliksotid||||third_annotator_label: C0006280||synonyms: бронхорасширяющие средства|bronkhorasshiriaiushchie sredstva||||bert: C4285848||synonyms: бактериальный уретерит||||
+#8	AnnotatorNotes T88	first_annotator_label: C0029166||synonyms: ротовой полости симптомы при патологических состояниях|rotovoi polosti simptomy pri patologicheskikh sostoianiiakh|rotovaia polost' pri patologicheskikh sostoianiiakh|ротовая полость при патологических состояниях||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0863112||synonyms: раздражение ротоглотки||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#9	AnnotatorNotes T37	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0877518||synonyms: атрофия ворсинок двенадцатиперстной кишки||||
+#10	AnnotatorNotes T21	first_annotator_label: C0002575||synonyms: эуфиллин|eufillin|aminofillin|аминофиллин||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0948570||synonyms: операция на эпифизе||||
+#11	AnnotatorNotes T47	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#12	AnnotatorNotes T115	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0562483||synonyms: персистирующий кашель||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#13	AnnotatorNotes T54	first_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#14	AnnotatorNotes T74	first_annotator_label: C0036689||synonyms: стрептококковый фарингит|боль в горле при стрептококковой инфекции|стрептококковая ангина||||second_annotator_label: C0276143||synonyms: вирусный фарингит|вирусная ангина|вирусный фарингит, бду||||third_annotator_label: C0031157||synonyms: перитонзиллярный абсцесс|peritonzilliarnyi abstsess|abstsess peritonzilliarnyi|острый тонзиллит|гнойный тонзиллит||||bert: C0012586||synonyms: анальгин|anal'gin|dipiron|metamizol|metampiron||||
+#15	AnnotatorNotes T25	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0201535||synonyms: антитела к кардиолипину|антикардиолипиновые антитела||||
+#16	AnnotatorNotes T39	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C2735982||synonyms: 3-альфа-андростандиол глюкуронид^2 дня после дозы дексаметазона:молконц:тчкврм:сыв/плаз:колич||||
+#17	AnnotatorNotes T67	first_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C4087370||synonyms: аллергия на цементную пыль||||
+#18	AnnotatorNotes T107	first_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||second_annotator_label: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||third_annotator_label: None||synonyms: ||||bert: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||
+#19	AnnotatorNotes T97	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||third_annotator_label: None||synonyms: ||||bert: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||

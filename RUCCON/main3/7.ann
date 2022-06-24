@@ -1,0 +1,149 @@
+T3	Treatment 20292 20354	Панангин (калия и магния аспарагинат) ¼ таб х 3р/д – длительно
+T58	Body_location 13945 13962	ПРАВОЕ ПРЕДСЕРДИЕ
+T11	Severity 320 330	II по Ross
+T21	Symptom 1762 1772	обструкции
+T70	Body_location 17318 17332	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T19	Disease 852 860	гайморит
+T49	Severity 10504 10508	+0.5
+T7	Drug 20226 20236	бисопролол
+T13	Symptom 317 319	ФК
+T62	Severity 14259 14261	63
+T65	Body_location 14682 14704	ТРИКУСПИДАЛЬНЫЙ КЛАПАН
+T76	Body_location 15773 15780	Ключицы
+T8	Drug 20130 20138	Кордарон
+T35	Symptom 7335 7359	неоднородное образование
+T26	Body_location 4597 4623	миокарда правого желудочка
+T52	Body_location 12086 12097	ЛЕВАЯ ПОЧКА
+T34	Symptom 6631 6643	гемодинамики
+T66	Body_location 14542 14572	ЗАДНЯЯ СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА
+T42	Body_location 9760 9774	Мышцы, суставы
+T24	Body_location 4263 4290	межжелудочковой перегородки
+T28	Severity 4431 4434	62%
+T6	Drug 20218 20224	Конкор
+T55	Body_location 13529 13534	АОРТА
+T45	Body_location 10053 10074	Органы кровообращения
+T20	Body_location 1790 1817	левого и правого желудочков
+T18	Symptom 639 641	ФК
+T51	Body_location 11183 11203	Желудочковая система
+T75	Symptom 19452 19484	Нарушение процесса реполяризации
+T14	Disease 343 387	Нарушение ритма сердца: желудочковая аритмия
+T56	Body_location 13989 14015	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T15	Severity 633 637	2Аст
+T9	Drug 20140 20149	амиодарон
+T17	Severity 642 652	II по Ross
+T32	Body_location 4848 4867	миокарде желудочков
+T37	Body_location 7623 7631	миокарда
+T67	Body_location 15188 15205	Щитовидной железы
+T71	Body_location 17778 17798	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T36	Body_location 7263 7290	межжелудочковой перегородки
+T10	Severity 311 315	2Аст
+T57	Body_location 13902 13918	ЛЕВОЕ ПРЕДСЕРДИЕ
+T69	Symptom 15048 15077	небольшое увеличение размеров
+T38	Symptom 7604 7622	рубцовые изменения
+T27	Symptom 4585 4596	гипертрофии
+T72	Body_location 17966 17975	СЕЛЕЗЕНКА
+T22	Symptom 2819 2858	преждевременного возбуждения желудочков
+T12	Disease 307 310	ХСН
+T50	Body_location 10873 10888	головного мозга
+T68	Body_location 15122 15139	правого желудочка
+T59	Body_location 14153 14168	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T47	Body_location 10539 10548	Селезенка
+T53	Body_location 12697 12709	ПРАВАЯ ПОЧКА
+T23	Body_location 2848 2859	желудочков.
+T29	Symptom 4435 4447	по Тейхольцу
+T31	Body_location 4540 4556	левого желудочка
+T54	Body_location 13351 13365	МОЧЕВОЙ ПУЗЫРЬ
+T1	Treatment 20130 20212	Кордарон (амиодарон) 80 мг х 1р/д в 09.00, кроме субботы и воскресенья – длительно
+T39	Disease 6977 6995	туберозный склероз
+T44	Body_location 9803 9810	Суставы
+T48	Body_location 10497 10503	Печень
+T5	Drug 20302 20328	калия и магния аспарагинат
+T60	Body_location 14027 14043	ПРАВЫЙ ЖЕЛУДОЧЕК
+T64	Body_location 14601 14618	МИТРАЛЬНЫЙ КЛАПАН
+T63	Symptom 14243 14258	ФВ по Тейхольцу
+T43	Body_location 9705 9720	Костная система
+T4	Drug 20292 20300	Панангин
+T74	Body_location 19487 19506	миокарде желудочков
+T61	Body_location 14335 14362	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА
+T73	Body_location 18121 18128	ЖЕЛУДОК
+T30	Symptom 4502 4521	ускорение кровотока
+T40	Symptom 8792 8815	миграции водителя ритма
+T33	Symptom 4813 4845	нарушения процесса реполяризации
+T46	Body_location 10396 10414	Органы пищеварения
+T41	Body_location 8818 8844	миокард правого предсердия
+T25	Symptom 4251 4262	образование
+T2	Treatment 20218 20286	Конкор (бисопролол) 0.625 мг х 1 р/д в 09.00 - длительно, непрерывно
+T16	Disease 629 632	ХСН
+N1	Reference T3 UMLS:C0013154	лекарства применения схема
+N2	Reference T58 UMLS:C0078996	предсердие правое, функция
+N3	Reference T21 UMLS:C0028778	обструкция, бду
+N4	Reference T70 UMLS:C0016976	желчный пузырь
+N5	Reference T19 UMLS:C0024959	гайморит
+N6	Reference T7 UMLS:C0053799	бисопролол
+N7	Reference T62 UMLS:C0016190	fla 63
+N8	Reference T65 UMLS:C0040960	трехстворчатый клапан
+N9	Reference T76 UMLS:C0008913	ключица
+N10	Reference T8 UMLS:C0002598	амиодарон
+N11	Reference T35 UMLS:C0013621	образование
+N12	Reference T26 UMLS:C0080311	правый желудочек сердца, функция
+N13	Reference T52 UMLS:C0022646	почки
+N14	Reference T34 UMLS:C0019010	гемодинамика
+N15	Reference T66 UMLS:C0080310	сердца желудочка левого функция
+N16	Reference T42 UMLS:C0026845	мышцы
+N17	Reference T24 UMLS:C0225870	межжелудочковая перегородка
+N18	Reference T6 UMLS:C0053799	бисопролол
+N19	Reference T55 UMLS:C0003483	аорта
+N20	Reference T45 UMLS:C0037990	внутренних органов кровообращение
+N21	Reference T20 UMLS:C0018827	сердца желудочки
+N22	Reference T51 UMLS:C0018827	сердца желудочек
+N23	Reference T75 UMLS:C0948857	нарушения реполяризации на экг
+N24	Reference T14 UMLS:C0085612	желудочковая аритмия
+N25	Reference T56 UMLS:C0225836	предсердная перегородка
+N26	Reference T9 UMLS:C0002598	амиодарон
+N27	Reference T32 UMLS:C0027061	миокард
+N28	Reference T37 UMLS:C0027061	миокард
+N29	Reference T67 UMLS:C0040132	щитовидная железа
+N30	Reference T71 UMLS:C0030274	поджелудочная железа
+N31	Reference T36 UMLS:C0225870	межжелудочковая перегородка
+N32	Reference T57 UMLS:C0078995	предсердие левое, функция
+N33	Reference T69 UMLS:C0020564	увеличение желудочков
+N34	Reference T38 UMLS:C1404481	патология
+N35	Reference T27 UMLS:C0020564	гипертрофия
+N36	Reference T72 UMLS:C0037993	селезенка
+N37	Reference T22 UMLS:C0559106	преждевременное возбуждение желудочков
+N38	Reference T12 UMLS:C0264716	хроническая сердечная недостаточность
+N39	Reference T50 UMLS:C0006104	мозг головной
+N40	Reference T68 UMLS:C0080311	сердца желудочка правого функция
+N41	Reference T59 UMLS:C0080310	левый желудочек сердца, функция
+N42	Reference T47 UMLS:C0037993	селезенка
+N43	Reference T53 UMLS:C0022646	почки
+N44	Reference T23 UMLS:C0018827	сердца желудочки
+N45	Reference T29 UMLS:CUILESS	аномальное значение фракции выброса
+N46	Reference T31 UMLS:C0080310	левый желудочек сердца, функция
+N47	Reference T54 UMLS:C0005682	мочевой пузырь
+N48	Reference T1 UMLS:C2363849	антиаритмические средства
+N49	Reference T39 UMLS:C0041341	туберозный склероз
+N50	Reference T44 UMLS:C0022417	суставы
+N51	Reference T48 UMLS:C0023884	печень
+N52	Reference T5 UMLS:C0032835	калия, магния аспарагинат
+N53	Reference T60 UMLS:C0080311	правый желудочек сердца, функция
+N54	Reference T64 UMLS:C0026264	митральный клапан
+N55	Reference T63 UMLS:C0489482	фракция выброса (фв)
+N56	Reference T43 UMLS:C0816871	скелет
+N57	Reference T4 UMLS:C0032835	калия, магния аспарагинат
+N58	Reference T74 UMLS:C0018827	сердца желудочки
+N59	Reference T61 UMLS:C0225870	межжелудочковая перегородка
+N60	Reference T73 UMLS:C0038351	желудок
+N61	Reference T30 UMLS:C0005798	кровотока скорость
+N62	Reference T40 UMLS:C1321523	миграция водителя ритма по предсердию
+N63	Reference T33 UMLS:C0948857	нарушения реполяризации на экг
+N64	Reference T46 UMLS:C0017189	желудочно-кишечный тракт
+N65	Reference T41 UMLS:C0518960	миксома правого предсердия
+N66	Reference T25 UMLS:C0013621	образование
+N67	Reference T2 UMLS:C0013154	лекарства применения схема
+N68	Reference T16 UMLS:C0264716	хроническая сердечная недостаточность
+#1	AnnotatorNotes T69	first_annotator_label: C2675972||synonyms: увеличение желудочков||||second_annotator_label: C0013621||synonyms: образование|obrazovanie|obrazovatel'nye programmy|programmy likvidatsii bezgramotnosti|образовательные программы||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0151994||synonyms: увеличение матки|увеличение размеров матки|увеличение матки в размерах||||
+#2	AnnotatorNotes T38	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0155686||synonyms: острый миокардит, неуточненный|острый миокардит||||third_annotator_label: C1404481||synonyms: рубцовое изменение миокарда||||bert: C0920046||synonyms: изменения зубца р||||
+#3	AnnotatorNotes T29	first_annotator_label: C0855327||synonyms: аномальное значение фракции выброса||||second_annotator_label: C0802950||synonyms: объём 25-75% форсированный выдох.измеренный.после бронходилатация/объём 25-75% форсированный выдох.прогнозный:отноб:тчкврм:дыхательная система:колич||||third_annotator_label: C0428772||synonyms: фракция выброса левого желудочка||||bert: C0039444||synonyms: тейхоевые кислоты|teikhoevaia kislota|teikhoevye kisloty|тейхоевая кислота||||
+#4	AnnotatorNotes T1	first_annotator_label: C0003195||synonyms: противоаритмические средства|protivoaritmicheskie sredstva|antiaritmicheskie sredstva|kardial'nye depressanty|miokardial'nye depressanty||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0861638||synonyms: аденокарцинома нижней трети пищевода 0 стадии|аденокарцинома нижней трети пищевода, преизвазивная|аденокарцинома нижней трети пищевода in situ|аденокарцинома нижней трети пищевода, стадия 0||||
+#5	AnnotatorNotes T63	first_annotator_label: C0489482||synonyms: фракция выброса (фв)||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0428772||synonyms: фракция выброса левого желудочка||||bert: C0340214||synonyms: фистула трахеи||||

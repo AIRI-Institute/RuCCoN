@@ -1,0 +1,86 @@
+T14	Drug 559 567	назонекс
+T30	Treatment 1763 1841	ингаляции лазолвана в растворе 2 мл 3 раза в день (не позднее 18.00) на 5 дней
+T38	Drug 1385 1393	Назонекс
+T4	Disease 321 340	Аллергический ринит
+T9	Drug 445 452	Маример
+T11	Treatment 541 597	зиртек 1т. 1 р/д, назонекс 1 р/д, физиомер 3 раза в день
+T27	Drug 1645 1653	беродуал
+T17	Treatment 958 1001	Гипоаллергенная диета, элиминационный режим
+T36	Drug 1140 1166	СИТ с бытовыми аллергенами
+T32	Drug 1512 1520	вентолин
+T10	Drug 458 470	Аква – Марис
+T21	Treatment 1385 1451	Назонекс 1 раз в день продолжить до окончания основного курса АСИТ
+T18	Treatment 1068 1125	Сингуляр 5 мг по 1т 1 раз в день до конца сентября 2045г.
+T19	Treatment 1140 1206	СИТ с бытовыми аллергенами сублингвально по схеме (схема на руках)
+T6	Body_location 378 390	полость носа
+T2	Drug 175 185	вентолином
+T3	Symptom 188 201	отрицательная
+T15	Drug 575 583	физиомер
+T20	Treatment 1333 1380	Туалет носа с физиомер 3 раза в день продолжить
+T29	Symptom 1730 1753	малопродуктивного кашля
+T24	Treatment 1512 1595	вентолин (сальбутамол или саламол) по 1-2 ингаляции через спейсер до 3-х раз в день
+T28	Drug 1666 1676	пульмикорт
+T7	Drug 391 399	Физиомер
+T12	Treatment 605 728	курс СИТ с бытовыми аллергенами (клещи домашней пыли – d.pt.c. 176, 177, 178) сублингвальным методом по классической схеме.
+T8	Drug 427 439	Аквалор софт
+T22	Symptom 1460 1475	приступах кашля
+T5	Treatment 359 516	Ежедневно орошать  полость носа Физиомер (с 2-х нед. и старше) (или Аквалор софт, или Маример, или Аква – Марис) х 3-4 раза в день (тщательное отсмаркивание)
+T23	Symptom 1477 1498	затрудненного дыхания
+T26	Treatment 1627 1710	через небулайзер: беродуал 10 капель + пульмикорт 250 мкг 3 раза в день на 5-7 дней
+T31	Drug 1773 1782	лазолвана
+T1	Symptom 147 165	показатели в норме
+T25	Disease 1623 1626	ОРИ
+T37	Drug 1068 1076	Сингуляр
+T33	Drug 1522 1533	сальбутамол
+T16	Drug 610 682	СИТ с бытовыми аллергенами (клещи домашней пыли – d.pt.c. 176, 177, 178)
+T35	Drug 1347 1355	физиомер
+T13	Drug 541 547	зиртек
+T34	Drug 1538 1545	саламол
+N1	Reference T14 UMLS:C0066700	назонекс
+N2	Reference T30 UMLS:C0013154	введение лекарств ингаляционное
+N3	Reference T38 UMLS:C0066700	назонекс
+N4	Reference T4 UMLS:C2607914	аллергический ринит
+N5	Reference T9 UMLS:C0036499	вода морская
+N6	Reference T11 UMLS:C0013154	промывание носа
+N7	Reference T27 UMLS:C0015840	фенотерол
+N8	Reference T17 UMLS:C0425402	медицинская диета
+N9	Reference T36 UMLS:C0178702	аллергены
+N10	Reference T32 UMLS:C0001927	сальбутамол
+N11	Reference T10 UMLS:C0036499	вода морская
+N12	Reference T21 UMLS:C0013154	терапия глюкокортикостероидами
+N13	Reference T18 UMLS:C0013154	терапевтическая концентрация бронходилататора, бду
+N14	Reference T19 UMLS:C3658366	сублингвальная иммунотерапия
+N15	Reference T6 UMLS:C0027423	носовая полость
+N16	Reference T2 UMLS:C0001927	сальбутамол
+N17	Reference T3 UMLS:C4704700	отрицательные результаты
+N18	Reference T15 UMLS:C0036499	вода морская
+N19	Reference T20 UMLS:C2350442	промывание носа
+N20	Reference T29 UMLS:C0850149	кашель, непродуктивный
+N21	Reference T24 UMLS:C0013154	введение лекарств ингаляционное
+N22	Reference T28 UMLS:C0054201	будесонид
+N23	Reference T7 UMLS:C0036499	вода морская
+N24	Reference T12 UMLS:C3658366	сублингвальная иммунотерапия
+N25	Reference T8 UMLS:C0036499	вода морская
+N26	Reference T22 UMLS:C0742857	острый кашель
+N27	Reference T5 UMLS:C2350442	промывание носа
+N28	Reference T23 UMLS:C0553668	затруднение дыхания
+N29	Reference T26 UMLS:C0013154	введение лекарств ингаляционное
+N30	Reference T31 UMLS:C0002421	амброксол
+N31	Reference T1 UMLS:CUILESS	результаты исследования функции внешнего дыхания в норме, бду
+N32	Reference T25 UMLS:C0035243	респираторные инфекции
+N33	Reference T37 UMLS:C3654961	монтелукаст индуцированный нейтрофил ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия
+N34	Reference T33 UMLS:C0001927	сальбутамол
+N35	Reference T16 UMLS:C0178702	аллергены
+N36	Reference T35 UMLS:C0036499	вода морская
+N37	Reference T13 UMLS:C0055147	цетиризин
+N38	Reference T34 UMLS:C0001927	сальбутамол
+#1	AnnotatorNotes T30	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C2735217||synonyms: водород/выдыхаемый газ^2.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#2	AnnotatorNotes T11	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1147023||synonyms: денге вирус 1 ат:произвконц:тчкврм:сыв:колич||||
+#3	AnnotatorNotes T17	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#4	AnnotatorNotes T36	first_annotator_label: C0002092||synonyms: аллергены|allergeny||||second_annotator_label: C0339807||synonyms: аллергия на бытовую пыль||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C0339807||synonyms: аллергия на бытовую пыль||||
+#5	AnnotatorNotes T21	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C1953165||synonyms: кортизол^после 1 мг дексаметазона через рот накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T18	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2926269||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||bert: C2926269||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T24	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0042518||synonyms: гипоталамуса ядро вентромедиальное|ventromedial'noe iadro gipotalamusa|gipotalamusa iadro ventromedial'noe|вентромедиальное ядро гипоталамуса||||
+#8	AnnotatorNotes T26	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C1977451||synonyms: лимфоцит пролиферация.10 мкмоль бериллий стимуляция^7 дней после инкубации:произвконц:тчкврм:кр:колич||||
+#9	AnnotatorNotes T1	first_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||second_annotator_label: C0560017||synonyms: электроэнцефалограмма в норме|показатели на электроэнцефалограмме в пределах нормы|показатели на ээг в норме||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0560017||synonyms: электроэнцефалограмма в норме|показатели на электроэнцефалограмме в пределах нормы|показатели на ээг в норме||||
+#10	AnnotatorNotes T16	first_annotator_label: C0002092||synonyms: аллергены|allergeny||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C0323677||synonyms: клещ домашний пылевой американский|kleshch domashnii pylevoi amerikanskii||||

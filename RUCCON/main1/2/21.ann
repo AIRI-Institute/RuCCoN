@@ -1,0 +1,130 @@
+T9	Symptom 964 1008	Умеренно повышено бронхиальное сопротивление
+T10	Symptom 1010 1052	Структура общей емкости легких не изменена
+T22	Body_location 1404 1423	носовой перегородки
+T27	Treatment 1554 1586	септопластика в плановом порядке
+T5	Symptom 716 738	показатели ФВД в норме
+T1	Body_location 31 54	органов брюшной полости
+T18	Drug 1301 1304	ОКИ
+T14	Body_location 1120 1139	носовой перегородки
+T46	Body_location 303 310	ПЕЧЕНЬ:
+T37	Drug 2024 2034	физиомером
+T51	Body_location 408 421	воротная вена
+T53	Symptom 422 426	8 мм
+T47	Body_location 457 486	В желудке и 12-перстной кишке
+T43	Symptom 171 231	размер – 12х7х14 мм; средней эхогенности, проток не расширен
+T8	Drug 884 894	вентолином
+T33	Drug 1668 1676	Назонекс
+T54	Symptom 444 455	не изменены
+T23	Disease 1425 1437	риносинусита
+T7	Symptom 895 908	положительная
+T49	Symptom 1140 1171	с затруднением носового дыхания
+T30	Treatment 1695 1711	ОКИ 3 р/д (5 дн)
+T55	Body_location 459 466	желудке
+T25	Disease 1480 1511	искривление носовой перегородки
+T32	Drug 1625 1635	Физиомером
+T17	Drug 1231 1237	авамис
+T31	Treatment 1716 1743	Гексорал спрей 3 р/д (5 дн)
+T38	Symptom 2056 2084	выраженной заложенности носа
+T36	Treatment 2010 2034	Туалет носа с физиомером
+T24	Symptom 1512 1543	с затруднением носового дыхания
+T41	Treatment 1935 1967	септопластики в плановом порядке
+T15	Treatment 1207 1351	физиомер 3 раза в день, авамис по 2 инст. 1 раз в день по 1 утрам 2 недели. Полоскание зева с ОКИ 3 р/д (5 дней). Гексорал спрей 3 р/д (5 дней).
+T44	Symptom 244 302	размер 96х43мм; паренхима однородная, средней эхогенности.
+T29	Treatment 1668 1690	Назонекс 2 инст. 2 р/д
+T3	Body_location 149 169	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T2	Body_location 56 70	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T48	Symptom 489 528	нет секрета и слизи, стенки нормальные.
+T19	Drug 1321 1335	Гексорал спрей
+T52	Body_location 428 443	печеночные вены
+T4	Body_location 233 242	СЕЛЕЗЕНКА
+T35	Drug 1716 1730	Гексорал спрей
+T42	Symptom 73 146	не увеличен, форма – правильная; стенки – не изменены, просвет - свободен
+T12	Disease 1108 1139	Искривление носовой перегородки
+T6	Drug 748 758	вентолином
+T20	Body_location 1294 1298	зева
+T21	Body_location 1367 1370	ОНП
+T26	Body_location 1492 1511	носовой перегородки
+T16	Drug 1207 1215	физиомер
+T56	Body_location 469 486	12-перстной кишке
+T11	Disease 1094 1106	назофарингит
+T13	Disease 1173 1192	Вазомоторный ринит.
+T40	Drug 2103 2112	назонекса
+T45	Symptom 311 456	размер – ЛД – 53 мм, 1-й сегмент: 14мм; ПД – 124 мм; паренхима – однородна, средней эхогенности, воротная вена 8 мм, печеночные вены не изменены.
+T39	Treatment 2097 2147	курса назонекса по 2 инст. 2 раза в день 2 недели.
+T50	Disease 1392 1423	искривления носовой перегородки
+T28	Treatment 1613 1662	Туалет носа Физиомером по 2 инст. х 3 раза в день
+T34	Drug 1695 1698	ОКИ
+N1	Reference T9 UMLS:CUILESS	обструкция бронхов
+N2	Reference T10 UMLS:C0040509	легких емкость общая
+N3	Reference T22 UMLS:C0027432	носа перегородка
+N4	Reference T27 UMLS:C0844334	септопластика
+N5	Reference T5 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N6	Reference T1 UMLS:C0230168	брюшная полость
+N7	Reference T18 UMLS:C0030015	окиси
+N8	Reference T14 UMLS:C0027432	носа перегородка
+N9	Reference T46 UMLS:C0023884	печень
+N10	Reference T37 UMLS:C0036499	вода морская
+N11	Reference T51 UMLS:C0032718	воротная вена
+N12	Reference T53 UMLS:CUILESS	норма рабочая
+N13	Reference T47 UMLS:C0017189	желудочно-кишечный тракт
+N14	Reference T43 UMLS:CUILESS	результаты ультразвукового исследования поджелудочной железы в норме
+N15	Reference T8 UMLS:C0001927	сальбутамол
+N16	Reference T33 UMLS:C0066700	назонекс
+N17	Reference T54 UMLS:CUILESS	норма рабочая
+N18	Reference T23 UMLS:C0948780	риносинусит
+N19	Reference T7 UMLS:CUILESS	провокационный тест с использованием лекарственного средства
+N20	Reference T49 UMLS:C0553668	затруднение дыхания
+N21	Reference T30 UMLS:C0013154	вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков
+N22	Reference T55 UMLS:C0038351	желудок
+N23	Reference T25 UMLS:C0549397	искривление перегородки носа
+N24	Reference T32 UMLS:C0036499	вода морская
+N25	Reference T17 UMLS:C0036499	вода морская
+N26	Reference T31 UMLS:C0013154	антисептика
+N27	Reference T38 UMLS:C0027424	заложенность носа
+N28	Reference T36 UMLS:C2350442	промывание носа
+N29	Reference T24 UMLS:C0553668	затруднение дыхания
+N30	Reference T41 UMLS:C0844334	септопластика
+N31	Reference T15 UMLS:C0013154	промывание носа
+N32	Reference T44 UMLS:C2181189	ультразвуковое исследование селезенки
+N33	Reference T29 UMLS:C0744425	терапия глюкокортикостероидами
+N34	Reference T3 UMLS:C0030274	поджелудочная железа
+N35	Reference T2 UMLS:C0016976	желчный пузырь
+N36	Reference T48 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N37	Reference T19 UMLS:C0019468	гексетидин
+N38	Reference T52 UMLS:C0019155	печеночные вены
+N39	Reference T4 UMLS:C0037993	селезенка
+N40	Reference T35 UMLS:C0019468	гексетидин
+N41	Reference T42 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N42	Reference T12 UMLS:C0549397	искривление перегородки носа
+N43	Reference T6 UMLS:C0001927	сальбутамол
+N44	Reference T20 UMLS:C0226896	ротовая полость
+N45	Reference T21 UMLS:C0030471	околоносовые пазухи
+N46	Reference T26 UMLS:C0027432	носа перегородка
+N47	Reference T16 UMLS:C0036499	вода морская
+N48	Reference T56 UMLS:C0013303	двенадцатиперстная кишка
+N49	Reference T11 UMLS:C0009443	назофарингит
+N50	Reference T13 UMLS:C0035460	вазомоторный ринит
+N51	Reference T40 UMLS:C0066700	назонекс
+N52	Reference T45 UMLS:C0412534	ультразвуковое исследование печени
+N53	Reference T39 UMLS:C0744425	терапия глюкокортикостероидами
+N54	Reference T50 UMLS:C0549397	искривление перегородки носа
+N55	Reference T28 UMLS:C2350442	промывание носа
+N56	Reference T34 UMLS:C0003211	кетопрофен
+#1	AnnotatorNotes T9	first_annotator_label: C0221725||synonyms: бронхиальная обструкция|обструкция бронхов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1315922||synonyms: выдох сопротивление.max:ждксопр:тчкврм:дыхательная система:колич||||bert: C1321133||synonyms: кровоизлияние в бронхиальное дерево|кровоизлияние в бронхи|бронхиальное кровотечение||||
+#2	AnnotatorNotes T51	first_annotator_label: C0032718||synonyms: портальная вена|portal'naia vena|vorotnaia vena|воротная вена||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#3	AnnotatorNotes T53	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#4	AnnotatorNotes T43	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: C0030274||synonyms: поджелудочная железа|podzheludochnaia zheleza||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C2973165||synonyms: эритроцит среднее содержание гемоглобина:сущнмасса:тчкврм:кр^плод:колич:автоматизированный подсчет||||
+#5	AnnotatorNotes T54	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#6	AnnotatorNotes T7	first_annotator_label: C3804975||synonyms: провокационный тест с использованием лекарственного средства||||second_annotator_label: C0011334||synonyms: кариес зубов|karies zubov|karies emali|разрушение тканей зуба|кариес зуба, бду||||third_annotator_label: None||synonyms: ||||bert: C0011334||synonyms: кариес зубов|karies zubov|karies emali|разрушение тканей зуба|кариес зуба, бду||||
+#7	AnnotatorNotes T30	first_annotator_label: C0854597||synonyms: вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0433445||synonyms: ожоги третьей степени|ожоги 3-й степени||||
+#8	AnnotatorNotes T55	first_annotator_label: C0038351||synonyms: желудок|zheludok|ventriculus gaster||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#9	AnnotatorNotes T17	first_annotator_label: C0036499||synonyms: вода морская|voda morskaia||||second_annotator_label: C0939232||synonyms: флутиказон-салметерол комбинированный препарат|flutikazon-salmeterol kombinatsiia|адваир|флутиказона пропионат, салметерола ксинафоат комбинированный препарат|флутиказон-салметерол комбинация||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0376288||synonyms: амавроз||||
+#10	AnnotatorNotes T31	first_annotator_label: C0003424||synonyms: антисептика|antiseptika||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0949730||synonyms: герпесвирус 3 кур|gerpesvirus 2 bolezni mareka|gerpesvirus 3 kur|mareka bolezni gerpesvirus 2|mareka bolezni virus, serotip 2||||
+#11	AnnotatorNotes T15	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1714759||synonyms: туберкулёз реакция папула^3 дня после 1 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#12	AnnotatorNotes T29	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C1147024||synonyms: денге вирус 2 ат:произвконц:тчкврм:сыв:колич||||
+#13	AnnotatorNotes T48	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: C1142510||synonyms: слизистый секрет прямой кишки||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#14	AnnotatorNotes T52	first_annotator_label: C0019155||synonyms: печеночные вены|pechenochnye veny||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#15	AnnotatorNotes T20	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#16	AnnotatorNotes T56	first_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#17	AnnotatorNotes T39	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978290||synonyms: кортизол^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#18	AnnotatorNotes T34	first_annotator_label: C0022635||synonyms: кетопрофен|ketoprofen|benzoilgidrotropnaia kislota|бензоилгидротропная кислота||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003211||synonyms: противовоспалительные средства нестероидные|protivovospalitel'nye sredstva nesteroidnye|npvs|npvp|нпвп||||bert: C0030015||synonyms: оксиды|oksidy|okisi|окиси||||

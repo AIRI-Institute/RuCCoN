@@ -1,0 +1,129 @@
+T25	Course 1258 1266	ремиссия
+T5	Disease 136 170	Круглогодичный аллергический ринит
+T36	Symptom 1652 1664	сухой кашель
+T60	Disease 2102 2113	отек Квинке
+T8	Symptom 284 303	затруднения дыхания
+T9	Symptom 400 418	угрозой прерывания
+T10	Disease 630 646	пищевой аллергии
+T39	Drug 1755 1762	теопека
+T51	Body_location 2237 2245	В лёгких
+T53	Symptom 2273 2290	дыхание ослаблено
+T42	Disease 2019 2022	РКС
+T45	Disease 2078 2100	лекарственная аллергия
+T50	Symptom 2199 2235	Носовое дыхание несколько затруднено
+T55	Body_location 2330 2334	Живо
+T19	Treatment 992 1035	в терапии беродуал 5-7 капель 2 раза в день
+T43	Symptom 2025 2034	высыпания
+T13	Symptom 777 797	затрудненное дыхание
+T28	Symptom 1356 1384	приступы затруднения дыхания
+T7	Symptom 256 273	свистящее дыхание
+T49	Symptom 2186 2197	Зев спокоен
+T40	Symptom 1890 1907	свистящее дыхание
+T29	Symptom 1394 1411	свистящее дыхание
+T32	Drug 1522 1530	беродуал
+T27	Drug 1298 1303	интал
+T21	Disease 1131 1168	Бронхиальная астма, атопическая форма
+T6	Course 172 189	подострое течение
+T44	Body_location 2035 2042	на коже
+T52	Symptom 2260 2271	сухие хрипы
+T17	Drug 875 883	кларитин
+T14	Symptom 852 855	РКС
+T20	Drug 1002 1010	беродуал
+T26	Treatment 1269 1303	Назначена базисная терапия – интал
+T41	Disease 1949 1952	РКС
+T15	Treatment 857 883	в терапии зиртек, кларитин
+T4	Course 126 134	ремиссия
+T2	Severity 48 84	среднетяжелое персистирующее течение
+T30	Disease 1431 1434	ОРИ
+T23	Course 1201 1216	период ремиссии
+T31	Treatment 1512 1555	В терапии беродуал через небулайзер, теопек
+T47	Body_location 2163 2177	Кожные покровы
+T12	Symptom 746 774	сухой продолжительный кашель
+T18	Disease 968 989	обструктивный бронхит
+T11	Disease 714 717	ОРИ
+T24	Disease 1228 1256	риноконъюнктивальный синдром
+T34	Symptom 1609 1636	обострение кожного процесса
+T59	Symptom 2404 2424	Менингеальных знаков
+T3	Disease 96 124	риноконъюнктивальный синдром
+T33	Drug 1549 1555	теопек
+T48	Symptom 2178 2184	чистые
+T56	Symptom 2336 2342	мягкий
+T35	Symptom 1638 1650	слезотечение
+T58	Symptom 2374 2402	Стул ежедневный, оформленный
+T37	Treatment 1698 1762	купирован ингаляцией беродуала через небулайзер, приемом теопека
+T16	Drug 867 873	зиртек
+T57	Symptom 2358 2372	безболезненный
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T38	Drug 1719 1728	беродуала
+T22	Severity 1170 1199	легкое персистирующее течение
+T54	Symptom 2292 2328	Сердечные тоны приглушены, ритмичные
+N1	Reference T25 UMLS:C0242793	безрецидивная выживаемость
+N2	Reference T5 UMLS:C0035457	круглогодичный аллергический ринит
+N3	Reference T36 UMLS:C0850149	сухой кашель
+N4	Reference T60 UMLS:C0002994	отек квинке
+N5	Reference T8 UMLS:C0553668	затруднение дыхания
+N6	Reference T9 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N7	Reference T10 UMLS:C0149696	пищевая аллергия
+N8	Reference T39 UMLS:C0039771	теофиллин
+N9	Reference T51 UMLS:C0024109	легкие
+N10	Reference T53 UMLS:C0238844	ослабленное дыхание при аускультации легких
+N11	Reference T42 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N12	Reference T45 UMLS:C0013182	перекрестная лекарственная аллергия
+N13	Reference T50 UMLS:C0853254	раздражение носовых ходов
+N14	Reference T55 UMLS:C0000726	живот
+N15	Reference T19 UMLS:C0013154	терапевтическая концентрация бронходилататора, бду
+N16	Reference T43 UMLS:C0302295	высыпание
+N17	Reference T13 UMLS:C0553668	затрудненное дыхание
+N18	Reference T28 UMLS:C0424332	приступ задержки дыхания
+N19	Reference T7 UMLS:C0043144	свистящее дыхание
+N20	Reference T49 UMLS:C0521367	ротоглотка
+N21	Reference T40 UMLS:C0043144	свистящее дыхание
+N22	Reference T29 UMLS:C0043144	свистящее дыхание
+N23	Reference T32 UMLS:C0015840	фенотерол
+N24	Reference T27 UMLS:C0012694	интал
+N25	Reference T21 UMLS:C0004096	астма бронхиальная
+N26	Reference T6 UMLS:CUILESS	обострение боли
+N27	Reference T44 UMLS:C1123023	кожа
+N28	Reference T52 UMLS:C0859999	сухие хрипы
+N29	Reference T17 UMLS:C0065180	лоратадин
+N30	Reference T14 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N31	Reference T20 UMLS:C0015840	фенотерол
+N32	Reference T26 UMLS:C5243549	киста плаценты
+N33	Reference T41 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N34	Reference T15 UMLS:C0847226	кератит вирусный
+N35	Reference T4 UMLS:C0242793	период ремиссии
+N36	Reference T2 UMLS:CUILESS	астма, хроническая
+N37	Reference T30 UMLS:C0035243	респираторные инфекции
+N38	Reference T23 UMLS:C0242793	период ремиссии
+N39	Reference T31 UMLS:C0013154	введение лекарств ингаляционное
+N40	Reference T47 UMLS:C1123023	кожа
+N41	Reference T12 UMLS:C0850149	сухой кашель
+N42	Reference T18 UMLS:C0865791	обструктивный бронхит
+N43	Reference T11 UMLS:C0035243	респираторные инфекции
+N44	Reference T24 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N45	Reference T34 UMLS:C0151885	обострение реакции
+N46	Reference T59 UMLS:C0025287	менингеальные знаки
+N47	Reference T3 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N48	Reference T33 UMLS:C0039771	теофиллин
+N49	Reference T48 UMLS:C0598869	чистая культура
+N50	Reference T56 UMLS:C0026390	мягкокожие
+N51	Reference T35 UMLS:C4049379	слезотечение
+N52	Reference T58 UMLS:CUILESS	мягкий стул
+N53	Reference T37 UMLS:C0001559	введение лекарств ингаляционное
+N54	Reference T16 UMLS:C0055147	цетиризин
+N55	Reference T57 UMLS:C0857027	болезненность
+N56	Reference T1 UMLS:C0004096	астма бронхиальная
+N57	Reference T38 UMLS:C0015840	фенотерол
+N58	Reference T22 UMLS:CUILESS	астма, хроническая
+N59	Reference T54 UMLS:C0018810	сердечный ритм
+#1	AnnotatorNotes T53	first_annotator_label: C0238844||synonyms: ослабленное дыхание при аускультации легких|приглушенные легочные шумы||||second_annotator_label: C0231837||synonyms: патологическое урежение дыхания|редкое дыхание|низкая частота дыхания|частота дыхания ниже нормы|брадипноэ||||third_annotator_label: C0235063||synonyms: угнетение дыхания|угнетенное дыхание|снижение функции легких (бду)|снижении функции легких|угнетение дыхательной функции||||bert: C0162297||synonyms: остановка дыхания|прекращение дыхания|дыхание остановилось|остановка дыхательных движений|прекращение дыхательной деятельности||||
+#2	AnnotatorNotes T42	first_annotator_label: C0236036||synonyms: конъюнктивально-слизисто-кожный синдром||||second_annotator_label: C0009255||synonyms: кокс|koks||||third_annotator_label: None||synonyms: ||||bert: C0009255||synonyms: кокс|koks||||
+#3	AnnotatorNotes T45	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C0013182||synonyms: лекарственная гиперсенсибилизация|lekarstvennaia gipersensibilizatsiia|аллергия на лекарственный препарат|аллергическая реакция на препарат|гиперчувствительность к лекарственному препарату||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||
+#4	AnnotatorNotes T19	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0797043||synonyms: альдостерон^2 часа после 25 мг каптоприла через рот:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T6	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C2721611||synonyms: сухой ринит||||third_annotator_label: None||synonyms: ||||bert: C0038559||synonyms: подводная медицина|meditsina podvodnaia|podvodnaia meditsina|медицина подводная||||
+#6	AnnotatorNotes T14	first_annotator_label: C0236036||synonyms: конъюнктивально-слизисто-кожный синдром||||second_annotator_label: C0009255||synonyms: кокс|koks||||third_annotator_label: None||synonyms: ||||bert: C0009255||synonyms: кокс|koks||||
+#7	AnnotatorNotes T41	first_annotator_label: C0236036||synonyms: конъюнктивально-слизисто-кожный синдром||||second_annotator_label: C0009255||synonyms: кокс|koks||||third_annotator_label: None||synonyms: ||||bert: C0009255||synonyms: кокс|koks||||
+#8	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#9	AnnotatorNotes T31	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C3267164||synonyms: алопеция после химиотерапии||||
+#10	AnnotatorNotes T58	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||third_annotator_label: None||synonyms: ||||bert: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||
+#11	AnnotatorNotes T22	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0221423||synonyms: болезнь|заболевание||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||

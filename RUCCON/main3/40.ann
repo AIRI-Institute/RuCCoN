@@ -1,0 +1,283 @@
+T66	Body_location 3276 3279	ЛКА
+T47	Symptom 2225 2235	акроцианоз
+T63	Body_location 3143 3145	ПП
+T128	Body_location 7616 7622	сердца
+T108	Body_location 6369 6371	ЛЖ
+T81	Disease 4556 4567	гипертрофия
+T104	Symptom 5888 5952	Умеренные нарушения процесса реполяризации в миокарде желудочков
+T24	Disease 678 702	Железодефицитная анемия,
+T110	Disease 6758 6794	нарушения диастолической функции МЖП
+T80	Body_location 4551 4553	ЛЖ
+T102	Body_location 5833 5843	желудочков
+T46	Symptom 2202 2223	бледновато-иктеричные
+T64	Body_location 3167 3169	ПЖ
+T28	Disease 728 747	Гепатоспленомегалия
+T50	Symptom 2330 2350	гипертрофии миокарда
+T96	Symptom 5403 5435	систолический шум во всех точках
+T37	Disease 1368 1370	НК
+T100	Symptom 5667 5723	Неспецифические нарушения внутрижелудочкового проведения
+T54	Treatment 2730 2741	фототерапия
+T36	Disease 1339 1366	дыхательная недостаточность
+T18	Disease 507 542	Недостаточность митрального клапана
+T53	Drug 2718 2728	гентамицин
+T5	Body_location 115 132	левого желудочка.
+T101	Body_location 5760 5766	сердца
+T106	Symptom 6048 6147	Нарушение процесса реполяризации в миокарде желудочков с депрессией сегмента ST в V5 при тахикардии
+T123	Drug 7259 7266	трентал
+T86	Body_location 4668 4670	ПЖ
+T125	Drug 7303 7312	мальтофер
+T15	Disease 421 457	Гипоплазия верхушки левого желудочка
+T55	Drug 2743 2749	элькар
+T33	Disease 1111 1119	гестозом
+T45	Symptom 2167 2185	мышечная гипотония
+T60	Body_location 2954 2979	3 группы папиллярных мышц
+T118	Drug 7078 7088	верошпирон
+T67	Disease 3312 3347	изолированная гипоплазия полости ЛЖ
+T56	Drug 2751 2762	верошпирон,
+T3	Body_location 77 94	левого желудочка.
+T6	Disease 133 180	Недостаточность трикуспидального клапана, 1 ст.
+T25	Severity 703 707	1 ст
+T131	Symptom 7889 7898	бледность
+T92	Body_location 5116 5118	ЛЖ
+T77	Disease 4372 4397	Синдром мышечной дистонии
+T70	Body_location 3772 3777	аорты
+T94	Symptom 5370 5379	ритмичные
+T38	Severity 1371 1372	I
+T85	Body_location 4663 4665	ПП
+T9	Disease 232 252	легочная гипертензия
+T95	Symptom 5381 5401	несколько приглушены
+T132	Symptom 7900 7915	потеря сознания
+T69	Body_location 3612 3629	папиллярных мышц,
+T71	Body_location 3821 3823	ПП
+T10	Severity 224 231	Высокая
+T112	Body_location 6906 6923	правого желудочка
+T119	Drug 7102 7111	мальтофер
+T59	Body_location 2927 2929	ЛП
+T88	Disease 4964 5002	кардиомиопатия – некомпактный миокард.
+T12	Disease 312 315	ХСН
+T49	Symptom 2270 2310	приступы цианоза при физической нагрузке
+T122	Drug 7235 7245	верошпирон
+T20	Disease 550 578	Высокая легочная гипертензия
+T11	Disease 254 310	Неспецифическое нарушение внутрижелудочкового проведения
+T35	Disease 1218 1226	гестозом
+T23	Severity 642 661	2А ст, ФК 2 по Ross
+T107	Body_location 6195 6197	ЛЖ
+T31	Symptom 875 906	цианоз носогубного треугольника
+T74	Body_location 4182 4210	левого верхнедолевого бронха
+T84	Body_location 4640 4642	ЛП
+T103	Body_location 5867 5887	и левого предсердия.
+T120	Drug 7160 7167	капотен
+T14	Disease 347 420	Неклассифицируемая кардиомиопатия: некомпактный миокард левого желудочка.
+T93	Body_location 5245 5251	сердца
+T75	Disease 4232 4283	умеренная изолированная гипоплазия левого желудочка
+T62	Body_location 3138 3140	ПЖ
+T129	Disease 7633 7669	гипоплазии верхушки левого желудочка
+T116	Drug 7032 7041	предуктал
+T57	Drug 2763 2779	бифидум-бактерин
+T133	Symptom 7917 7941	подергивания конечностей
+T72	Body_location 3826 3828	ПЖ
+T114	Drug 6968 6975	капотен
+T40	Body_location 1677 1679	ЛЖ
+T34	Disease 1075 1107	фетоплацентарной недостаточности
+T32	Symptom 908 938	одышка при физической нагрузке
+T79	Drug 4459 4469	верошпирон
+T130	Drug 7695 7703	капотена
+T1	Disease 21 54	Неклассифицируемая кардиомиопатия
+T115	Drug 7011 7018	трентал
+T22	Disease 638 641	ХСН
+T87	Body_location 4748 4753	Аорта
+T19	Severity 544 548	3 ст
+T2	Disease 56 94	некомпактный миокард левого желудочка.
+T98	Symptom 5599 5626	Легкая синусовая тахикардия
+T105	Symptom 6007 6021	Ритм синусовый
+T13	Severity 316 335	2А ст, ФК 2 по Ross
+T17	Severity 501 505	1 ст
+T90	Body_location 5055 5057	ЛЖ
+T16	Disease 459 500	Недостаточность трикуспидального клапана,
+T117	Drug 7055 7064	тромбоАСС
+T43	Body_location 2139 2142	ЦНС
+T124	Drug 7280 7289	предуктал
+T113	Body_location 6926 6945	правого предсердия.
+T27	Severity 722 726	1 ст
+T48	Symptom 2237 2268	цианоз носогубного треугольника
+T52	Drug 2706 2716	ампициллин
+T29	Disease 749 780	Дискинезия желчевыводящих путей
+T78	Disease 4399 4420	Анемия легкой степени
+T121	Drug 7213 7223	тромбо АСС
+T30	Symptom 807 831	Приступы потери сознания
+T89	Disease 5003 5029	Фиброэластоз эндокарда МЖП
+T65	Body_location 3184 3186	ЛА
+T42	Disease 1776 1796	туберозным склерозом
+T68	Body_location 3582 3584	ЛЖ
+T76	Disease 4343 4370	Перинатальная энцефалопатия
+T111	Disease 6845 6868	умеренная кардиомегалия
+T51	Body_location 2366 2372	сердца
+T127	Body_location 7484 7490	сердца
+T61	Body_location 3051 3063	Клапан аорты
+T91	Symptom 5083 5115	Нарушение диастолической функции
+T26	Disease 709 721	Тимомегалия,
+T21	Disease 580 636	Неспецифическое нарушение внутрижелудочкового проведения
+T4	Disease 95 131	Гипоплазия верхушки левого желудочка
+T8	Severity 218 222	3 ст
+T83	Disease 4591 4617	повышенная трабекулярность
+T58	Body_location 2867 2869	ЛЖ
+T7	Disease 181 216	Недостаточность митрального клапана
+T109	Body_location 6682 6688	сердца
+T97	Symptom 5460 5475	хордальный писк
+T99	Symptom 5644 5665	отклонение ЭОС вправо
+T39	Disease 1445 1458	синдром Дауна
+T41	Disease 1726 1736	рабдомиома
+T73	Body_location 3843 3845	ЛЖ
+T82	Disease 4569 4589	некомпактный миокард
+T44	Symptom 2149 2165	поза полуфлексии
+T126	Body_location 7432 7434	ЛЖ
+N1	Reference T66 UMLS:CUILESS	коронарная артериограмма
+N2	Reference T47 UMLS:C0221347	акроцианоз
+N3	Reference T63 UMLS:CUILESS	предсердия правого функция
+N4	Reference T128 UMLS:C0018787	сердце
+N5	Reference T108 UMLS:C0080310	сердца желудочка левого функция
+N6	Reference T81 UMLS:C0020564	гипертрофия
+N7	Reference T104 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N8	Reference T24 UMLS:C0162316	железодефицитные анемии
+N9	Reference T110 UMLS:CUILESS	дефект мышечной части межжелудочковой перегородки
+N10	Reference T80 UMLS:C0080310	сердца желудочка левого функция
+N11	Reference T102 UMLS:C0018827	сердца желудочки
+N12	Reference T46 UMLS:CUILESS	бледный вид
+N13	Reference T64 UMLS:C0080311	правый желудочек сердца, функция
+N14	Reference T28 UMLS:C0019214	гепатоспленомегалия
+N15	Reference T50 UMLS:C3495916	гипертрофия миокарда
+N16	Reference T96 UMLS:C0232257	систолический шум
+N17	Reference T37 UMLS:C1392658	сердечная недостаточность
+N18	Reference T100 UMLS:C0264909	нарушение внутрижелудочковой проводимости
+N19	Reference T54 UMLS:C0031765	фототерапия
+N20	Reference T36 UMLS:C0035229	дыхательная недостаточность
+N21	Reference T18 UMLS:C0026266	недостаточность митрального клапана
+N22	Reference T53 UMLS:C0017436	гентамицины
+N23	Reference T5 UMLS:C0149721	увеличение левого желудочка
+N24	Reference T101 UMLS:C0018787	сердце
+N25	Reference T106 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N26	Reference T123 UMLS:C0030899	трентал
+N27	Reference T86 UMLS:C0080311	сердца желудочка правого функция
+N28	Reference T125 UMLS:C0919650	добавки железа
+N29	Reference T15 UMLS:C0152101	гипоплазия левых камер сердца
+N30	Reference T55 UMLS:C0007258	карнитин
+N31	Reference T33 UMLS:C1321782	гестоз
+N32	Reference T45 UMLS:C0026827	мышечная гипотония
+N33	Reference T60 UMLS:C0155713	разрыв папиллярных мышц
+N34	Reference T118 UMLS:C0037982	верошпирон
+N35	Reference T67 UMLS:C0152101	гипокинезия левого желудочка
+N36	Reference T56 UMLS:C0037982	верошпирон
+N37	Reference T3 UMLS:C0080310	сердца желудочка левого функция
+N38	Reference T6 UMLS:C0040961	недостаточность трикуспидального клапана
+N39	Reference T25 UMLS:CUILESS	степень ухудшения бду
+N40	Reference T131 UMLS:C0030232	бледность
+N41	Reference T92 UMLS:C0080310	сердца желудочка левого функция
+N42	Reference T77 UMLS:C0013421	мышечная дистония
+N43	Reference T70 UMLS:C0003483	аорта
+N44	Reference T94 UMLS:C0031084	ритмичность
+N45	Reference T38 UMLS:CUILESS	степень ухудшения бду
+N46	Reference T85 UMLS:C0078996	предсердия правого функция
+N47	Reference T9 UMLS:C0020542	гипертензия, легочная
+N48	Reference T95 UMLS:C0577822	патологические тоны сердца
+N49	Reference T132 UMLS:C0041657	потеря сознания
+N50	Reference T69 UMLS:C0264667	нарушение со стороны папиллярных мышц
+N51	Reference T71 UMLS:C0078996	предсердия правого функция
+N52	Reference T112 UMLS:C0080311	сердца желудочка правого функция
+N53	Reference T119 UMLS:C3537005	добавки железа
+N54	Reference T59 UMLS:C0078995	предсердие левое, функция
+N55	Reference T88 UMLS:C0878544	кардиомиопатии
+N56	Reference T12 UMLS:C0264716	хроническая сердечная недостаточность
+N57	Reference T49 UMLS:C1737254	усиление цианоза
+N58	Reference T122 UMLS:C0037982	верошпирон
+N59	Reference T20 UMLS:C0020542	гипертензия легочная
+N60	Reference T11 UMLS:C0264909	нарушение внутрижелудочковой проводимости
+N61	Reference T35 UMLS:C1321782	гестоз
+N62	Reference T107 UMLS:C0080310	сердца желудочка левого функция
+N63	Reference T31 UMLS:C1262254	цианоз носогубного треугольника
+N64	Reference T74 UMLS:C0006255	бронхи
+N65	Reference T84 UMLS:C0078995	предсердия левого функция
+N66	Reference T103 UMLS:C0078995	предсердия левого функция
+N67	Reference T120 UMLS:C0006938	каптоприл
+N68	Reference T14 UMLS:C0878544	кардиомиопатии
+N69	Reference T93 UMLS:C0018799	сердца болезни
+N70	Reference T75 UMLS:C0152101	гипоплазия левых камер сердца
+N71	Reference T62 UMLS:C0080311	правый желудочек сердца, функция
+N72	Reference T129 UMLS:C0152101	гипоплазия левых камер сердца
+N73	Reference T116 UMLS:C0041037	триметазидин
+N74	Reference T57 UMLS:C0005380	бифидобактерии
+N75	Reference T133 UMLS:C0858724	подергивание конечностей
+N76	Reference T72 UMLS:UNKNOWN	правый желудочек сердца, функция
+N77	Reference T114 UMLS:C0006938	каптоприл
+N78	Reference T40 UMLS:C0080310	сердца желудочка левого функция
+N79	Reference T34 UMLS:C0887803	фетоплацентарное кровообращение
+N80	Reference T32 UMLS:C0231807	одышка при физической нагрузке
+N81	Reference T79 UMLS:C0037982	верошпирон
+N82	Reference T130 UMLS:C0006938	каптоприл
+N83	Reference T1 UMLS:C2363985	кардиомиопатия (smq)
+N84	Reference T115 UMLS:C0030899	трентал
+N85	Reference T22 UMLS:C0264716	хроническая сердечная недостаточность
+N86	Reference T87 UMLS:C0003483	аорта
+N87	Reference T19 UMLS:CUILESS	степень ухудшения бду
+N88	Reference T2 UMLS:C0878544	болезни миокарда
+N89	Reference T98 UMLS:C0039239	синусовая тахикардия
+N90	Reference T105 UMLS:C0232201	синусовый ритм
+N91	Reference T17 UMLS:CUILESS	степень ухудшения бду
+N92	Reference T90 UMLS:C0080310	сердца желудочка левого функция
+N93	Reference T16 UMLS:C0040961	недостаточность трикуспидального клапана
+N94	Reference T117 UMLS:C0004057	ацетилсалициловая кислота
+N95	Reference T43 UMLS:C3714787	нервная система центральная
+N96	Reference T124 UMLS:C0041037	триметазидин
+N97	Reference T113 UMLS:C0078996	правого предсердия функция
+N98	Reference T27 UMLS:CUILESS	степень ухудшения бду
+N99	Reference T48 UMLS:C1262254	цианоз носогубного треугольника
+N100	Reference T52 UMLS:C0002680	ампициллин
+N101	Reference T29 UMLS:C0005416	дискинезия желчевыводящих путей
+N102	Reference T78 UMLS:C0002871	анемия
+N103	Reference T121 UMLS:C0004057	ацетилсалициловая кислота
+N104	Reference T30 UMLS:C4087400	временная потеря сознания
+N105	Reference T89 UMLS:C0014117	эндокарда фиброэластоз
+N106	Reference T65 UMLS:C0034052	легочная артерия
+N107	Reference T42 UMLS:C0041341	туберозный склероз
+N108	Reference T68 UMLS:C0080310	сердца желудочка левого функция
+N109	Reference T76 UMLS:C0085584	энцефалопатия
+N110	Reference T111 UMLS:C0018800	кардиомегалия, бду
+N111	Reference T51 UMLS:C0018787	сердце
+N112	Reference T127 UMLS:C0018787	сердце
+N113	Reference T61 UMLS:C0003501	клапан аорты
+N114	Reference T91 UMLS:C0520863	диастолическая дисфункция
+N115	Reference T26 UMLS:C0040071	тимэктомия
+N116	Reference T21 UMLS:C0264909	нарушение внутрижелудочковой проводимости
+N117	Reference T4 UMLS:C0152101	гипоплазия левых камер сердца
+N118	Reference T83 UMLS:C0040573	трабекулярная сеть
+N119	Reference T58 UMLS:C0080310	сердца желудочка левого функция
+N120	Reference T7 UMLS:C0026266	недостаточность митрального клапана
+N121	Reference T109 UMLS:C0018787	сердце
+N122	Reference T97 UMLS:CUILESS	патологические сердечные тоны
+N123	Reference T99 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N124	Reference T39 UMLS:C0013080	синдром дауна
+N125	Reference T41 UMLS:C0035411	рабдомиома
+N126	Reference T73 UMLS:C0080310	сердца желудочка левого функция
+N127	Reference T82 UMLS:C0878544	болезни миокарда
+N128	Reference T44 UMLS:C1262869	поза
+N129	Reference T126 UMLS:C0080310	сердца желудочка левого функция
+#1	AnnotatorNotes T66	first_annotator_label: C0085532||synonyms: коронарная ангиография|koronarnaia angiografiia|angiografiia koronarnaia|коронарная ангиограмма|коронарная артериограмма||||second_annotator_label: C0002125||synonyms: лук|luk||||third_annotator_label: None||synonyms: ||||bert: C0002125||synonyms: лук|luk||||
+#2	AnnotatorNotes T63	first_annotator_label: C0078996||synonyms: предсердия правого функция|predserdie pravoe, funktsiia|pravogo predserdiia funktsiia|predserdiia pravogo funktsiia|правого предсердия функция||||second_annotator_label: C0201900||synonyms: предсердный натрийуретический пептид|пнп||||third_annotator_label: C0078995||synonyms: предсердия левого функция|predserdie levoe, funktsiia|levogo predserdiia funktsiia|predserdiia levogo funktsiia|левого предсердия функция||||bert: C0201900||synonyms: предсердный натрийуретический пептид|пнп||||
+#3	AnnotatorNotes T110	first_annotator_label: C0685707||synonyms: дефект мышечной части межжелудочковой перегородки||||second_annotator_label: C0277889||synonyms: повышение диастолического артериального давления|повышение дад|повышение диастолического ад|высокое диастолическое артериальное давление|высокое диастолическое давление||||third_annotator_label: None||synonyms: ||||bert: C0277889||synonyms: повышение диастолического артериального давления|повышение дад|повышение диастолического ад|высокое диастолическое артериальное давление|высокое диастолическое давление||||
+#4	AnnotatorNotes T46	first_annotator_label: C0857342||synonyms: бледный вид||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C0241137||synonyms: бледная кожа|бледность кожи||||bert: C1504402||synonyms: бактериальный ирит||||
+#5	AnnotatorNotes T37	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#6	AnnotatorNotes T125	first_annotator_label: C0919650||synonyms: добавки железа||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0015860||synonyms: железа трехвалентного соединения|zheleza trekhvalentnogo soedineniia|zheleza trekhvalentnogo lekarstvennye preparaty|железа трехвалентного лекарственные препараты|zheleza iii soedineniia||||bert: C0024653||synonyms: мальта|mal'ta||||
+#7	AnnotatorNotes T67	first_annotator_label: C0920012||synonyms: гипокинезия левого желудочка||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0152101||synonyms: гипопластический синдром левых отделов сердца|гипоплазия левых камер сердца|gipoplasticheskii sindrom levykh otdelov serdtsa|гипопластический левый сердечный синдром|gipoplasticheskii levyi serdechnyi sindrom||||bert: C0266425||synonyms: гипоплазия яичка||||
+#8	AnnotatorNotes T25	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||
+#9	AnnotatorNotes T38	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242754||synonyms: юпитер|iupiter|ganimed|io|kallisto||||bert: C0242754||synonyms: юпитер|iupiter|ganimed|io|kallisto||||
+#10	AnnotatorNotes T95	first_annotator_label: C0577822||synonyms: патологические сердечные тоны|патологические тоны сердца||||second_annotator_label: C0034438||synonyms: близнецы, пять|bliznetsy, piat'||||third_annotator_label: None||synonyms: ||||bert: C0034438||synonyms: близнецы, пять|bliznetsy, piat'||||
+#11	AnnotatorNotes T119	first_annotator_label: C3537005||synonyms: добавки железа||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0015860||synonyms: железа трехвалентного соединения|zheleza trekhvalentnogo soedineniia|zheleza trekhvalentnogo lekarstvennye preparaty|железа трехвалентного лекарственные препараты|zheleza iii soedineniia||||bert: C0024653||synonyms: мальта|mal'ta||||
+#12	AnnotatorNotes T72	first_annotator_label: C0080311||synonyms: сердца желудочка правого функция|serdtsa zheludochka pravogo funktsiia|pravozheludochkovaia funktsiia serdtsa|pravozheludochkovaia funktsiia|pravyi zheludochek serdtsa, funktsiia||||second_annotator_label: C5243553||synonyms: системный правый желудочек||||third_annotator_label: C0078996||synonyms: предсердия правого функция|predserdie pravoe, funktsiia|pravogo predserdiia funktsiia|predserdiia pravogo funktsiia|правого предсердия функция||||bert: C0392535||synonyms: аборт искусственный|abort iskusstvennyi|embriotomiia|искусственный аборт, бду|искусственный аборт||||
+#13	AnnotatorNotes T1	first_annotator_label: C2363985||synonyms: кардиомиопатия (smq)||||second_annotator_label: C0877438||synonyms: кардиомиопатия неишемического происхождения|неишемическая кардиомиопатия||||third_annotator_label: C0878544||synonyms: кардиомиопатии|miokarda bolezni|kardiomiopatii|miokardial'naia bolezn' pervichnaia|miokardial'naia bolezn' vtorichnaia||||bert: C0877438||synonyms: кардиомиопатия неишемического происхождения|неишемическая кардиомиопатия||||
+#14	AnnotatorNotes T19	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0209738||synonyms: ламивудин|lamivudin|2',3'-дидезокси-3'-тиацитидин|3tc|2',3'-didezoksi-3'-tiatsitidin||||bert: C0209738||synonyms: ламивудин|lamivudin|2',3'-дидезокси-3'-тиацитидин|3tc|2',3'-didezoksi-3'-tiatsitidin||||
+#15	AnnotatorNotes T2	first_annotator_label: C3241958||synonyms: болезни миокарда|патология миокарда||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0878544||synonyms: кардиомиопатии|miokarda bolezni|kardiomiopatii|miokardial'naia bolezn' pervichnaia|miokardial'naia bolezn' vtorichnaia||||bert: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||
+#16	AnnotatorNotes T17	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||
+#17	AnnotatorNotes T27	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||
+#18	AnnotatorNotes T30	first_annotator_label: C4087400||synonyms: временная потеря сознания||||second_annotator_label: C0312422||synonyms: кратковременное состояние потери сознания|потеря сознания|кратковременная потеря сознания|кратковременная потеря сознания (не амнезия)|потеря сознания (не амнезия)||||third_annotator_label: C0039070||synonyms: обморок|obmorok|синкопальные состояния|sinkopal'nye sostoianiia|poteria soznaniia||||bert: C0036572||synonyms: припадки|pripadki|sudorogi|paroksizmy|pristupy bolezni||||
+#19	AnnotatorNotes T97	first_annotator_label: C0577822||synonyms: патологические сердечные тоны|патологические тоны сердца||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0018808||synonyms: сердца шумы|serdtsa shumy|шум в сердце|сердечный шум, бду|сердечный шум||||bert: C0021254||synonyms: индриевые|indriidy|indri|хохлатые индри|khokhlatye indri||||
+#20	AnnotatorNotes T82	first_annotator_label: C3241958||synonyms: болезни миокарда|патология миокарда||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0878544||synonyms: кардиомиопатии|miokarda bolezni|kardiomiopatii|miokardial'naia bolezn' pervichnaia|miokardial'naia bolezn' vtorichnaia||||bert: C1442837||synonyms: некроз миокарда|очаги некроза миокарда|миокардиальный некроз||||
+#21	AnnotatorNotes T44	first_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||second_annotator_label: C0155512||synonyms: фистула полукружного канала||||third_annotator_label: None||synonyms: ||||bert: C0155512||synonyms: фистула полукружного канала||||

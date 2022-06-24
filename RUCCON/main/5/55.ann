@@ -1,0 +1,108 @@
+T11	Disease 263 301	Хронический компенсированный тонзиллит
+T30	Symptom 1305 1333	Приступы затруднения дыхания
+T29	Drug 1259 1268	фликсотид
+T39	Symptom 1649 1669	дыхание везикулярное
+T27	Treatment 1233 1276	В базисной терапии интал, фликсотид курсами
+T34	Body_location 1550 1564	Кожные покровы
+T5	Disease 124 185	Искривление носовой перегородки с нарушением носового дыхания
+T38	Body_location 1640 1648	В лёгких
+T12	Disease 303 329	Хронический гастродуоденит
+T35	Symptom 1565 1587	бледно-розовые, чистые
+T40	Symptom 1671 1689	с жестким оттенком
+T45	Symptom 1766 1781	безболезненный.
+T50	Disease 1124 1154	риноконъюнктивального синдрома
+T49	Disease 924 946	атопического дерматита
+T4	Disease 96 122	Холинергическая крапивница
+T43	Body_location 1738 1743	Живот
+T21	Treatment 948 1008	В терапии антигистаминные препараты, местные средства, диета
+T14	Disease 352 380	Дисфункция билиарного тракта
+T37	Symptom 1602 1639	Носовое дыхание несколько затруднено.
+T25	Disease 1190 1208	бронхиальная астма
+T26	Severity 1209 1231	среднетяжелого течения
+T16	Body_location 402 422	поджелудочной железы
+T44	Symptom 1744 1750	мягкий
+T9	Severity 216 220	2 ст
+T28	Drug 1252 1257	интал
+T33	Drug 1460 1469	вентолина
+T32	Treatment 1438 1469	Купируются ингаляцией вентолина
+T13	Disease 331 350	Дистальный эзофагит
+T2	Severity 48 84	среднетяжелое персистирующее течение
+T18	Symptom 516 527	покраснение
+T31	Symptom 1336 1359	малопродуктивного кашля
+T7	Disease 187 205	Вазомоторный ринит
+T3	Course 86 94	ремиссия
+T41	Symptom 1691 1697	хрипов
+T19	Body_location 528 543	кожных покровов
+T15	Disease 382 422	Вторичные изменения поджелудочной железы
+T42	Symptom 1703 1736	Сердечные тоны звучные, ритмичные
+T47	Symptom 1846 1874	Стул регулярный, оформленный
+T8	Disease 207 215	Аденоиды
+T10	Disease 222 261	Хронический верхнечелюстной риносинусит
+T23	Symptom 1099 1122	бронхиальной обструкции
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T6	Body_location 136 155	носовой перегородки
+T17	Symptom 483 514	эпизоды малопродуктивного кашля
+T20	Symptom 913 946	проявления атопического дерматита
+T36	Symptom 1589 1600	Зев спокоен
+T46	Symptom 1833 1840	дизурии
+T22	Disease 1056 1059	ОРИ
+T48	Symptom 1876 1896	Менингеальных знаков
+N1	Reference T11 UMLS:C0149517	хронический тонзиллит
+N2	Reference T30 UMLS:C0424332	приступ задержки дыхания
+N3	Reference T29 UMLS:C0082607	фликсотид
+N4	Reference T39 UMLS:C0231855	нормальная аускультативная картина в легких
+N5	Reference T27 UMLS:C0013154	терапия глюкокортикостероидами
+N6	Reference T34 UMLS:C1123023	кожа
+N7	Reference T5 UMLS:C0549397	искривление перегородки носа
+N8	Reference T38 UMLS:C0024109	легкие
+N9	Reference T12 UMLS:C4728231	хронический гастродуоденит
+N10	Reference T35 UMLS:CUILESS	норма рабочая
+N11	Reference T40 UMLS:C3666016	жесткое дыхание при аускультации легких
+N12	Reference T45 UMLS:C0857027	болезненность
+N13	Reference T50 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N14	Reference T49 UMLS:C0011615	атопический дерматит
+N15	Reference T4 UMLS:C0152230	холинергическая крапивница
+N16	Reference T43 UMLS:C0000726	живот
+N17	Reference T21 UMLS:UNKNOWN	антигистаминная терапия
+N18	Reference T14 UMLS:C0005424	желчных путей болезни
+N19	Reference T37 UMLS:C0027424	затруднение дыхания
+N20	Reference T25 UMLS:C0004096	бронхиальная астма
+N21	Reference T26 UMLS:CUILESS	степень ухудшения бду
+N22	Reference T16 UMLS:C0030274	поджелудочная железа
+N23	Reference T44 UMLS:C0026390	мягкокожие
+N24	Reference T28 UMLS:C0012694	интал
+N25	Reference T33 UMLS:C0001927	сальбутамол
+N26	Reference T32 UMLS:C0021459	введение лекарств ингаляционное
+N27	Reference T13 UMLS:C0267072	эзофагеальная дисфагия
+N28	Reference T2 UMLS:CUILESS	среднеатлантический регион
+N29	Reference T18 UMLS:C0332575	покраснение
+N30	Reference T31 UMLS:C0850149	кашель, непродуктивный
+N31	Reference T7 UMLS:C0035460	вазомоторный ринит
+N32	Reference T3 UMLS:C3888824	ремиссия не достигнута
+N33	Reference T41 UMLS:C3887661	хрип
+N34	Reference T19 UMLS:C1123023	кожа
+N35	Reference T15 UMLS:C0030286	поджелудочной железы болезни
+N36	Reference T42 UMLS:C0018810	сердечный ритм
+N37	Reference T47 UMLS:CUILESS	мягкий стул
+N38	Reference T8 UMLS:C0001428	аденоиды
+N39	Reference T10 UMLS:C4728125	острый аллергический риносинусит
+N40	Reference T23 UMLS:C0221725	бронхиальная обструкция
+N41	Reference T1 UMLS:C0004096	астма бронхиальная
+N42	Reference T6 UMLS:C0027432	носа перегородка
+N43	Reference T17 UMLS:C0850149	кашель, непродуктивный
+N44	Reference T20 UMLS:C5243973	обострение атопического дерматита
+N45	Reference T36 UMLS:C0033771	зудящая сыпь
+N46	Reference T46 UMLS:C0013428	дизурия
+N47	Reference T22 UMLS:C0035243	респираторные инфекции
+N48	Reference T48 UMLS:C0025287	менингеальные знаки
+#1	AnnotatorNotes T39	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#2	AnnotatorNotes T27	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0853370||synonyms: средства фитотерапии баха||||
+#3	AnnotatorNotes T35	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0151908||synonyms: сухая кожа|кожа, сухая||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0999507||synonyms: alouatta caraya|cherno-zolotye revuny|черный ревун|revun chernyi|ревун черный парагвайский||||
+#4	AnnotatorNotes T40	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#5	AnnotatorNotes T21	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0854602||synonyms: местная антибактериальная терапия||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#6	AnnotatorNotes T14	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C4552284||synonyms: гипофункция желчного пузыря||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#7	AnnotatorNotes T37	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0003578||synonyms: апноэ|apnoe|отсутствие дыхания||||
+#8	AnnotatorNotes T26	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#9	AnnotatorNotes T32	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0042587||synonyms: везикулярного стоматита индиана вирус|vezikuliarnogo stomatita-indiana virus|vezikuliarnogo stomatita virus|vs-i virus|vs-i вирус||||
+#10	AnnotatorNotes T2	first_annotator_label: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#11	AnnotatorNotes T47	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||

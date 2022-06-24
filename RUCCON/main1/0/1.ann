@@ -1,0 +1,139 @@
+T42	Drug 1791 1799	Сингуляр
+T39	Drug 1897 1909	(сальбутамол
+T49	Treatment 2135 2216	ингаляции лазолвана в растворе 2 мл 3 раза в день (не позднее 18.30) на 5-7 дней.
+T55	Drug 2323 2332	маримером
+T19	Treatment 742 758	Физиомер х 3 р/д
+T1	Disease 40 59	Аллергический ринит
+T4	Treatment 122 286	Ежедневно орошать слизистую оболочку полости носа солевыми растворами: Физиомер (с 2-х недель и старше), Маримар, Аква-марис, Аквалор софт и т.д.) х 3-4 раза в день
+T28	Drug 787 793	Ксизал
+T44	Disease 1997 2000	ОРИ
+T43	Drug 1733 1740	Серетид
+T27	Drug 760 768	Назонекс
+T10	Treatment 483 540	Гексорал спрей орошать полость рта х 2 раза в день 5 дней
+T24	Drug 667 674	Серетид
+T5	Body_location 140 171	слизистую оболочку полости носа
+T29	Drug 817 831	Гексорал спрей
+T30	Drug 869 932	АСИТ с аллергенами пыльцы деревьев (береза, дуб, лещина, ольха)
+T34	Treatment 1791 1816	Сингуляр 5 мг по 1т 1 р/д
+T47	Drug 2040 2050	пульмикорт
+T51	Treatment 2220 2246	Ксизал по 1т. 1 раз в день
+T11	Drug 483 497	Гексорал спрей
+T58	Drug 2363 2371	Назонекс
+T16	Body_location 416 419	рот
+T14	Treatment 290 363	Полоскать рот: морская соль (аптечная) 1 дес ложка на 300 мл горячей воды
+T32	Treatment 1529 1580	СИТ с пыльцевыми аллергенами сублингвально по схеме
+T59	Treatment 2518 2560	(назонекс (авамис) 1 раз в день 3 недели).
+T7	Drug 227 234	Маримар
+T46	Drug 2019 2027	беродуал
+T38	Drug 1888 1896	вентолин
+T6	Drug 193 201	Физиомер
+T26	Drug 742 750	Физиомер
+T21	Treatment 787 815	Ксизал 1 таб. х 1 раз в день
+T20	Treatment 760 785	Назонекс по1 инг. х 1 р/д
+T37	Symptom 1853 1874	затрудненного дыхания
+T9	Drug 248 260	Аквалор софт
+T48	Symptom 2102 2125	малопродуктивного кашля
+T62	Treatment 2297 2347	Туалет носа с физиомером (маримером) 3 раза в день
+T33	Treatment 1733 1774	Серетид 100/50 мкг по 1 инг. 2 раза в ден
+T36	Symptom 1836 1851	приступах кашля
+T41	Treatment 1888 1969	вентолин (сальбутамол или саламол) по 2 ингаляции через спейсер до 4-х раз в день
+T35	Treatment 1599 1700	Поддерживающая доза аллергена в разведении 1:10 10 капель (0.5 мл) 1 раз в неделю до периода цветения
+T54	Drug 2311 2321	физиомером
+T13	Body_location 300 303	рот
+T25	Drug 702 710	Сингуляр
+T17	Treatment 667 700	Серетид 100/50 мкг по 1 инг 2 р/д
+T57	Treatment 2363 2410	Назонекс по 1 инст. 1 р/д продолжить 1,5 недели
+T15	Drug 305 328	морская соль (аптечная)
+T61	Drug 2529 2535	авамис
+T60	Drug 2519 2527	назонекс
+T23	Treatment 869 1008	АСИТ с аллергенами пыльцы деревьев (береза, дуб, лещина, ольха) по классической схеме сублингвальным методом введения до разведения 1:1000.
+T56	Body_location 2304 2308	носа
+T50	Drug 2145 2154	лазолвана
+T8	Drug 236 246	Аква-марис
+T40	Drug 1914 1921	саламол
+T52	Drug 2220 2226	Ксизал
+T12	Body_location 506 517	полость рта
+T45	Treatment 2001 2082	через небулайзер: беродуал 14 капель + пульмикорт 500 мкг 2 раза в день на 7 дней
+T31	Drug 1535 1557	пыльцевыми аллергенами
+T2	Severity 61 81	персистирующая форма
+T18	Treatment 702 740	Сингуляр 5 мг по 1 таб. х 1 раз в день
+T3	Disease 83 103	Хронический фарингит
+T22	Treatment 817 856	Гексорал спрей х 3 раза в день (5 дней)
+N1	Reference T42 UMLS:C0595726	лейкотриена антагонисты
+N2	Reference T39 UMLS:C0001927	сальбутамол
+N3	Reference T49 UMLS:C0001559	введение лекарств ингаляционное
+N4	Reference T55 UMLS:C0036499	вода морская
+N5	Reference T19 UMLS:C2350442	промывание носа
+N6	Reference T1 UMLS:C2607914	аллергический ринит
+N7	Reference T4 UMLS:C2350442	промывание носа
+N8	Reference T28 UMLS:C0055147	цетиризин
+N9	Reference T44 UMLS:C0035243	респираторные инфекции
+N10	Reference T43 UMLS:C0939232	серетид
+N11	Reference T27 UMLS:C0066700	назонекс
+N12	Reference T10 UMLS:CUILESS	антисептики
+N13	Reference T24 UMLS:C0939232	серетид
+N14	Reference T5 UMLS:C0027428	носа слизистая оболочка
+N15	Reference T29 UMLS:C0019468	гексетидин
+N16	Reference T30 UMLS:C0178702	аллергены растительные
+N17	Reference T34 UMLS:CUILESS	терапевтическая концентрация бронходилататора, бду
+N18	Reference T47 UMLS:C0054201	будесонид
+N19	Reference T51 UMLS:C1504374	антигистаминная терапия
+N20	Reference T11 UMLS:C0019468	гексетидин
+N21	Reference T58 UMLS:C0066700	назонекс
+N22	Reference T16 UMLS:C0226896	ротовая полость
+N23	Reference T14 UMLS:C1095959	солевое полоскание
+N24	Reference T32 UMLS:C0178702	иммунотерапия аллергенами
+N25	Reference T59 UMLS:C0744425	терапия глюкокортикостероидами
+N26	Reference T7 UMLS:C0036499	вода морская
+N27	Reference T46 UMLS:C0015840	фенотерол
+N28	Reference T38 UMLS:C0001927	сальбутамол
+N29	Reference T6 UMLS:C0036499	вода морская
+N30	Reference T26 UMLS:C0036499	вода морская
+N31	Reference T21 UMLS:C0013154	антигистаминная терапия
+N32	Reference T20 UMLS:C0744425	терапия глюкокортикостероидами
+N33	Reference T37 UMLS:C0553668	затруднение дыхания
+N34	Reference T9 UMLS:C0036499	вода морская
+N35	Reference T48 UMLS:C0850149	кашель, непродуктивный
+N36	Reference T62 UMLS:C2350442	промывание носа
+N37	Reference T33 UMLS:C0013154	терапевтическая концентрация бронходилататора, бду
+N38	Reference T36 UMLS:C0742857	острый кашель
+N39	Reference T41 UMLS:C0001559	введение лекарств ингаляционное
+N40	Reference T35 UMLS:C0178702	десенсибилизация иммунологическая
+N41	Reference T54 UMLS:C0036499	вода морская
+N42	Reference T13 UMLS:C0226896	ротовая полость
+N43	Reference T25 UMLS:C0595726	рецепторов лейкотриена антагонисты
+N44	Reference T17 UMLS:CUILESS	введение лекарств ингаляционное
+N45	Reference T57 UMLS:C0744425	терапия глюкокортикостероидами
+N46	Reference T15 UMLS:C0036499	вода морская
+N47	Reference T61 UMLS:C0082607	флутиказон
+N48	Reference T60 UMLS:C0066700	назонекс
+N49	Reference T23 UMLS:C0178702	иммунотерапия аллергенами
+N50	Reference T56 UMLS:C0028429	нос
+N51	Reference T50 UMLS:C0002421	амброксол
+N52	Reference T8 UMLS:C0036499	вода морская
+N53	Reference T40 UMLS:C0001927	сальбутамол
+N54	Reference T52 UMLS:C0055147	цетиризин
+N55	Reference T12 UMLS:C0226896	ротовая полость
+N56	Reference T45 UMLS:C0013154	введение лекарств ингаляционное
+N57	Reference T31 UMLS:C0018621	аллергия на пыльцу
+N58	Reference T2 UMLS:CUILESS	хронический ринит
+N59	Reference T18 UMLS:C0459914	терапевтическая концентрация бронходилататора, бду
+N60	Reference T3 UMLS:C0155825	хронический фарингит
+N61	Reference T22 UMLS:C0003205	антисептики
+#1	AnnotatorNotes T4	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0206289||synonyms: носовая промывная жидкость|nosovaia promyvnaia zhidkost'|nosa promyvanie|носа промывание||||bert: C0860457||synonyms: волдырь на месте солнечного ожога||||
+#2	AnnotatorNotes T10	first_annotator_label: C0003205||synonyms: противоинфекционные средства локальные|antisepticheskie sredstva|antiseptiki|protivoinfektsionnye sredstva lokal'nye|protivoinfektsionnye sredstva mestnye||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0001566||synonyms: введение лекарств местное|vvedenie lekarstv mestnoe|lekarstv vvedenie mestnoe|mestnoe vvedenie lekarstv|лекарств введение местное||||bert: C2360464||synonyms: глюкоза^2.5 часа после дозы фруктозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#3	AnnotatorNotes T30	first_annotator_label: C1567994||synonyms: антигены растительные|аллергены растительные|растений антигены|antigeny rastitel'nye|allergeny rastitel'nye||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#4	AnnotatorNotes T34	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2926269||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T51	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0004420||synonyms: герпесвирус 1 кур|gerpesvirus 1 kur|gerpesvirus 1 (al'fa) kur|gerpesvirus 1 tsypliat|laringotrakheita infektsionnogo ptits virus||||
+#6	AnnotatorNotes T32	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C3658366||synonyms: сублингвальная иммунотерапия|immunoterapiia pod"iazychnaia|иммунотерапия подъязычная|sublingval'naia immunoterapiia||||bert: C0263687||synonyms: пиогенный артрит, поражающий голень||||
+#7	AnnotatorNotes T59	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0001489||synonyms: aviadenovirus|adenovirus 1 kur|adenovirusy ptits|celo virus|ptits adenovirusy||||
+#8	AnnotatorNotes T21	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0006914||synonyms: гонорар за 1 пациента|gonorar za 1 patsienta||||
+#9	AnnotatorNotes T20	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0482488||synonyms: кортизол^1 минута после 1 мкг/кг крг внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#10	AnnotatorNotes T33	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1262056||synonyms: концентрация противоастматического лекарственного препарата||||bert: C0804089||synonyms: гастрин^50 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T17	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1262056||synonyms: концентрация противоастматического лекарственного препарата||||bert: C0804089||synonyms: гастрин^50 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#12	AnnotatorNotes T57	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1952835||synonyms: кортизол^1.5 часа после 1 мкг/кг крг внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#13	AnnotatorNotes T23	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0079612||synonyms: иммунотерапия активная|immunoterapiia aktivnaia|vaktsinoterapiia|вакцинотерапия||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#14	AnnotatorNotes T45	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0880931||synonyms: туберкулёз реакция папула^2 дня после дозы туберкулина млекопитающих внутрикожно:диам:тчкврм:кожа:колич||||
+#15	AnnotatorNotes T2	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0853917||synonyms: ринит обостренный, бду|обострение ринита||||third_annotator_label: C0333241||synonyms: постоянный отек|хронический отек||||bert: C0152165||synonyms: персистирующая рвота||||
+#16	AnnotatorNotes T18	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0797050||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#17	AnnotatorNotes T22	first_annotator_label: C0003205||synonyms: противоинфекционные средства локальные|antisepticheskie sredstva|antiseptiki|protivoinfektsionnye sredstva lokal'nye|protivoinfektsionnye sredstva mestnye||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0482512||synonyms: кортизол^до 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||bert: C0482512||synonyms: кортизол^до 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||

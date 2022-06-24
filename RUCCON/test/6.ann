@@ -1,0 +1,147 @@
+T26	Disease 1341 1360	аллергический ринит
+T25	Disease 1331 1339	поллиноз
+T44	Body_location 2274 2281	гортани
+T22	Symptom 1076 1107	эпизоды бронхиальной обструкции
+T39	Drug 2102 2111	беротеком
+T12	Body_location 831 837	кожные
+T1	Disease 102 139	Бронхиальная астма, атопическая форма
+T13	Symptom 901 931	эпизод бронхиальной обструкции
+T60	Body_location 2670 2675	Живот
+T14	Severity 1307 1329	среднетяжелого течения
+T64	Symptom 2808 2828	Менингеальных знаков
+T9	Symptom 404 510	затруднения дыхания на фоне физической нагрузки, стресса, респираторных инфекций и в весенне-летний период
+T3	Course 267 281	вне обострения
+T10	Symptom 564 596	протекавшей с угрозой прерывания
+T27	Disease 1362 1378	пищевая аллергия
+T37	Treatment 2065 2123	купируются ингаляциями с беродуалом, беротеком, вентолином
+T55	Symptom 2623 2629	хрипов
+T65	Severity 141 162	среднетяжелое течение
+T23	Symptom 1561 1579	симптомы поллиноза
+T42	Symptom 2269 2281	отек гортани
+T47	Symptom 2482 2496	бледно-розовые
+T35	Treatment 1838 1907	дозировку базисной терапии удается снизить до 50/25 мкг 2 раза в день
+T49	Symptom 2510 2517	спокоен
+T16	Drug 1040 1051	преднизолон
+T19	Drug 1148 1158	беродуалом
+T31	Drug 1461 1483	пыльцевыми аллергенами
+T38	Drug 2090 2100	беродуалом
+T68	Disease 2269 2273	отек
+T17	Drug 1053 1060	беротек
+T46	Disease 2411 2419	поллиноз
+T59	Symptom 2676 2682	мягкий
+T53	Body_location 2557 2565	В лёгких
+T54	Symptom 2566 2621	дыхание везикулярное с жестким оттенком (выдох удлинен)
+T57	Symptom 2659 2668	ритмичные
+T61	Symptom 2684 2712	при пальпации безболезненный
+T63	Symptom 2765 2772	дизурии
+T67	Course 1580 1603	значительно уменьшились
+T20	Drug 1160 1169	беротеком
+T5	Disease 230 249	Аллергический ринит
+T28	Treatment 1380 1431	В базисной терапии серетид 125/25 мкг 2 раза в день
+T32	Disease 1570 1579	поллиноза
+T15	Symptom 952 985	по поводу бронхиальной обструкции
+T50	Body_location 2506 2509	Зев
+T69	Symptom 2778 2806	Стул регулярный, оформленный
+T24	Disease 1288 1306	бронхиальная астма
+T51	Symptom 2519 2555	Носовое дыхание несколько затруднено
+T56	Symptom 2645 2657	тоны звучные
+T34	Drug 1724 1784	пыльцевыми аллергенами ольхи, березы, лещины, полыни, лебеды
+T40	Drug 2113 2123	вентолином
+T11	Symptom 831 853	кожные признаки атопии
+T7	Disease 847 853	атопии
+T48	Body_location 2467 2481	Кожные покровы
+T6	Disease 190 218	риноконъюнктивальный синдром
+T41	Disease 2159 2170	отек Квинке
+T62	Body_location 2714 2733	Мочеполовая система
+T70	Severity 251 265	персистирующий
+T58	Body_location 2635 2644	Сердечные
+T66	Course 220 228	ремиссия
+T29	Drug 1399 1406	серетид
+T2	Disease 180 188	Поллиноз
+T45	Symptom 2498 2504	чистые
+T30	Treatment 1449 1516	курс АСИТ с пыльцевыми аллергенами сублингвальным способом введения
+T52	Body_location 2519 2526	Носовое
+T18	Treatment 1010 1060	получал терапию в реанимации (преднизолон, беротек
+T21	Treatment 1134 1169	ингаляциями с беродуалом, беротеком
+T33	Treatment 1674 1784	второй курс АСИТ сублингвальным способом введения пыльцевыми аллергенами ольхи, березы, лещины, полыни, лебеды
+T43	Symptom 2283 2311	приступы затруднения дыхания
+T8	Symptom 362 393	эпизоды малопродуктивного кашля
+T4	Disease 283 299	Пищевая аллергия
+T36	Symptom 1982 2010	приступы затруднения дыхания
+N1	Reference T26 UMLS:C2607914	аллергический ринит
+N2	Reference T25 UMLS:C0018621	поллиноз
+N3	Reference T44 UMLS:C0023078	гортань
+N4	Reference T22 UMLS:C0221725	бронхиальная обструкция
+N5	Reference T39 UMLS:C0015840	беротек
+N6	Reference T12 UMLS:C1123023	кожа
+N7	Reference T1 UMLS:C0004096	астма бронхиальная
+N8	Reference T13 UMLS:C0221725	бронхиальная обструкция
+N9	Reference T60 UMLS:C0000726	живот
+N10	Reference T64 UMLS:C0025287	менингеальные знаки
+N11	Reference T9 UMLS:C0013404	дыхания тесты
+N12	Reference T3 UMLS:C0242793	период ремиссии
+N13	Reference T10 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N14	Reference T27 UMLS:C0149696	пищевая аллергия
+N15	Reference T37 UMLS:C0106269	хлорид-бикарбонатов антипортеры
+N16	Reference T55 UMLS:C3887661	хрип
+N17	Reference T23 UMLS:C0018621	поллиноз
+N18	Reference T42 UMLS:C0023052	отек гортани
+N19	Reference T47 UMLS:C4505235	розовые
+N20	Reference T35 UMLS:C0029340	витаминов высокими дозами терапия
+N21	Reference T49 UMLS:CUILESS	отсутствие реакции
+N22	Reference T16 UMLS:C0032950	преднизолон
+N23	Reference T19 UMLS:C0015840	фенотерол
+N24	Reference T31 UMLS:C0018621	аллергия на пыльцу
+N25	Reference T38 UMLS:C0015840	фенотерол
+N26	Reference T68 UMLS:C0013604	отек
+N27	Reference T17 UMLS:C0015840	беротек
+N28	Reference T46 UMLS:C0018621	поллиноз
+N29	Reference T59 UMLS:C0026390	мягкокожие
+N30	Reference T53 UMLS:C0024109	легкие
+N31	Reference T54 UMLS:C3666016	жесткое дыхание при аускультации легких
+N32	Reference T57 UMLS:C0031084	ритмичность
+N33	Reference T61 UMLS:CUILESS	болезненность
+N34	Reference T63 UMLS:C0013428	дизурия
+N35	Reference T67 UMLS:C2732728	уменьшение роста
+N36	Reference T20 UMLS:C0015840	беротек
+N37	Reference T5 UMLS:C2607914	аллергический ринит
+N38	Reference T28 UMLS:C2363849	противоастматические средства
+N39	Reference T32 UMLS:C0018621	поллиноз
+N40	Reference T15 UMLS:C0221725	бронхиальная обструкция
+N41	Reference T50 UMLS:C0521367	ротоглотка
+N42	Reference T69 UMLS:CUILESS	мягкий стул
+N43	Reference T24 UMLS:C0004096	бронхиальная астма
+N44	Reference T51 UMLS:C0853254	раздражение носовых ходов
+N45	Reference T56 UMLS:C2230284	тоны сердца
+N46	Reference T34 UMLS:C1739388	аллергия на березовую пыльцу
+N47	Reference T40 UMLS:C0001927	сальбутамол
+N48	Reference T11 UMLS:C0392707	атопия
+N49	Reference T7 UMLS:C0392707	атопия
+N50	Reference T48 UMLS:C1123023	кожа
+N51	Reference T6 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N52	Reference T41 UMLS:C0002994	отек квинке
+N53	Reference T62 UMLS:C0042066	мочеполовая система
+N54	Reference T58 UMLS:C0018787	сердце
+N55	Reference T66 UMLS:C0242793	период ремиссии
+N56	Reference T29 UMLS:C0939232	серетид
+N57	Reference T2 UMLS:C0018621	поллиноз
+N58	Reference T45 UMLS:C0598869	чистая культура
+N59	Reference T30 UMLS:UNKNOWN	сублингвальная иммунотерапия
+N60	Reference T52 UMLS:C0028429	нос
+N61	Reference T18 UMLS:C0744425	терапия глюкокортикостероидами
+N62	Reference T21 UMLS:C0008865	цитрус бергамия
+N63	Reference T33 UMLS:C3658366	сублингвальная иммунотерапия
+N64	Reference T43 UMLS:C0424332	приступ задержки дыхания
+N65	Reference T8 UMLS:C0850149	кашель, непродуктивный
+N66	Reference T4 UMLS:C0149696	пищевая аллергия
+N67	Reference T36 UMLS:C0424332	приступ задержки дыхания
+#1	AnnotatorNotes T9	first_annotator_label: C0035227||synonyms: дыхательной функции тесты|dykhatel'noi funktsii testy|dykhaniia testy|legkikh funktsii testy|legochnoi funktsii testy||||second_annotator_label: C0009450||synonyms: инфекционные болезни|infektsionnye bolezni|заразные болезни|zaraznye bolezni|bolezni infektsionnye||||third_annotator_label: C0013404||synonyms: одышка|odyshka|диспноэ|нехватка воздуха|затруднённое дыхание||||bert: C1536076||synonyms: боль в боку при физической нагрузке||||
+#2	AnnotatorNotes T3	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#3	AnnotatorNotes T49	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: None||synonyms: ||||bert: C0038071||synonyms: сквален|skvalen||||
+#4	AnnotatorNotes T54	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C1141887||synonyms: внутренний диаметр желудочка||||
+#5	AnnotatorNotes T61	first_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||second_annotator_label: C0151767||synonyms: болезненность печени при пальпации|болезненность в области печени|чувствительность в области печени|болезненность печени||||third_annotator_label: None||synonyms: ||||bert: C0151767||synonyms: болезненность печени при пальпации|болезненность в области печени|чувствительность в области печени|болезненность печени||||
+#6	AnnotatorNotes T28	first_annotator_label: C0282556||synonyms: противоастматические средства|protivoastmaticheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0363621||synonyms: гастрин^25 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T69	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#8	AnnotatorNotes T66	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#9	AnnotatorNotes T30	first_annotator_label: C3658366||synonyms: сублингвальная иммунотерапия|immunoterapiia pod"iazychnaia|иммунотерапия подъязычная|sublingval'naia immunoterapiia||||second_annotator_label: C0001558||synonyms: введение лекарств чрескожное|vvedenie lekarstv chreskozhnoe|chreskozhnoe vvedenie lekarstv|kozhnoe lekarstv vvedenie|lekarstv vvedenie chreskozhnoe||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C3203470||synonyms: альвеолярно-артериальный градиент по кислороду||||
+#10	AnnotatorNotes T18	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||third_annotator_label: C4042948||synonyms: критически больным помощь, результаты|kriticheski bol'nym pomoshch', rezul'taty|intensivnoi terapii i reanimatsii rezul'taty|интенсивной терапии и реанимации результаты||||bert: C0853238||synonyms: гормонотерапия перед резекцией эндометрия||||

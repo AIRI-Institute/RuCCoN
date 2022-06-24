@@ -1,0 +1,72 @@
+T9	Symptom 573 606	плоско-вальгусной деформации стоп
+T28	Symptom 1608 1641	Сердечные тоны звучные, ритмичные
+T33	Symptom 1751 1779	Стул регулярный, оформленный
+T27	Body_location 1565 1573	В лёгких
+T32	Symptom 1738 1745	дизурии
+T11	Treatment 699 756	диетой, антигистаминными препаратами, местными средствами
+T25	Symptom 1574 1594	дыхание везикулярное
+T3	Course 49 57	ремиссия
+T18	Course 1027 1035	ремиссия
+T24	Symptom 1521 1532	Зев спокоен
+T23	Body_location 1482 1496	Кожные покровы
+T30	Symptom 1649 1655	мягкий
+T26	Symptom 1596 1602	хрипов
+T36	Disease 181 194	конъюнктивита
+T38	Disease 795 801	ринита
+T19	Disease 1037 1056	Аллергический ринит
+T8	Symptom 555 571	нарушения осанки
+T40	Disease 997 1025	риноконъюнктивальный синдром
+T16	Disease 987 995	Поллиноз
+T29	Body_location 1643 1648	Живот
+T1	Disease 9 17	Поллиноз
+T5	Course 96 110	вне обострения
+T13	Symptom 803 820	заложенность носа
+T34	Symptom 1781 1801	Менингеальных знаков
+T44	Drug 1080 1102	пыльцевыми аллергенами
+T41	Disease 1322 1331	поллиноза
+T39	Disease 822 835	конъюнктивита
+T43	Body_location 1521 1524	Зев
+T37	Disease 660 682	атопического дерматита
+T42	Symptom 1497 1519	чистые, бледно-розовые
+T15	Treatment 843 878	В терапии антигистаминные препараты
+T4	Disease 59 94	Аллергический ринит, персистирующий
+T35	Disease 19 47	риноконъюнктивальный синдром
+T31	Symptom 1671 1685	безболезненный
+T7	Symptom 196 213	заложенность носа
+T22	Disease 1388 1396	поллиноз
+T21	Treatment 1059 1102	Проведен курс АСИТ с пыльцевыми аллергенами
+N1	Reference T9 UMLS:C0149662	деформация пальцев стопы
+N2	Reference T28 UMLS:C0018810	сердечный ритм
+N3	Reference T27 UMLS:C0024109	легкие
+N4	Reference T32 UMLS:C0013428	дизурия
+N5	Reference T11 UMLS:C1535925	антиаллергическая терапия
+N6	Reference T25 UMLS:C0231855	нормальная аускультативная картина в легких
+N7	Reference T3 UMLS:C0242793	период ремиссии
+N8	Reference T18 UMLS:C0242793	период ремиссии
+N9	Reference T23 UMLS:C1123023	кожа
+N10	Reference T30 UMLS:C0026390	мягкокожие
+N11	Reference T26 UMLS:C3887661	хрип
+N12	Reference T36 UMLS:C0009763	конъюнктивит
+N13	Reference T38 UMLS:C0035455	ринит
+N14	Reference T19 UMLS:C2607914	аллергический ринит
+N15	Reference T8 UMLS:C1262869	осанка
+N16	Reference T40 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N17	Reference T16 UMLS:C0018621	поллиноз
+N18	Reference T29 UMLS:C0000726	живот
+N19	Reference T1 UMLS:C0018621	поллиноз
+N20	Reference T5 UMLS:C0242793	период ремиссии
+N21	Reference T13 UMLS:C0027424	заложенность носа
+N22	Reference T34 UMLS:C0025287	менингеальные знаки
+N23	Reference T44 UMLS:C1567994	аллергены растительные
+N24	Reference T41 UMLS:C0018621	поллиноз
+N25	Reference T39 UMLS:C0009763	конъюнктивит
+N26	Reference T43 UMLS:C0521367	ротоглотка
+N27	Reference T37 UMLS:C0011615	атопический дерматит
+N28	Reference T42 UMLS:C4505235	розовые
+N29	Reference T15 UMLS:C1504374	антигистаминная терапия
+N30	Reference T4 UMLS:C2607914	аллергический ринит
+N31	Reference T35 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N32	Reference T31 UMLS:C0857027	болезненность
+N33	Reference T7 UMLS:C0027424	заложенность носа
+N34	Reference T22 UMLS:C0018621	поллиноз
+N35	Reference T21 UMLS:C0021083	иммунотерапия

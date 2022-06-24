@@ -1,0 +1,114 @@
+T21	Body_location 648 671	верхнечелюстных пазухах
+T31	Body_location 905 924	миокарде желудочков
+T45	Drug 1522 1539	Шампунь Сквафан S
+T15	Body_location 502 522	поджелудочной железы
+T1	Body_location 31 54	органов брюшной полости
+T8	Symptom 72 152	размер – 50х20 мм; стенки – не утолщены; форма – правильная; просвет - свободный
+T9	Symptom 197 242	паренхима – эхогенность снижена, неоднородная
+T34	Treatment 1113 1178	сумамед 10мг/кг, тридерм местно, ксимелин 2-3 к. х  3 раза в день
+T14	Disease 548 553	отека
+T5	Body_location 295 300	ПЕЧЕН
+T13	Symptom 419 459	нет  секрета, стенки тонкие, не изменены
+T27	Symptom 623 644	отечны, больше справа
+T39	Drug 1180 1185	креон
+T48	Drug 1470 1475	Креон
+T30	Symptom 861 924	Некоторые нарушения процессов метаболизма в миокарде желудочков
+T19	Body_location 586 608	придаточных пазух носа
+T43	Treatment 1635 1761	Рибомунил по 0.75 мг ежедневно 4 дня в неделю в течение 3 недель, затем в последующие 5 месяцев — первые 4 дня каждого месяца.
+T26	Symptom 672 713	пристеночное утолщение слизистой оболочки
+T11	Symptom 303 375	размер – ЛД – 46, 1й сегмент 10 мм, ПД – 92 мм; паренхима -  не изменена
+T29	Symptom 834 859	Правильный синусовый ритм
+T10	Symptom 255 293	размер 66х33 мм; паренхима не изменена
+T44	Drug 1635 1644	Рибомунил
+T36	Drug 1113 1120	сумамед
+T46	Drug 1584 1591	Себофан
+T18	Body_location 554 572	слизистой оболочки
+T32	Disease 969 988	себорейный дерматит
+T23	Body_location 739 767	Клетки решетчатого лабиринта
+T25	Symptom 729 737	воздушна
+T38	Drug 1146 1154	ксимелин
+T16	Body_location 531 534	ППН
+T2	Body_location 56 70	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T6	Body_location 377 384	ЖЕЛУДОК
+T22	Body_location 715 728	Лобная пазуха
+T40	Drug 1210 1219	полидекса
+T20	Body_location 610 622	Носовые ходы
+T3	Body_location 154 174	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T12	Symptom 388 399	секрет есть
+T4	Body_location 244 253	СЕЛЕЗЕНКА
+T7	Body_location 401 418	12-ПЕРСТНАЯ КИШКА
+T42	Treatment 1522 1630	Шампунь Сквафан S 1-2 раза в неделю в течение 1 месяца, затем Себофан 2 раза в неделю (или Фридерм с дегтем)
+T47	Drug 1613 1629	Фридерм с дегтем
+T28	Symptom 808 832	нормальное положение ЭОС
+T17	Symptom 539 572	признаки отека слизистой оболочки
+T49	Disease 482 522	вторичных изменений поджелудочной железы
+T35	Treatment 1180 1246	креон по 1к. х 3 раза в день, полидекса по 1 инст. х 3 раза в день
+T41	Treatment 1470 1517	Креон по 1 к. х 3 раза в день продолжить 5 дней
+T24	Symptom 768 790	умеренно завуалированы
+T33	Disease 1042 1066	Катаральный риносинусит.
+T37	Drug 1130 1137	тридерм
+N1	Reference T21 UMLS:C0024957	верхнечелюстная пазуха
+N2	Reference T31 UMLS:C0027061	миокард
+N3	Reference T45 UMLS:C0018503	волосы, средства для волос
+N4	Reference T15 UMLS:C0030274	поджелудочная железа
+N5	Reference T1 UMLS:C0230168	брюшная полость
+N6	Reference T8 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N7	Reference T9 UMLS:CUILESS	отклонение от нормы результатов ультразвукового исследования поджелудочной железы
+N8	Reference T34 UMLS:C0013154	системная антибактериальная терапия
+N9	Reference T14 UMLS:C0013604	отек
+N10	Reference T5 UMLS:C0023884	печень
+N11	Reference T13 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N12	Reference T27 UMLS:C0013604	отек
+N13	Reference T39 UMLS:C0030304	креон
+N14	Reference T48 UMLS:C0030304	креон
+N15	Reference T30 UMLS:CUILESS	неуточненное нарушение метаболизма
+N16	Reference T19 UMLS:C0030471	околоносовые пазухи
+N17	Reference T43 UMLS:C0013154	иммуностимулирующая терапия
+N18	Reference T26 UMLS:C3686502	утолщение слизистой оболочки
+N19	Reference T11 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N20	Reference T29 UMLS:C0232201	синусовый ритм
+N21	Reference T10 UMLS:C2181189	ультразвуковое исследование селезенки
+N22	Reference T44 UMLS:C0001551	иммуностимуляторы
+N23	Reference T36 UMLS:C0052796	азитромицин
+N24	Reference T46 UMLS:C0018503	волосы, средства для волос
+N25	Reference T18 UMLS:C0026724	слизистая оболочка
+N26	Reference T32 UMLS:C0036508	себорейный дерматит
+N27	Reference T23 UMLS:C0022891	лабиринта поддерживающие клетки
+N28	Reference T25 UMLS:CUILESS	воздух
+N29	Reference T38 UMLS:C0030071	оксиметазолин
+N30	Reference T16 UMLS:C0030471	околоносовые пазухи
+N31	Reference T2 UMLS:C0016976	желчный пузырь
+N32	Reference T6 UMLS:C0038351	желудок
+N33	Reference T22 UMLS:C0016734	лобная пазуха
+N34	Reference T40 UMLS:C0011777	дексаметазон
+N35	Reference T20 UMLS:C0027423	носовая полость
+N36	Reference T3 UMLS:C0030274	поджелудочная железа
+N37	Reference T12 UMLS:C1096020	выделение секрета
+N38	Reference T4 UMLS:C0037993	селезенка
+N39	Reference T7 UMLS:C0013303	двенадцатиперстная кишка
+N40	Reference T42 UMLS:C0013154	волосы, средства для волос
+N41	Reference T47 UMLS:C0018503	волосы, средства для волос
+N42	Reference T28 UMLS:CUILESS	нормальная экг
+N43	Reference T17 UMLS:C0521481	отёк слизистой оболочки
+N44	Reference T49 UMLS:C0030286	поджелудочной железы болезни
+N45	Reference T35 UMLS:C0013154	фермент-заместительная терапия
+N46	Reference T41 UMLS:C0013154	заместительная терапия ферментами поджелудочной железы
+N47	Reference T24 UMLS:C0001869	воздуха загрязнители
+N48	Reference T33 UMLS:C2607914	аллергический риносинусит
+N49	Reference T37 UMLS:CUILESS	бетаметазон
+#1	AnnotatorNotes T45	first_annotator_label: C0018503||synonyms: волосы, средства для волос|volosy, sredstva dlia volos|kosmeticheskie sredstva dlia volos|косметические средства для волос||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0043133||synonyms: увлажняющие средства|uvlazhniaiushchie sredstva||||bert: C1053942||synonyms: sphagnopsida|sfagnum|мох сфагнум|мхи торфяные|сфагнум||||
+#2	AnnotatorNotes T9	first_annotator_label: C4285853||synonyms: отклонение от нормы результатов ультразвукового исследования поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#3	AnnotatorNotes T34	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1146750||synonyms: полиомиелита вирус 3 ат:титр:тчкврм:тело ждк:колич:компл фикс||||
+#4	AnnotatorNotes T13	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0007623||synonyms: клетки стенка|kletki stenka||||
+#5	AnnotatorNotes T30	first_annotator_label: C0025517||synonyms: обмена веществ болезни|obmena veshchestv narusheniia|bolezn' deponirovaniia|bolezn' nakopleniia|obmena veshchestv bolezni||||second_annotator_label: C1112770||synonyms: нижне-латеральный инфаркт миокарда||||third_annotator_label: None||synonyms: ||||bert: C1112770||synonyms: нижне-латеральный инфаркт миокарда||||
+#6	AnnotatorNotes T43	first_annotator_label: C1535924||synonyms: иммуностимулирующая терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1141958||synonyms: противоинфекционная терапия|виды противоинфекционного лечения||||bert: C0524787||synonyms: рекомендуемые диетические нормы|рекомендованный полноценный рацион|рекомендуемая суточная норма потребления|rekomenduemyi standart ezhednevnogo pitaniia|rekomendovannyi polnotsennyi ratsion||||
+#7	AnnotatorNotes T11	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1632383||synonyms: тело жир процент:массдол:тчкврм:^пациент:колич:измеренный||||
+#8	AnnotatorNotes T44	first_annotator_label: C0001551||synonyms: адъюванты иммунологические|ad"iuvanty immunologicheskie|immunoad"iuvanty|immunoaktivatory|immunomoduliatory||||second_annotator_label: C0772139||synonyms: бендамустина гидрохлорид|бендамустин|рибомустин|bendamustina gidrokhlorid|треанда||||third_annotator_label: C0003204||synonyms: противоинфекционные средства|protivoinfektsionnye sredstva khinolonovye|protivoinfektsionnye sredstva|protivoinfektsionnye sredstva ftorkhinolonovye|микробициды||||bert: C0772139||synonyms: бендамустина гидрохлорид|бендамустин|рибомустин|bendamustina gidrokhlorid|треанда||||
+#9	AnnotatorNotes T36	first_annotator_label: C0052796||synonyms: азитромицин|azitromitsin||||second_annotator_label: C3655128||synonyms: азитромицин индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||bert: C0038880||synonyms: наганин|naganin|nafurid|suramin|нафурид||||
+#10	AnnotatorNotes T23	first_annotator_label: C0022891||synonyms: лабиринта поддерживающие клетки|labirinta podderzhivaiushchie kletki|podderzhivaiushchie kletki labirinta|поддерживающие клетки лабиринта||||second_annotator_label: C0022889||synonyms: ухо внутреннее|labirint|ukho vnutrennee|лабиринт||||third_annotator_label: C0015027||synonyms: решетчатая кость|reshetchataia kost'|reshetchataia plastinka|решетчатая пластинка||||bert: C0022891||synonyms: лабиринта поддерживающие клетки|labirinta podderzhivaiushchie kletki|podderzhivaiushchie kletki labirinta|поддерживающие клетки лабиринта||||
+#11	AnnotatorNotes T25	first_annotator_label: C0001861||synonyms: воздух|vozdukh||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0856383||synonyms: дренаж лобной пазухи||||bert: C0001861||synonyms: воздух|vozdukh||||
+#12	AnnotatorNotes T42	first_annotator_label: C0018503||synonyms: волосы, средства для волос|volosy, sredstva dlia volos|kosmeticheskie sredstva dlia volos|косметические средства для волос||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C2926256||synonyms: с пептид^2 минуты после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#13	AnnotatorNotes T28	first_annotator_label: C0522054||synonyms: показатели электрокардиограммы в норме|экг в пределах нормы|экг в норме|электрокардиограмма в норме|нормальная экг||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#14	AnnotatorNotes T35	first_annotator_label: C0598391||synonyms: фермент-заместительная терапия|фермент заместительная терапия|zamestitel'naia fermentnaia terapiia|ferment zameshchaiushchaia terapiia|заместительная ферментная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1714759||synonyms: туберкулёз реакция папула^3 дня после 1 ет внутрикожно:диам:тчкврм:кожа:колич||||bert: C1714759||synonyms: туберкулёз реакция папула^3 дня после 1 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#15	AnnotatorNotes T41	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1830290||synonyms: кортикотропин^1.5 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#16	AnnotatorNotes T37	first_annotator_label: C0005308||synonyms: бетаметазон|betametazon|betadeksametazon|flubenizolon|бетадексаметазон||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0040915||synonyms: триходермин|trikhodermin|trikhodermol|триходермол||||

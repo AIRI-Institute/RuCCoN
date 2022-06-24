@@ -1,0 +1,87 @@
+T5	Severity 99 103	2 ст
+T12	Disease 275 285	Сфинктерит
+T8	Body_location 137 156	носовой перегородки
+T39	Symptom 1822 1842	Менингеальных знаков
+T19	Body_location 945 952	на коже
+T16	Disease 436 440	ОРИ.
+T41	Disease 1032 1035	ОРИ
+T4	Disease 90 98	Аденоиды
+T6	Disease 105 123	Вазомоторный ринит
+T31	Body_location 1520 1534	Кожные покровы
+T42	Symptom 1054 1088	длительным малопродуктивным кашлем
+T10	Disease 203 241	Особенности эмоционально-волевой сферы
+T15	Symptom 404 427	бронхиальной обструкции
+T13	Disease 287 301	Панкреатопатия
+T25	Severity 1269 1275	1-2 ст
+T22	Disease 1229 1232	ОРИ
+T32	Symptom 1559 1570	Зев спокоен
+T37	Symptom 1779 1786	дизурии
+T11	Disease 243 273	Хронический ситуационный запор
+T27	Drug 1287 1297	пульмикорт
+T29	Disease 1420 1428	поллиноз
+T21	Disease 1184 1203	аллергический ринит
+T23	Disease 1240 1263	обструктивного бронхита
+T9	Disease 158 201	Парасомнии на резидуально-органическом фоне
+T26	Treatment 1277 1340	В терапии пульмикорт (750 мкг/сут.) и беродуал через небулайзер
+T7	Disease 125 156	Искривление носовой перегородки
+T33	Body_location 1612 1618	лёгких
+T18	Symptom 935 944	высыпания
+T24	Symptom 1266 1268	ДН
+T17	Disease 843 865	атопического дерматита
+T3	Course 79 87	ремиссия
+T30	Disease 1449 1467	бронхиальная астма
+T36	Symptom 1693 1726	Сердечные тоны звучные, ритмичные
+T14	Symptom 369 392	малопродуктивного кашля
+T20	Disease 1117 1131	острый бронхит
+T38	Symptom 1792 1820	Стул регулярный, оформленный
+T35	Symptom 1666 1691	единичные свистящие хрипы
+T2	Severity 48 77	легкое персистирующее течение
+T34	Symptom 1619 1639	дыхание везикулярное
+T40	Symptom 1535 1557	чистые, бледно-розовые
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T28	Drug 1315 1323	беродуал
+N1	Reference T12 UMLS:C0028872	сфинктер одди
+N2	Reference T8 UMLS:C0027432	носа перегородка
+N3	Reference T39 UMLS:C0025287	менингеальные знаки
+N4	Reference T19 UMLS:C1123023	кожа
+N5	Reference T16 UMLS:C0035243	респираторные инфекции
+N6	Reference T41 UMLS:C0035243	респираторные инфекции
+N7	Reference T4 UMLS:C0001428	аденоиды
+N8	Reference T6 UMLS:C0035460	вазомоторный ринит
+N9	Reference T31 UMLS:C1123023	кожа
+N10	Reference T42 UMLS:C0850149	кашель, непродуктивный
+N11	Reference T10 UMLS:C0677660	эмоциональные проблемы
+N12	Reference T15 UMLS:C0221725	бронхиальная обструкция
+N13	Reference T13 UMLS:C0030286	поджелудочной железы болезни
+N14	Reference T22 UMLS:C0035243	респираторные инфекции
+N15	Reference T32 UMLS:C0521367	ротоглотка
+N16	Reference T37 UMLS:C0013428	дизурия
+N17	Reference T11 UMLS:C0401149	запор хронический
+N18	Reference T27 UMLS:C0054201	будесонид
+N19	Reference T29 UMLS:C0018621	поллиноз
+N20	Reference T21 UMLS:C2607914	аллергический ринит
+N21	Reference T23 UMLS:C0865791	обструктивный бронхит
+N22	Reference T9 UMLS:C0860650	парсасомния, обусловленная органическими факторами
+N23	Reference T26 UMLS:C0942082	пиридоксин^после 250 мг пиридоксина через рот:молконц:тчкврм:сыв/плаз:колич
+N24	Reference T7 UMLS:C0549397	искривление перегородки носа
+N25	Reference T33 UMLS:C0024109	легкие
+N26	Reference T18 UMLS:C0302295	высыпание
+N27	Reference T24 UMLS:C1145670	дыхательная недостаточность
+N28	Reference T17 UMLS:C0011615	атопический дерматит
+N29	Reference T3 UMLS:C0242793	безрецидивная выживаемость
+N30	Reference T30 UMLS:C0004096	бронхиальная астма
+N31	Reference T36 UMLS:C0018810	сердечный ритм
+N32	Reference T14 UMLS:C0850149	кашель, непродуктивный
+N33	Reference T20 UMLS:C0149514	острый бронхит
+N34	Reference T38 UMLS:CUILESS	мягкий стул
+N35	Reference T35 UMLS:C0034642	единичные хрипы
+N36	Reference T2 UMLS:CUILESS	астма, хроническая
+N37	Reference T34 UMLS:C0231855	нормальная аускультативная картина в легких
+N38	Reference T40 UMLS:CUILESS	бледный вид
+N39	Reference T1 UMLS:C0004096	астма бронхиальная
+N40	Reference T28 UMLS:C0015840	фенотерол
+#1	AnnotatorNotes T13	first_annotator_label: C0030286||synonyms: поджелудочной железы болезни|podzheludochnoi zhelezy bolezni|заболевания поджелудочной железы|нарушение работы поджелудочной железы|нарушение со стороны поджелудочной железы||||second_annotator_label: C3888840||synonyms: алкогольная панкреатопатия||||third_annotator_label: C0030293||synonyms: недостаточность деятельности поджелудочной железы|недостаточность поджелудочной железы|панкреатическая недостаточность||||bert: C0030306||synonyms: панкреатическая эластаза|pankreatopeptidaza|elastaza|pankreaticheskaia elastaza|панкреатопептидаза||||
+#2	AnnotatorNotes T38	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#3	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0024115||synonyms: легких болезни|legkikh bolezni|legochnye bolezni|нарушение со стороны легких (бду)|нарушение со стороны легкого||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#4	AnnotatorNotes T34	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T40	first_annotator_label: C0857342||synonyms: бледный вид||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||

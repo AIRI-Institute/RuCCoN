@@ -1,0 +1,93 @@
+T7	Symptom 203 207	храп
+T32	Symptom 1529 1535	хрипов
+T8	Symptom 279 297	угрозой прерывания
+T29	Symptom 1470 1496	Носовое дыхание затруднено
+T19	Severity 1094 1105	2-3 степени
+T14	Disease 919 927	аденоиды
+T5	Disease 97 125	Дисфункция билиарного тракта
+T43	Course 618 628	Обострение
+T2	Disease 46 62	Пищевая аллергия
+T18	Disease 1085 1093	аденоиды
+T21	Disease 1180 1188	поллиноз
+T15	Severity 928 937	3 степени
+T3	Disease 64 85	Гипертрофия аденоидов
+T38	Disease 504 526	атопического дерматита
+T36	Symptom 1670 1690	Менингеальных знаков
+T26	Body_location 1419 1433	Кожные покровы
+T35	Symptom 1640 1668	Стул оформленный, регулярный
+T10	Treatment 532 583	применении местных средств и коррекции диеты матери
+T25	Disease 1294 1314	аллергический ринит.
+T28	Symptom 1458 1468	Зев рыхлый
+T30	Body_location 1498 1506	В лёгких
+T39	Disease 1012 1018	ринита
+T17	Disease 1062 1083	двусторонний тубоотит
+T27	Symptom 1434 1456	чистые, бледно-розовые
+T6	Symptom 184 201	заложенность носа
+T31	Symptom 1507 1527	дыхание везикулярное
+T24	Disease 1260 1278	бронхиальная астма
+T4	Severity 86 95	2 степени
+T40	Disease 1190 1218	риноконъюнктивальный синдром
+T46	Disease 108 118	билиарного
+T34	Symptom 1627 1634	дизурии
+T1	Disease 9 28	Аллергический ринит
+T44	Severity 30 44	персистирующий
+T13	Symptom 811 828	Заложенность носа
+T11	Disease 727 743	пищевой аллергии
+T12	Symptom 751 767	кожный высыпаний
+T42	Disease 629 636	болезни
+T33	Symptom 1541 1574	Сердечные тоны звучные, ритмичные
+T37	Disease 965 968	ОРИ
+T20	Disease 1133 1152	аллергический ринит
+T45	Severity 1118 1132	персистирующий
+T41	Disease 1220 1238	бронхиальная астма
+N1	Reference T7 UMLS:C0037384	храп
+N2	Reference T32 UMLS:C3887661	хрип
+N3	Reference T8 UMLS:C0000821	угроза выкидыша
+N4	Reference T29 UMLS:C0553668	затруднённое дыхание
+N5	Reference T14 UMLS:C0001428	аденоиды
+N6	Reference T5 UMLS:C0005395	желчных протоков болезни
+N7	Reference T43 UMLS:C0853946	обострение боли
+N8	Reference T2 UMLS:C0149696	пищевая аллергия
+N9	Reference T18 UMLS:C0001428	аденоиды
+N10	Reference T21 UMLS:C0018621	поллиноз
+N11	Reference T15 UMLS:CUILESS	гипертрофия глоточных миндалин (аденоидов)
+N12	Reference T3 UMLS:C0149825	гипертрофия исключительно аденоидов
+N13	Reference T38 UMLS:C0011615	атопический дерматит
+N14	Reference T36 UMLS:C0025287	менингеальные знаки
+N15	Reference T26 UMLS:C1123023	кожа
+N16	Reference T35 UMLS:CUILESS	мягкий стул
+N17	Reference T10 UMLS:C0013154	медицинская диета
+N18	Reference T25 UMLS:C2607914	аллергический ринит
+N19	Reference T28 UMLS:UNKNOWN	ротовая полость
+N20	Reference T30 UMLS:C0024109	легкие
+N21	Reference T39 UMLS:C0035455	ринит
+N22	Reference T17 UMLS:C0555866	тубоотит
+N23	Reference T27 UMLS:CUILESS	норма рабочая
+N24	Reference T6 UMLS:C0027424	заложенность носа
+N25	Reference T31 UMLS:UNKNOWN	исследования дыхательной системы и легких (искл. газы крови)
+N26	Reference T24 UMLS:C0004096	бронхиальная астма
+N27	Reference T40 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N28	Reference T46 UMLS:UNKNOWN	None
+N29	Reference T34 UMLS:C0013428	дизурия
+N30	Reference T1 UMLS:C2607914	аллергический ринит
+N31	Reference T44 UMLS:CUILESS	хронический ринит
+N32	Reference T13 UMLS:C0027424	заложенность носа
+N33	Reference T11 UMLS:C0149696	пищевая аллергия
+N34	Reference T12 UMLS:C0015230	кожное высыпание
+N35	Reference T42 UMLS:C0221423	болезнь
+N36	Reference T33 UMLS:C0018810	сердечный ритм
+N37	Reference T37 UMLS:C0035243	респираторные инфекции
+N38	Reference T20 UMLS:C2607914	аллергический ринит
+N39	Reference T45 UMLS:CUILESS	хронический ринит
+N40	Reference T41 UMLS:C0004096	бронхиальная астма
+#1	AnnotatorNotes T29	first_annotator_label: C0013404||synonyms: одышка|odyshka|диспноэ|нехватка воздуха|затруднённое дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||bert: C0272427||synonyms: травма носа|повреждение носа||||
+#2	AnnotatorNotes T5	first_annotator_label: C0005395||synonyms: желчных протоков болезни|zhelchnykh protokov bolezni|патологии желчевыводящих путей||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0852578||synonyms: процедуры визуализации печени и желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#3	AnnotatorNotes T15	first_annotator_label: C0149825||synonyms: гипертрофия глоточных миндалин (аденоидов)|гипертрофия исключительно аденоидов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0433445||synonyms: ожоги третьей степени|ожоги 3-й степени||||bert: C0433445||synonyms: ожоги третьей степени|ожоги 3-й степени||||
+#4	AnnotatorNotes T35	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0489144||synonyms: стул:вид:тчкврм:нижний жк тракт:ном||||third_annotator_label: None||synonyms: ||||bert: C0524864||synonyms: кроветворных стволовых клеток мобилизация|stvolovykh kletok krovetvornykh mobilizatsiia|krovetvornykh stvolovykh kletok mobilizatsiia|stvolovykh kletok mobilizatsiia|мобилизация гемопоэтических стволовых клеток (гск)||||
+#5	AnnotatorNotes T10	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0015745||synonyms: пищевое поведение|pishchevoe povedenie|pishchevye privychki|dieticheskoe predpochtenie|pishchevye povedencheskie stereotipy||||bert: C0012179||synonyms: диетического питания службы|dieticheskogo pitaniia sluzhby||||
+#6	AnnotatorNotes T28	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0863112||synonyms: раздражение ротоглотки||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#7	AnnotatorNotes T27	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||
+#8	AnnotatorNotes T31	first_annotator_label: C0851556||synonyms: исследования дыхательной системы и легких (искл. газы крови)||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0231832||synonyms: дыхания частота|частота дыхательных движений|частота дыхания|dykhaniia chastota|chastota dykhaniia||||bert: C0263237||synonyms: везикулезное высыпание||||
+#9	AnnotatorNotes T46	first_annotator_label: No entity found in this position||synonyms: ||||second_annotator_label: None||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#10	AnnotatorNotes T44	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#11	AnnotatorNotes T45	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0857284||synonyms: персистирующий гиалоид||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||

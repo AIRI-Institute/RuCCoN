@@ -1,0 +1,312 @@
+T62	Symptom 2501 2540	небольшое количество свободной жидкости
+T61	Symptom 2245 2265	носовые кровотечение
+T121	Symptom 8466 8486	Менингеальных знаков
+T141	Treatment 17675 17720	Фенибут 250 мг х 3 раза в день, с 11.06.2057.
+T104	Drug 18928 18938	Тромбо АСС
+T23	Body_location 527 535	в глазах
+T63	Body_location 2541 2559	в полости перикард
+T51	Symptom 1903 1919	боли за грудиной
+T134	Symptom 11637 11658	Величина ДАД повышена
+T113	Symptom 5509 5522	головные боли
+T122	Symptom 8492 8522	Зрение снижено (близорукость),
+T79	Symptom 3421 3445	повышена трабекулярность
+T13	Disease 252 283	Дискинезия желчевыводящих путей
+T138	Symptom 11950 11970	эпизоды снижения ДАД
+T82	Disease 4410 4444	Неклассифицируемая кардиомиопатия.
+T130	Symptom 11398 11452	Среднее пульсовое АД за сутки 58 мм.рт.ст.; повышенное
+T119	Symptom 5525 5555	повышение АД до 130/80мм.рт.ст
+T69	Treatment 2821 2905	Амбулаторно назначено: пирацетам 0.4 х 2р/д, элькар 20% 20кап х 3р/д, затем кудесан.
+T105	Treatment 18976 19016	МgB6 – по 2 таб 3 р/д – август, декабрь.
+T35	Disease 1078 1087	пролапсом
+T85	Treatment 4484 4562	Назначены: тромбоАСС 100 мг/сут, капотен 25 мг х 3 р/д, трентал 100 мг х 3 р/д
+T3	Disease 106 109	ХСН
+T10	Disease 232 234	ФК
+T90	Symptom 4671 4711	улучшилась переносимость физ. нагрузок..
+T19	Symptom 411 417	одышка
+T48	Drug 1742 1750	рибоксин
+T41	Symptom 1277 1283	отеков
+T87	Drug 4517 4524	капотен
+T81	Symptom 3565 3609	артериальная гипертензия систолического типа
+T22	Symptom 499 526	головокружения и потемнения
+T11	Severity 223 230	2А-1 ст
+T142	Treatment 17721 17753	Тромбо АСС 100мг х 1 раз в день.
+T73	Treatment 2960 3026	назначались курсы метаболической терапии с положительной динамикой
+T133	Symptom 11566 11587	Скорость САД повышена
+T140	Treatment 17567 17674	Козаар 37,5 мг в 08.00, 25 мг в 20.00 с 12.06.2057, с 13.06.2057 доза увеличена до 37,5 мг х 2 раза в день.
+T49	Treatment 1721 1751	В терапии: панангин, рибоксин.
+T88	Drug 4540 4547	трентал
+T86	Drug 4495 4504	тромбоАСС
+T56	Treatment 2132 2165	фенибут с положительной динамикой
+T53	Drug 2020 2029	рибоксина
+T5	Disease 119 121	ФК
+T75	Body_location 3250 3267	правого желудочка
+T136	Symptom 12017 12059	отмечается чрезмерное ночное снижение ДАД.
+T83	Disease 4445 4465	Некомпактный миокард
+T54	Drug 2032 2039	глицина
+T77	Symptom 3374 3385	гипертрофия
+T33	Disease 964 975	рак легких)
+T58	Symptom 2207 2211	боли
+T67	Drug 2776 2784	аспаркам
+T144	Treatment 17944 17991	подключен к терапии фенибут в дозе 750 мг в сут
+T16	Symptom 335 353	повышения давления
+T64	Symptom 2604 2639	рост β-гемолитического стрептококка
+T32	Disease 917 938	стенокардия, аритмия.
+T106	Drug 18976 18980	МgB6
+T72	Drug 2897 2904	кудесан
+T131	Symptom 11507 11563	Суточный ритм АД для ДАД: чрезмерное ночное снижение ДАД
+T50	Symptom 1888 1901	головные боли
+T36	Body_location 1088 1107	митрального клапана
+T110	Drug 19112 19119	Элтацин
+T125	Symptom 8839 8871	Нарушения процесса реполяризации
+T20	Symptom 433 437	боли
+T39	Drug 1162 1175	нитроглицерин
+T76	Symptom 3269 3292	нарушение реполяризации
+T17	Symptom 385 397	утомляемость
+T147	Drug 17675 17682	Фенибут
+T38	Body_location 1134 1150	в области сердца
+T143	Treatment 17897 17940	доза капотена была повышена до 93,75 мг/сут
+T74	Symptom 3216 3249	повышение эл. Активности миокарда
+T129	Symptom 10523 10554	повышение АД до 140/75 мм рт.ст
+T24	Disease 644 668	Артериальная гипертензия
+T34	Body_location 968 974	легких
+T124	Body_location 8820 8836	левого желудочка
+T127	Severity 8895 8914	Умеренные нарушения
+T126	Body_location 8872 8893	в миокарде желудочков
+T71	Drug 2866 2872	элькар
+T8	Body_location 168 218	(рассыпной тип папиллярных мышц левого желудочка).
+T123	Symptom 8799 8819	гипертрофии миокарда
+T2	Body_location 56 103	рассыпной тип папиллярных мышц левого желудочка
+T84	Body_location 4466 4482	левого желудочка
+T107	Treatment 19021 19105	Цитофлавин 2т х 2р/день после еды (утро, обед) – июль, сентябрь, ноябрь, январь, май
+T4	Severity 110 118	2А-1 ст.
+T148	Drug 17721 17731	Тромбо АСС
+T132	Symptom 11589 11610	Скорость ДАД повышена
+T66	Drug 2767 2774	ортофен
+T43	Symptom 1533 1538	синел
+T108	Drug 19021 19031	Цитофлавин
+T28	Body_location 706 722	в области сердца
+T103	Treatment 18928 18971	Тромбо АСС 100 мг х1 раз в день - длительно
+T47	Drug 1732 1740	панангин
+T1	Disease 21 54	Неклассифицируемая кардиомиопатия
+T59	Body_location 2212 2227	в области сердц
+T80	Body_location 3446 3450	ЗСЛЖ
+T15	Symptom 320 333	головные боли
+T94	Drug 19537 19543	цедекс
+T128	Symptom 9294 9305	Брадикардия
+T65	Symptom 2720 2747	ГКМП, необструктивная форма
+T102	Drug 18831 18838	Фенибут
+T7	Disease 134 167	Неклассифицируемая кардиомиопатия
+T139	Treatment 17433 17566	Капотен 25 мг х 3 раза в день, в 07.00, 15.00, 22.00 , с 11.06.2057 увеличена доза до 31,25 мг х 3 раза в день, отменен с 12.06.2057.
+T146	Drug 17567 17573	Козаар
+T31	Disease 824 831	аритмия
+T101	Treatment 18831 18923	Фенибут 250 мг х 3 раза в день, внутрь, после еды, запивая водой, не разжевывая, июнь, июль.
+T26	Drug 744 752	рибоксин
+T112	Drug 19157 19166	Аскорутин
+T55	Drug 2132 2139	фенибут
+T57	Symptom 2073 2088	частое моргание
+T145	Drug 17433 17440	Капотен
+T6	Severity 122 124	2.
+T111	Treatment 19153 19200	12. Аскорутин по 1т. х 3 р/д – август, декабрь.
+T92	Drug 18768 18774	Козаар
+T14	Symptom 310 318	Слабость
+T27	Symptom 701 705	боли
+T46	Disease 1678 1719	Синдром гипервозбудимости, переношенность
+T70	Drug 2844 2853	пирацетам
+T52	Treatment 2014 2040	курсы рибоксина и глицина.
+T9	Disease 219 222	ХСН
+T45	Disease 1631 1676	Перинатальная постгипоксическая энцефалопатия
+T40	Disease 1268 1275	гестоза
+T37	Symptom 1129 1133	боли
+T29	Symptom 781 791	увеличение
+T93	Drug 19526 19535	аугментин
+T18	Symptom 399 409	потливость
+T25	Drug 734 742	корвалол
+T120	Symptom 8453 8460	Дизурии
+T12	Severity 235 237	2.
+T89	Symptom 4636 4669	уменьшение частоты головных болей
+T137	Symptom 11888 11909	эпизоды повышения САД
+T44	Disease 1599 1623	ВПС: мышечный дефект МЖП
+T21	Body_location 438 446	в сердце
+T135	Symptom 11677 11721	повышение Сад максимально до 157/92 мм рт.ст
+T30	Body_location 792 809	щитовидной железы
+T91	Treatment 18768 18827	Козаар 37,5 мг х 2 раза в день, в 08.00 и 20.00, длительно.
+T42	Symptom 1514 1531	систолический шум
+T109	Treatment 19108 19151	11. Элтацин по 1 т. х 3 р/д – июнь, февраль
+T68	Drug 2786 2796	пирацетам.
+T78	Body_location 3386 3395	стенок ЛЖ
+T116	Treatment 19441 19546	16. При ОРВИ обязательное назначение антибактериальной терапии возрастной дозировке (аугментин, цедекс)..
+T60	Symptom 2230 2243	головные боли
+N1	Reference T62 UMLS:C0225973	жидкость в перикарде
+N2	Reference T61 UMLS:C0863111	носовое кровотечение
+N3	Reference T121 UMLS:C0025287	менингеальные знаки
+N4	Reference T141 UMLS:C0459914	ноотропные средства
+N5	Reference T104 UMLS:C0004057	ацетилсалициловая кислота
+N6	Reference T23 UMLS:C0015392	глаз
+N7	Reference T63 UMLS:C0031050	перикард
+N8	Reference T51 UMLS:C0241243	боль за грудиной
+N9	Reference T134 UMLS:C0277889	повышение дад
+N10	Reference T113 UMLS:C0018681	головные боли
+N11	Reference T122 UMLS:C0027092	близорукое зрение
+N12	Reference T79 UMLS:C0040573	трабекулярная сеть
+N13	Reference T13 UMLS:C0005416	дискинезия желчевыводящих путей
+N14	Reference T138 UMLS:C0277890	снижение дад
+N15	Reference T82 UMLS:C0878544	кардиомиопатия, бду
+N16	Reference T130 UMLS:C4071687	давление среднее^в течение вдоха:давл:тчкврм:дыхательная система.дыхательные пути:колич
+N17	Reference T119 UMLS:C0497247	артериальная гипертония
+N18	Reference T69 UMLS:C2363849	комплексонная терапия
+N19	Reference T105 UMLS:C0856055	применение мультивитаминных препаратов
+N20	Reference T35 UMLS:C0033377	пролапс
+N21	Reference T85 UMLS:C0459914	антигипертензивные средства
+N22	Reference T3 UMLS:C0264716	хроническая сердечная недостаточность
+N23	Reference T10 UMLS:C0488498	стенокардия
+N24	Reference T90 UMLS:C0015259	физическая нагрузка
+N25	Reference T19 UMLS:C0013404	одышка
+N26	Reference T48 UMLS:C0021547	рибоксин
+N27	Reference T41 UMLS:C0013604	отёк
+N28	Reference T87 UMLS:C0006938	каптоприл
+N29	Reference T81 UMLS:C0221155	систолическая гипертензия
+N30	Reference T22 UMLS:C0549239	головокружение, ухудшение
+N31	Reference T142 UMLS:UNKNOWN	ацетилсалициловая кислота
+N32	Reference T73 UMLS:C0459914	метаболическая активация
+N33	Reference T133 UMLS:C0277884	повышение сад
+N34	Reference T140 UMLS:C0003364	антигипертензивные средства
+N35	Reference T49 UMLS:C2363849	калия, магния аспарагинат
+N36	Reference T88 UMLS:C0030899	трентал
+N37	Reference T86 UMLS:C0004057	ацетилсалициловая кислота
+N38	Reference T56 UMLS:C0459914	ноотропные средства
+N39	Reference T53 UMLS:C0021547	рибоксин
+N40	Reference T5 UMLS:C0488498	стенокардия
+N41	Reference T75 UMLS:C0080311	сердца желудочка правого функция
+N42	Reference T136 UMLS:C0277890	диастолическая гипотензия
+N43	Reference T83 UMLS:C2717907	гипертрофия миокарда
+N44	Reference T54 UMLS:C0017890	глицин
+N45	Reference T77 UMLS:C0020564	гипертрофия
+N46	Reference T33 UMLS:C0242379	рак легкого бду
+N47	Reference T58 UMLS:C0030193	боли
+N48	Reference T67 UMLS:C0032835	калия, магния аспарагинат
+N49	Reference T144 UMLS:C2363849	ноотропные средства
+N50	Reference T16 UMLS:C0497247	артериальная гипертония
+N51	Reference T64 UMLS:C0948279	инфекция, вызываемая бета-гемолитическим стрептококком
+N52	Reference T32 UMLS:C0002962	стенокардия
+N53	Reference T106 UMLS:C0206112	магния соединения
+N54	Reference T72 UMLS:C0003402	антиоксиданты
+N55	Reference T131 UMLS:C1273489	ночная астма
+N56	Reference T50 UMLS:C0018681	головные боли
+N57	Reference T36 UMLS:C0026267	митрального клапана пролапс
+N58	Reference T110 UMLS:C0017890	глицин
+N59	Reference T125 UMLS:C0948857	нарушения реполяризации на экг
+N60	Reference T20 UMLS:C0030193	боли
+N61	Reference T39 UMLS:C0017887	нитроглицерин
+N62	Reference T76 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N63	Reference T17 UMLS:C0231230	утомляемость
+N64	Reference T147 UMLS:C0242913	ноотропные средства
+N65	Reference T38 UMLS:C0018787	сердце
+N66	Reference T143 UMLS:C4761129	антигипертензивные средства
+N67	Reference T74 UMLS:C0855329	клеток электрической активности тесты
+N68	Reference T129 UMLS:C0497247	артериальная гипертония
+N69	Reference T24 UMLS:C0020538	артериальная гипертензия
+N70	Reference T34 UMLS:C0024109	легкие
+N71	Reference T124 UMLS:C0080310	сердца желудочка левого функция
+N72	Reference T127 UMLS:CUILESS	степень ухудшения бду
+N73	Reference T126 UMLS:C0018827	сердца желудочки
+N74	Reference T71 UMLS:C0007258	l-karnitin
+N75	Reference T8 UMLS:C0264667	левый желудочек сердца, функция
+N76	Reference T123 UMLS:C3495916	гипертрофия миокарда
+N77	Reference T2 UMLS:C0080310	левый желудочек сердца, функция
+N78	Reference T84 UMLS:C0080310	сердца желудочка левого функция
+N79	Reference T107 UMLS:C0856055	применение мультивитаминных препаратов
+N80	Reference T148 UMLS:C0004057	ацетилсалициловая кислота
+N81	Reference T132 UMLS:C0277889	повышение дад
+N82	Reference T66 UMLS:C0012091	диклофенак
+N83	Reference T43 UMLS:C0010520	цианоз
+N84	Reference T108 UMLS:C0042890	витамины
+N85	Reference T28 UMLS:C0018787	сердце
+N86	Reference T103 UMLS:UNKNOWN	ацетилсалициловая кислота
+N87	Reference T47 UMLS:C0032835	калия, магния аспарагинат
+N88	Reference T1 UMLS:C2363985	кардиомиопатия (smq)
+N89	Reference T59 UMLS:C0018787	сердце
+N90	Reference T80 UMLS:C0080310	сердца желудочка левого функция
+N91	Reference T15 UMLS:C0018681	головные боли
+N92	Reference T94 UMLS:C0055014	цедакс
+N93	Reference T128 UMLS:C0428977	брадикардия
+N94	Reference T65 UMLS:C0007194	кардиомиопатия гипертрофическая
+N95	Reference T102 UMLS:C0242913	ноотропные средства
+N96	Reference T7 UMLS:C0878544	кардиомиопатии
+N97	Reference T139 UMLS:C0003364	антигипертензивные средства
+N98	Reference T146 UMLS:C0126174	лозартан
+N99	Reference T31 UMLS:C0003811	аритмия
+N100	Reference T101 UMLS:C0242913	ноотропные средства
+N101	Reference T26 UMLS:C0021547	рибоксин
+N102	Reference T112 UMLS:C0201898	аскорбиновая кислота
+N103	Reference T55 UMLS:C0242913	ноотропные средства
+N104	Reference T57 UMLS:C1699603	учащенное моргание
+N105	Reference T145 UMLS:C0006938	каптоприл
+N106	Reference T111 UMLS:C0856055	применение мультивитаминных препаратов
+N107	Reference T92 UMLS:C0126174	лозартан
+N108	Reference T14 UMLS:C3714552	слабость
+N109	Reference T27 UMLS:C0030193	боли
+N110	Reference T46 UMLS:C0856984	гипервозбудимость
+N111	Reference T70 UMLS:C0031977	пирацетам
+N112	Reference T52 UMLS:C0459914	ноотропные средства
+N113	Reference T9 UMLS:C0264716	хроническая сердечная недостаточность
+N114	Reference T45 UMLS:C4082769	посттравматическая энцефалопатия
+N115	Reference T40 UMLS:C1321782	гестоз
+N116	Reference T37 UMLS:C0030193	боли
+N117	Reference T29 UMLS:CUILESS	увеличение роста
+N118	Reference T93 UMLS:C0054066	амоксициллина-калия клавуланата комбинация
+N119	Reference T18 UMLS:C0038990	потливость
+N120	Reference T25 UMLS:C0020592	снотворные и седативные средства
+N121	Reference T120 UMLS:C0013428	дизурия
+N122	Reference T89 UMLS:C0018681	головная боль
+N123	Reference T137 UMLS:C0277884	повышение сад
+N124	Reference T44 UMLS:C0018818	врожденный порок сердца
+N125	Reference T21 UMLS:C0018787	сердце
+N126	Reference T135 UMLS:C0277884	повышение систолического артериального давления
+N127	Reference T30 UMLS:C0040132	щитовидная железа
+N128	Reference T91 UMLS:C0003364	антигипертензивные средства
+N129	Reference T42 UMLS:C0232257	систолический шум
+N130	Reference T109 UMLS:C0242913	ноотропные средства
+N131	Reference T68 UMLS:C0031977	пирацетам
+N132	Reference T78 UMLS:C0080310	сердца желудочка левого функция
+N133	Reference T116 UMLS:C0854606	системная антибактериальная терапия
+N134	Reference T60 UMLS:C0018681	головные боли
+#1	AnnotatorNotes T62	first_annotator_label: C0225973||synonyms: перикардиальная жидкость|perikardial'naia zhidkost'|жидкость в перикарде|zhidkost' v perikarde||||second_annotator_label: C0031050||synonyms: перикард|perikard||||third_annotator_label: C4285946||synonyms: сканирование с подавлением сигналов свободной жидкости||||bert: C0429636||synonyms: объем выделенной жидкости||||
+#2	AnnotatorNotes T141	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#3	AnnotatorNotes T119	first_annotator_label: C0020538||synonyms: гипертензия|gipertenziia|gipertonicheskaia bolezn'|krovianoe davlenie vysokoe|артериальная гипертония||||second_annotator_label: C1272641||synonyms: артериальное давление|aortal'noe davlenie krovi|ад|ad|aortal'noe davlenie||||third_annotator_label: C0497247||synonyms: повышение артериального давления|повышенное артериальное давление|подъем артериального давления|высокое артериальное давление|повышенное артериальное давления||||bert: C2926330||synonyms: кортикотропин^30 минут до 1 мкг/кг крг внутривенно:молконц:тчкврм:плаз:колич||||
+#4	AnnotatorNotes T69	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0854770||synonyms: плоскоклеточная карцинома пищевода, стадия 0|плоскоклеточная карцинома пищевода 0 стадии|плоскоклеточная карцинома пищевода in situ|плоскоклеточная карцинома пищевода, преинвазивная||||
+#5	AnnotatorNotes T105	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0943610||synonyms: желчная кислота^2 часа после приёма пищи:молконц:тчкврм:сыв:колич||||
+#6	AnnotatorNotes T85	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0797938||synonyms: глюкоза^3 часа после приема 100 г глюкозы через рот:молконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T10	first_annotator_label: C0002962||synonyms: стенокардия|stenokardiia|grudnaia zhaba|боли стенокардитического характера|боль стенокардитического характера||||second_annotator_label: C0488498||synonyms: функциональный статус:hx:тчкврм:^пациент:ном||||third_annotator_label: C0851408||synonyms: изменения физической активности||||bert: C0201973||synonyms: кк|креатинкиназа|креатинфосфокиназа|кфк||||
+#8	AnnotatorNotes T142	first_annotator_label: C0004057||synonyms: аспирин|aspirin|atsetilsalitsilovaia kislota|ацетилсалициловая кислота||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363723||synonyms: лютропин^1 час после 100 г лютропина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#9	AnnotatorNotes T73	first_annotator_label: C0025513||synonyms: активация метаболическая|lekarstvennykh veshchestv aktivatsiia|лекарственных веществ активация|aktivatsiia metabolicheskaia|metabolicheskaia aktivatsiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0854670||synonyms: электронно-лучевая терапия для лечения матки|электронная терапия матки||||
+#10	AnnotatorNotes T140	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T49	first_annotator_label: C0032835||synonyms: калия, магния аспартат|kaliia, magniia aspartat|kaliia, magniia asparaginat|калия, магния аспарагинат||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C5243569||synonyms: вакцинация против лихорадки денге|вакцинация от лихорадки денге||||
+#12	AnnotatorNotes T56	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0004606||synonyms: непролиферативная диабетическая ретинопатия|фоновая диабетическая ретинопатия||||
+#13	AnnotatorNotes T5	first_annotator_label: C0002962||synonyms: стенокардия|stenokardiia|grudnaia zhaba|боли стенокардитического характера|боль стенокардитического характера||||second_annotator_label: C0488498||synonyms: функциональный статус:hx:тчкврм:^пациент:ном||||third_annotator_label: C0851408||synonyms: изменения физической активности||||bert: C0201973||synonyms: кк|креатинкиназа|креатинфосфокиназа|кфк||||
+#14	AnnotatorNotes T83	first_annotator_label: C3495916||synonyms: гипертрофия миокарда||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C2717907||synonyms: изолированная некомпактность желудочкового миокарда|сердца желудочка левого изолированная некомпактность|izolirovannaia nekompaktnost' zheludochkovogo miokarda|serdtsa zheludochka levogo izolirovannaia nekompaktnost'|сердца желудочков изолированная некомпактность||||bert: C1442837||synonyms: некроз миокарда|очаги некроза миокарда|миокардиальный некроз||||
+#15	AnnotatorNotes T144	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2735386||synonyms: фоллитропин^10 минут до дозы гонадолиберина:произвконц:тчкврм:сыв/плаз:колич||||
+#16	AnnotatorNotes T16	first_annotator_label: C0020538||synonyms: гипертензия|gipertenziia|gipertonicheskaia bolezn'|krovianoe davlenie vysokoe|артериальная гипертония||||second_annotator_label: C0860663||synonyms: повышение давления co2||||third_annotator_label: C0497247||synonyms: повышение артериального давления|повышенное артериальное давление|подъем артериального давления|высокое артериальное давление|повышенное артериальное давления||||bert: C0860757||synonyms: повышение давления кислорода||||
+#17	AnnotatorNotes T106	first_annotator_label: C0206112||synonyms: магния соединения|magniia soedineniia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0024467||synonyms: магний|magnii||||bert: C0949720||synonyms: hmgb3 белок|hmgb2a|hmgb3 belok||||
+#18	AnnotatorNotes T110	first_annotator_label: C0017890||synonyms: глицин|glitsin|aminouksusnaia kislota|diazoatsetilglitsinamid|glikokol||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033613||synonyms: защитные средства лекарственные|antitoksicheskie sredstva|lekarstvennye zashchitnye sredstva|zashchitnye sredstva lekarstvennye|антитоксические средства||||bert: C0035918||synonyms: резина|rezina|elastik|lateksnaia rezina|латексная резина||||
+#19	AnnotatorNotes T143	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C4761129||synonyms: повышение дозы лекарственного препарата||||bert: C3655022||synonyms: инсулин^1 час после приема 75 г глюкозы через рот:молконц:тчкврм:сыв/плаз:колич||||
+#20	AnnotatorNotes T74	first_annotator_label: C0242625||synonyms: пэтч-кламп методы|petch-fiksiruiushchie metody|petch-klamp metody|metod lokal'noi fiksatsii potentsiala|патч-кламп методы||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0855329||synonyms: изменения на электрокардиограмме|изменения на экг|изменения на электрокардиограмме бду||||bert: C0340515||synonyms: угнетение функции миокарда||||
+#21	AnnotatorNotes T129	first_annotator_label: C0020538||synonyms: гипертензия|gipertenziia|gipertonicheskaia bolezn'|krovianoe davlenie vysokoe|артериальная гипертония||||second_annotator_label: C0033095||synonyms: давление|davlenie||||third_annotator_label: C0497247||synonyms: повышение артериального давления|повышенное артериальное давление|подъем артериального давления|высокое артериальное давление|повышенное артериальное давления||||bert: C0484590||synonyms: глюкоза^30 минут после приема 75 г глюкозы через рот:prthr:тчкврм:моча:пор:тест-полоска||||
+#22	AnnotatorNotes T127	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0018799||synonyms: сердца болезни|serdtsa bolezni|нарушения со стороны сердца|card|поражения сердца, бду||||bert: C0018273||synonyms: роста нарушения|rosta narusheniia|нарушение роста||||
+#23	AnnotatorNotes T8	first_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||second_annotator_label: C2363985||synonyms: кардиомиопатия (smq)||||third_annotator_label: C0264667||synonyms: нарушение со стороны папиллярных мышц|нарушение со стороны сосочковых мышц, бду||||bert: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||
+#24	AnnotatorNotes T107	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C1978292||synonyms: кортикотропин^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#25	AnnotatorNotes T43	first_annotator_label: C0010520||synonyms: цианоз|tsianoz|синюшный|цианоз, бду||||second_annotator_label: C0232257||synonyms: систолические шумы|систолический шум|sistolicheskie shumy||||third_annotator_label: C0332579||synonyms: синюшность||||bert: C0039097||synonyms: синовиальная жидкость|sinovial'naia zhidkost'|sinoviia|синовия||||
+#26	AnnotatorNotes T108	first_annotator_label: C0042890||synonyms: витамины|vitaminy||||second_annotator_label: C0021528||synonyms: инозин|inozin||||third_annotator_label: C0016410||synonyms: фолиевая кислота|folievaia kislota|vitamin bc|витамин bc|folatsin||||bert: C0010830||synonyms: cytophagaceae|tsitofagovye|flexibacteraceae|цитофаговые||||
+#27	AnnotatorNotes T103	first_annotator_label: C0004057||synonyms: аспирин|aspirin|atsetilsalitsilovaia kislota|ацетилсалициловая кислота||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363637||synonyms: глюкоза^1 час после приема 100 г глюкозы через рот:массконц:тчкврм:моча:колич||||
+#28	AnnotatorNotes T139	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#29	AnnotatorNotes T146	first_annotator_label: C0126174||synonyms: лозартан|lozartan||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0995158||synonyms: косатка|killer whale|kosatka||||
+#30	AnnotatorNotes T101	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C2973213||synonyms: фабри болезнь новорожденных скрининг панель:-:тчкврм:кр.сух.капл:-||||
+#31	AnnotatorNotes T112	first_annotator_label: C0201898||synonyms: витамин c|аскорбиновая кислота||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C0857241||synonyms: аскорбат||||
+#32	AnnotatorNotes T111	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0968475||synonyms: матрикса металлопротеиназа 12|металлопротеиназа 12 матриксная|матрикс-металлопротеиназа-12|metalloproteinaza 12 matriksnaia|matriks-metalloproteinaza-12||||
+#33	AnnotatorNotes T92	first_annotator_label: C0126174||synonyms: лозартан|lozartan||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0995158||synonyms: косатка|killer whale|kosatka||||
+#34	AnnotatorNotes T52	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0061605||synonyms: рецепторы глицина|retseptory glitsina|glitsina retseptory|глицина рецепторы||||
+#35	AnnotatorNotes T29	first_annotator_label: C0231249||synonyms: увеличение роста||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0231249||synonyms: увеличение роста||||
+#36	AnnotatorNotes T25	first_annotator_label: C0020592||synonyms: снотворные и седативные средства|snotvornye i sedativnye sredstva|snotvornye sredstva nebarbiturovye|barbituraty sedativnye|gipnoticheskie i sedativnye sredstva||||second_annotator_label: C0031412||synonyms: фенобарбитал|fenobarbital|fenemal|fenilbarbital|fenobarbiton||||third_annotator_label: C0042402||synonyms: сосудорасширяющие средства|sosudorasshiriaiushchie sredstva|vazoaktivnye antagonisty|вазоактивные антагонисты||||bert: C0331143||synonyms: calotropis||||
+#37	AnnotatorNotes T44	first_annotator_label: C0152021||synonyms: врожденный порок сердца|врожденные аномалии (пороки развития) сердца|врожденная патология сердца, бду|врожденная патология сердца (бду)||||second_annotator_label: C0037763||synonyms: спазм|spazm|мышечный спазм|спазм мышц|спазмы||||third_annotator_label: C0018818||synonyms: межжелудочковой перегородки дефекты|mezhzheludochkovoi peregorodki defekty|врожденный дефект межжелудочковой перегородки|дефект межжелудочковой перегородки, бду|дефект межжелудочковой перегородки||||bert: C0037763||synonyms: спазм|spazm|мышечный спазм|спазм мышц|спазмы||||
+#38	AnnotatorNotes T91	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#39	AnnotatorNotes T109	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C1545170||synonyms: жёлтая лихорадка вирус ат^1-й образец:титр:тчкврм:сыв:колич||||
+#40	AnnotatorNotes T116	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0338237||synonyms: антибиотикотерапия||||bert: C0854602||synonyms: местная антибактериальная терапия||||

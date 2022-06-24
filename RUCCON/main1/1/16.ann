@@ -1,0 +1,227 @@
+T31	Drug 3095 3102	Полудан
+T34	Treatment 4500 4566	употреблять продукты, содержащие ионы калия, кальция, магний, йода
+T56	Treatment 5520 5573	Серетид 250/50 мкг по 1 инг. 2 раза в день продолжить
+T43	Drug 4735 4741	Глицин
+T79	Drug 6344 6358	нейромультивит
+T91	Drug 2155 2161	Изофра
+T18	Treatment 2082 2200	промывание носа Физиомером (с 2х недель и старше) 3 раза в день, далее – Изофра по 2 инстилляции 3 раза в день, 7 дней
+T32	Drug 3133 3144	Левомицетин
+T77	Drug 6305 6312	танакан
+T95	Drug 4111 4118	Хофитол
+T83	Drug 6611 6618	маалокс
+T64	Drug 5783 5793	пульмикорт
+T93	Drug 3920 3930	Гастрофарм
+T33	Drug 3171 3191	Тетрациклиновая мазь
+T87	Treatment 6851 6966	Одновременно с гастрофармом: хофитол по 1 таблетке 3 раза в день, за 20 минут до еды – по 2 недели/месяца – 2 курса
+T28	Treatment 3171 3210	Тетрациклиновая мазь – на ночь, за веки
+T88	Drug 6880 6887	хофитол
+T49	Drug 4987 4994	серетид
+T75	Drug 6223 6229	глицин
+T52	Drug 5044 5050	изофра
+T50	Drug 5021 5029	беродуал
+T55	Treatment 5458 5515	Пикфлоуметрия ежедневно, с ведением дневника самоконтроля
+T20	Treatment 2249 2312	Орошать рот препаратом Октенисепт Спрей 3 раза в день, 2 недели
+T21	Drug 2272 2282	Октенисепт
+T2	Severity 1523 1529	Легкая
+T36	Treatment 4595 4657	лечебные соляно-хвойные ванны по 15, 37С, 2 раза в неделю, №20
+T25	Treatment 3037 3090	Глазные капли Офтальмоферон по 1-2 капли 6 раз в день
+T81	Treatment 6578 6606	дыхательный тест на H.Pylori
+T73	Treatment 6223 6300	глицин 0,1 3 раза в день 6 недель по схеме: 2 недели прием  2 недели перерыв
+T41	Treatment 4856 4906	Нейромультивит по 1 таблетке 2 раза в день 30 дней
+T46	Treatment 4977 5075	физиомер, серетид 250/50 мкг 2 раза в день; беродуал усл.; ксизал; изофра, октенисепт спрей местно
+T80	Treatment 6481 6573	диета №6, дробно, с исключением жирного, жареного, острого, копченого, газированных напитков
+T85	Drug 6763 6774	мезим-форте
+T69	Treatment 6059 6078	утренняя гимнастика
+T78	Treatment 6344 6394	нейромультивит по 1 таблетке 2 раза в день 30 дней
+T24	Treatment 2995 3032	промыть р-ром Фурацилина 6 раз в день
+T59	Drug 5634 5642	вентолин
+T51	Drug 5036 5042	ксизал
+T5	Disease 1568 1599	блокада правой ножки пучка Гиса
+T57	Drug 5520 5527	Серетид
+T29	Drug 3009 3019	Фурацилина
+T53	Drug 5052 5062	октенисепт
+T71	Treatment 6150 6167	массаж спины № 10
+T17	Disease 1618 1644	дисфункцию синусового узла
+T90	Drug 2098 2108	Физиомером
+T63	Drug 5762 5770	беродуал
+T76	Treatment 6305 6339	танакан 0,04 3 раза в день 30 дней
+T8	Body_location 1998 2007	аденоидов
+T22	Treatment 2317 2355	промывать нос методом «перемещения» №3
+T14	Course 3611 3628	неполная ремиссия
+T40	Treatment 4817 4851	танакан 0,04 3 раза в день 30 дней
+T67	Drug 5890 5899	лазолвана
+T72	Treatment 6172 6218	Магне В6 по 1 таблетке 2 раза в день, 2 месяца
+T9	Severity 2008 2018	II степени
+T70	Treatment 6083 6145	лечебные соляно-хвойные ванны по 15, 37С, 2 раза в неделю, №20
+T27	Treatment 3133 3166	Левомицетин по 1-2 к 6 раз в день
+T7	Disease 1986 2007	Гипертрофия аденоидов
+T6	Severity 1559 1567	Неполная
+T23	Treatment 2360 2422	через 1 месяц проведение диагностической эндоскопии носоглотки
+T65	Treatment 5744 5827	через небулайзер: беродуал 15 капель + пульмикорт 250 мкг 3 раза в день на 5-7 дней
+T3	Disease 1550 1557	аритмия
+T13	Disease 3595 3609	гастродуоденит
+T48	Drug 4977 4985	физиомер
+T66	Treatment 5880 5958	ингаляции лазолвана в растворе 2 мл 3 раза в день (не позднее 18.00) на 5 дней
+T45	Drug 4856 4870	Нейромультивит
+T44	Drug 4817 4824	танакан
+T86	Treatment 6763 6846	мезим-форте по 1 таблетке 3 раза в день, во время еды по 10 дней/месяца – 2-3 курса
+T26	Treatment 3095 3128	Полудан по 1-2 капли 6 раз в день
+T92	Drug 3842 3849	Маалокс
+T10	Disease 2020 2041	Хронический аденоидит
+T47	Treatment 5077 5127	Проведено промывание носа методом «перемещения» №3
+T16	Body_location 4401 4421	соединительной ткани
+T4	Severity 1543 1549	Резкая
+T84	Drug 6689 6699	гастрофарм
+T11	Disease 2043 2062	Аллергический ринит
+T89	Drug 6866 6878	гастрофармом
+T1	Disease 1530 1541	брадикардия
+T39	Treatment 4735 4812	Глицин 0,1 3 раза в день 6 недель по схеме: 2 недели прием  2 недели перерыв
+T42	Drug 4684 4692	Магне В6
+T94	Drug 4097 4109	Гастрофармом
+T30	Drug 3051 3064	Офтальмоферон
+T54	Treatment 5410 5453	Гипоаллергенная диета, элиминационный режим
+T61	Drug 5657 5664	саламол
+T62	Disease 5740 5743	ОРИ
+T12	Disease 2964 2976	конъюнктивит
+T58	Treatment 5634 5712	вентолин (беродуал или саламол) по 2 ингаляции через спейсер до 3-х раз в день
+T96	Disease 4241 4272	Синдром вегетативной дисфункции
+T19	Treatment 2205 2244	Ксизал по 1 таблетке 1 раз в день утром
+T37	Treatment 4662 4679	массаж спины № 10
+T38	Treatment 4684 4730	Магне В6 по 1 таблетке 2 раза в день, 2 месяца
+T74	Drug 6172 6180	Магне В6
+T82	Treatment 6611 6758	маалокс по 1 столовой ложке 3 раза вдень, за 1 час до еды – 10-14 дней, затем гастрофарм по 1 таблетке 3 раза в день, за 30 минут до еды – 2 недели
+T35	Treatment 4571 4590	утренняя гимнастика
+T68	Treatment 5988 6054	употреблять продукты, содержащие ионы калия, кальция, магний, йода
+T60	Drug 5644 5652	беродуал
+T15	Disease 4380 4400	Врожденная дисплазия
+N1	Reference T31 UMLS:C0003451	противовирусные средства
+N2	Reference T34 UMLS:C3541460	добавки калия
+N3	Reference T56 UMLS:C0035239	введение лекарств ингаляционное
+N4	Reference T43 UMLS:C0017890	глицин
+N5	Reference T79 UMLS:C0042890	витамины
+N6	Reference T91 UMLS:C0016673	фрамицетин
+N7	Reference T18 UMLS:C0013154	промывание носа
+N8	Reference T32 UMLS:C0008168	левомицетин
+N9	Reference T77 UMLS:C0949854	профилактика острого нарушения мозгового кровообращения
+N10	Reference T95 UMLS:C0008304	желчегонные и желчеобразующие средства
+N11	Reference T83 UMLS:C0003138	антацидные средства
+N12	Reference T64 UMLS:C0054201	будесонид
+N13	Reference T93 UMLS:C4018878	кишечника микрофлора
+N14	Reference T33 UMLS:C0039644	тетрациклин
+N15	Reference T87 UMLS:C0013154	заместительная терапия
+N16	Reference T28 UMLS:C0854602	местная антибактериальная терапия
+N17	Reference T88 UMLS:C0008304	желчегонные и желчеобразующие средства
+N18	Reference T49 UMLS:C0939232	серетид
+N19	Reference T75 UMLS:C0017890	глицин
+N20	Reference T52 UMLS:C0016673	фрамицетин
+N21	Reference T50 UMLS:C0015840	фенотерол
+N22	Reference T55 UMLS:C0035423	флоуметрия
+N23	Reference T20 UMLS:C0013154	ротовая полость, жидкость для полоскания
+N24	Reference T21 UMLS:C0003205	антисептики
+N25	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N26	Reference T36 UMLS:C1504484	лечебные ванны
+N27	Reference T25 UMLS:C0013154	глазные капли
+N28	Reference T81 UMLS:C0079488	helicobacter pylori
+N29	Reference T73 UMLS:C0013154	ноотропные средства
+N30	Reference T41 UMLS:C0856055	применение мультивитаминных препаратов
+N31	Reference T46 UMLS:C0013154	комплексонная терапия
+N32	Reference T80 UMLS:C0242970	диета с ограничением жиров
+N33	Reference T85 UMLS:C0030304	панкреатин
+N34	Reference T69 UMLS:C0018409	ритмическая гимнастика
+N35	Reference T78 UMLS:C0856055	применение мультивитаминных препаратов
+N36	Reference T24 UMLS:C2936738	ротовая полость, жидкость для полоскания
+N37	Reference T59 UMLS:C0001927	сальбутамол
+N38	Reference T51 UMLS:C0055147	цетиризин
+N39	Reference T5 UMLS:C0085615	блокада правой ножки пучка гиса
+N40	Reference T57 UMLS:C0939232	серетид
+N41	Reference T29 UMLS:C0028157	фурацилин
+N42	Reference T53 UMLS:C0003205	антисептики
+N43	Reference T71 UMLS:C0024875	массаж
+N44	Reference T17 UMLS:C0428908	дисфункция синусового узла
+N45	Reference T90 UMLS:C0036499	вода морская
+N46	Reference T63 UMLS:C0015840	фенотерол
+N47	Reference T76 UMLS:C0013154	профилактика острого нарушения мозгового кровообращения
+N48	Reference T8 UMLS:C1112640	аденоиды
+N49	Reference T22 UMLS:C2350442	промывание носа
+N50	Reference T14 UMLS:C3888824	ремиссия не достигнута
+N51	Reference T40 UMLS:C0013154	профилактика острого нарушения мозгового кровообращения
+N52	Reference T67 UMLS:C0002421	амброксол
+N53	Reference T72 UMLS:C0013154	витаминные добавки
+N54	Reference T70 UMLS:C1504484	лечебные ванны
+N55	Reference T27 UMLS:C0854606	системная антибактериальная терапия
+N56	Reference T7 UMLS:C0149825	гипертрофия исключительно аденоидов
+N57	Reference T6 UMLS:C0859049	блокада неполная
+N58	Reference T23 UMLS:C0014245	эндоскопия
+N59	Reference T65 UMLS:C0035239	введение лекарств ингаляционное
+N60	Reference T3 UMLS:C0003811	аритмия
+N61	Reference T13 UMLS:C0017155	гастродуоденит
+N62	Reference T48 UMLS:C0036499	вода морская
+N63	Reference T66 UMLS:C0035239	введение лекарств ингаляционное
+N64	Reference T45 UMLS:C0042890	витамины
+N65	Reference T44 UMLS:C0949854	протекторы
+N66	Reference T86 UMLS:C0598391	фермент-заместительная терапия
+N67	Reference T26 UMLS:C0854609	системная противовирусная профилактика
+N68	Reference T92 UMLS:C0003138	антацидные средства
+N69	Reference T10 UMLS:C0001427	аденоидит
+N70	Reference T47 UMLS:C2350442	промывание носа
+N71	Reference T16 UMLS:C0009781	соединительной ткани клетки
+N72	Reference T4 UMLS:C0235048	резкая боль
+N73	Reference T84 UMLS:C4018878	желудочно-кишечного тракта микробиом
+N74	Reference T11 UMLS:C2607914	аллергический ринит
+N75	Reference T89 UMLS:C4018878	желудочно-кишечного тракта микробиом
+N76	Reference T1 UMLS:C0428977	брадикардия
+N77	Reference T39 UMLS:C0013154	ноотропные средства
+N78	Reference T42 UMLS:C1096534	добавки магния
+N79	Reference T94 UMLS:C4018878	желудочно-кишечного тракта микробиом
+N80	Reference T30 UMLS:C0021747	интерфероны
+N81	Reference T54 UMLS:C0425402	медицинская диета
+N82	Reference T61 UMLS:C0001927	сальбутамол
+N83	Reference T62 UMLS:C0035243	респираторные инфекции
+N84	Reference T12 UMLS:C0009763	конъюнктивит
+N85	Reference T58 UMLS:C0001559	введение лекарств ингаляционное
+N86	Reference T96 UMLS:C1145628	вегетативная дисфункция
+N87	Reference T19 UMLS:C0013154	противоаллергические средства
+N88	Reference T37 UMLS:C0024875	массаж
+N89	Reference T38 UMLS:C1533658	витаминные добавки
+N90	Reference T74 UMLS:C1096534	добавки магния
+N91	Reference T82 UMLS:C1096697	применение антацидов
+N92	Reference T35 UMLS:C0018409	ритмическая гимнастика
+N93	Reference T68 UMLS:C3541460	добавки калия
+N94	Reference T60 UMLS:C0015840	фенотерол
+N95	Reference T15 UMLS:C4551649	бедра дисплазия врожденная
+#1	AnnotatorNotes T31	first_annotator_label: C0003451||synonyms: противовирусные средства|protivovirusnye sredstva|virusov ingibitory|вирусов ингибиторы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0001551||synonyms: адъюванты иммунологические|ad"iuvanty immunologicheskie|immunoad"iuvanty|immunoaktivatory|immunomoduliatory||||bert: C3850086||synonyms: ладан|olibanum|ладанная смола|олибанум|ladannaia smola||||
+#2	AnnotatorNotes T56	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0482582||synonyms: соматотропин^до 250 мкг l-допа трижды в день 2 дня через рот:массконц:тчкврм:сыв/плаз:колич||||
+#3	AnnotatorNotes T91	first_annotator_label: C0016673||synonyms: фрамицетин|framitsetin|neomitsin b|неомицин b||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C0022180||synonyms: изофлуран|izofluran||||
+#4	AnnotatorNotes T18	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363575||synonyms: кортизол^9 часов после 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T77	first_annotator_label: C0877155||synonyms: профилактика острого нарушения мозгового кровообращения||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0949854||synonyms: растительные препараты|preparaty, poluchennye iz rastenii|rastitel'nye preparaty|препараты, полученные из растений||||bert: C0009208||synonyms: тараканы|tarakany||||
+#6	AnnotatorNotes T93	first_annotator_label: C4018878||synonyms: желудочно-кишечного тракта микробиом|zheludochno-kishechnogo trakta flora|zheludochno-kishechnogo trakta mikrobiom|желудочно-кишечного тракта флора|gastrointestinal'nyi mikrobiom||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003138||synonyms: антацидные средства|antatsidnye sredstva||||bert: C0156088||synonyms: гастроптоз|пролапс желудка||||
+#7	AnnotatorNotes T87	first_annotator_label: C1535890||synonyms: заместительная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0882479||synonyms: западного конского энцефалита вирус ат^2-й образец:титр:тчкврм:сыв:колич:иф||||
+#8	AnnotatorNotes T28	first_annotator_label: C0854602||synonyms: местная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C0483618||synonyms: тетрациклин:чув:тчкврм:изолят:поркол:градиентная полоска||||
+#9	AnnotatorNotes T52	first_annotator_label: C0016673||synonyms: фрамицетин|framitsetin|neomitsin b|неомицин b||||second_annotator_label: C0001897||synonyms: аламецитин|alametsitin||||third_annotator_label: C0854602||synonyms: местная антибактериальная терапия||||bert: C0022180||synonyms: изофлуран|izofluran||||
+#10	AnnotatorNotes T20	first_annotator_label: C0026647||synonyms: ротовая полость, жидкость для полоскания|rotovaia polost', zhidkost' dlia poloskaniia|зубной элексир|полоскания для рта|poloskaniia dlia rta||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2242590||synonyms: терапевтическое полоскание||||bert: C2926256||synonyms: с пептид^2 минуты после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0024109||synonyms: легкие|legkie||||bert: C0024109||synonyms: легкие|legkie||||
+#12	AnnotatorNotes T25	first_annotator_label: C0029083||synonyms: глазные капли|glaznye kapli||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0854600||synonyms: местное противовирусное лечение||||bert: C2355596||synonyms: молоткообразное искривление большого пальца стопы||||
+#13	AnnotatorNotes T73	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977048||synonyms: кальцитонин^2 минуты после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T41	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1953275||synonyms: тиреотропин^30 минут после дозы люлиберина внутривенно:произвконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T46	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0797052||synonyms: дегидроэпиандростерон^1 час после 250 мкг кортикотропина:массконц:тчкврм:сыв/плаз:колич||||
+#16	AnnotatorNotes T85	first_annotator_label: C0030304||synonyms: панкреатин|pankreatin|креон|kreon||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0428348||synonyms: ферменты поджелудочной железы|ферменты поджелудочной железы бду||||bert: C0058218||synonyms: диметилфумарат|текфидера|dimetilfumarat|fumaderm|tekfidera||||
+#17	AnnotatorNotes T78	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1953275||synonyms: тиреотропин^30 минут после дозы люлиберина внутривенно:произвконц:тчкврм:сыв/плаз:колич||||
+#18	AnnotatorNotes T24	first_annotator_label: C0026647||synonyms: ротовая полость, жидкость для полоскания|rotovaia polost', zhidkost' dlia poloskaniia|зубной элексир|полоскания для рта|poloskaniia dlia rta||||second_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||third_annotator_label: C2936738||synonyms: терапевтическая ирригация|lavazh|promyvanie|лаваж|промывание||||bert: C2966682||synonyms: кортизол^после 6 мг дексаметазона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#19	AnnotatorNotes T76	first_annotator_label: C0877155||synonyms: профилактика острого нарушения мозгового кровообращения||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0083298||synonyms: тетраспанин 30|antigeny cd63|melanomy antigen me491|гранулофизин|tetraspanin 30||||
+#20	AnnotatorNotes T40	first_annotator_label: C0877155||synonyms: профилактика острого нарушения мозгового кровообращения||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0083298||synonyms: тетраспанин 30|antigeny cd63|melanomy antigen me491|гранулофизин|tetraspanin 30||||
+#21	AnnotatorNotes T72	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1830291||synonyms: кортикотропин^2 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#22	AnnotatorNotes T65	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0484574||synonyms: кортизол^1.5 часа после 250 мкг кортикотропина внутримышечно:массконц:тчкврм:сыв/плаз:колич||||
+#23	AnnotatorNotes T66	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C2735217||synonyms: водород/выдыхаемый газ^2.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#24	AnnotatorNotes T44	first_annotator_label: C0033612||synonyms: защитные приспособления|zashchitnye prisposobleniia|protektory|протекторы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0949854||synonyms: растительные препараты|preparaty, poluchennye iz rastenii|rastitel'nye preparaty|препараты, полученные из растений||||bert: C0009208||synonyms: тараканы|tarakany||||
+#25	AnnotatorNotes T86	first_annotator_label: C0598391||synonyms: фермент-заместительная терапия|фермент заместительная терапия|zamestitel'naia fermentnaia terapiia|ferment zameshchaiushchaia terapiia|заместительная ферментная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0482512||synonyms: кортизол^до 3 г метирапона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#26	AnnotatorNotes T26	first_annotator_label: C0854609||synonyms: системная противовирусная профилактика|профилактическое применение системных противовирусных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535924||synonyms: иммуностимулирующая терапия||||bert: C3173124||synonyms: сколько лет вы пили алкогольные напитки как минимум раз в неделю на протяжении 6 и более месяцев:время:тчкврм:^пациент:колич:phenx||||
+#27	AnnotatorNotes T84	first_annotator_label: C4018878||synonyms: желудочно-кишечного тракта микробиом|zheludochno-kishechnogo trakta flora|zheludochno-kishechnogo trakta mikrobiom|желудочно-кишечного тракта флора|gastrointestinal'nyi mikrobiom||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003138||synonyms: антацидные средства|antatsidnye sredstva||||bert: C0156088||synonyms: гастроптоз|пролапс желудка||||
+#28	AnnotatorNotes T89	first_annotator_label: C4018878||synonyms: желудочно-кишечного тракта микробиом|zheludochno-kishechnogo trakta flora|zheludochno-kishechnogo trakta mikrobiom|желудочно-кишечного тракта флора|gastrointestinal'nyi mikrobiom||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003138||synonyms: антацидные средства|antatsidnye sredstva||||bert: C0017193||synonyms: гастропластика|gastroplastika||||
+#29	AnnotatorNotes T39	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1977048||synonyms: кальцитонин^2 минуты после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#30	AnnotatorNotes T42	first_annotator_label: C1096534||synonyms: добавки магния||||second_annotator_label: C0024467||synonyms: магний|magnii||||third_annotator_label: C0202251||synonyms: витамин b6||||bert: C0162799||synonyms: рибонуклеопротеин u4-u6 малый ядерный|malye iadernye ribonukleoproteiny u4-u6|malye iadernye ribonukleoproteiny u4|malye iadernye ribonukleoproteiny u6|miarnp u4-u6||||
+#31	AnnotatorNotes T94	first_annotator_label: C4018878||synonyms: желудочно-кишечного тракта микробиом|zheludochno-kishechnogo trakta flora|zheludochno-kishechnogo trakta mikrobiom|желудочно-кишечного тракта флора|gastrointestinal'nyi mikrobiom||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003138||synonyms: антацидные средства|antatsidnye sredstva||||bert: C0017193||synonyms: гастропластика|gastroplastika||||
+#32	AnnotatorNotes T54	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#33	AnnotatorNotes T19	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C1716143||synonyms: алкогольные напитки в неделю:колскор:1 неделя:^пациент:колич:сообщенный||||
+#34	AnnotatorNotes T38	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1830291||synonyms: кортикотропин^2 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#35	AnnotatorNotes T74	first_annotator_label: C1096534||synonyms: добавки магния||||second_annotator_label: C0162799||synonyms: рибонуклеопротеин u4-u6 малый ядерный|malye iadernye ribonukleoproteiny u4-u6|malye iadernye ribonukleoproteiny u4|malye iadernye ribonukleoproteiny u6|miarnp u4-u6||||third_annotator_label: C0087162||synonyms: витамин b 6|vitamin b6|vitamin b 6|витамин b6||||bert: C0162799||synonyms: рибонуклеопротеин u4-u6 малый ядерный|malye iadernye ribonukleoproteiny u4-u6|malye iadernye ribonukleoproteiny u4|malye iadernye ribonukleoproteiny u6|miarnp u4-u6||||
+#36	AnnotatorNotes T82	first_annotator_label: C1096697||synonyms: применение антацидов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0551555||synonyms: алкогольные напитки в злоупотребление день:колскор:1 день:^пациент:колич:сообщенный||||

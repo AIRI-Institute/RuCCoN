@@ -1,0 +1,363 @@
+T90	Severity 11960 11975	средней степени
+T8	Symptom 1236 1266	жидкий стул со слизью и кровью
+T164	Drug 11559 11569	кальцинова
+T135	Body_location 7083 7097	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T38	Drug 3002 3010	блемарен
+T37	Treatment 2988 3043	Сода 2гр\сут, блемарен по 4 таб\сут, Энап 1,25мгх2р\сут
+T138	Symptom 7208 7218	измененная
+T68	Course 10677 10691	вне обострения
+T160	Body_location 10586 10596	желудочков
+T27	Disease 2436 2454	Бронхиальная астма
+T102	Treatment 13008 13151	курс массажа спины, воротниковой зоны, ЛФК, корригирующая осанку и состав массы тела с большой долей циклических упр-ий умеренной интенсивности
+T60	Symptom 3805 3813	изменена
+T33	Treatment 2753 2797	купировали по СМП в/м введением преднизолона
+T139	Body_location 7330 7336	ПЕЧЕНЬ
+T21	Disease 2234 2259	Хроническая болезнь почек
+T133	Body_location 6420 6440	зрительный перекрест
+T143	Body_location 7775 7795	поджелудочной железы
+T59	Body_location 3774 3791	Сердечная область
+T103	Treatment 13153 13240	В терапии получает соду 2.0гр, блемарен по 1 табх4 раза в сутки, энап по 2,5 мг в сутки
+T115	Symptom 4565 4573	расширен
+T128	Body_location 6243 6257	Турецкое седло
+T159	Disease 10537 10596	Парциальный синдром преждевременного возбуждения желудочков
+T42	Symptom 3233 3239	чистые
+T163	Drug 11550 11557	центрум
+T6	Disease 1172 1184	Пиелонефрита
+T78	Drug 11006 11016	пульмикорт
+T158	Disease 10470 10510	Неполная блокада правой ножки пучка Гиса
+T131	Symptom 6292 6301	расширена
+T166	Drug 11424 11437	морской солью
+T31	Symptom 2594 2598	храп
+T50	Symptom 3392 3398	отеков
+T127	Symptom 6144 6157	деформированы
+T67	Disease 10653 10675	стенозирующий ларингит
+T52	Symptom 3514 3553	вальгусная деформация коленных суставов
+T165	Drug 11571 11582	мульти-табс
+T126	Symptom 6130 6139	расширены
+T74	Disease 10786 10802	Пищевая аллергия
+T63	Symptom 3948 3954	мягкий
+T134	Symptom 6444 6451	смещены
+T86	Treatment 11507 11608	Поливитамины с кальцием (киндер-биовиталь, центрум, кальцинова, мульти-табс) - по 1 мес. 3 раза в год
+T3	Treatment 141 196	ингаляциями пульмикорта или преднизолоном парентерально
+T142	Disease 7755 7795	вторичных изменений поджелудочной железы
+T40	Body_location 3208 3222	Кожные покровы
+T80	Drug 11100 11109	Супрастин
+T23	Severity 2259 2267	1 стадии
+T119	Symptom 4665 4681	дифференцирована
+T29	Drug 2490 2500	беродуалом
+T92	Disease 12139 12178	вальгусная деформация коленных суставов
+T151	Symptom 9545 9554	расширено
+T146	Body_location 8923 8928	АОРТА
+T69	Disease 10693 10701	Аденоиды
+T70	Severity 10702 10713	II - III ст
+T96	Symptom 12180 12196	нарушение осанки
+T156	Disease 10419 10426	АРИТМИЯ
+T54	Symptom 3677 3705	Носовое дыхание затрудненное
+T99	Treatment 12685 12748	Нейромультивит по 1 таб 1 раз утром в течении 30 дней после еды
+T149	Symptom 9148 9157	расширена
+T82	Disease 11281 11304	Плоско-вальгусные стопы
+T25	Drug 2309 2317	блемарен
+T62	Symptom 3928 3936	увеличен
+T4	Disease 595 602	желтуха
+T71	Disease 10715 10746	Искривление носовой перегородки
+T44	Symptom 3261 3268	розовые
+T107	Drug 12685 12699	Нейромультивит
+T53	Body_location 3536 3553	коленных суставов
+T121	Symptom 4786 4794	расширен
+T113	Symptom 4444 4460	дифференцирована
+T109	Body_location 11299 11304	стопы
+T124	Symptom 6083 6109	на уровне линии Чемберлена
+T94	Body_location 12133 12137	стоп
+T77	Treatment 11006 11114	пульмикорт через небулайзер 1000 мкг, при неэффективности - в/м - Дексаметазон 8 мг (2 мл). + Супрастин 2 мл
+T161	Drug 10908 10918	беродуалом
+T87	Treatment 11610 11674	лечебная физ.культура (ЛФК) длительно, ежедневно, самостоятельно
+T61	Body_location 3922 3927	Живот
+T137	Body_location 7186 7206	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T141	Symptom 7513 7523	нормальная
+T57	Symptom 3738 3744	хрипов
+T49	Symptom 3318 3324	чистые
+T162	Drug 11507 11519	Поливитамины
+T122	Disease 4930 4945	нефрокальциноза
+T89	Disease 11943 11956	Гиперметропия
+T12	Symptom 1561 1577	потерей сознания
+T95	Body_location 12161 12178	коленных суставов
+T28	Treatment 2468 2574	небулайзерная терапия беродуалом с пульмикортом, а также обострения купировались по СМП в/м инъекциями ГКС
+T43	Body_location 3241 3259	Слизистые оболочки
+T98	Treatment 12589 12680	Эскулюс композитум по 8 капель 3 раза в день до еды за 15-20 минут до еды в течении 30 дней
+T140	Body_location 7502 7511	СЕЛЕЗЕНКА
+T64	Symptom 3956 3970	безболезненный
+T56	Symptom 3716 3736	дыхание везикулярное
+T15	Disease 1842 1856	Нефрокальциноз
+T58	Symptom 3815 3845	Тоны сердца звучные, ритмичные
+T112	Body_location 4434 4443	Паренхима
+T150	Body_location 9514 9530	ЛЕВОЕ ПРЕДСЕРДИЕ
+T153	Symptom 9588 9597	расширено
+T39	Drug 3025 3029	Энап
+T13	Disease 1630 1636	ацидоз
+T10	Symptom 1388 1393	рвота
+T110	Body_location 4354 4365	ЛЕВАЯ ПОЧКА
+T101	Treatment 12835 12895	Капли Зеленина 12-13 капель 3 раза в сутки в течении 30 дней
+T34	Drug 2785 2797	преднизолона
+T14	Disease 1812 1840	Дистальный тубулярный ацидоз
+T147	Symptom 8933 8942	расширена
+T5	Disease 761 781	атопический дерматит
+T48	Body_location 3308 3317	миндалины
+T1	Drug 153 164	пульмикорта
+T73	Disease 10749 10784	Аллергический  персистирующий ринит
+T9	Symptom 1323 1336	обезвоживания
+T117	Symptom 4588 4598	измененная
+T47	Symptom 3299 3306	спокоен
+T66	Symptom 4138 4158	менингеальных знаков
+T114	Body_location 4551 4561	Мочеточник
+T152	Body_location 9556 9573	ПРАВОЕ ПРЕДСЕРДИЕ
+T88	Disease 11928 11941	Анизометропия
+T129	Symptom 6258 6271	обычной формы
+T136	Symptom 7099 7109	измененный
+T65	Symptom 4041 4048	Дизурии
+T104	Drug 13184 13192	блемарен
+T105	Drug 13218 13222	энап
+T51	Symptom 3471 3487	Нарушение осанки
+T55	Body_location 3707 3715	В легких
+T85	Body_location 11333 11350	коленных суставов
+T125	Body_location 6111 6126	Желудочки мозга
+T116	Body_location 4575 4586	ЛЕВАЯ ПОЧКА
+T157	Severity 10428 10437	умеренная
+T26	Disease 2362 2377	ларинготрахеиты
+T72	Body_location 10727 10746	носовой перегородки
+T20	Disease 2204 2232	Дистальный тубулярный ацидоз
+T167	Drug 12753 12759	Глицин
+T11	Symptom 1546 1559	обезвоживания
+T132	Body_location 6401 6417	Воронка гипофиза
+T84	Disease 11311 11350	Вальгусная деформация коленных суставов
+T97	Treatment 12213 12354	Массаж спины, воротниковой зоны, ЛФК, корригирующая осанку и состав массы тела с большой долей циклических упр-ий умеренной интенсивности №10
+T100	Treatment 12753 12830	Глицин по 2 табх 2 раза в сутки день вечер в течении 30 дней до еды, под язык
+T155	Symptom 9665 9673	расширен
+T148	Body_location 9127 9143	ЛЕГОЧНАЯ АРТЕРИЯ
+T24	Treatment 2290 2317	получает соду 4 %, блемарен
+T144	Disease 7755 7813	вторичных изменений поджелудочной железы и желчного пузыря
+T118	Body_location 4655 4664	Паренхима
+T154	Body_location 9637 9653	ПРАВЫЙ ЖЕЛУДОЧЕК
+T2	Drug 169 182	преднизолоном
+T91	Symptom 12082 12103	Избыточная масса тела
+T130	Body_location 6273 6291	Селлярная цистерна
+T41	Symptom 3224 3231	розовые
+T93	Disease 12105 12137	плоско-вальгусная установка стоп
+T46	Body_location 3295 3298	зев
+T120	Body_location 4772 4782	Мочеточник
+T106	Drug 12835 12849	Капли Зеленина
+T16	Disease 1858 1868	Остеопороз
+T19	Drug 1920 1927	этальфа
+T7	Symptom 1229 1234	рвота
+T35	Symptom 2839 2861	высыпания на коже лица
+T145	Body_location 7798 7813	желчного пузыря
+T45	Symptom 3270 3276	чистые
+T36	Body_location 2849 2861	на коже лица
+T79	Drug 11072 11084	Дексаметазон
+T108	Drug 12589 12607	Эскулюс композитум
+T18	Drug 1910 1918	блемарен
+T83	Severity 11305 11309	3 ст
+T76	Treatment 10832 10889	Соблюдение гипоаллергенной диеты и элиминационного режима
+T75	Course 10804 10812	ремиссия
+T123	Body_location 6063 6081	Миндалины мозжечка
+T17	Treatment 1891 1927	сода 4%, uralit-u, блемарен, этальфа
+T81	Symptom 11187 11213	Системная гипоплазия эмали
+T22	Body_location 2254 2259	почек
+T111	Symptom 4367 4377	измененная
+T30	Drug 2503 2515	пульмикортом
+T32	Disease 2678 2683	крупа
+N1	Reference T8 UMLS:C0241254	стул со слизью
+N2	Reference T164 UMLS:C0042890	витамины
+N3	Reference T135 UMLS:C0016976	желчный пузырь
+N4	Reference T38 UMLS:CUILESS	профилактика нефролитиаза
+N5	Reference T37 UMLS:C0013154	комплексонная терапия
+N6	Reference T138 UMLS:CUILESS	измененный характер
+N7	Reference T68 UMLS:CUILESS	степень ухудшения бду
+N8	Reference T160 UMLS:C0018827	сердца желудочки
+N9	Reference T27 UMLS:C0004096	бронхиальная астма
+N10	Reference T102 UMLS:C0024875	массаж
+N11	Reference T60 UMLS:CUILESS	патология
+N12	Reference T33 UMLS:C0744425	терапия глюкокортикостероидами
+N13	Reference T139 UMLS:C0023884	печень
+N14	Reference T21 UMLS:C1561643	хроническая болезнь почек
+N15	Reference T133 UMLS:C0029126	зрительный перекрест
+N16	Reference T143 UMLS:C0030274	поджелудочная железа
+N17	Reference T59 UMLS:C0018787	сердце
+N18	Reference T103 UMLS:C0013154	комплексонная терапия
+N19	Reference T115 UMLS:C0038257	расширители
+N20	Reference T128 UMLS:C0036609	турецкое седло
+N21	Reference T159 UMLS:C0032915	синдромы преждевременного возбуждения желудочков
+N22	Reference T42 UMLS:C0598869	чистая культура
+N23	Reference T163 UMLS:C0042890	витамины
+N24	Reference T6 UMLS:C0034186	пиелонефрит
+N25	Reference T78 UMLS:C0054201	будесонид
+N26	Reference T158 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N27	Reference T131 UMLS:C0038257	расширители
+N28	Reference T166 UMLS:C0036499	вода морская
+N29	Reference T31 UMLS:C0037384	храп
+N30	Reference T50 UMLS:C0013604	отёк
+N31	Reference T127 UMLS:C0302142	деформация
+N32	Reference T67 UMLS:C0023075	ларингеальный стеноз
+N33	Reference T52 UMLS:C0576093	вальгусная деформация коленных суставов
+N34	Reference T165 UMLS:C0042890	витамины
+N35	Reference T126 UMLS:C0038257	расширители
+N36	Reference T74 UMLS:C0149696	пищевая аллергия
+N37	Reference T63 UMLS:CUILESS	норма рабочая
+N38	Reference T134 UMLS:CUILESS	тела положение
+N39	Reference T86 UMLS:C0856055	применение мультивитаминных препаратов
+N40	Reference T3 UMLS:C0001559	введение лекарств ингаляционное
+N41	Reference T142 UMLS:C0030286	поджелудочной железы болезни
+N42	Reference T40 UMLS:C1123023	кожа
+N43	Reference T80 UMLS:C0019592	антигистаминные h1 средства
+N44	Reference T119 UMLS:C0007589	клетки дифференциация
+N45	Reference T29 UMLS:C0015840	фенотерол
+N46	Reference T92 UMLS:C0576093	вальгусная деформация коленных суставов
+N47	Reference T151 UMLS:C0038257	расширители
+N48	Reference T146 UMLS:C0003483	аорта
+N49	Reference T69 UMLS:C0001428	аденоиды
+N50	Reference T96 UMLS:C0037932	позвоночника искривления
+N51	Reference T156 UMLS:C0003811	аритмия
+N52	Reference T54 UMLS:C0553668	дыхание, затрудненное
+N53	Reference T99 UMLS:C0856055	применение мультивитаминных препаратов
+N54	Reference T149 UMLS:C0038257	расширители
+N55	Reference T82 UMLS:C0016202	плоская стопа
+N56	Reference T25 UMLS:CUILESS	профилактика нефролитиаза
+N57	Reference T62 UMLS:C0231249	увеличение роста
+N58	Reference T4 UMLS:C0022346	желтуха
+N59	Reference T71 UMLS:C0549397	искривление перегородки носа
+N60	Reference T44 UMLS:C4505235	розовые
+N61	Reference T107 UMLS:C0042890	витамины
+N62	Reference T53 UMLS:C0022745	коленный сустав
+N63	Reference T121 UMLS:C0038257	расширители
+N64	Reference T113 UMLS:C0007589	клетки дифференциация
+N65	Reference T109 UMLS:C0016504	стопа
+N66	Reference T124 UMLS:CUILESS	норма рабочая
+N67	Reference T94 UMLS:C0016504	стопа
+N68	Reference T77 UMLS:C0013154	введение лекарств ингаляционное
+N69	Reference T161 UMLS:C0015840	фенотерол
+N70	Reference T87 UMLS:C0452240	физическая культура лечебная
+N71	Reference T61 UMLS:C0000726	живот
+N72	Reference T137 UMLS:C0030274	поджелудочная железа
+N73	Reference T141 UMLS:C1112281	нормальный рост
+N74	Reference T57 UMLS:C3887661	хрип
+N75	Reference T49 UMLS:C0598869	чистая культура
+N76	Reference T162 UMLS:C0042890	витамины
+N77	Reference T122 UMLS:C0027709	нефрокальциноз
+N78	Reference T89 UMLS:C0020490	гиперметропия
+N79	Reference T12 UMLS:C0312422	потеря сознания
+N80	Reference T95 UMLS:C0022745	коленный сустав
+N81	Reference T28 UMLS:C0013154	введение лекарств ингаляционное
+N82	Reference T43 UMLS:C0026724	слизистая оболочка
+N83	Reference T98 UMLS:C0013154	гомеопатия
+N84	Reference T140 UMLS:C0037993	селезенка
+N85	Reference T64 UMLS:CUILESS	норма рабочая
+N86	Reference T56 UMLS:C0035203	дыхание
+N87	Reference T15 UMLS:C0027709	нефрокальциноз
+N88	Reference T58 UMLS:C2230284	нормальный сердечный ритм
+N89	Reference T112 UMLS:C4277702	паренхиматозная ткань
+N90	Reference T150 UMLS:C0078995	предсердие левое, функция
+N91	Reference T153 UMLS:C0038257	расширители
+N92	Reference T39 UMLS:C0014025	эналаприл
+N93	Reference T13 UMLS:C0001122	ацидоз
+N94	Reference T10 UMLS:C0042963	рвота
+N95	Reference T110 UMLS:C0022646	почки
+N96	Reference T101 UMLS:C0030511	спазмолитики
+N97	Reference T34 UMLS:C0032950	преднизолон
+N98	Reference T14 UMLS:C0001126	почечный тубулярный ацидоз
+N99	Reference T147 UMLS:C0038257	расширители
+N100	Reference T5 UMLS:C0011615	атопический дерматит
+N101	Reference T48 UMLS:C0040421	миндалина
+N102	Reference T1 UMLS:C0054201	будесонид
+N103	Reference T73 UMLS:C2607914	аллергический ринит
+N104	Reference T9 UMLS:C0011175	обезвоживание
+N105	Reference T117 UMLS:CUILESS	отклонение от нормы результатов ультразвукового исследования почек
+N106	Reference T47 UMLS:CUILESS	отсутствие реакции
+N107	Reference T66 UMLS:C0025287	менингеальные знаки
+N108	Reference T114 UMLS:C0041951	мочеточник
+N109	Reference T152 UMLS:C0078996	предсердие правое, функция
+N110	Reference T88 UMLS:C0003081	анизометропия
+N111	Reference T129 UMLS:CUILESS	норма рабочая
+N112	Reference T136 UMLS:C0235181	измененный характер
+N113	Reference T65 UMLS:C0013428	дизурия
+N114	Reference T104 UMLS:CUILESS	профилактика нефролитиаза
+N115	Reference T105 UMLS:C0014025	эналаприл
+N116	Reference T51 UMLS:C0037932	позвоночника искривления
+N117	Reference T55 UMLS:C0024109	легкие
+N118	Reference T85 UMLS:C0022745	коленный сустав
+N119	Reference T125 UMLS:C0007799	мозга головного желудочки
+N120	Reference T116 UMLS:C0022646	почки
+N121	Reference T26 UMLS:C0023076	ларинготрахеит
+N122	Reference T72 UMLS:C0027432	носа перегородка
+N123	Reference T20 UMLS:C0001126	почечный тубулярный ацидоз
+N124	Reference T167 UMLS:C0017890	глицин
+N125	Reference T11 UMLS:C0011175	обезвоживание
+N126	Reference T132 UMLS:C0032005	гипофиз
+N127	Reference T84 UMLS:C0576093	вальгусная деформация коленных суставов
+N128	Reference T97 UMLS:C0024875	массаж
+N129	Reference T100 UMLS:C0013154	ноотропные средства
+N130	Reference T155 UMLS:C0038257	расширители
+N131	Reference T148 UMLS:C0034052	легочная артерия
+N132	Reference T24 UMLS:C0013154	профилактика нефролитиаза
+N133	Reference T144 UMLS:CUILESS	желчного пузыря болезни
+N134	Reference T118 UMLS:C4277702	паренхиматозная ткань
+N135	Reference T154 UMLS:C0018827	сердца желудочки
+N136	Reference T2 UMLS:C0032950	преднизолон
+N137	Reference T91 UMLS:C0497406	избыточная масса тела
+N138	Reference T130 UMLS:CUILESS	турецкое седло
+N139	Reference T41 UMLS:C4505235	розовые
+N140	Reference T93 UMLS:C1578482	вальгусная деформация стопы
+N141	Reference T46 UMLS:C0521367	ротоглотка
+N142	Reference T120 UMLS:C0041951	мочеточник
+N143	Reference T106 UMLS:C0030511	спазмолитики
+N144	Reference T16 UMLS:C0029456	остеопороз
+N145	Reference T19 UMLS:C0042890	витамины
+N146	Reference T7 UMLS:C0042963	рвота
+N147	Reference T35 UMLS:C0239521	высыпание на коже лица
+N148	Reference T145 UMLS:C0016977	желчного пузыря болезни
+N149	Reference T45 UMLS:C0598869	чистая культура
+N150	Reference T36 UMLS:C1123023	кожа
+N151	Reference T79 UMLS:C0011777	дексаметазон
+N152	Reference T108 UMLS:C0024911	гомеопатические средства
+N153	Reference T18 UMLS:CUILESS	профилактика нефролитиаза
+N154	Reference T76 UMLS:C0425402	медицинская диета
+N155	Reference T75 UMLS:C0035053	ремиссия спонтанная
+N156	Reference T123 UMLS:C0007765	мозжечок
+N157	Reference T17 UMLS:C0013154	профилактика нефролитиаза
+N158	Reference T81 UMLS:C0011351	гипоплазия эмали
+N159	Reference T22 UMLS:C0022646	почки
+N160	Reference T111 UMLS:C0235187	измененное отношение
+N161	Reference T30 UMLS:C0054201	будесонид
+N162	Reference T32 UMLS:C0010380	круп
+#1	AnnotatorNotes T38	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0055819||synonyms: лимонная кислота|limonnaia kislota|tsitrat|цитрат||||third_annotator_label: None||synonyms: ||||bert: C1021266||synonyms: anemarrhena||||
+#2	AnnotatorNotes T37	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0803088||synonyms: диаметр 2:дл:тчкврм:митральный клапан:колич:уз||||
+#3	AnnotatorNotes T138	first_annotator_label: C0235181||synonyms: изменение характера|измененный характер||||second_annotator_label: C0235187||synonyms: изменение отношения|измененное отношение||||third_annotator_label: None||synonyms: ||||bert: C0235187||synonyms: изменение отношения|измененное отношение||||
+#4	AnnotatorNotes T68	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#5	AnnotatorNotes T60	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||third_annotator_label: None||synonyms: ||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#6	AnnotatorNotes T33	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0854679||synonyms: повреждение, связанное с иглой|укол/прокол иглой||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0409869||synonyms: хондрокальциноз в области предплечья при отложении кристаллов пирофосфата кальция||||
+#7	AnnotatorNotes T59	first_annotator_label: C0018787||synonyms: сердце|serdtse||||second_annotator_label: C1956414||synonyms: астма сердечная|сердечная астма||||third_annotator_label: None||synonyms: ||||bert: C1956414||synonyms: астма сердечная|сердечная астма||||
+#8	AnnotatorNotes T103	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0857067||synonyms: терапия с внешним пучком для лечения молочной железы||||
+#9	AnnotatorNotes T63	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0000726||synonyms: живот|zhivot||||third_annotator_label: C0859255||synonyms: ощущение мягкости||||bert: C0026390||synonyms: мягкокожие|miagkokozhie|mollicutes|tenericutes||||
+#10	AnnotatorNotes T134	first_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||second_annotator_label: C0427514||synonyms: сдвиг враво||||third_annotator_label: C1142387||synonyms: смещение вмс||||bert: C0679112||synonyms: смущение|смятение|smiatenie|zameshatel'stvo|smushchenie||||
+#11	AnnotatorNotes T86	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C0949653||synonyms: калиевые каналы кальцием-активируемые|kal'tsiem-aktiviruemye kalievye kanaly|kalievye kanaly kal'tsiem-aktiviruemye|кальцием-активируемые калиевые каналы||||
+#12	AnnotatorNotes T96	first_annotator_label: C0037932||synonyms: позвоночника искривления|pozvonochnika iskrivleniia|искривление позвоночника|неуточненное искривление позвоночника||||second_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||third_annotator_label: C0036439||synonyms: сколиоз|skolioz||||bert: C1510410||synonyms: паросмия|атипичное восприятие запахов|искажение восприятия запахов|нарушение обоняния|изменения восприятия запахов||||
+#13	AnnotatorNotes T99	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C1830295||synonyms: соматотропин^30 минут после 1 г/кг глюкозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T25	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0055819||synonyms: лимонная кислота|limonnaia kislota|tsitrat|цитрат||||third_annotator_label: None||synonyms: ||||bert: C1021266||synonyms: anemarrhena||||
+#15	AnnotatorNotes T124	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0863115||synonyms: уровень гастрина в норме||||third_annotator_label: None||synonyms: ||||bert: C0863115||synonyms: уровень гастрина в норме||||
+#16	AnnotatorNotes T77	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1976890||synonyms: лимфоцит пролиферация.100 мкмоль бериллий стимуляция^6 дней после инкубации:отношение:тчкврм:кр:колич||||
+#17	AnnotatorNotes T28	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C2936255||synonyms: пульпы покрытия и пульпэктомии средства|preparaty dlia priamogo pokrytiia pul'py i pul'pektomii|pul'py pokrytiia i pul'pektomii sredstva|препараты для прямого покрытия пульпы и пульпэктомии||||
+#18	AnnotatorNotes T98	first_annotator_label: C0684199||synonyms: гомеопатия|gomeopatiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2718211||synonyms: пролактин^30 минут после дозы ед/кг инсулина внутривенно:массконц:тчкврм:плаз:колич||||
+#19	AnnotatorNotes T64	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||third_annotator_label: None||synonyms: ||||bert: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||
+#20	AnnotatorNotes T58	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0488795||synonyms: частота сердечных сокращений ритм:тип:тчкврм:xxx:ном||||bert: C0577822||synonyms: патологические сердечные тоны|патологические тоны сердца||||
+#21	AnnotatorNotes T101	first_annotator_label: C0030511||synonyms: парасимпатолитики|parasimpatolitiki|antispazmaticheskie sredstva|spazmoliticheskie sredstva|spazmolitiki||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2735844||synonyms: кальцитриол^3 часа после дозы кальция:молконц:тчкврм:сыв/плаз:колич||||
+#22	AnnotatorNotes T117	first_annotator_label: C0748336||synonyms: отклонение от нормы результатов ультразвукового исследования почек|отклонение от нормы результатов узи почек||||second_annotator_label: C0235187||synonyms: изменение отношения|измененное отношение||||third_annotator_label: None||synonyms: ||||bert: C0235187||synonyms: изменение отношения|измененное отношение||||
+#23	AnnotatorNotes T47	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C1963978||synonyms: заболевания ротоглотки (smq)||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0038071||synonyms: сквален|skvalen||||
+#24	AnnotatorNotes T129	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0032369||synonyms: социального контроля политика|sotsial'nogo kontrolia politika|politicheskie ustanovki|политические установки||||third_annotator_label: None||synonyms: ||||bert: C0032369||synonyms: социального контроля политика|sotsial'nogo kontrolia politika|politicheskie ustanovki|политические установки||||
+#25	AnnotatorNotes T104	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0055819||synonyms: лимонная кислота|limonnaia kislota|tsitrat|цитрат||||third_annotator_label: None||synonyms: ||||bert: C1021266||synonyms: anemarrhena||||
+#26	AnnotatorNotes T51	first_annotator_label: C0037932||synonyms: позвоночника искривления|pozvonochnika iskrivleniia|искривление позвоночника|неуточненное искривление позвоночника||||second_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||third_annotator_label: C0036439||synonyms: сколиоз|skolioz||||bert: C1510410||synonyms: паросмия|атипичное восприятие запахов|искажение восприятия запахов|нарушение обоняния|изменения восприятия запахов||||
+#27	AnnotatorNotes T100	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978291||synonyms: кортикотропин^до 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#28	AnnotatorNotes T24	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0009516||synonyms: комплемента компонент 4|komplement, komponent 4|c4 komplementa|c4|komponent 4 komplementa||||
+#29	AnnotatorNotes T144	first_annotator_label: C0016977||synonyms: желчного пузыря болезни|zhelchnogo puzyria bolezni|нарушение со стороны желчного пузыря, бду|заболевание желчного пузыря, бду|нарушение со стороны желчного пузыря||||second_annotator_label: C0030274||synonyms: поджелудочная железа|podzheludochnaia zheleza||||third_annotator_label: C0017178||synonyms: желудочно-кишечные болезни|zheludochno-kishechnye bolezni|gastr|гастроэнтеропатия, бду|желудочно-кишечные нарушения||||bert: C0861867||synonyms: злокачественное новообразование желчного пузыря и внепеченочных желчных протоков, рецидивирующее||||
+#30	AnnotatorNotes T130	first_annotator_label: C0036609||synonyms: турецкое седло|turetskoe sedlo||||second_annotator_label: C0039979||synonyms: грудной проток|grudnoi protok|tsisterna khileznaia|цистерна хилезная||||third_annotator_label: C1853377||synonyms: увеличение большой цистерны||||bert: C0039979||synonyms: грудной проток|grudnoi protok|tsisterna khileznaia|цистерна хилезная||||
+#31	AnnotatorNotes T106	first_annotator_label: C0030511||synonyms: парасимпатолитики|parasimpatolitiki|antispazmaticheskie sredstva|spazmoliticheskie sredstva|spazmolitiki||||second_annotator_label: C0004954||synonyms: белладонны алкалоиды|belladonny alkaloidy||||third_annotator_label: C0949854||synonyms: растительные препараты|preparaty, poluchennye iz rastenii|rastitel'nye preparaty|препараты, полученные из растений||||bert: C0858657||synonyms: зеленоватый кал||||
+#32	AnnotatorNotes T18	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0055819||synonyms: лимонная кислота|limonnaia kislota|tsitrat|цитрат||||third_annotator_label: None||synonyms: ||||bert: C1021266||synonyms: anemarrhena||||
+#33	AnnotatorNotes T76	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0063083||synonyms: гидрогель, полиэтиленгликоля диметакрилат|gidrogel'|gidrogel', polietilenglikolia dimetakrilat|гидрогель на основе диметакрилата полиэтиленгликоля|gidrogel' na osnove dimetakrilata polietilenglikolia||||
+#34	AnnotatorNotes T17	first_annotator_label: C3203575||synonyms: профилактика нефролитиаза||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3658252||synonyms: хлорофторуглероды этановые|хлорофторэтаны|khlorftoruglerody etanovogo riada|khloroftoretany|хлорфторуглероды этанового ряда||||

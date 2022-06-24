@@ -1,0 +1,73 @@
+T21	Symptom 1140 1155	бледно-розовые.
+T10	Symptom 622 639	длительным кашлем
+T9	Disease 499 502	ОРИ
+T15	Drug 841 849	беродуал
+T25	Symptom 1205 1225	дыхание везикулярное
+T26	Symptom 1227 1245	с жестким оттенком
+T2	Severity 50 87	средне-тяжелое персистирующее течение
+T24	Body_location 1196 1204	В лёгких
+T13	Disease 794 829	бронхит с обструктивным компонентом
+T16	Disease 982 985	ОРИ
+T29	Symptom 1364 1371	дизурии
+T28	Symptom 1278 1311	Сердечные тоны звучные, ритмичные
+T30	Symptom 1377 1405	Стул регулярный, оформленный
+T20	Symptom 1132 1138	чистые
+T32	Treatment 732 760	получал терапию в стационаре
+T19	Body_location 1117 1131	Кожные покровы
+T22	Symptom 1156 1166	Зев рыхлый
+T3	Course 89 99	обострение
+T14	Treatment 831 867	В терапии беродуал  через небулайзер
+T27	Symptom 1247 1276	выслушиваются проводные хрипы
+T33	Disease 311 317	ринита
+T4	Disease 101 136	Двусторонний острый гаймороэтмоидит
+T17	Symptom 988 1014	обструктивным компонентом.
+T23	Symptom 1168 1194	Носовое дыхание затруднено
+T18	Disease 1045 1064	хронический бронхит
+T31	Symptom 1407 1427	Менингеальных знаков
+T6	Disease 245 248	ОРИ
+T5	Symptom 213 238	длительный влажный кашель
+T34	Disease 641 670	бронхообструктивным синдромом
+T12	Disease 600 603	ОРИ
+T1	Disease 9 48	Бронхиальная астма, неатопическая форма
+T8	Disease 492 497	грипп
+N1	Reference T21 UMLS:C4505235	розовые
+N2	Reference T10 UMLS:C0562483	навязчивый кашель
+N3	Reference T9 UMLS:C0035243	респираторные инфекции
+N4	Reference T15 UMLS:C0015840	фенотерол
+N5	Reference T25 UMLS:C0035203	дыхание
+N6	Reference T26 UMLS:C3666016	жесткое дыхание при аускультации легких
+N7	Reference T2 UMLS:CUILESS	астма, хроническая
+N8	Reference T24 UMLS:C0024109	легкие
+N9	Reference T13 UMLS:C0865791	обструктивный бронхит
+N10	Reference T16 UMLS:C0035243	респираторные инфекции
+N11	Reference T29 UMLS:C0013428	дизурия
+N12	Reference T28 UMLS:C0018810	сердечный ритм
+N13	Reference T30 UMLS:CUILESS	мягкий стул
+N14	Reference T20 UMLS:C0598869	чистая культура
+N15	Reference T32 UMLS:C0019993	размещение в стационар
+N16	Reference T19 UMLS:C1123023	кожа
+N17	Reference T22 UMLS:C4324297	отек ротоглотки
+N18	Reference T3 UMLS:C0853946	обострение боли
+N19	Reference T14 UMLS:C0001559	введение лекарств ингаляционное
+N20	Reference T27 UMLS:C0043144	дыхание с хрипами
+N21	Reference T33 UMLS:C0035455	ринит
+N22	Reference T4 UMLS:C0155804	острый гайморит
+N23	Reference T17 UMLS:CUILESS	дыхательных путей обструкция
+N24	Reference T23 UMLS:C0553668	дыхание, затрудненное
+N25	Reference T18 UMLS:C0008677	хронический бронхит
+N26	Reference T31 UMLS:C0025287	менингеальные знаки
+N27	Reference T6 UMLS:C0035243	респираторные инфекции
+N28	Reference T5 UMLS:C0239134	навязчивый кашель
+N29	Reference T34 UMLS:C0235906	бронхоспазм, обострение
+N30	Reference T12 UMLS:C0035243	респираторные инфекции
+N31	Reference T1 UMLS:C0004096	астма, бронхиальная
+N32	Reference T8 UMLS:C0021400	грипп
+#1	AnnotatorNotes T10	first_annotator_label: C5208162||synonyms: навязчивый кашель||||second_annotator_label: C0010200||synonyms: кашель|kashel'|покашливание||||third_annotator_label: C0562483||synonyms: персистирующий кашель||||bert: C0023977||synonyms: помощь длительная|ukhod prodolzhitel'nyi|pomoshch' dlitel'naia|уход продолжительный||||
+#2	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#3	AnnotatorNotes T30	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#4	AnnotatorNotes T32	first_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||second_annotator_label: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||third_annotator_label: C0011017||synonyms: дневной стационар|dnevnoi statsionar|gospitalizatsiia chastichnaia|gospitalizatsiia na dnevnoe vremia|statsionarnoe lechenie dnevnoe||||bert: C0034172||synonyms: puva-терапия|puva-terapiia|psoralen ul'trafioletovaia a terapiia|puva terapiia|псорален ультрафиолетовая a терапия||||
+#5	AnnotatorNotes T22	first_annotator_label: C4324297||synonyms: отек ротоглотки|орофарингеальный отек||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0863112||synonyms: раздражение ротоглотки||||bert: C0014032||synonyms: эмалевый орган|emalevyi organ|zubnoi organ|зубной орган||||
+#6	AnnotatorNotes T14	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C5243612||synonyms: воздействие через бабушку||||
+#7	AnnotatorNotes T27	first_annotator_label: C0043144||synonyms: свистящее дыхание|астматическое дыхание|дыхание с хрипами|свистящие хрипы||||second_annotator_label: C0035234||synonyms: дыхательные шумы|dykhatel'nye shumy|khripy|plevry shum treniia|svistiashchee dykhanie||||third_annotator_label: C0019825||synonyms: охриплость|okhriplost'|охриплость голоса|хриплый голос||||bert: C0019825||synonyms: охриплость|okhriplost'|охриплость голоса|хриплый голос||||
+#8	AnnotatorNotes T17	first_annotator_label: C0001883||synonyms: дыхательных путей обструкция|dykhatel'nykh putei obstruktsiia|asfiksiia mekhanicheskaia|asfiksiia obstruktivnaia|обструкция дыхательных путей||||second_annotator_label: C3665783||synonyms: обструктивный шок||||third_annotator_label: None||synonyms: ||||bert: C3665783||synonyms: обструктивный шок||||
+#9	AnnotatorNotes T5	first_annotator_label: C5208162||synonyms: навязчивый кашель||||second_annotator_label: C0010200||synonyms: кашель|kashel'|покашливание||||third_annotator_label: C0239134||synonyms: продуктивный кашель||||bert: C0023977||synonyms: помощь длительная|ukhod prodolzhitel'nyi|pomoshch' dlitel'naia|уход продолжительный||||

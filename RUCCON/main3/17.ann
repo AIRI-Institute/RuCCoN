@@ -1,0 +1,290 @@
+T58	Disease 145 185	Неполная блокада правой ножки пучка Гиса
+T136	Body_location 3500 3523	левых отделов сердца ЛЖ
+T125	Drug 2950 2958	моноприл
+T74	Disease 869 875	ангину
+T48	Drug 20310 20316	Конкор
+T121	Body_location 2848 2872	клапана легочной артерии
+T2	Treatment 21461 21535	Конкор (бисопролол) 1,25 мг х 2 р/д (09.00, 21.00) – длительно, непрерывно
+T3	Treatment 21542 21593	Трентал (пентоксифиллин) 25мг х 3р/день – длительно
+T7	Treatment 21889 21977	Ретарпен (бициллин 5) 600 тыс. МЕ в/м – 1 раз в 4 недели (15 числа месяца) - декабрь-май
+T131	Treatment 3150 3187	ретарпен в/м 600 тыс ЕД 1 раз в месяц
+T61	Disease 293 315	Транзиторная гематурия
+T41	Treatment 20402 20423	Трентал 25 мг х 3 р/д
+T110	Symptom 2657 2678	снижение Hb до 86 г/л
+T100	Symptom 1846 1851	отеки
+T14	Drug 22198 22207	макролиды
+T130	Treatment 3108 3148	продолжен прием преднизолона 12,5 мг/сут
+T120	Body_location 2820 2845	трикуспидального клапанов
+T17	Drug 21889 21897	Ретарпен
+T42	Disease 20600 20621	Хронический миокардит
+T50	Drug 19522 19529	Океанол
+T24	Drug 21691 21707	янтарная кислота
+T25	Drug 21599 21608	Предуктал
+T38	Treatment 20183 20230	Козаар - 12,5 мг х 2 р/д (8.00, 20.00) до 04.05
+T66	Symptom 353 387	усталость при физическим нагрузках
+T40	Treatment 20310 20399	Конкор - 1,25 мг в 9.00, 0,625 мг в 21.00 до 28.04, 1,25 мг х 2 р/д (9.00, 21.00) с 28.04
+T94	Drug 1638 1648	гипотиазид
+T127	Drug 2989 2999	верошпирон
+T133	Drug 3150 3158	ретарпен
+T46	Drug 20183 20189	Козаар
+T20	Drug 21649 21659	Цитофлавин
+T68	Symptom 572 605	недостаточная прибавка массы тела
+T134	Drug 3083 3094	интраглобин
+T4	Treatment 21599 21642	Предуктал (триметазидин) 17,5 мг х 2 р/день
+T103	Body_location 2280 2296	обоих предсердий
+T16	Drug 21984 21993	Рибомунил
+T87	Disease 1502 1524	Портальная гипертензия
+T82	Symptom 1281 1306	сердечной недостаточности
+T65	Body_location 162 185	правой ножки пучка Гиса
+T37	Drug 20104 20111	конкора
+T108	Symptom 2529 2579	40 единичных полиморфных желудочковых экстрасистол
+T99	Symptom 1776 1794	уменьшились одышка
+T73	Disease 723 728	грипп
+T22	Drug 21668 21679	никотинамид
+T123	Treatment 2989 3059	верошпирон 12,5 мг/сут (чередование через 1 месяц с триампуром 1т/сут)
+T84	Disease 1463 1491	Высокая легочная гипертензия
+T101	Symptom 2220 2266	Признаки гипертрофии миокарда левого желудочка
+T114	Disease 2791 2872	Недостаточность митрального, трикуспидального клапанов и клапана легочной артерии
+T23	Drug 21680 21690	рибофлавин
+T107	Symptom 2473 2527	зарегистрировано 2 единичные предсердные экстрасистолы
+T78	Symptom 896 902	38-39С
+T118	Severity 2899 2907	IIА-Б ст
+T83	Disease 1433 1461	Дилатационная кардиомиопатия
+T79	Symptom 981 986	отеки
+T56	Body_location 61 84	правой ножки пучка Гиса
+T8	Treatment 21984 22102	Рибомунил 1доза (3табл.) утром до еды: понедельник – четверг 1-3 недели в октябре; затем 1 - 4 число в ноябре – апреле
+T34	Treatment 20066 20088	козаар заменен на энап
+T62	Disease 187 190	ХСН
+T71	Disease 730 734	ОРВИ
+T13	Drug 22180 22186	зиннат
+T6	Treatment 21821 21882	Магне В6 1 табл х 2 р/д – май, июнь, декабрь, январь, февраль
+T75	Treatment 904 932	получала сумамед, цефалексин
+T86	Severity 1496 1500	2Бст
+T126	Drug 2969 2978	фуросемид
+T97	Drug 1669 1676	роцефин
+T93	Drug 1626 1636	верошпирон
+T9	Disease 22113 22117	ОРВИ
+T29	Drug 21461 21467	Конкор
+T90	Drug 1597 1605	дигоксин
+T43	Disease 20623 20626	ХСН
+T92	Drug 1616 1624	курантил
+T95	Drug 1650 1657	гепарин
+T109	Severity 2581 2617	3 класс желудочковой аритмии по Lown
+T124	Drug 2928 2936	дигоксин
+T10	Treatment 22130 22218	назначение антибиотиков (аугментин или флемоклав, зиннат, исключить макролиды), виферона
+T81	Disease 1109 1115	Анемия
+T77	Drug 922 932	цефалексин
+T30	Drug 21469 21479	бисопролол
+T45	Severity 20635 20647	ФК I по NYHA
+T27	Drug 21542 21549	Трентал
+T88	Disease 1526 1577	Правосторонняя нижнедолевая внебольничная пневмония
+T122	Treatment 2928 2987	дигоксин 0.06 мг/сут, моноприл 5 мг/сут, фуросемид 5 мг/сут
+T137	Body_location 3622 3645	органов грудной полости
+T106	Body_location 2331 2352	в миокарде желудочков
+T91	Drug 1607 1614	капотен
+T128	Drug 3041 3051	триампуром
+T21	Drug 21661 21667	инозин
+T31	Drug 21386 21390	Энап
+T15	Drug 22210 22218	виферона
+T33	Disease 21235 21260	инфекционного эндокардита
+T28	Drug 21551 21565	пентоксифиллин
+T18	Drug 21821 21829	Магне В6
+T39	Treatment 20232 20308	Энап - 5мг х 2 р/д (8.00,20.00) с 04.05, 7,5 мг в 8.00, 5 мг в 20.00 с 06.05
+T35	Drug 20066 20072	козаар
+T63	Severity 191 197	IIА ст
+T115	Disease 2874 2894	Легочная гипертензия
+T60	Disease 260 291	Дискинезия желчевыводящих путей
+T102	Symptom 1811 1821	тахикардия
+T105	Symptom 2298 2330	Нарушение процесса реполяризации
+T104	Body_location 2241 2266	миокарда левого желудочка
+T49	Treatment 19522 19603	Океанол (капс. 0,5 г) 1 капс х 2 раза/сут (утро, вечер, во время еды) - длительно
+T51	Disease 21 42	Хронический миокардит
+T44	Severity 20627 20633	IIА ст
+T111	Symptom 2680 2704	повышение СОЭ до 40 мм/ч
+T89	Treatment 1597 1737	дигоксин, капотен, курантил, верошпирон, гипотиазид, гепарин, аспаркам, роцефин, неотон в/в 15г на курс, в/в иммуноглобулин человеческий № 5
+T135	Drug 3061 3069	курантил
+T19	Drug 21899 21909	бициллин 5
+T98	Drug 1678 1684	неотон
+T69	Symptom 680 684	сыпь
+T85	Disease 1493 1495	НК
+T72	Disease 744 750	ангины
+T36	Drug 20084 20088	энап
+T11	Drug 22155 22164	аугментин
+T67	Disease 440 451	нефропатией
+T5	Treatment 21649 21815	Цитофлавин (инозин+никотинамид+рибофлавин+янтарная кислота) по 1 таблетке х 2 р/д (строго после еды, утро, обед) – май, июль, октябрь, дкабрь – 2059 г, апрель - 2060г
+T52	Disease 44 84	Неполная блокада правой ножки пучка Гиса
+T47	Drug 20232 20236	Энап
+T112	Symptom 2706 2726	СРБ повышен до 20 ед
+T32	Drug 21392 21401	эналаприл
+T119	Body_location 2807 2818	митрального
+T116	Disease 2896 2898	НК
+T53	Disease 86 89	ХСН
+T70	Drug 688 695	пиковит
+T12	Drug 22169 22178	флемоклав
+T132	Drug 3124 3136	преднизолона
+T113	Disease 2771 2789	Хронический кардит
+T76	Drug 913 920	сумамед
+T1	Treatment 21386 21455	Энап (эналаприл) 7,5 мг в 08.00, 5 мг в 20.00 – длительно, непрерывно
+T54	Severity 90 96	IIА ст
+T59	Disease 228 258	Дисплазия соединительной ткани
+T129	Treatment 3061 3106	курантил 37,5 мг/сут, интраглобин 7 г на курс
+T80	Symptom 1039 1049	тахикардия
+T26	Drug 21610 21622	триметазидин
+T96	Drug 1659 1667	аспаркам
+T64	Severity 199 211	ФК I по NYHA
+T117	Symptom 2735 2760	эритроцитурия до 20 в п/з
+T55	Severity 98 110	ФК I по NYHA
+T57	Disease 122 143	Хронический миокардит
+N1	Reference T58 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N2	Reference T136 UMLS:C0080310	сердца желудочка левого функция
+N3	Reference T125 UMLS:C3655089	фосиноприл
+N4	Reference T74 UMLS:C0036689	стрептококковая ангина
+N5	Reference T48 UMLS:C0053799	бисопролол
+N6	Reference T121 UMLS:C0034086	легочной артерии клапан
+N7	Reference T2 UMLS:C0013154	лекарства применения схема
+N8	Reference T3 UMLS:C0013154	лекарства применения схема
+N9	Reference T7 UMLS:C0013154	лекарства применения схема
+N10	Reference T131 UMLS:C0854606	системная антибактериальная терапия
+N11	Reference T61 UMLS:C0018965	гематурия
+N12	Reference T41 UMLS:UNKNOWN	вазодилатация
+N13	Reference T110 UMLS:C0162119	снижение уровня hb
+N14	Reference T100 UMLS:C0013604	отек
+N15	Reference T14 UMLS:C0282563	макролиды
+N16	Reference T130 UMLS:C0744425	терапия глюкокортикостероидами
+N17	Reference T120 UMLS:C0040960	трехстворчатый клапан
+N18	Reference T17 UMLS:C0030829	бициллин
+N19	Reference T42 UMLS:C0027059	миокардит
+N20	Reference T50 UMLS:C0016453	пищевые добавки
+N21	Reference T24 UMLS:C0075429	янтарная кислота
+N22	Reference T25 UMLS:C0041037	триметазидин
+N23	Reference T38 UMLS:C0013154	гипотензивные средства
+N24	Reference T66 UMLS:C1698094	быстрая утомляемость
+N25	Reference T40 UMLS:UNKNOWN	адреноблокаторы
+N26	Reference T94 UMLS:C0020261	гипотиазид
+N27	Reference T127 UMLS:C0037982	верошпирон
+N28	Reference T133 UMLS:C0030842	пенициллины
+N29	Reference T46 UMLS:C0126174	лозартан
+N30	Reference T20 UMLS:C0075429	янтарная кислота
+N31	Reference T68 UMLS:C0041667	недостаточная масса тела
+N32	Reference T134 UMLS:C0202081	иммуноглобулины
+N33	Reference T4 UMLS:C0013154	лекарства применения схема
+N34	Reference T103 UMLS:C0078994	предсердия функция
+N35	Reference T16 UMLS:C0001551	иммуномодуляторы
+N36	Reference T87 UMLS:C0020541	портальная гипертензия
+N37	Reference T82 UMLS:C0392173	сердечная недостаточность
+N38	Reference T65 UMLS:C0085615	блокада правой ножки пучка гиса
+N39	Reference T37 UMLS:C0053799	бисопролол
+N40	Reference T108 UMLS:C0151636	экстрасистола желудочковая
+N41	Reference T99 UMLS:C0013404	одышка
+N42	Reference T73 UMLS:C0021400	грипп
+N43	Reference T22 UMLS:C0028027	никотинамид
+N44	Reference T123 UMLS:C0459914	диуретическая терапия
+N45	Reference T84 UMLS:C0020542	гипертензия легочная
+N46	Reference T101 UMLS:C0149721	гипертрофия миокарда
+N47	Reference T114 UMLS:C0264879	недостаточность клапана сердца
+N48	Reference T23 UMLS:C0035527	рибофлавин
+N49	Reference T107 UMLS:C0033036	экстрасистола предсердная
+N50	Reference T83 UMLS:C0007193	дилатационная кардиомиопатия
+N51	Reference T79 UMLS:C0013604	отек
+N52	Reference T56 UMLS:C0085615	блокада правой ножки пучка гиса
+N53	Reference T8 UMLS:C0013154	лекарства применения схема
+N54	Reference T34 UMLS:C0814761	гипотензивные средства
+N55	Reference T62 UMLS:C0264716	хроническая сердечная недостаточность
+N56	Reference T71 UMLS:C0035243	орви
+N57	Reference T13 UMLS:C0007562	цефуроксим
+N58	Reference T6 UMLS:C0013154	лекарства применения схема
+N59	Reference T75 UMLS:C0854606	системная антибактериальная терапия
+N60	Reference T126 UMLS:C0016860	фуросемид
+N61	Reference T97 UMLS:C0007561	цефтриаксон
+N62	Reference T93 UMLS:C0037982	верошпирон
+N63	Reference T9 UMLS:C0035243	орви
+N64	Reference T29 UMLS:C0053799	бисопролол
+N65	Reference T90 UMLS:C0012265	дигоксин
+N66	Reference T43 UMLS:C0264716	хроническая сердечная недостаточность
+N67	Reference T92 UMLS:C0012582	курантил
+N68	Reference T95 UMLS:C0019134	гепарин
+N69	Reference T109 UMLS:C0003811	эпизод желудочковой аритмии
+N70	Reference T124 UMLS:C0012265	дигоксин
+N71	Reference T10 UMLS:C0854606	системная антибактериальная терапия
+N72	Reference T81 UMLS:C0002871	анемия
+N73	Reference T77 UMLS:C0007716	цефалексин
+N74	Reference T30 UMLS:C0053799	бисопролол
+N75	Reference T27 UMLS:C0030899	трентал
+N76	Reference T88 UMLS:C0694549	внебольничная пневмония
+N77	Reference T122 UMLS:C0013154	гипотензивные средства
+N78	Reference T137 UMLS:C0230139	грудной клетки полость
+N79	Reference T106 UMLS:C0018827	сердца желудочки
+N80	Reference T91 UMLS:C0006938	каптоприл
+N81	Reference T128 UMLS:C0020261	гидрохлоротиазид
+N82	Reference T21 UMLS:C0021528	инозин
+N83	Reference T31 UMLS:C0014025	эналаприл
+N84	Reference T15 UMLS:C2937361	виферон
+N85	Reference T33 UMLS:C0014121	эндокардит инфекционный
+N86	Reference T28 UMLS:C0030899	пентоксифиллин
+N87	Reference T18 UMLS:C0162799	мярнп u6
+N88	Reference T39 UMLS:C0013154	гипотензивные средства
+N89	Reference T35 UMLS:C0126174	лозартан
+N90	Reference T115 UMLS:C0020542	гипертензия, легочная
+N91	Reference T60 UMLS:C0005416	дискинезия желчевыводящих путей
+N92	Reference T102 UMLS:C0039231	тахикардия
+N93	Reference T105 UMLS:C0948857	нарушения реполяризации на экг
+N94	Reference T104 UMLS:C0080310	сердца желудочка левого функция
+N95	Reference T49 UMLS:C0016453	пищевые добавки
+N96	Reference T51 UMLS:C0027059	миокардит
+N97	Reference T111 UMLS:C0151632	повышение скорости оседания эритроцитов
+N98	Reference T89 UMLS:C0009429	комплексное лечение
+N99	Reference T135 UMLS:C0012582	курантил
+N100	Reference T19 UMLS:C0030829	бициллин
+N101	Reference T98 UMLS:C0031634	креатинфосфат
+N102	Reference T69 UMLS:C0015230	сыпь
+N103	Reference T85 UMLS:C1392658	сердечная недостаточность
+N104	Reference T72 UMLS:C0036689	стрептококковая ангина
+N105	Reference T36 UMLS:C0014025	эналаприл
+N106	Reference T11 UMLS:C0054066	амоксициллина-калия клавуланата комбинация
+N107	Reference T67 UMLS:C0022658	нефропатии
+N108	Reference T5 UMLS:C0013154	лекарства применения схема
+N109	Reference T52 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N110	Reference T47 UMLS:C0014025	эналаприл
+N111	Reference T112 UMLS:C0006560	c-реактивный белок
+N112	Reference T32 UMLS:C0014025	эналаприл
+N113	Reference T119 UMLS:C0026264	митральный клапан
+N114	Reference T116 UMLS:C1392658	сердечная недостаточность
+N115	Reference T53 UMLS:C0264716	хроническая сердечная недостаточность
+N116	Reference T70 UMLS:C0042890	витамины
+N117	Reference T12 UMLS:C0054066	амоксициллин-клавулановая кислота
+N118	Reference T132 UMLS:C0032950	преднизолон
+N119	Reference T113 UMLS:C0869523	кардит
+N120	Reference T76 UMLS:C0052796	азитромицин
+N121	Reference T1 UMLS:C0013154	лекарства применения схема
+N122	Reference T59 UMLS:C4014739	дисплазия соединительной ткани
+N123	Reference T129 UMLS:C0013154	иммуномодуляция
+N124	Reference T80 UMLS:C0039231	тахикардия
+N125	Reference T26 UMLS:C0041037	триметазидин
+N126	Reference T96 UMLS:C0003999	аспартам
+N127	Reference T117 UMLS:C0221752	эритроцитурия
+N128	Reference T57 UMLS:C0027059	миокардит
+#1	AnnotatorNotes T125	first_annotator_label: C0118168||synonyms: фосиноприл|fosinopril|fosenopril|фосеноприл||||second_annotator_label: C3655089||synonyms: фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||
+#2	AnnotatorNotes T74	first_annotator_label: C0036689||synonyms: стрептококковый фарингит|боль в горле при стрептококковой инфекции|стрептококковая ангина||||second_annotator_label: C0276143||synonyms: вирусный фарингит|вирусная ангина|вирусный фарингит, бду||||third_annotator_label: C0031157||synonyms: перитонзиллярный абсцесс|peritonzilliarnyi abstsess|abstsess peritonzilliarnyi|острый тонзиллит|гнойный тонзиллит||||bert: C0012586||synonyms: анальгин|anal'gin|dipiron|metamizol|metampiron||||
+#3	AnnotatorNotes T131	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0945258||synonyms: пролактин^1 час после 200 мкг трг внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T41	first_annotator_label: C0595862||synonyms: вазодилатация||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C3259516||synonyms: протеинурия более или равная 3,5 мг за 24 часа:hx:тчкврм:^пациент:пор:сообщенный||||
+#5	AnnotatorNotes T130	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1953222||synonyms: соматотропин^2.5 часа после дозы пропранолол+глюкагон:произвконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T50	first_annotator_label: C0016453||synonyms: пищевые добавки|pishchevye dobavki||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1533658||synonyms: витаминные добавки||||bert: C0282279||synonyms: океания|okeaniia||||
+#7	AnnotatorNotes T38	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#8	AnnotatorNotes T66	first_annotator_label: C0231230||synonyms: быстрая утомляемость|утомляемость||||second_annotator_label: C0015672||synonyms: утомление|utomlenie|ustalost'|ощущение усталости|измученный||||third_annotator_label: C1698094||synonyms: снижение выносливости при физической нагрузке||||bert: C0015259||synonyms: физическая нагрузка|fizicheskaia nagruzka|aerobnoe uprazhnenie|izometricheskoe uprazhnenie|uprazhnenie aerobnoe||||
+#9	AnnotatorNotes T40	first_annotator_label: C0242889||synonyms: адренергические антагонисты|adrenergicheskie antagonisty|adrenoblokatory|adrenoblokiruiushchie sredstva|antiadrenergicheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#10	AnnotatorNotes T16	first_annotator_label: C0001551||synonyms: адъюванты иммунологические|ad"iuvanty immunologicheskie|immunoad"iuvanty|immunoaktivatory|immunomoduliatory||||second_annotator_label: C0035553||synonyms: рибосомы|ribosomy||||third_annotator_label: C0202081||synonyms: иммуноглобулины||||bert: C0772139||synonyms: бендамустина гидрохлорид|бендамустин|рибомустин|bendamustina gidrokhlorid|треанда||||
+#11	AnnotatorNotes T123	first_annotator_label: C0948575||synonyms: диуретическая терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978287||synonyms: кортикотропин^до 1 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#12	AnnotatorNotes T101	first_annotator_label: C3495916||synonyms: гипертрофия миокарда||||second_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||third_annotator_label: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||bert: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||
+#13	AnnotatorNotes T34	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0814761||synonyms: замена препарата||||bert: C0206325||synonyms: кобра индийская|ochkovaia zmeia|очковая змея|kobra indiiskaia|kobra aziatskaia||||
+#14	AnnotatorNotes T97	first_annotator_label: C0007561||synonyms: цефтриаксон|tseftriakson||||second_annotator_label: C0035466||synonyms: ринофима|rinofima|nos shishkovidnyi|нос шишковидный||||third_annotator_label: C3536856||synonyms: цефалоспорины|tsefalosporanovye kisloty|tsefalosporiny|цефалоспорановые кислоты||||bert: C0035466||synonyms: ринофима|rinofima|nos shishkovidnyi|нос шишковидный||||
+#15	AnnotatorNotes T109	first_annotator_label: C1963849||synonyms: эпизод желудочковой аритмии||||second_annotator_label: C0003811||synonyms: аритмии сердечные|aritmiia|аритмия, бду|нарушения сердечного ритма|аритмия (бду)||||third_annotator_label: None||synonyms: ||||bert: C1963849||synonyms: эпизод желудочковой аритмии||||
+#16	AnnotatorNotes T10	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C0741103||synonyms: аллергия на антибиотик||||
+#17	AnnotatorNotes T122	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977047||synonyms: кальцитонин^5 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#18	AnnotatorNotes T128	first_annotator_label: C0020261||synonyms: дихлотиазид|dikhlotiazid|ezidreks|gidrokhlorotiazid|gidrokhlortiazid||||second_annotator_label: C0040869||synonyms: триамтерен|triamteren|pterofen|птерофен||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0334263||synonyms: трихолеммома||||
+#19	AnnotatorNotes T39	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C2707665||synonyms: гепарин 5000 ед/мл данный:об:тчкврм:^пациент:колич||||
+#20	AnnotatorNotes T49	first_annotator_label: C0016453||synonyms: пищевые добавки|pishchevye dobavki||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C1977049||synonyms: кальцитонин^1 минута после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#21	AnnotatorNotes T89	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1277100||synonyms: вакцина дифтерийно-столбнячно-коклюшная|difteriino-stolbniachno-kokliushnaia vaktsina|akds vaktsina|difteriino-kokliushno-stolbniachnaia vaktsina|dpt vaktsina||||
+#22	AnnotatorNotes T85	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#23	AnnotatorNotes T72	first_annotator_label: C0036689||synonyms: стрептококковый фарингит|боль в горле при стрептококковой инфекции|стрептококковая ангина||||second_annotator_label: C0276143||synonyms: вирусный фарингит|вирусная ангина|вирусный фарингит, бду||||third_annotator_label: C0031157||synonyms: перитонзиллярный абсцесс|peritonzilliarnyi abstsess|abstsess peritonzilliarnyi|острый тонзиллит|гнойный тонзиллит||||bert: C0012586||synonyms: анальгин|anal'gin|dipiron|metamizol|metampiron||||
+#24	AnnotatorNotes T116	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#25	AnnotatorNotes T129	first_annotator_label: C1963758||synonyms: иммуномодуляция|применение иммуномодуляторов|immunomoduliatsiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0550041||synonyms: инсулин^7 часов после 75 г глюкозы через рот:массконц:тчкврм:сыв/плаз:колич||||

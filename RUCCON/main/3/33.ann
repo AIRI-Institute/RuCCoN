@@ -1,0 +1,87 @@
+T35	Body_location 1826 1834	В легких
+T10	Disease 652 665	ветряная оспа
+T18	Disease 1204 1207	ОРИ
+T20	Symptom 1254 1265	сухие хрипы
+T43	Symptom 1988 2008	Менингеальных знаков
+T11	Disease 683 689	ангина
+T6	Body_location 168 188	поджелудочной железы
+T5	Disease 148 188	Вторичные изменения поджелудочной железы
+T27	Symptom 1547 1553	одышка
+T34	Symptom 1818 1824	чистые
+T38	Symptom 1891 1896	хрипы
+T37	Symptom 1873 1889	жестким оттенком
+T28	Disease 1631 1649	бронхиальная астма
+T19	Symptom 1228 1238	обструкции
+T9	Disease 310 332	респираторных инфекций
+T41	Symptom 1945 1967	Стул склонен к запорам
+T42	Symptom 1969 1975	диурез
+T39	Body_location 1920 1926	сердца
+T25	Symptom 1456 1479	малопродуктивным кашлем
+T13	Disease 710 722	дакриоцистит
+T4	Course 136 146	обострение
+T17	Disease 1155 1177	респираторные инфекции
+T33	Symptom 1802 1816	бледно-розовые
+T14	Body_location 723 736	правого глаза
+T40	Symptom 1927 1943	ясные, ритмичные
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T29	Disease 1660 1667	псориаз
+T45	Severity 114 134	персистирующая форма
+T16	Treatment 835 888	В терапии местные средства, антигистаминные препараты
+T2	Severity 42 73	легкое интермиттирующее течение
+T12	Treatment 429 445	кесарева течения
+T31	Symptom 1766 1785	катаральных явлений
+T23	Drug 1353 1361	эуфиллин
+T26	Symptom 1481 1488	одышкой
+T46	Disease 1012 1025	токсоплазмозу
+T3	Disease 93 112	Аллергический ринит
+T7	Symptom 249 280	эпизоды малопродуктивного кашля
+T32	Body_location 1787 1801	Кожные покровы
+T36	Symptom 1850 1870	везикулярное дыхание
+T22	Drug 1340 1351	сальбутамол
+T24	Disease 1426 1429	ОРИ
+T44	Disease 776 798	атопического дерматита
+T30	Body_location 1758 1761	Зев
+T21	Treatment 1318 1373	в терапии назначались сальбутамол, эуфиллин, муколитики
+T8	Symptom 291 301	обструкции
+N1	Reference T35 UMLS:C0024109	легкие
+N2	Reference T10 UMLS:C0008049	ветряная оспа
+N3	Reference T18 UMLS:C0035243	респираторные инфекции
+N4	Reference T20 UMLS:C0859999	сухие хрипы
+N5	Reference T43 UMLS:C0025287	менингеальные знаки
+N6	Reference T11 UMLS:C0276143	вирусная ангина
+N7	Reference T6 UMLS:C0030274	поджелудочная железа
+N8	Reference T5 UMLS:C0030286	поджелудочной железы болезни
+N9	Reference T27 UMLS:C0013404	одышка
+N10	Reference T34 UMLS:C0598869	чистая культура
+N11	Reference T38 UMLS:C0035234	хрипы
+N12	Reference T37 UMLS:C3666016	жесткое дыхание при аускультации легких
+N13	Reference T28 UMLS:C0004096	бронхиальная астма
+N14	Reference T19 UMLS:C0028778	обструкция, бду
+N15	Reference T9 UMLS:C0035243	респираторные инфекции
+N16	Reference T41 UMLS:C0401149	запор хронический
+N17	Reference T42 UMLS:C1287298	диурез
+N18	Reference T39 UMLS:C0018787	сердце
+N19	Reference T25 UMLS:C0850149	кашель, непродуктивный
+N20	Reference T13 UMLS:C0010930	дакриоцистит
+N21	Reference T4 UMLS:C0853946	обострение боли
+N22	Reference T17 UMLS:C0035243	респираторные инфекции
+N23	Reference T33 UMLS:C4505235	розовые
+N24	Reference T14 UMLS:C0015392	глаз
+N25	Reference T40 UMLS:C2712143	нормальный сердечный ритм
+N26	Reference T1 UMLS:C0004096	астма, бронхиальная
+N27	Reference T29 UMLS:C0033860	псориаз
+N28	Reference T16 UMLS:C0013154	лекарства применения схема
+N29	Reference T12 UMLS:C0007876	операция кесарева сечения
+N30	Reference T23 UMLS:C0002575	эуфиллин
+N31	Reference T26 UMLS:C0013404	одышка
+N32	Reference T46 UMLS:C0040558	токсоплазмоз
+N33	Reference T3 UMLS:C2607914	аллергический ринит
+N34	Reference T7 UMLS:C0850149	кашель, непродуктивный
+N35	Reference T32 UMLS:C1123023	кожа
+N36	Reference T36 UMLS:C0231855	нормальная аускультативная картина в легких
+N37	Reference T22 UMLS:C0001927	сальбутамол
+N38	Reference T24 UMLS:C0035243	респираторные инфекции
+N39	Reference T44 UMLS:C0011615	атопический дерматит
+N40	Reference T30 UMLS:C0521367	ротоглотка
+N41	Reference T21 UMLS:C0013154	лекарства применения схема
+N42	Reference T8 UMLS:C0028778	обструкция, бду

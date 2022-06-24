@@ -1,0 +1,94 @@
+T7	Symptom 248 266	угрозой прерывания
+T16	Drug 818 829	кленбутерол
+T6	Symptom 353 370	обвитием пуповины
+T39	Symptom 1745 1752	дизурии
+T19	Drug 861 871	антибиотик
+T26	Treatment 1245 1286	Получил курс антибактериальных препаратов
+T21	Disease 939 953	острый бронхит
+T33	Symptom 1570 1576	рыхлый
+T11	Disease 688 711	обструктивных бронхитов
+T44	Disease 1438 1466	риноконъюнктивальный синдром
+T37	Symptom 1647 1653	хрипов
+T14	Treatment 751 776	симптоматические средства
+T8	Disease 388 397	пневмония
+T42	Disease 1208 1231	микоплазменной инфекции
+T3	Severity 49 60	1-2 степени
+T18	Drug 850 859	атровента
+T32	Body_location 1566 1569	Зев
+T22	Disease 955 959	отит
+T23	Treatment 961 1026	В терапии местные средства, симптоматическое лечение, антибиотики
+T24	Disease 1096 1137	правостороннюю полисегментарную пневмонию
+T4	Symptom 121 149	затруднение носового дыхания
+T30	Body_location 1527 1541	Кожные покровы
+T9	Treatment 399 431	получал интенсивную терапию, ИВЛ
+T36	Symptom 1625 1645	дыхание везикулярное
+T40	Symptom 1758 1762	Стул
+T13	Disease 676 679	ОРИ
+T5	Symptom 151 174	малопродуктивный кашель
+T28	Symptom 640 649	высыпания
+T41	Symptom 1788 1808	Менингеальных знаков
+T10	Disease 559 575	Пищевая аллергия
+T34	Symptom 1578 1614	Носовое дыхание несколько затруднено
+T27	Disease 1428 1436	поллиноз
+T2	Disease 27 48	Гипертрофия аденоидов
+T17	Drug 831 838	аскорил
+T1	Disease 9 25	Пищевая аллергия
+T38	Symptom 1659 1692	Сердечные тоны звучные, ритмичные
+T25	Disease 1139 1153	ларинготрахеит
+T29	Body_location 650 657	на коже
+T15	Treatment 818 872	кленбутерол, аскорил, ингаляции атровента, антибиотики
+T12	Disease 725 739	ларинготрахеит
+T35	Body_location 1616 1624	В лёгких
+T31	Symptom 1542 1564	чистые, бледно-розовые
+T43	Disease 1195 1231	хламидийной, микоплазменной инфекции
+T20	Disease 916 938	респираторной инфекции
+N1	Reference T7 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N2	Reference T16 UMLS:C0008932	кленбутерол
+N3	Reference T6 UMLS:C0405124	пуповины обвитие
+N4	Reference T39 UMLS:C0013428	дизурия
+N5	Reference T19 UMLS:C0279516	антибиотики
+N6	Reference T26 UMLS:C0854606	системная антибактериальная терапия
+N7	Reference T21 UMLS:C0149514	острый бронхит
+N8	Reference T33 UMLS:C0236065	отек полости рта
+N9	Reference T11 UMLS:C0865791	обструктивный бронхит
+N10	Reference T44 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N11	Reference T37 UMLS:C3887661	хрип
+N12	Reference T14 UMLS:C0039052	симпатомиметические средства
+N13	Reference T8 UMLS:C0032285	пневмония
+N14	Reference T42 UMLS:C0026936	микоплазменная инфекция
+N15	Reference T18 UMLS:C0027235	ипратропий
+N16	Reference T32 UMLS:C0521367	ротоглотка
+N17	Reference T22 UMLS:C0029877	отит
+N18	Reference T23 UMLS:C0013154	симптоматическое лечение
+N19	Reference T24 UMLS:C0032285	пневмония
+N20	Reference T4 UMLS:C0553668	затруднение дыхания
+N21	Reference T30 UMLS:C1123023	кожа
+N22	Reference T9 UMLS:C0010337	интенсивная терапия
+N23	Reference T36 UMLS:UNKNOWN	жесткое дыхание при аускультации легких
+N24	Reference T40 UMLS:CUILESS	мягкий стул
+N25	Reference T13 UMLS:C0035243	респираторные инфекции
+N26	Reference T5 UMLS:C0850149	кашель, непродуктивный
+N27	Reference T28 UMLS:C0302295	высыпание
+N28	Reference T41 UMLS:C0025287	менингеальные знаки
+N29	Reference T10 UMLS:C0149696	пищевая аллергия
+N30	Reference T34 UMLS:C0853254	раздражение носовых ходов
+N31	Reference T27 UMLS:C0018621	поллиноз
+N32	Reference T2 UMLS:C0149825	гипертрофия исключительно аденоидов
+N33	Reference T17 UMLS:C0006220	бромгексин
+N34	Reference T1 UMLS:C0149696	пищевая аллергия
+N35	Reference T38 UMLS:C0018810	сердечный ритм
+N36	Reference T25 UMLS:C0023076	ларинготрахеит
+N37	Reference T29 UMLS:C1123023	кожа
+N38	Reference T15 UMLS:C0009429	комплексное лечение
+N39	Reference T12 UMLS:C0023076	ларинготрахеит
+N40	Reference T35 UMLS:C0024109	легкие
+N41	Reference T31 UMLS:CUILESS	норма рабочая
+N42	Reference T43 UMLS:C0008149	хламидийные инфекции
+N43	Reference T20 UMLS:C0035243	респираторные инфекции
+#1	AnnotatorNotes T33	first_annotator_label: C0236065||synonyms: отек полости рта|отек рта|отечность полости рта|отек ротовой полости|отечность рта||||second_annotator_label: C0016163||synonyms: рыбы|ryby||||third_annotator_label: None||synonyms: ||||bert: C0016163||synonyms: рыбы|ryby||||
+#2	AnnotatorNotes T18	first_annotator_label: C0027235||synonyms: n-изопропилатропин|n-izopropilatropin|ipratropii|ипратропий||||second_annotator_label: C0202341||synonyms: br|бром|бромиды||||third_annotator_label: C0242897||synonyms: холинергические антагонисты|kholinergicheskie antagonisty|antikholinergicheskie antagonisty|atsetilkholina antagonisty|kholinergicheskikh retseptorov blokiruiushchie sredstva||||bert: C0935914||synonyms: атрасентан|atrasentan|атразентан|atrazentan||||
+#3	AnnotatorNotes T23	first_annotator_label: C5243901||synonyms: симптоматическое лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#4	AnnotatorNotes T36	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T40	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#6	AnnotatorNotes T15	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||bert: C0001641||synonyms: адренергические альфа-антагонисты|adrenergicheskie al'fa-antagonisty|adrenergicheskikh al'fa-retseptorov blokatory|al'fa-adrenergicheskie blokiruiushchie sredstva|al'fa-adrenergicheskikh retseptorov blokatory||||
+#7	AnnotatorNotes T31	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0859290||synonyms: черное пятно||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||

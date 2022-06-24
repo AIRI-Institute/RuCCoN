@@ -1,0 +1,160 @@
+T69	Body_location 9079 9084	Почек
+T11	Disease 232 262	Дисплазия соединительной ткани
+T7	Disease 154 189	Недостаточность митрального клапана
+T8	Body_location 170 189	митрального клапана
+T18	Disease 561 565	ОРВИ
+T6	Disease 124 152	Дилатационная кардиомиопатия
+T49	Symptom 3183 3217	Повышение электрической активности
+T10	Severity 195 215	2А ст, ФК II по Ross
+T29	Disease 2222 2246	Легочная гипертензия 1ст
+T66	Body_location 6745 6761	ЛЕВЫЙ ЖЕЛУДОЧЕК:
+T20	Symptom 982 993	снижение ФВ
+T35	Drug 2310 2317	капотен
+T71	Body_location 9725 9737	ПРАВАЯ ПОЧКА
+T32	Severity 2283 2289	1-2Аст
+T3	Body_location 67 87	митрального клапана.
+T62	Body_location 6420 6436	ЛЕГОЧНАЯ АРТЕРИЯ
+T39	Drug 2410 2419	предуктал
+T72	Body_location 10565 10579	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T80	Drug 11786 11795	Предуктал
+T64	Body_location 6640 6666	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T61	Body_location 6180 6185	АОРТА
+T13	Disease 294 320	Задержка речевого развития
+T68	Body_location 7314 7337	ДИАСТОЛИЧЕСКОЕ ДАВЛЕНИЕ
+T76	Drug 11647 11653	Диувер
+T44	Body_location 2743 2755	периоральный
+T30	Disease 2248 2271	Митральная регургитация
+T1	Disease 21 49	Дилатационная кардиомиопатия
+T15	Symptom 388 400	утомляемость
+T42	Body_location 2719 2733	кожные покровы
+T65	Body_location 6678 6694	ПРАВЫЙ ЖЕЛУДОЧЕК
+T26	Drug 1383 1397	аспирин кардио
+T16	Symptom 402 412	потливость
+T54	Symptom 4422 4433	гипергидроз
+T47	Body_location 2831 2837	сердца
+T59	Body_location 6144 6149	Сердц
+T12	Disease 264 292	Дисфункция билиарного тракта
+T60	Body_location 6553 6569	ЛЕВОЕ ПРЕДСЕРДИЕ
+T40	Drug 2436 2450	аспирин-кардио
+T36	Drug 2332 2340	триампур
+T14	Symptom 347 353	одышка
+T67	Body_location 7247 7269	СИСТОЛИЧЕСКОЕ ДАВЛЕНИЕ
+T53	Treatment 3871 4019	дигоксин 0,03мг х 1 р/д, капотен 6,25 мг х 3 р/д, диувер2,5 мг х 1р/д, конкор 1,25 мг утром, 0,625мг вечером, трентал 12,5мг х 3р/д, панангин по пол
+T58	Symptom 4885 4904	ясный легочный звук
+T78	Drug 11722 11729	Трентал
+T5	Severity 92 113	2А ст, ФК II по Ross.
+T57	Symptom 4827 4841	безболезненные
+T24	Drug 1334 1341	капотен
+T51	Treatment 3492 3701	капотен с титрованием дозы до 6.25 мг х 3 р/д, диувер 2.5 мг х 1 р/д, конкор с титрованием дозы до 1.25 мг в 09.00, 0.625 мг в 21.00, дигоксин 0.03 мг х 1 р/д, панангин ½ табл х 3 р/д, трентал 6.25 мг х 3 р/д.
+T2	Disease 51 87	Недостаточность митрального клапана.
+T45	Symptom 2779 2790	гипергидроз
+T70	Body_location 9116 9127	ЛЕВАЯ ПОЧКА
+T43	Symptom 2756 2762	цианоз
+T50	Body_location 3227 3244	правого желудочка
+T25	Drug 1358 1368	верошпирон
+T33	Disease 2279 2282	ХСН
+T77	Drug 11679 11685	Конкор
+T28	Disease 2143 2220	Неревматический кардит, неуточненной этиологии (вирусной?), подострое течение
+T37	Drug 2357 2367	верошпирон
+T46	Symptom 2838 2848	приглушены
+T56	Symptom 4669 4679	деформаций
+T81	Treatment 12091 12338	дигоксин 0.03 мг х 1 р/д в 08.00 , капотен 6.25 мг х 3 р/д в 08.00-15.00-23.00 , диувер 2.5 мг х 1 р/д в 18.00 , конкор 1.25 мг в 09.00, 0.625 мг в 21.00 , трентал 12.5 мг х 3 р\д после еды , панангин по ½ табл х 3р/д , предуктал 8.75 мг х 2 р\д .
+T9	Disease 191 194	ХСН
+T48	Symptom 2874 2884	тахикардии
+T75	Drug 11601 11608	Капотен
+T74	Drug 11566 11574	Дигоксин
+T31	Severity 2272 2277	1-2ст
+T52	Disease 3793 3797	ОРВИ
+T4	Disease 88 91	ХСН
+T63	Body_location 6596 6613	ПРАВОЕ ПРЕДСЕРДИЕ
+T17	Symptom 485 495	токсикозом
+T34	Severity 2291 2297	ФК 2-3
+T27	Drug 1433 1441	дигоксин
+T23	Disease 1116 1144	Дилатационная кардиомиопатия
+T21	Symptom 1002 1028	расширение полостей сердца
+T79	Drug 11758 11766	Панангин
+T19	Disease 861 864	ОРЗ
+T38	Drug 2384 2392	дигоксин
+T73	Body_location 10681 10687	ПЕЧЕНЬ
+T22	Body_location 1029 1031	ЛЖ
+T55	Symptom 4512 4525	гиперемирован
+T41	Symptom 2734 2741	бледные
+N1	Reference T69 UMLS:C0022646	почки
+N2	Reference T11 UMLS:C4014739	дисплазия соединительной ткани
+N3	Reference T7 UMLS:C0026266	недостаточность митрального клапана
+N4	Reference T8 UMLS:C0026264	митральный клапан
+N5	Reference T18 UMLS:C0035243	орви
+N6	Reference T6 UMLS:C0007193	дилатационная кардиомиопатия
+N7	Reference T49 UMLS:C0032865	электрической энергии запасы
+N8	Reference T29 UMLS:C0020542	гипертензия легочная
+N9	Reference T66 UMLS:C0080310	сердца желудочка левого функция
+N10	Reference T20 UMLS:C0743400	снижение фракции выброса
+N11	Reference T35 UMLS:C0006938	каптоприл
+N12	Reference T71 UMLS:C0022646	почки
+N13	Reference T3 UMLS:C0026264	митральный клапан
+N14	Reference T62 UMLS:C0034052	легочная артерия
+N15	Reference T39 UMLS:C0041037	триметазидин
+N16	Reference T72 UMLS:C0016976	желчный пузырь
+N17	Reference T80 UMLS:C0041037	триметазидин
+N18	Reference T64 UMLS:C2717762	перегородки межпредсердной обтуратор
+N19	Reference T61 UMLS:C0003483	аорта
+N20	Reference T13 UMLS:C0424605	задержка развития
+N21	Reference T68 UMLS:C0005823	диастолическое давление
+N22	Reference T76 UMLS:C0076840	торасемид
+N23	Reference T44 UMLS:C0239062	периоральный отек
+N24	Reference T30 UMLS:C0026266	регургитация на митральном клапане
+N25	Reference T1 UMLS:C0007193	дилатационная кардиомиопатия
+N26	Reference T15 UMLS:C0231230	утомляемость
+N27	Reference T42 UMLS:C1123023	кожа
+N28	Reference T65 UMLS:C0080311	сердца желудочка правого функция
+N29	Reference T26 UMLS:C0004057	аспирин
+N30	Reference T16 UMLS:C0038990	потливость
+N31	Reference T54 UMLS:C0020458	гипергидроз
+N32	Reference T47 UMLS:C0018787	сердце
+N33	Reference T59 UMLS:C0018787	сердце
+N34	Reference T12 UMLS:C0005395	патологии желчевыводящих путей
+N35	Reference T60 UMLS:C0078995	предсердие левое, функция
+N36	Reference T40 UMLS:C0004057	аспирин
+N37	Reference T36 UMLS:C0020261	гидрохлоротиазид
+N38	Reference T14 UMLS:C0013404	одышка
+N39	Reference T67 UMLS:C0005823	систолическое давление
+N40	Reference T53 UMLS:C1977047	кальцитонин^5 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич
+N41	Reference T58 UMLS:C0023740	язычный нерв
+N42	Reference T78 UMLS:C0030899	трентал
+N43	Reference T57 UMLS:C0857027	болезненность
+N44	Reference T24 UMLS:C0006938	каптоприл
+N45	Reference T51 UMLS:C1977047	кальцитонин^5 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич
+N46	Reference T2 UMLS:C0026266	недостаточность митрального клапана
+N47	Reference T45 UMLS:C0020458	гипергидроз
+N48	Reference T70 UMLS:C0022646	почки
+N49	Reference T43 UMLS:C0010520	цианоз
+N50	Reference T50 UMLS:C0162770	увеличение правого желудочка
+N51	Reference T25 UMLS:C0037982	верошпирон
+N52	Reference T33 UMLS:C0264716	хроническая сердечная недостаточность
+N53	Reference T77 UMLS:C0053799	бисопролол
+N54	Reference T28 UMLS:C0869523	кардит
+N55	Reference T37 UMLS:C0037982	верошпирон
+N56	Reference T46 UMLS:C0235200	оглушение
+N57	Reference T56 UMLS:C0302142	деформация
+N58	Reference T81 UMLS:C0013154	антигипертензивные средства
+N59	Reference T9 UMLS:C0264716	хроническая сердечная недостаточность
+N60	Reference T48 UMLS:C0039231	тахикардия
+N61	Reference T75 UMLS:C0006938	каптоприл
+N62	Reference T74 UMLS:C0012265	дигоксин
+N63	Reference T52 UMLS:C0035243	орви
+N64	Reference T4 UMLS:C0264716	хроническая сердечная недостаточность
+N65	Reference T63 UMLS:C0078996	предсердие правое, функция
+N66	Reference T17 UMLS:C0032914	беременности токсикоз, опг
+N67	Reference T27 UMLS:C0012265	дигоксин
+N68	Reference T23 UMLS:C0007193	дилатационная кардиомиопатия
+N69	Reference T21 UMLS:C0018800	сердца расширение
+N70	Reference T79 UMLS:C0032835	калия, магния аспарагинат
+N71	Reference T19 UMLS:C0035243	орз
+N72	Reference T38 UMLS:C0012265	дигоксин
+N73	Reference T73 UMLS:C0023884	печень
+N74	Reference T22 UMLS:C0080310	сердца желудочка левого функция
+N75	Reference T55 UMLS:C0020452	гиперемия
+N76	Reference T41 UMLS:C0678215	бледный
+#1	AnnotatorNotes T12	first_annotator_label: C0005395||synonyms: желчных протоков болезни|zhelchnykh protokov bolezni|патологии желчевыводящих путей||||second_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||third_annotator_label: C0005416||synonyms: желчных путей дискинезия|zhelchnykh putei diskineziia|дискинезия желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#2	AnnotatorNotes T36	first_annotator_label: C0020261||synonyms: дихлотиазид|dikhlotiazid|ezidreks|gidrokhlorotiazid|gidrokhlortiazid||||second_annotator_label: C0040869||synonyms: триамтерен|triamteren|pterofen|птерофен||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0041175||synonyms: трометамол|trometamol|tris-bufer|trisamin|trometamin||||
+#3	AnnotatorNotes T81	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||

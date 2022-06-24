@@ -1,0 +1,110 @@
+T34	Drug 1442 1450	Фукорцин
+T32	Treatment 1515 1548	Купать в средствах для сухой кожи
+T14	Symptom 398 409	секрет есть
+T33	Drug 1462 1467	Креон
+T47	Body_location 720 731	мочеточники
+T37	Drug 1553 1565	Кератозан 15
+T1	Body_location 31 54	органов брюшной полости
+T5	Body_location 306 312	ПЕЧЕНЬ
+T21	Drug 1086 1095	биотредин
+T15	Symptom 429 469	секрет есть, стенки тонкие, не изменены.
+T9	Body_location 516 536	поджелудочной железы
+T20	Drug 1066 1084	ретинола пальмитат
+T8	Symptom 486 536	признаки реактивных изменений поджелудочной железы
+T30	Treatment 1462 1511	Креон по 1/2к. х 3 раза в день продолжить 5 дней.
+T39	Disease 975 998	Красный волосяной лишай
+T17	Treatment 1042 1135	беллатаминал, стугерон, ретинола пальмитат, биотредин, глицин,  атодерм PO Zn, креон, тридерм
+T38	Disease 953 973	атопический дерматит
+T16	Body_location 569 574	почек
+T10	Symptom 73 153	размер – 61х16 мм; стенки – не утолщены; форма – правильная; просвет – свободный
+T12	Symptom 266 304	размер 77х36 мм; паренхима не изменена
+T35	Drug 1403 1416	Атодерм PO Zn
+T40	Disease 873 883	Невропатия
+T22	Drug 1097 1103	глицин
+T18	Drug 1042 1054	беллатаминал
+T4	Body_location 255 264	СЕЛЕЗЕНКА
+T36	Drug 1327 1345	Ретинола пальмитат
+T46	Body_location 704 717	капсулы почки
+T3	Body_location 155 175	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T6	Body_location 387 394	ЖЕЛУДОК
+T42	Symptom 761 784	выполнен, стенки тонкие
+T11	Symptom 177 253	размер – 10х7х11 мм; паренхима – эхогенность умеренно понижена, неоднородная
+T45	Body_location 661 664	ЧЛС
+T28	Treatment 1403 1436	Атодерм PO Zn местно 1 раз в день
+T31	Treatment 1553 1586	Кератозан 15 2 раза в день местно
+T25	Drug 1128 1135	тридерм
+T26	Treatment 1290 1322	Соблюдение гипоаллергенной диеты
+T2	Body_location 57 71	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T43	Symptom 577 659	Левая 68х28 мм, правая 69х24 мм, расположены в типичном месте, паренхима сохранена
+T44	Symptom 661 744	ЧЛС  - не расширена, , кровоток при ЦДК до капсулы почки,; мочеточники не расширены
+T13	Symptom 314 385	размер – ЛД – 50, 1й сегмент 14 мм, ПД –94 мм; паренхима -  не изменена
+T27	Treatment 1327 1398	Ретинола пальмитат 60000 МЕ в сутки утром после еды продолжить 10 дней.
+T29	Treatment 1442 1458	Фукорцин местно.
+T24	Drug 1121 1126	креон
+T7	Body_location 411 428	12-ПЕРСТНАЯ КИШКА
+T23	Drug 1106 1119	атодерм PO Zn
+T41	Body_location 746 760	Мочевой пузырь
+T19	Drug 1056 1064	стугерон
+N1	Reference T34 UMLS:C0003205	антисептики
+N2	Reference T32 UMLS:C1699506	увлажнение сухой кожи тела
+N3	Reference T14 UMLS:C1096020	выделение секрета
+N4	Reference T33 UMLS:C0030304	креон
+N5	Reference T47 UMLS:C0041951	мочеточник
+N6	Reference T37 UMLS:C3494477	крем для кожи
+N7	Reference T1 UMLS:C0230168	брюшная полость
+N8	Reference T5 UMLS:C0023884	печень
+N9	Reference T21 UMLS:C0034272	пиридоксин
+N10	Reference T15 UMLS:CUILESS	выделение секрета
+N11	Reference T9 UMLS:C0030274	поджелудочная железа
+N12	Reference T20 UMLS:C0042839	ретинол
+N13	Reference T8 UMLS:C0030286	заболевания поджелудочной железы
+N14	Reference T30 UMLS:C4523842	заместительная терапия ферментами поджелудочной железы
+N15	Reference T39 UMLS:C0032027	лишай красный волосяной отрубевидный
+N16	Reference T17 UMLS:C0013154	комплементарная терапия
+N17	Reference T38 UMLS:C0011615	атопический дерматит
+N18	Reference T16 UMLS:C0022646	почки
+N19	Reference T10 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N20	Reference T12 UMLS:C2181189	ультразвуковое исследование селезенки
+N21	Reference T35 UMLS:C3494477	крем для кожи
+N22	Reference T40 UMLS:C0876934	невропатология
+N23	Reference T22 UMLS:C0017890	глицин
+N24	Reference T18 UMLS:C0020592	снотворные и седативные средства
+N25	Reference T4 UMLS:C0037993	селезенка
+N26	Reference T36 UMLS:C0042839	ретинол
+N27	Reference T46 UMLS:C0022646	почки
+N28	Reference T3 UMLS:C0030274	поджелудочная железа
+N29	Reference T6 UMLS:C0038351	желудок
+N30	Reference T42 UMLS:CUILESS	результаты ультразвукового исследования мочевого пузыря в норме
+N31	Reference T11 UMLS:C4285854	результаты ультразвукового исследования поджелудочной железы в норме
+N32	Reference T45 UMLS:C0227666	почечные лоханки
+N33	Reference T28 UMLS:C0013154	увлажнение сухой кожи тела
+N34	Reference T31 UMLS:C0013154	увлажнение сухой кожи тела
+N35	Reference T25 UMLS:CUILESS	бетаметазон
+N36	Reference T26 UMLS:C0012155	диета
+N37	Reference T2 UMLS:C0016976	желчный пузырь
+N38	Reference T43 UMLS:CUILESS	результаты ультразвукового исследования почек в норме
+N39	Reference T44 UMLS:C0748337	результаты ультразвукового исследования почки в норме
+N40	Reference T13 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N41	Reference T27 UMLS:C0013154	добавки витамина а
+N42	Reference T29 UMLS:C0003424	антисептика
+N43	Reference T24 UMLS:C0030304	креон
+N44	Reference T7 UMLS:C0013303	двенадцатиперстная кишка
+N45	Reference T23 UMLS:C3494477	крем для кожи
+N46	Reference T41 UMLS:C0005682	мочевой пузырь
+N47	Reference T19 UMLS:C0008803	стугерон
+#1	AnnotatorNotes T32	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||
+#2	AnnotatorNotes T21	first_annotator_label: C0034272||synonyms: пиридоксин|piridoksin||||second_annotator_label: C0040005||synonyms: треонин|treonin||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C0005562||synonyms: биоптерин|biopterin||||
+#3	AnnotatorNotes T15	first_annotator_label: C1096020||synonyms: выделение секрета||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0007623||synonyms: клетки стенка|kletki stenka||||
+#4	AnnotatorNotes T20	first_annotator_label: C0042839||synonyms: витамин a|vitamin a|retinol|ретинол||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042890||synonyms: витамины|vitaminy||||bert: C0856901||synonyms: дефицит ретинола||||
+#5	AnnotatorNotes T30	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0363779||synonyms: туберкулёз реакция папула^3 дня после 5 ет внутрикожно:диам:тчкврм:кожа:колич||||
+#6	AnnotatorNotes T17	first_annotator_label: C0936077||synonyms: медицина альтернативная|al'ternativnaia meditsina|meditsina al'ternativnaia|parameditsinskie kul'ty|al'ternativnaia terapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0033679||synonyms: трансглутаминазы|faktor xiii transamidaza|glutaminil-peptid gamma-glutamiltransferaza|transglutaminaza|transglutaminazy||||
+#7	AnnotatorNotes T42	first_annotator_label: C0855958||synonyms: результаты ультразвукового исследования мочевого пузыря в норме||||second_annotator_label: C0403645||synonyms: атонический мочевой пузырь|атония мочевого пузыря|атония мышц мочевого пузыря||||third_annotator_label: C0948140||synonyms: атрофия мочевого пузыря||||bert: C0151924||synonyms: стеноз тонкой кишки|стеноз тонкой кишки, бду|сужение канала тонкой кишки|сужение просвета тонкой кишки||||
+#8	AnnotatorNotes T11	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0482750||synonyms: плазминоген активатор тканевый тип^10 минут после венозного стаза:произвконц:тчкврм:опп:колич:хромо||||
+#9	AnnotatorNotes T28	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C2360611||synonyms: дата диапазон:датаинтервал:тчкврм:алкоголь-вещество злоупотребление реабилитация лечение план:колич||||
+#10	AnnotatorNotes T31	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C0858699||synonyms: кожный кератоз||||
+#11	AnnotatorNotes T25	first_annotator_label: C0005308||synonyms: бетаметазон|betametazon|betadeksametazon|flubenizolon|бетадексаметазон||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0040915||synonyms: триходермин|trikhodermin|trikhodermol|триходермол||||
+#12	AnnotatorNotes T43	first_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0203408||synonyms: ультразвуковое исследование почек|узи почек||||bert: C1315413||synonyms: максимальный бугорково-фиссурный контакт зубов правая срединная линия разность:дл:тчкврм:нижняя челюсть+лицо:колич:измеренный||||
+#13	AnnotatorNotes T44	first_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0203408||synonyms: ультразвуковое исследование почек|узи почек||||bert: C0948987||synonyms: желудочно-кишечные кровотечения, нкдр||||
+#14	AnnotatorNotes T13	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0880546||synonyms: конский герпесвирус 1+4 ат:титр:тчкврм:сыв:колич:компл фикс||||
+#15	AnnotatorNotes T27	first_annotator_label: C4524019||synonyms: добавки витамина а||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C0363753||synonyms: ренин^5 часов после 600 мкг фуросемида через рот:каталконц:тчкврм:плаз:колич||||
+#16	AnnotatorNotes T29	first_annotator_label: C0003424||synonyms: антисептика|antiseptika||||second_annotator_label: C0001566||synonyms: введение лекарств местное|vvedenie lekarstv mestnoe|lekarstv vvedenie mestnoe|mestnoe vvedenie lekarstv|лекарств введение местное||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C0016328||synonyms: фториды местные|ftoridy mestnye|ftoridy mestnodeistvuiushchie|фториды местнодействующие||||

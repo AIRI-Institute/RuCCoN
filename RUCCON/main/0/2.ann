@@ -1,0 +1,165 @@
+T58	Symptom 1951 1974	эритематозно-сквамозные
+T18	Severity 478 487	1 степени
+T48	Body_location 1910 1924	Кожные покровы
+T40	Drug 1564 1574	вентолином
+T9	Disease 265 283	бронхиальная астма
+T60	Symptom 2289 2309	Менингеальных знаков
+T61	Body_location 2215 2220	Живот
+T2	Severity 29 59	тяжелое персистирующее течение
+T46	Symptom 1784 1796	сильный зуд.
+T25	Symptom 699 722	повышенную утомляемость
+T52	Body_location 1989 1992	шее
+T13	Disease 359 375	Пищевая аллергия
+T6	Course 173 190	период обострения
+T51	Severity 1932 1942	выраженный
+T62	Symptom 2221 2227	мягкий
+T59	Body_location 2105 2113	В лёгких
+T20	Disease 542 551	Цефалгии.
+T34	Severity 1294 1311	тяжелого течения.
+T39	Treatment 1554 1589	снимаются вентолином или беродуалом
+T45	Symptom 1727 1755	Выраженная заложенность носа
+T57	Symptom 2007 2037	с элементами мокнутия, трещины
+T63	Symptom 2243 2257	безболезненный
+T65	Disease 192 198	Хейлит
+T47	Disease 1838 1858	атопический дерматит
+T19	Disease 489 540	Вегетососудистая дисфункция по гипотоническому типу
+T36	Drug 1398 1435	ингаляционными глюкокортикостероидами
+T75	Disease 1689 1697	поллиноз
+T12	Course 340 357	подострое течение
+T54	Body_location 2001 2006	ногах
+T72	Symptom 2259 2263	Стул
+T5	Severity 156 171	тяжелое течение
+T73	Body_location 418 437	митрального клапана
+T56	Symptom 2039 2042	зуд
+T7	Disease 200 234	Круглогодичный аллергический ринит
+T15	Body_location 388 408	желчевыводящих путей
+T27	Disease 913 935	атопического дерматита
+T69	Symptom 2053 2075	умеренно гиперемирован
+T8	Course 236 253	период обострения
+T50	Disease 1943 1949	хейлит
+T53	Body_location 1994 1999	руках
+T74	Disease 255 263	Поллиноз
+T70	Symptom 2166 2184	громкие, ритмичные
+T21	Symptom 617 636	затруднения дыхания
+T42	Disease 1636 1640	ОРВИ
+T10	Disease 286 314	риноконъюнктивальный синдром
+T44	Disease 1706 1724	бронхиальная астма
+T11	Disease 317 337	атопический дерматит
+T4	Disease 110 154	Атопический дерматит, распространенная форма
+T68	Body_location 2049 2052	Зев
+T30	Treatment 1020 1040	лечение в стационаре
+T43	Disease 1699 1704	ринит
+T37	Treatment 1462 1490	фликсотид в дозе 250 мкг/сут
+T26	Symptom 724 738	головные боли.
+T33	Disease 1263 1292	дермо-респираторного синдрома
+T23	Symptom 678 692	выраженный зуд
+T41	Drug 1579 1589	беродуалом
+T66	Symptom 994 1017	обструктивным синдромом
+T49	Symptom 1925 1930	сухие
+T3	Course 80 108	период неустойчивой ремиссии
+T67	Symptom 2077 2103	Носовое дыхание затруднено
+T71	Symptom 2186 2213	небольшой систолический шум
+T24	Body_location 693 697	кожи
+T29	Disease 1061 1076	бронхопневмонию
+T32	Severity 1156 1172	тяжелого течения
+T38	Drug 1462 1471	фликсотид
+T35	Treatment 1375 1435	курсы базисной терапии ингаляционными глюкокортикостероидами
+T55	Body_location 2043 2047	кожи
+T64	Symptom 2128 2149	единичные сухие хрипы
+T16	Disease 410 460	Пролапс митрального клапана с регургитацией 3-4 мм
+T28	Disease 987 991	ОРВИ
+T17	Disease 462 477	Грудной сколиоз
+T22	Treatment 660 676	базисной терапии
+T31	Disease 1125 1154	дермо-респираторного синдрома
+T1	Disease 9 27	Бронхиальная астма
+T14	Disease 377 408	Дискинезия желчевыводящих путей
+N1	Reference T58 UMLS:C0014747	эритемато-сквамозный дерматоз
+N2	Reference T48 UMLS:C1123023	кожа
+N3	Reference T40 UMLS:C0001927	сальбутамол
+N4	Reference T9 UMLS:C0004096	бронхиальная астма
+N5	Reference T60 UMLS:C0025287	менингеальные знаки
+N6	Reference T61 UMLS:C0000726	живот
+N7	Reference T2 UMLS:CUILESS	астма, хроническая
+N8	Reference T46 UMLS:C0033774	зуд
+N9	Reference T25 UMLS:C0858923	быстрая утомляемость, генерализованная
+N10	Reference T52 UMLS:C0027530	шея
+N11	Reference T13 UMLS:C0149696	пищевая аллергия
+N12	Reference T6 UMLS:CUILESS	обострение боли
+N13	Reference T51 UMLS:CUILESS	степень ухудшения бду
+N14	Reference T62 UMLS:C0026390	мягкокожие
+N15	Reference T59 UMLS:C0024109	легкие
+N16	Reference T20 UMLS:C0018681	цефалгия
+N17	Reference T34 UMLS:CUILESS	степень ухудшения бду
+N18	Reference T39 UMLS:C0156386	стеноз или атрезия влагалища
+N19	Reference T45 UMLS:C0027424	заложенность носа
+N20	Reference T57 UMLS:C0221245	кожные трещины
+N21	Reference T63 UMLS:C0857027	болезненность
+N22	Reference T65 UMLS:C0007971	хейлит
+N23	Reference T47 UMLS:C0011615	атопический дерматит
+N24	Reference T19 UMLS:C1262305	вегетососудистая дистония
+N25	Reference T36 UMLS:C0017710	глюкокортикоиды
+N26	Reference T75 UMLS:C0018621	поллиноз
+N27	Reference T12 UMLS:CUILESS	обострение боли
+N28	Reference T54 UMLS:C1140621	нога
+N29	Reference T72 UMLS:CUILESS	мягкий стул
+N30	Reference T5 UMLS:CUILESS	степень ухудшения бду
+N31	Reference T73 UMLS:C0026264	митральный клапан
+N32	Reference T56 UMLS:C0033774	зуд
+N33	Reference T7 UMLS:C0035457	круглогодичный аллергический ринит
+N34	Reference T15 UMLS:C0005423	желчные пути
+N35	Reference T27 UMLS:C0011615	атопический дерматит
+N36	Reference T69 UMLS:C3854571	гиперемия в глотке
+N37	Reference T8 UMLS:CUILESS	обострение боли
+N38	Reference T50 UMLS:C0007971	хейлит
+N39	Reference T53 UMLS:C0446516	рука
+N40	Reference T74 UMLS:C0018621	поллиноз
+N41	Reference T70 UMLS:CUILESS	нормальный сердечный ритм
+N42	Reference T21 UMLS:C0553668	затруднение дыхания
+N43	Reference T42 UMLS:C0035243	орви
+N44	Reference T10 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N45	Reference T44 UMLS:C0004096	бронхиальная астма
+N46	Reference T11 UMLS:C0011615	атопический дерматит
+N47	Reference T4 UMLS:C0011615	атопический дерматит
+N48	Reference T68 UMLS:C0521367	ротоглотка
+N49	Reference T30 UMLS:C0021562	стационарные больные
+N50	Reference T43 UMLS:C0086066	ринит
+N51	Reference T37 UMLS:C0013154	терапия глюкокортикостероидами
+N52	Reference T26 UMLS:C0018681	головные боли
+N53	Reference T33 UMLS:C0035222	респираторный дистресс-синдром
+N54	Reference T23 UMLS:C0033774	зуд
+N55	Reference T41 UMLS:C0015840	фенотерол
+N56	Reference T66 UMLS:C3665783	обструктивный шок
+N57	Reference T49 UMLS:C0151908	сухая кожа
+N58	Reference T3 UMLS:C0242793	период ремиссии
+N59	Reference T67 UMLS:C0027424	дыхание, затрудненное
+N60	Reference T71 UMLS:C0232257	систолический шум
+N61	Reference T24 UMLS:C1123023	кожа
+N62	Reference T29 UMLS:C0006285	бронхопневмония
+N63	Reference T32 UMLS:CUILESS	степень ухудшения бду
+N64	Reference T38 UMLS:C0082607	фликсотид
+N65	Reference T35 UMLS:C0744425	терапия глюкокортикостероидами
+N66	Reference T55 UMLS:C1123023	кожа
+N67	Reference T64 UMLS:C0034642	единичные хрипы
+N68	Reference T16 UMLS:C0026267	митрального клапана пролапс
+N69	Reference T28 UMLS:C0035243	орви
+N70	Reference T17 UMLS:C0158504	сколиоз лучевой
+N71	Reference T22 UMLS:C0344211	поддерживающая терапия
+N72	Reference T31 UMLS:C0035222	респираторный дистресс-синдром
+N73	Reference T1 UMLS:C0004096	бронхиальная астма
+N74	Reference T14 UMLS:C0005416	дискинезия желчевыводящих путей
+#1	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0694548||synonyms: кашлевая астма||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#2	AnnotatorNotes T25	first_annotator_label: C0858923||synonyms: быстрая утомляемость, генерализованная|генерализованная утомляемость|общая утомляемость||||second_annotator_label: C1504601||synonyms: повышенное сопротивление||||third_annotator_label: C0024528||synonyms: недомогание и повышенная утомляемость||||bert: C1504601||synonyms: повышенное сопротивление||||
+#3	AnnotatorNotes T6	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||third_annotator_label: None||synonyms: ||||bert: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||
+#4	AnnotatorNotes T51	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0857115||synonyms: выраженное покраснение||||third_annotator_label: None||synonyms: ||||bert: C0235101||synonyms: беспокойство выраженное|выраженное волнение||||
+#5	AnnotatorNotes T34	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#6	AnnotatorNotes T36	first_annotator_label: C0017710||synonyms: глюкокортикоиды|gliukokortikoidy||||second_annotator_label: C3850108||synonyms: стероидов синтеза ингибиторы|gliukokortikoidov sinteza ingibitory|mineralokortikoidov sinteza ingibitory|антагонисты синтеза стероидов|эстрогенов синтеза ингибиторы||||third_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||bert: C3850108||synonyms: стероидов синтеза ингибиторы|gliukokortikoidov sinteza ingibitory|mineralokortikoidov sinteza ingibitory|антагонисты синтеза стероидов|эстрогенов синтеза ингибиторы||||
+#7	AnnotatorNotes T12	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: None||synonyms: ||||bert: C0038559||synonyms: подводная медицина|meditsina podvodnaia|podvodnaia meditsina|медицина подводная||||
+#8	AnnotatorNotes T72	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#9	AnnotatorNotes T5	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0011616||synonyms: дерматит контактный|dermatit kontaktnyi|ekzema kontaktnaia|giperchuvstvitel'nost' kontaktnaia|kontaktnyi dermatit||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#10	AnnotatorNotes T15	first_annotator_label: C0005423||synonyms: желчные пути|zhelchnye puti||||second_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||
+#11	AnnotatorNotes T8	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||third_annotator_label: None||synonyms: ||||bert: C0022872||synonyms: роды, вторая стадия|rody, vtoraia stadiia|period izgnaniia|период изгнания||||
+#12	AnnotatorNotes T70	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C0577822||synonyms: патологические сердечные тоны|патологические тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0018409||synonyms: гимнастика|gimnastika|khudozhestvennaia gimnastika|ritmicheskaia gimnastika|ритмическая гимнастика||||
+#13	AnnotatorNotes T37	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0942081||synonyms: пиридоксин^до 250 мг пиридоксина через рот:молконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T67	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0231837||synonyms: патологическое урежение дыхания|редкое дыхание|низкая частота дыхания|частота дыхания ниже нормы|брадипноэ||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0272427||synonyms: травма носа|повреждение носа||||
+#15	AnnotatorNotes T32	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#16	AnnotatorNotes T22	first_annotator_label: C0344211||synonyms: поддерживающая терапия||||second_annotator_label: C0033971||synonyms: психотерапия групповая|psikhoterapiia gruppovaia|gruppovaia terapiia|групповая психотерапия|групповая терапия||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0033971||synonyms: психотерапия групповая|psikhoterapiia gruppovaia|gruppovaia terapiia|групповая психотерапия|групповая терапия||||

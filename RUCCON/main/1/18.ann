@@ -1,0 +1,137 @@
+T58	Treatment 930 977	Купировались самостоятельно при коррекции диеты
+T31	Drug 1744 1752	вентолин
+T41	Body_location 2548 2551	Зев
+T6	Course 165 173	ремиссия
+T48	Body_location 2635 2643	В легких
+T28	Symptom 1645 1668	малопродуктивный кашель
+T51	Symptom 2724 2733	ритмичные
+T4	Course 131 145	вне обострения
+T9	Body_location 245 258	желчных путей
+T19	Disease 533 536	ОРИ
+T44	Symptom 2608 2614	чистые
+T16	Body_location 431 437	в зеве
+T65	Disease 439 443	отек
+T33	Disease 1923 1949	апоплексию правого яичника
+T57	Disease 1101 1114	ложных крупов
+T23	Disease 1254 1259	отиты
+T5	Disease 147 163	Пищевая аллергия
+T11	Disease 295 335	Вторичные изменения поджелудочной железы
+T35	Disease 2055 2073	бронхиальная астма
+T49	Body_location 2710 2716	сердца
+T64	Symptom 267 293	деформации желчного пузыря
+T34	Disease 2025 2053	пищевая атопический дерматит
+T25	Disease 1302 1323	гиперплазии аденоидов
+T10	Body_location 278 293	желчного пузыря
+T60	Disease 19 46	сезонная бронхиальная астма
+T14	Severity 361 365	2 ст
+T52	Body_location 2735 2740	Живот
+T15	Symptom 427 430	зуд
+T18	Symptom 501 524	малопродуктивный кашель
+T63	Symptom 213 232	затруднения дыхания
+T22	Disease 1020 1049	обструктивные ларинготрахеиты
+T61	Disease 9 17	Поллиноз
+T29	Treatment 1714 1766	назначен флутиказон курсом  и вентолин при приступах
+T53	Symptom 2741 2755	безболезненный
+T42	Body_location 2577 2591	Кожные покровы
+T13	Disease 337 360	Продольное плоскостопие
+T38	Disease 2394 2413	контактный дерматит
+T46	Symptom 2659 2679	везикулярное дыхание
+T21	Disease 1005 1008	ОРИ
+T39	Disease 2440 2458	инсектная аллергия
+T47	Symptom 2681 2686	хрипы
+T56	Symptom 2806 2826	Менингеальных знаков
+T1	Disease 48 76	риноконъюнктивальный синдром
+T30	Drug 1723 1733	флутиказон
+T55	Symptom 2787 2793	Диурез
+T24	Disease 1261 1267	ангины
+T62	Body_location 188 207	носовой перегородки
+T54	Symptom 2757 2785	Стул регулярный, оформленный
+T20	Symptom 910 916	атопии
+T36	Disease 2123 2151	риноконъюнктивальный синдром
+T26	Severity 1324 1335	2-3 степени
+T50	Symptom 2717 2722	ясные
+T7	Disease 176 207	Искривление носовой перегородки
+T8	Disease 234 258	Дискинезия желчных путей
+T45	Symptom 2616 2633	немного суховатые
+T37	Disease 2153 2165	отеки квинке
+T59	Treatment 1963 1975	аппенэктомия
+T3	Disease 88 129	Аллергический ринит, персистирующая форма
+T2	Course 78 86	ремиссия
+T12	Body_location 315 335	поджелудочной железы
+T43	Symptom 2592 2606	бледно-розовые
+T32	Symptom 1819 1825	кашель
+T40	Symptom 2556 2575	катаральных явлений
+T27	Disease 1605 1627	респираторной инфекции
+N1	Reference T58 UMLS:CUILESS	медицинская диета
+N2	Reference T31 UMLS:C0001927	сальбутамол
+N3	Reference T41 UMLS:C0521367	ротоглотка
+N4	Reference T6 UMLS:C0035053	ремиссия спонтанная
+N5	Reference T48 UMLS:C0024109	легкие
+N6	Reference T28 UMLS:C0850149	кашель, непродуктивный
+N7	Reference T51 UMLS:C0031084	ритмичность
+N8	Reference T4 UMLS:UNKNOWN	ремиссия спонтанная
+N9	Reference T9 UMLS:C0005423	желчные пути
+N10	Reference T19 UMLS:C0035243	респираторные инфекции
+N11	Reference T44 UMLS:CUILESS	чистая культура
+N12	Reference T16 UMLS:C0521367	ротоглотка
+N13	Reference T65 UMLS:C0013604	отек
+N14	Reference T33 UMLS:C0038454	апоплексия
+N15	Reference T57 UMLS:C0010380	круп
+N16	Reference T23 UMLS:C0029877	отит
+N17	Reference T5 UMLS:C0149696	пищевая аллергия
+N18	Reference T11 UMLS:C0030286	поджелудочной железы болезни
+N19	Reference T35 UMLS:C0004096	бронхиальная астма
+N20	Reference T49 UMLS:C0018787	сердце
+N21	Reference T64 UMLS:C1397947	перегиб желчного пузыря
+N22	Reference T34 UMLS:C0011615	атопический дерматит
+N23	Reference T25 UMLS:C0149825	гипертрофия исключительно аденоидов
+N24	Reference T10 UMLS:C0016977	желчного пузыря болезни
+N25	Reference T60 UMLS:C2919352	сезонная астма
+N26	Reference T52 UMLS:C0000726	живот
+N27	Reference T15 UMLS:C0033774	зуд
+N28	Reference T18 UMLS:C0850149	кашель, непродуктивный
+N29	Reference T63 UMLS:C0553668	затруднение дыхания
+N30	Reference T22 UMLS:C0854207	ларинготрахеит обструктивный
+N31	Reference T61 UMLS:C0018621	поллиноз
+N32	Reference T29 UMLS:C0013154	терапия глюкокортикостероидами
+N33	Reference T53 UMLS:CUILESS	болезненность
+N34	Reference T42 UMLS:C1123023	кожа
+N35	Reference T13 UMLS:C0016202	плоскостопие
+N36	Reference T38 UMLS:C0011616	контактный дерматит
+N37	Reference T46 UMLS:UNKNOWN	жесткое дыхание при аускультации легких
+N38	Reference T21 UMLS:C0035243	респираторные инфекции
+N39	Reference T39 UMLS:C0020517	аллергическая реакция (бду)
+N40	Reference T47 UMLS:C0035234	хрипы
+N41	Reference T56 UMLS:C0025287	менингеальные знаки
+N42	Reference T1 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N43	Reference T30 UMLS:C0082607	флутиказон
+N44	Reference T55 UMLS:C1287298	диурез
+N45	Reference T24 UMLS:C0276143	вирусная ангина
+N46	Reference T62 UMLS:C0027432	носа перегородка
+N47	Reference T54 UMLS:CUILESS	мягкий стул
+N48	Reference T20 UMLS:C0392707	атопия
+N49	Reference T36 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N50	Reference T50 UMLS:UNKNOWN	сердечного ритма определение
+N51	Reference T7 UMLS:C0549397	искривление перегородки носа
+N52	Reference T8 UMLS:C0005416	желчных путей дискинезия
+N53	Reference T45 UMLS:C0151908	сухая кожа
+N54	Reference T37 UMLS:C0002994	отек квинке
+N55	Reference T59 UMLS:C0003611	аппендэктомия
+N56	Reference T3 UMLS:C2607914	аллергический ринит
+N57	Reference T2 UMLS:C0035053	ремиссия спонтанная
+N58	Reference T12 UMLS:C0030274	поджелудочная железа
+N59	Reference T43 UMLS:C4505235	розовые
+N60	Reference T32 UMLS:C0010200	кашель
+N61	Reference T40 UMLS:UNKNOWN	патология
+N62	Reference T27 UMLS:C0035243	респираторные инфекции
+#1	AnnotatorNotes T58	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0016497||synonyms: пищевые рецепты|pishchevye retsepty|dieta iskusstvennaia|dieta khimicheski opredelennaia|dieta osnovnaia||||third_annotator_label: None||synonyms: ||||bert: C0016497||synonyms: пищевые рецепты|pishchevye retsepty|dieta iskusstvennaia|dieta khimicheski opredelennaia|dieta osnovnaia||||
+#2	AnnotatorNotes T4	first_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#3	AnnotatorNotes T44	first_annotator_label: C0598869||synonyms: аксеническая культура|стерильная культура|steril'naia kul'tura|чистая культура|aksenicheskaia kul'tura||||second_annotator_label: C0241137||synonyms: бледная кожа|бледность кожи||||third_annotator_label: None||synonyms: ||||bert: C0598869||synonyms: аксеническая культура|стерильная культура|steril'naia kul'tura|чистая культура|aksenicheskaia kul'tura||||
+#4	AnnotatorNotes T64	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0016977||synonyms: желчного пузыря болезни|zhelchnogo puzyria bolezni|нарушение со стороны желчного пузыря, бду|заболевание желчного пузыря, бду|нарушение со стороны желчного пузыря||||third_annotator_label: C0876968||synonyms: патологии желчного пузыря, нкдр||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#5	AnnotatorNotes T29	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C5243640||synonyms: введение стента в фаллопиевую трубу||||
+#6	AnnotatorNotes T53	first_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||second_annotator_label: C2706796||synonyms: метаболическая панель.малое животное:-:тчкврм:сыв/плаз:колич||||third_annotator_label: None||synonyms: ||||bert: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||
+#7	AnnotatorNotes T46	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#8	AnnotatorNotes T54	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0489144||synonyms: стул:вид:тчкврм:нижний жк тракт:ном||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#9	AnnotatorNotes T50	first_annotator_label: C4277671||synonyms: сердечного ритма определение|serdechnykh sokrashchenii chastoty opredelenie|сердечных сокращений частоты определение|serdechnogo ritma opredelenie|pul'sa chastoty opredelenie||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: None||synonyms: ||||bert: C0029939||synonyms: яичники|iaichniki||||
+#10	AnnotatorNotes T45	first_annotator_label: C0151908||synonyms: сухая кожа|кожа, сухая||||second_annotator_label: C2221318||synonyms: сухая кожа лица||||third_annotator_label: C0859999||synonyms: сухие хрипы||||bert: C0859999||synonyms: сухие хрипы||||
+#11	AnnotatorNotes T40	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0857342||synonyms: бледный вид||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||

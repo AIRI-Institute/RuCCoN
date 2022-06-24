@@ -1,0 +1,106 @@
+T21	Body_location 937 954	в локтевых сгибах
+T24	Body_location 1122 1125	шее
+T49	Disease 702 724	атопического дерматита
+T43	Symptom 1634 1648	безболезненный
+T9	Disease 228 245	Спазм аккомодации
+T6	Disease 145 183	Хронический компенсированный тонзиллит
+T48	Symptom 956 981	Усиление кожного процесса
+T35	Symptom 1450 1475	экскориации и десквамация
+T30	Symptom 1347 1352	сухие
+T28	Body_location 1316 1330	Кожные покровы
+T40	Symptom 1571 1604	Сердечные тоны звучные, ритмичные
+T27	Disease 1206 1214	поллиноз
+T29	Symptom 1331 1345	бледно-розовые
+T44	Symptom 1701 1708	дизурии
+T36	Symptom 1477 1488	Зев спокоен
+T50	Body_location 258 266	сетчатки
+T13	Symptom 369 378	высыпания
+T22	Symptom 1103 1112	высыпания
+T3	Course 78 88	обострение
+T38	Symptom 1537 1557	дыхание везикулярное
+T25	Disease 1152 1160	поллиноз
+T23	Body_location 1113 1120	на лице
+T8	Disease 218 226	Цефалгии
+T42	Symptom 1612 1618	мягкий
+T45	Symptom 1744 1764	Менингеальных знаков
+T47	Symptom 1490 1526	Носовое дыхание несколько затруднено
+T20	Symptom 907 936	эритематозно-сквамозные очаги
+T33	Symptom 1410 1439	эритематозно-сквамозные очаги
+T31	Body_location 1477 1480	Зев
+T17	Drug 749 777	антигистаминными препаратами
+T26	Disease 1162 1178	пищевая аллергия
+T5	Disease 108 143	Аллергический ринит, персистирующий
+T34	Symptom 1441 1448	трещины
+T1	Disease 9 53	Атопический дерматит, распространенная форма
+T39	Symptom 1559 1565	хрипов
+T7	Disease 185 216	Синдром вегетативной дисфункции
+T18	Symptom 814 823	высыпания
+T14	Body_location 379 386	на коже
+T37	Body_location 1528 1536	В лёгких
+T4	Disease 90 106	Пищевая аллергия
+T46	Symptom 1714 1742	Стул регулярный, оформленный
+T32	Body_location 1354 1408	в периоральной области, на лбу, шее, в локтевых сгибах
+T2	Severity 55 76	среднетяжелое течение
+T19	Body_location 824 831	на коже
+T41	Body_location 1606 1611	Живот
+T16	Treatment 726 798	купировавшиеся диетой, антигистаминными препаратами, местными средствами
+T11	Disease 268 308	Вторичные изменения поджелудочной железы
+T10	Disease 247 266	Ангиопатия сетчатки
+T12	Body_location 288 308	поджелудочной железы
+N1	Reference T21 UMLS:C0013769	локоть
+N2	Reference T24 UMLS:C0027530	шея
+N3	Reference T49 UMLS:C0011615	атопический дерматит
+N4	Reference T43 UMLS:C0857027	болезненность
+N5	Reference T9 UMLS:C0152196	спазм аккомодации
+N6	Reference T6 UMLS:C0149517	хронический тонзиллит
+N7	Reference T48 UMLS:C0151885	усиление реакции
+N8	Reference T35 UMLS:C0015256	экскориация
+N9	Reference T30 UMLS:C0151908	сухая кожа
+N10	Reference T28 UMLS:C1123023	кожа
+N11	Reference T40 UMLS:C0018810	сердечный ритм
+N12	Reference T27 UMLS:C0018621	поллиноз
+N13	Reference T29 UMLS:C4505235	розовые
+N14	Reference T44 UMLS:C0013428	дизурия
+N15	Reference T36 UMLS:CUILESS	норма рабочая
+N16	Reference T50 UMLS:C0035298	сетчатка
+N17	Reference T13 UMLS:C0302295	высыпание
+N18	Reference T22 UMLS:C0302295	высыпание
+N19	Reference T3 UMLS:C0853946	обострение боли
+N20	Reference T38 UMLS:C0231855	нормальная аускультативная картина в легких
+N21	Reference T25 UMLS:C0018621	поллиноз
+N22	Reference T23 UMLS:C0015450	лицо
+N23	Reference T8 UMLS:C0018681	цефалгия
+N24	Reference T42 UMLS:C0026390	мягкокожие
+N25	Reference T45 UMLS:C0025287	менингеальные знаки
+N26	Reference T47 UMLS:C0027424	дыхание, затрудненное
+N27	Reference T20 UMLS:C0014747	эритемато-сквамозный дерматоз
+N28	Reference T33 UMLS:C0014747	эритемато-сквамозный дерматоз
+N29	Reference T31 UMLS:C0521367	ротоглотка
+N30	Reference T17 UMLS:C1504374	антигистаминная терапия
+N31	Reference T26 UMLS:C0149696	пищевая аллергия
+N32	Reference T5 UMLS:C2607914	аллергический ринит
+N33	Reference T34 UMLS:C0221245	кожные трещины
+N34	Reference T1 UMLS:C0011615	атопический дерматит
+N35	Reference T39 UMLS:C3887661	хрип
+N36	Reference T7 UMLS:C1145628	вегетативная дисфункция
+N37	Reference T18 UMLS:C0302295	высыпание
+N38	Reference T14 UMLS:C1123023	кожа
+N39	Reference T37 UMLS:C0024109	легкие
+N40	Reference T4 UMLS:C0149696	пищевая аллергия
+N41	Reference T46 UMLS:CUILESS	мягкий стул
+N42	Reference T32 UMLS:UNKNOWN	лицо
+N43	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N44	Reference T19 UMLS:C1123023	кожа
+N45	Reference T41 UMLS:C0000726	живот
+N46	Reference T16 UMLS:C0013154	антигистаминная терапия
+N47	Reference T11 UMLS:C0030286	поджелудочной железы болезни
+N48	Reference T10 UMLS:C4552373	ангиопатия сетчатки
+N49	Reference T12 UMLS:C0030274	поджелудочная железа
+#1	AnnotatorNotes T35	first_annotator_label: C0015256||synonyms: экскориация||||second_annotator_label: C0237849||synonyms: эксфолиация кожи|десквамация|кожа, отслаивающаяся|кожная десквамация|шелушащаяся кожа||||third_annotator_label: C5197792||synonyms: нарушение целостности восприятия собственного тела|ksenomeliia|tela tselostnosti vospriiatiia narushenie|chuzherodnoi konechnosti sindrom|rassroistvo lichnosti invalida-amputanta||||bert: C1696701||synonyms: дерматилломания|компульсивная экскориация||||
+#2	AnnotatorNotes T36	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#3	AnnotatorNotes T38	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#4	AnnotatorNotes T47	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0853254||synonyms: раздражение носовых ходов||||
+#5	AnnotatorNotes T46	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#6	AnnotatorNotes T32	first_annotator_label: C0015450||synonyms: лицо|litso||||second_annotator_label: C0159720||synonyms: перелом верхнего конца лучевой и локтевой кости, открытый|перелом лучевой кости и локтевой кости, верхний конец (любая часть), открытый||||third_annotator_label: None||synonyms: ||||bert: C0159720||synonyms: перелом верхнего конца лучевой и локтевой кости, открытый|перелом лучевой кости и локтевой кости, верхний конец (любая часть), открытый||||
+#7	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#8	AnnotatorNotes T16	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0854601||synonyms: местная профилактика антибактериальными препаратами||||

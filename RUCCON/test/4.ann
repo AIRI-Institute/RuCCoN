@@ -1,0 +1,163 @@
+T48	Disease 2431 2459	хронического гастродуоденита
+T1	Disease 108 139	Бронхиальная астма, атопическая
+T53	Body_location 2623 2637	грудная клетка
+T47	Disease 2348 2378	дисплазия соединительной ткани
+T76	Drug 1446 1464	аллергенами клещей
+T9	Symptom 402 430	затруднение носового дыхания
+T46	Disease 2315 2346	синдром вегетативной дисфункции
+T16	Symptom 863 887	кожные проявления атопии
+T63	Symptom 2887 2907	дыхание везикулярное
+T12	Symptom 494 514	быстрой утомляемости
+T4	Disease 293 333	Вторичные изменения поджелудочной железы
+T37	Treatment 1923 1973	терапию серетидом 50/25 мкг по 1 инг 2 раза в день
+T19	Symptom 987 1018	эпизоды малопродуктивного кашля
+T21	Treatment 1082 1118	В терапии антигшистаминные препараты
+T58	Disease 2726 2734	поллиноз
+T56	Body_location 2801 2815	Кожные покровы
+T69	Treatment 1366 1411	сингуляр, беродуал, антигистаминные препараты
+T18	Symptom 957 985	затруднение носового дыхания
+T35	Disease 1836 1857	аллергического ринита
+T28	Course 1569 1579	обострения
+T64	Symptom 2921 2952	Сердечные тоны ясные, ритмичные
+T66	Symptom 2960 2966	мягкий
+T75	Body_location 2511 2531	поджелудочной железы
+T23	Disease 1184 1190	ринита
+T15	Disease 839 842	ОРИ
+T13	Disease 816 829	ветряная оспа
+T42	Drug 2212 2220	ксизалом
+T5	Body_location 863 869	кожные
+T36	Disease 1859 1868	поллиноза
+T45	Drug 2250 2277	сосудосуживающих препаратов
+T33	Severity 1804 1834	легкого перситирующего течения
+T79	Treatment 893 908	коррекции диеты
+T29	Treatment 1439 1494	АСИТ с аллергенами клещей домашней пыли (Derm. pteronis
+T55	Disease 2699 2707	поллиноз
+T22	Severity 1312 1327	легкого течения
+T27	Drug 1376 1384	беродуал
+T57	Disease 2736 2755	аллергический ринит
+T40	Body_location 2358 2378	соединительной ткани
+T26	Drug 1366 1374	сингуляр
+T44	Drug 2241 2248	тафеном
+T78	Course 283 291	ремиссия
+T17	Disease 881 887	атопии
+T67	Body_location 2954 2959	Живот
+T51	Disease 2568 2605	нарушение осанки сколиотического типа
+T3	Disease 243 251	Поллиноз
+T32	Disease 1645 1675	риноконъюнктивального синдрома
+T39	Treatment 2065 2100	в терапии гомеопатические препараты
+T24	Disease 1279 1310	бронхиальная астма, атопическая
+T52	Disease 2607 2637	воронкообразная грудная клетка
+T11	Symptom 469 492	малопродуктивного кашля
+T20	Disease 1037 1059	респираторных инфекций
+T65	Symptom 2998 3026	Стул регулярный, оформленный
+T74	Body_location 2472 2489	билиарного тракта
+T73	Symptom 3028 3035	Дизурии
+T38	Drug 1931 1940	серетидом
+T60	Body_location 2840 2855	Носовое дыхание
+T14	Disease 831 837	ангина
+T2	Disease 190 209	Аллергический ринит
+T34	Disease 1771 1802	бронхиальной астмы, атопической
+T25	Drug 1339 1350	тайлед минт
+T41	Treatment 2204 2277	терапии ксизалом, насобеком, а также тафеном, сосудосуживающих препаратов
+T31	Disease 1580 1598	бронхиальной астмы
+T72	Symptom 2982 2996	безболезненный
+T77	Severity 141 170	легкое персистирующее течение
+T61	Symptom 2856 2876	несколько затруднено
+T71	Symptom 2909 2915	хрипов
+T62	Body_location 2878 2886	В лёгких
+T30	Severity 1627 1644	легкие проявления
+T7	Disease 253 281	риноконъюнктивальный синдром
+T49	Disease 2461 2489	дисфункции билиарного тракта
+T70	Severity 2663 2669	2-3 ст
+T50	Disease 2491 2531	вторичных изменений поджелудочной железы
+T43	Drug 2222 2231	насобеком
+T6	Body_location 313 333	поджелудочной железы
+T8	Course 227 241	вне обострения
+T10	Body_location 414 430	носового дыхания
+T59	Symptom 2829 2838	высыпаний
+T68	Treatment 1329 1358	В терапии тайлед минт курсами
+T54	Disease 2639 2662	продольное плоскостопие
+N1	Reference T48 UMLS:C4728231	хронический гастродуоденит
+N2	Reference T1 UMLS:C0004096	астма, бронхиальная
+N3	Reference T53 UMLS:C0817096	грудная клетка
+N4	Reference T47 UMLS:C4014739	дисплазия соединительной ткани
+N5	Reference T76 UMLS:C1740810	аллергия на клещей
+N6	Reference T9 UMLS:C0553668	затруднение дыхания
+N7	Reference T46 UMLS:C1145628	вегетативная дисфункция
+N8	Reference T16 UMLS:C0004187	атопический дерматит и связанные с ним состояния
+N9	Reference T63 UMLS:C0231855	нормальная аускультативная картина в легких
+N10	Reference T12 UMLS:C0231230	быстрая утомляемость
+N11	Reference T4 UMLS:C0030286	поджелудочной железы болезни
+N12	Reference T37 UMLS:C0013154	лекарства применения схема
+N13	Reference T19 UMLS:C0850149	кашель, непродуктивный
+N14	Reference T21 UMLS:C1504374	антигистаминная терапия
+N15	Reference T58 UMLS:C0018621	поллиноз
+N16	Reference T56 UMLS:C1123023	кожа
+N17	Reference T69 UMLS:C0459914	противоастматические средства
+N18	Reference T18 UMLS:C0553668	затруднение дыхания
+N19	Reference T35 UMLS:C2607914	аллергический ринит
+N20	Reference T28 UMLS:C0853946	обострение боли
+N21	Reference T64 UMLS:C2712143	нормальный сердечный ритм
+N22	Reference T66 UMLS:C0026390	мягкокожие
+N23	Reference T75 UMLS:C0030274	поджелудочная железа
+N24	Reference T23 UMLS:C0035455	ринит
+N25	Reference T15 UMLS:C0035243	респираторные инфекции
+N26	Reference T13 UMLS:C0008049	ветряная оспа
+N27	Reference T42 UMLS:C0055147	цетиризин
+N28	Reference T5 UMLS:C1123023	кожа
+N29	Reference T36 UMLS:C0018621	поллиноз
+N30	Reference T45 UMLS:C0042397	сосудосуживающие средства
+N31	Reference T79 UMLS:C0012155	диета
+N32	Reference T29 UMLS:C0021083	иммунотерапия
+N33	Reference T55 UMLS:C0018621	поллиноз
+N34	Reference T27 UMLS:C0015840	фенотерол
+N35	Reference T57 UMLS:C2607914	аллергический ринит
+N36	Reference T40 UMLS:C0009781	соединительной ткани клетки
+N37	Reference T26 UMLS:C3654961	простагландины
+N38	Reference T44 UMLS:C0054201	будесонид
+N39	Reference T78 UMLS:C0242793	период ремиссии
+N40	Reference T17 UMLS:C0392707	атопия
+N41	Reference T67 UMLS:C0000726	живот
+N42	Reference T51 UMLS:C0036439	сколиоз
+N43	Reference T3 UMLS:C0018621	поллиноз
+N44	Reference T32 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N45	Reference T39 UMLS:C0024911	гомеопатические средства
+N46	Reference T24 UMLS:C0004096	астма, бронхиальная
+N47	Reference T52 UMLS:C0016842	воронкообразная грудная клетка
+N48	Reference T11 UMLS:C0850149	кашель, непродуктивный
+N49	Reference T20 UMLS:C0035243	респираторные инфекции
+N50	Reference T65 UMLS:CUILESS	мягкий стул
+N51	Reference T74 UMLS:C0005423	желчные пути
+N52	Reference T73 UMLS:C0013428	дизурия
+N53	Reference T38 UMLS:C0939232	серетид
+N54	Reference T60 UMLS:C0028429	нос
+N55	Reference T14 UMLS:C0276143	вирусная ангина
+N56	Reference T2 UMLS:C2607914	аллергический ринит
+N57	Reference T34 UMLS:C0004096	астма, бронхиальная
+N58	Reference T25 UMLS:C0068483	недокромил
+N59	Reference T41 UMLS:C0009429	комплексное лечение
+N60	Reference T31 UMLS:C0004096	бронхиальная астма
+N61	Reference T72 UMLS:C0857027	болезненность
+N62	Reference T61 UMLS:C0553668	дыхание, затрудненное
+N63	Reference T71 UMLS:C3887661	хрип
+N64	Reference T62 UMLS:C0024109	легкие
+N65	Reference T7 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N66	Reference T49 UMLS:C0005424	заболевание желчевыводящих путей
+N67	Reference T50 UMLS:C0030286	поджелудочной железы болезни
+N68	Reference T43 UMLS:C0004905	беклометазон
+N69	Reference T6 UMLS:C0030274	поджелудочная железа
+N70	Reference T8 UMLS:C0242793	период ремиссии
+N71	Reference T10 UMLS:C0028429	нос
+N72	Reference T59 UMLS:C0302295	высыпание
+N73	Reference T68 UMLS:C0459914	противоастматические средства
+N74	Reference T54 UMLS:C0392477	врожденное плоскостопие
+#1	AnnotatorNotes T16	first_annotator_label: C0004187||synonyms: атопический дерматит и связанные с ним состояния||||second_annotator_label: C0392707||synonyms: атопия|атопический(ая/ое/ие)||||third_annotator_label: C0037285||synonyms: кожные симптомы при патологических состояниях|kozhnye simptomy pri patologicheskikh sostoianiiakh|kozhnye proiavleniia|кожные проявления||||bert: C0151514||synonyms: атрофия кожи|атрофическая кожа||||
+#2	AnnotatorNotes T63	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0024109||synonyms: легкие|legkie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#3	AnnotatorNotes T69	first_annotator_label: C0282556||synonyms: противоастматические средства|protivoastmaticheskie sredstva||||second_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||
+#4	AnnotatorNotes T26	first_annotator_label: C0033554||synonyms: простагландины|prostaglandiny||||second_annotator_label: C3654961||synonyms: монтелукаст индуцированный нейтрофил ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C3654714||synonyms: монтелукаст индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||bert: C0342853||synonyms: сиаловой кислоты отложений болезни|болезнь накопления сиаловых кислот|sialovoi kisloty kumuliatsii bolezn' u mladentsev|sialovoi kisloty otlozhenii bolezni|sialuriia||||
+#5	AnnotatorNotes T65	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#6	AnnotatorNotes T25	first_annotator_label: C0068483||synonyms: недокромил|nedokromil||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0017440||synonyms: генцианвиолет|gentsianviolet|kristal violet|metil violet|metilrozanilina khlorid||||
+#7	AnnotatorNotes T41	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0011871||synonyms: диабетическая периферическая ангиопатия|патология сосудов при сахарном диабете|сахарный диабет с периферическими циркуляторными нарушениями||||
+#8	AnnotatorNotes T49	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0016976||synonyms: желчный пузырь|zhelchnyi puzyr'||||third_annotator_label: C0005416||synonyms: желчных путей дискинезия|zhelchnykh putei diskineziia|дискинезия желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#9	AnnotatorNotes T8	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0853917||synonyms: ринит обостренный, бду|обострение ринита||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#10	AnnotatorNotes T68	first_annotator_label: C0282556||synonyms: противоастматические средства|protivoastmaticheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C4042854||synonyms: тайм-аут при оказании медицинской помощи|taim-aut pri okazanii meditsinskoi pomoshchi|korotkii pereryv v okazanii meditsinskoi pomoshchi|короткий перерыв в оказании медицинской помощи|taim-aut pered operatsiei||||

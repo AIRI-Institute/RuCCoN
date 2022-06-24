@@ -1,0 +1,74 @@
+T34	Disease 68 109	Реактивные изменения поджелудочной железы
+T32	Disease 31 54	Красный волосяной лишай
+T29	Symptom 189 204	беспокойный сон
+T11	Body_location 1182 1185	Зев
+T4	Body_location 1067 1095	верхних и нижних конечностей
+T15	Symptom 1268 1301	Сердечные тоны звучные, ритмичные
+T10	Symptom 1194 1209	Носовое дыхание
+T6	Symptom 1125 1136	с-м «терки»
+T35	Body_location 89 109	поджелудочной железы
+T16	Symptom 1354 1361	дизурии
+T1	Body_location 1025 1039	Кожные покровы
+T25	Body_location 634 641	на коже
+T30	Symptom 206 229	повышенную возбудимость
+T12	Symptom 1234 1254	дыхание везикулярное
+T26	Disease 518 540	атопического дерматита
+T3	Body_location 1062 1065	щек
+T21	Disease 1052 1061	гиперемия
+T9	Symptom 1186 1192	рыхлый
+T36	Disease 1169 1180	фолликулита
+T28	Body_location 180 187	на коже
+T24	Symptom 624 633	высыпания
+T33	Disease 56 66	Невропатия
+T27	Symptom 170 179	высыпания
+T22	Treatment 738 753	адвантан местно
+T23	Drug 738 746	адвантан
+T18	Symptom 1397 1417	Менингеальных знаков
+T2	Symptom 1041 1061	выраженная гиперемия
+T7	Body_location 1138 1159	на нижних конечностях
+T17	Symptom 1367 1371	Стул
+T20	Disease 926 933	псориаз
+T19	Disease 883 891	поллиноз
+T31	Disease 9 29	Атопический дерматит
+T5	Symptom 1097 1123	фолликулярный гиперкератоз
+T14	Body_location 1225 1233	В лёгких
+T13	Symptom 1256 1262	хрипов
+N1	Reference T34 UMLS:C0030286	заболевания поджелудочной железы
+N2	Reference T32 UMLS:C0032027	лишай красный волосяной отрубевидный
+N3	Reference T29 UMLS:C0235160	беспокойный сон
+N4	Reference T11 UMLS:C0521367	ротоглотка
+N5	Reference T4 UMLS:C0015385	конечности
+N6	Reference T15 UMLS:C0018810	сердечный ритм
+N7	Reference T10 UMLS:C0035203	дыхание
+N8	Reference T6 UMLS:CUILESS	фолликулярный кератоз
+N9	Reference T35 UMLS:C0030274	поджелудочная железа
+N10	Reference T16 UMLS:C0013428	дизурия
+N11	Reference T1 UMLS:C1123023	кожа
+N12	Reference T25 UMLS:C1123023	кожа
+N13	Reference T30 UMLS:C0455769	повышенная активность
+N14	Reference T12 UMLS:UNKNOWN	жесткое дыхание при аускультации легких
+N15	Reference T26 UMLS:C0011615	атопический дерматит
+N16	Reference T3 UMLS:C0007966	щека
+N17	Reference T21 UMLS:C0020452	гиперемия
+N18	Reference T9 UMLS:C0236065	отек полости рта
+N19	Reference T36 UMLS:C0016436	фолликулит
+N20	Reference T28 UMLS:C1123023	кожа
+N21	Reference T24 UMLS:C0302295	высыпание
+N22	Reference T33 UMLS:C0876934	невропатология
+N23	Reference T27 UMLS:C0302295	высыпание
+N24	Reference T22 UMLS:C0744425	терапия глюкокортикостероидами
+N25	Reference T23 UMLS:C0600901	метилпреднизолона ацетат
+N26	Reference T18 UMLS:C0025287	менингеальные знаки
+N27	Reference T2 UMLS:C0020452	гиперемия
+N28	Reference T7 UMLS:C0239376	боль в нижних конечностях
+N29	Reference T17 UMLS:C0232720	светлый стул
+N30	Reference T20 UMLS:C0033860	псориаз
+N31	Reference T19 UMLS:C0018621	поллиноз
+N32	Reference T31 UMLS:C0011615	атопический дерматит
+N33	Reference T5 UMLS:C0022595	фолликулярный кератоз
+N34	Reference T14 UMLS:C0024109	легкие
+N35	Reference T13 UMLS:C3887661	хрип
+#1	AnnotatorNotes T6	first_annotator_label: C0022595||synonyms: дарье болезнь|keratoz follikuliarnyi|dar'e bolezn'|keratoz follikuliarnyi vegetiruiushchii|keratoz volosianoi||||second_annotator_label: C0020757||synonyms: ихтиоз|ikhtioz|kseroderma|kserodermiia|ихтиозные поражения||||third_annotator_label: C0151908||synonyms: сухая кожа|кожа, сухая||||bert: C0701836||synonyms: термический ожог|термические ожоги||||
+#2	AnnotatorNotes T12	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#3	AnnotatorNotes T9	first_annotator_label: C0236065||synonyms: отек полости рта|отек рта|отечность полости рта|отек ротовой полости|отечность рта||||second_annotator_label: C0016163||synonyms: рыбы|ryby||||third_annotator_label: None||synonyms: ||||bert: C0016163||synonyms: рыбы|ryby||||
+#4	AnnotatorNotes T22	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0016397||synonyms: инфекция очаговая|infektsiia ochagovaia|локализованная инфекция|очаговая инфекция|местная инфекция||||

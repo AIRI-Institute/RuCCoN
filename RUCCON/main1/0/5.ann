@@ -1,0 +1,144 @@
+T41	Body_location 951 959	миндалин
+T32	Body_location 683 698	синусового узла
+T44	Drug 1048 1060	аквалор софт
+T1	Body_location 31 54	органов брюшной полости
+T42	Treatment 979 1135	Ежедневное орошение полости носа Физиомер (с 2-х нед. и старше) (или аквалор софт, или маример, или аква-марис) х 3-4 раза в день (тщательное отсмаркивание)
+T13	Body_location 245 258	воротная вена
+T53	Drug 1509 1517	назонекс
+T9	Symptom 165 184	ЛД 44 мм, ПД 102 мм
+T5	Symptom 140 156	просвет свободен
+T27	Body_location 466 483	селезеночная вена
+T31	Symptom 656 679	миграция водителя ритма
+T49	Severity 1285 1299	II-III степени
+T52	Drug 1475 1483	Физиомер
+T11	Symptom 202 222	паренхима  однородна
+T63	Body_location 202 211	паренхима
+T22	Body_location 385 394	Селезенка
+T16	Symptom 284 292	изменены
+T58	Drug 1830 1840	физиомером
+T7	Symptom 129 137	изменены
+T43	Drug 1012 1020	Физиомер
+T59	Disease 737 744	аритмия
+T25	Symptom 423 443	паренхима однородная
+T6	Body_location 118 124	стенки
+T46	Drug 1079 1090	аква-марис)
+T50	Treatment 1315 1374	аденотомия под эндоскопическим контролем в плановом порядке
+T15	Body_location 265 280	печеночные вены
+T64	Symptom 213 222	однородна
+T37	Disease 870 904	аллергический персистирующий ринит
+T19	Body_location 365 371	проток
+T55	Treatment 1816 1867	Туалет носа с физиомером продолжить 2-3 раза в день
+T48	Disease 1263 1284	гипертрофия аденоидов
+T17	Body_location 294 314	Поджелудочная железа
+T45	Drug 1066 1073	маример
+T10	Symptom 186 199	контур ровный
+T26	Symptom 445 464	средней эхогенности
+T61	Treatment 922 959	Взят посев из носоглотки и с миндалин
+T18	Symptom 339 363	паренхима нормоэхогенная
+T33	Body_location 702 728	миокард правого предсердия
+T4	Symptom 98 116	форма – правильная
+T20	Symptom 375 383	расширен
+T23	Body_location 498 527	Желудок, 12-ти перстная кишка
+T57	Treatment 1700 1747	гипоаллергенного стола и элиминационного режима
+T51	Treatment 1475 1568	Физиомер 2 инст. х 3 раза в день; назонекс по 1 инг 2 р/д 7 дней, затем по 1 инг 1 раз в день
+T34	Symptom 730 744	резкая аритмия
+T24	Symptom 530 560	секрета нет, стенки нормальные
+T38	Disease 906 914	Аденоиды
+T56	Treatment 1872 1958	Ежедневно – уход за кожей (увлажнение и очищение средствами для сухой, атопичной кожи)
+T2	Body_location 57 71	желчный пузырь
+T39	Severity 915 919	2 ст
+T47	Body_location 1238 1248	носоглотки
+T36	Symptom 788 827	легкие нарушения процесса реполяризации
+T35	Symptom 746 786	неполная блокада правой ножки пучка Гиса
+T60	Disease 755 786	блокада правой ножки пучка Гиса
+T21	Symptom 328 337	8х5х12 мм
+T62	Treatment 1399 1442	Гипоаллергенная диета, элиминационный режим
+T8	Body_location 158 164	Печень
+T29	Symptom 395 421	средних размеров, 95х47 мм
+T14	Symptom 259 263	6 мм
+T3	Symptom 88 96	увеличен
+T54	Treatment 1752 1811	Аденотомия под эндоскопическим контролем в плановом порядке
+T40	Body_location 936 946	носоглотки
+T30	Symptom 628 654	вертикальное положение ЭОС
+T12	Symptom 224 243	средней эхогенности
+T28	Symptom 487 496	расширена
+N1	Reference T41 UMLS:C0040421	миндалина
+N2	Reference T32 UMLS:C0037189	синусный узел
+N3	Reference T44 UMLS:C0036499	вода морская
+N4	Reference T1 UMLS:C0230168	брюшная полость
+N5	Reference T42 UMLS:C2350442	промывание носа
+N6	Reference T13 UMLS:C0032718	воротная вена
+N7	Reference T53 UMLS:C0066700	назонекс
+N8	Reference T9 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N9	Reference T5 UMLS:CUILESS	полость
+N10	Reference T27 UMLS:C0038001	селезеночная вена
+N11	Reference T31 UMLS:C1321523	миграция водителя ритма по предсердию
+N12	Reference T52 UMLS:C0036499	вода морская
+N13	Reference T11 UMLS:C4277702	результаты ультразвукового исследования печени в норме
+N14	Reference T63 UMLS:C4277702	паренхиматозная ткань
+N15	Reference T22 UMLS:C0037993	селезенка
+N16	Reference T16 UMLS:C0242863	absent
+N17	Reference T58 UMLS:C0036499	вода морская
+N18	Reference T7 UMLS:CUILESS	норма рабочая
+N19	Reference T43 UMLS:C0036499	вода морская
+N20	Reference T59 UMLS:C0003811	аритмия
+N21	Reference T25 UMLS:C2181189	ультразвуковое исследование селезенки
+N22	Reference T6 UMLS:CUILESS	утолщение стенки желчного пузыря
+N23	Reference T46 UMLS:C0036499	вода морская
+N24	Reference T50 UMLS:C0001425	аденоидэктомия
+N25	Reference T15 UMLS:C0019155	печеночные вены
+N26	Reference T64 UMLS:CUILESS	норма рабочая
+N27	Reference T37 UMLS:C2607914	аллергический ринит
+N28	Reference T19 UMLS:C0030288	поджелудочной железы протоки
+N29	Reference T55 UMLS:C2350442	промывание носа
+N30	Reference T48 UMLS:C0149825	гипертрофия исключительно аденоидов
+N31	Reference T17 UMLS:C0030274	поджелудочная железа
+N32	Reference T45 UMLS:C0036499	вода морская
+N33	Reference T10 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N34	Reference T26 UMLS:C2181189	ультразвуковое исследование селезенки
+N35	Reference T61 UMLS:C0430400	посев
+N36	Reference T18 UMLS:C4285854	результаты ультразвукового исследования поджелудочной железы в норме
+N37	Reference T33 UMLS:C0518960	миксома правого предсердия
+N38	Reference T4 UMLS:CUILESS	тела размеров определение
+N39	Reference T20 UMLS:CUILESS	расширение протока поджелудочной железы
+N40	Reference T23 UMLS:CUILESS	желудок
+N41	Reference T57 UMLS:C0425402	медицинская диета
+N42	Reference T51 UMLS:C0013154	промывание носа
+N43	Reference T34 UMLS:C0003811	сердечная аритмия
+N44	Reference T24 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N45	Reference T38 UMLS:C0001428	аденоиды
+N46	Reference T56 UMLS:C0150773	увлажнение сухой кожи тела
+N47	Reference T2 UMLS:C0016976	желчный пузырь
+N48	Reference T47 UMLS:C0027442	носоглотка
+N49	Reference T36 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N50	Reference T35 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N51	Reference T60 UMLS:C0085615	блокада правой ножки пучка гиса
+N52	Reference T62 UMLS:C0425402	медицинская диета
+N53	Reference T8 UMLS:C0023884	печень
+N54	Reference T29 UMLS:C2181189	ультразвуковое исследование селезенки
+N55	Reference T3 UMLS:C0231249	увеличение роста
+N56	Reference T54 UMLS:C0001425	аденоидэктомия
+N57	Reference T40 UMLS:C0027442	носоглотка
+N58	Reference T30 UMLS:C0231472	вертикальное положение
+N59	Reference T12 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N60	Reference T28 UMLS:C0038257	расширители
+#1	AnnotatorNotes T9	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0258911||synonyms: ox40 лиганд|новообразований факторов некроза надсемейство лигандов, элемент 4|фактора некроза опухоли надсемейства лигандов элемент 4|novoobrazovanii faktorov nekroza nadsemeistvo ligandov, element 4|ox40 ligand||||
+#2	AnnotatorNotes T5	first_annotator_label: C0011334||synonyms: кариес зубов|karies zubov|karies emali|разрушение тканей зуба|кариес зуба, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0016694||synonyms: свобода|svoboda||||bert: C0337544||synonyms: ребенок приемный|rebenok priemnyi|воспитанник|ребенок принятый на воспитание|rebenok priniatyi na vospitanie||||
+#3	AnnotatorNotes T11	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#4	AnnotatorNotes T63	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#5	AnnotatorNotes T7	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C4704700||synonyms: отрицательные результаты|otritsatel'nye rezul'taty||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#6	AnnotatorNotes T6	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#7	AnnotatorNotes T50	first_annotator_label: C0001425||synonyms: аденоидэктомия|adenoidektomiia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0193959||synonyms: аденотонзиллэктомия|тонзиллэктомия и аденоидэктомия||||bert: C0001645||synonyms: адренергические бета-антагонисты|adrenergicheskie beta-antagonisty|adrenergicheskikh beta-retseptorov blokatory|beta-adrenergicheskikh retseptorov blokatory|beta-adrenoliticheskie sredstva||||
+#8	AnnotatorNotes T64	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#9	AnnotatorNotes T10	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0155164||synonyms: рубец конъюнктивы|конъюнктивальные рубцы|конъюнктивальный рубец|рубцевание конъюнктивы||||
+#10	AnnotatorNotes T18	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0235983||synonyms: нормохромная анемия|анемия нормохромная|анемия при нормальном цветовом показателе|анемия при цветовом показателе в пределах нормы||||
+#11	AnnotatorNotes T4	first_annotator_label: C0005901||synonyms: тела размеров определение|tela razmerov opredelenie||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0037824||synonyms: речь правильная|rech' pravil'naia||||
+#12	AnnotatorNotes T20	first_annotator_label: C2747827||synonyms: расширение протока поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#13	AnnotatorNotes T23	first_annotator_label: C0038351||synonyms: желудок|zheludok|ventriculus gaster||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: C0017189||synonyms: желудочно-кишечный тракт|zheludochno-kishechnyi trakt|пищеварительный тракт|pishchevaritel'nyi trakt||||bert: C0020614||synonyms: подъязычный нерв|pod"iazychnyi nerv|12-й черепно-мозговой нерв|12-i cherepno-mozgovoi nerv||||
+#14	AnnotatorNotes T57	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0267994||synonyms: нарушения водно-электролитного баланса и кислотно-основного состояния||||
+#15	AnnotatorNotes T51	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2926256||synonyms: с пептид^2 минуты после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#16	AnnotatorNotes T24	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#17	AnnotatorNotes T56	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0150773||synonyms: кожа, уход|kozha, ukhod||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C0018518||synonyms: реабилитационные учреждения|meditsinskie uchrezhdeniia dlia reabilitatsii|reabilitatsionnye uchrezhdeniia|doma dlia vyzdoravlivaiushchikh|dom poslebol'nichnoi adaptatsii||||
+#18	AnnotatorNotes T62	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#19	AnnotatorNotes T54	first_annotator_label: C0001425||synonyms: аденоидэктомия|adenoidektomiia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0193959||synonyms: аденотонзиллэктомия|тонзиллэктомия и аденоидэктомия||||bert: C0001645||synonyms: адренергические бета-антагонисты|adrenergicheskie beta-antagonisty|adrenergicheskikh beta-retseptorov blokatory|beta-adrenergicheskikh retseptorov blokatory|beta-adrenoliticheskie sredstva||||
+#20	AnnotatorNotes T12	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||

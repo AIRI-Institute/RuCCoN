@@ -1,0 +1,309 @@
+T121	Treatment 2918 2931	Иммобилизация
+T31	Body_location 1543 1550	мошонки
+T134	Disease 1464 1475	бронхоспазм
+T7	Body_location 494 503	Селезенка
+T98	Body_location 3874 3914	плевральных полостях и полости перикарда
+T123	Disease 3022 3029	перелом
+T54	Drug 4730 4737	саламол
+T124	Body_location 3030 3055	основания средней фаланги
+T62	Treatment 5073 5122	Туалет носа с физиомером 3 раза в день продолжить
+T130	Disease 2181 2212	блокада правой ножки пучка Гиса
+T26	Body_location 590 607	селезеночная вена
+T33	Symptom 1579 1642	размер 50х24х24 мм, контур четкий, ровный, паренхима однородная
+T18	Symptom 656 686	стенки нормальные, секрета нет
+T16	Symptom 1100 1147	Умеренное повышение бронхиального сопротивления
+T73	Symptom 3227 3252	Легочный фон симметричный
+T79	Body_location 4065 4087	лимфоузлов средостения
+T44	Symptom 2046 2084	с нарушением гемодинамики левого яичка
+T120	Body_location 2808 2836	среднего пальца правой кисти
+T138	Drug 4260 4267	серетид
+T38	Body_location 1802 1816	придаток яичка
+T2	Body_location 56 70	Желчный пузырь
+T92	Body_location 3496 3514	Органы средостения
+T24	Body_location 472 478	проток
+T93	Body_location 3551 3557	сердца
+T30	Symptom 1448 1475	Постнагрузочный бронхоспазм
+T58	Drug 4856 4866	пульмикорт
+T34	Body_location 1644 1658	придаток яичка
+T13	Drug 992 1002	вентолином
+T3	Body_location 168 174	Печень
+T46	Disease 2028 2038	варикоцеле
+T90	Symptom 3423 3431	свободны
+T37	Symptom 1738 1801	размер 51х23х23 мм, контур ровный, четкий, паренхима однородная
+T119	Disease 2792 2796	ушиб
+T53	Drug 4714 4725	сальбутамол
+T111	Course 2372 2394	компенсированная форма
+T29	Body_location 1353 1372	центральных бронхов
+T109	Body_location 2328 2347	носовой перегородки
+T25	Symptom 517 588	размер - средний 118х74 мм, паренхима - однородная, средней эхогенности
+T80	Body_location 4090 4103	корней легких
+T66	Treatment 4234 4310	физиомер х 3 раза в день; серетид 100/50 мкг 2 раза в день; вентолин условно
+T114	Drug 2448 2464	Октенисепт спрей
+T128	Symptom 2095 2121	Положение ЭОС вертикальное
+T41	Symptom 1830 1854	ри ЦДК ИР снижен до 0.52
+T74	Body_location 3254 3279	Бронхо-сосудистый рисунок
+T117	Severity 2589 2599	2 степени,
+T35	Symptom 1662 1669	изменен
+T87	Body_location 3352 3358	Бронхи
+T8	Body_location 624 631	Желудок
+T43	Symptom 1935 2003	увеличение диаметра вен до 4.5 мм, при ЦДК и ИД кровоток реверсивный
+T115	Symptom 1700 1717	ИР до 0.62 – 0.63
+T81	Symptom 4106 4135	в пределах нормальных величин
+T135	Disease 3661 3672	гиперплазии
+T141	Drug 5211 5221	вентолином
+T85	Body_location 3468 3483	главных бронхов
+T140	Drug 4294 4302	вентолин
+T89	Body_location 3408 3422	стенки бронхов
+T78	Symptom 3328 3351	сформировано правильно.
+T82	Symptom 3998 4034	Очаговых и инфильтративных изменений
+T112	Treatment 2410 2518	физиомер 3 раза в день (туалет носа). Октенисепт спрей 3 раза в день 2 недели. Промывание лакун миндалин №3.
+T91	Symptom 3436 3449	деформированы
+T28	Symptom 1320 1372	умеренное нарушение проходимости центральных бронхов
+T108	Disease 2316 2347	Искривление носовой перегородки
+T88	Body_location 3384 3406	субсегментарных ветвей
+T107	Disease 2295 2314	аллергический ринит
+T10	Symptom 817 849	умеренное нарушение проходимости
+T83	Body_location 4035 4043	в легких
+T50	Symptom 4669 4690	затрудненного дыхания
+T9	Body_location 633 653	12-ти перстная кишка
+T125	Symptom 2123 2151	Устойчивый эктопический ритм
+T11	Body_location 850 869	центральных бронхов
+T126	Symptom 2172 2212	Неполная блокада правой ножки пучка Гиса
+T72	Body_location 3205 3213	в легких
+T100	Symptom 3515 3533	расположены обычно
+T56	Treatment 4817 4900	через небулайзер: беродуал 18 капель + пульмикорт 250 мкг 3 раза в день на 5-7 дней
+T131	Disease 2798 2805	перелом
+T60	Treatment 4953 5031	ингаляции лазолвана в растворе 2 мл 2 раза в день (не позднее 18.00) на 5 дней
+T116	Disease 2572 2588	варикоцеле слева
+T5	Body_location 315 330	печеночные вены
+T65	Drug 5127 5143	Октенисепт спрей
+T86	Symptom 3487 3494	изменен
+T113	Drug 2410 2418	физиомер
+T97	Body_location 3810 3861	в средней доле справа и нижних отделах обоих легких
+T96	Body_location 3720 3738	Плевральные листки
+T70	Body_location 3144 3166	органов грудной полост
+T27	Symptom 613 622	расширена
+T118	Disease 2600 2619	сперматоцеле справа
+T76	Symptom 3294 3306	деформирован
+T139	Drug 4590 4597	Серетид
+T4	Body_location 294 307	воротная вена
+T110	Disease 2349 2370	Хронический тонзиллит
+T77	Body_location 3308 3327	Бронхиальное дерево
+T49	Symptom 4662 4667	кашля
+T137	Drug 4234 4242	физиомер
+T133	Symptom 3608 3614	тонкий
+T40	Body_location 1856 1879	Вены семенного канатика
+T99	Body_location 3930 3947	Костные структуры
+T67	Treatment 4322 4361	иммобилизация 3-го пальца правой кисти.
+T48	Treatment 4590 4642	Серетид 100/50 мкг по 1 инг. 2 раза в день продолжит
+T103	Symptom 3747 3809	с наличием негрубых, слабовыраженных плевропульмональных спаек
+T84	Body_location 3459 3465	трахеи
+T71	Symptom 3168 3204	очаговых и инфильтративных изменений
+T61	Drug 4963 4972	лазолвана
+T136	Disease 3804 3809	спаек
+T68	Body_location 4336 4360	3-го пальца правой кисти
+T47	Treatment 4480 4523	Гипоаллергенная диета, элиминационный режим
+T1	Body_location 31 54	органов брюшной полости
+T55	Disease 4813 4816	ОРИ
+T63	Treatment 5127 5165	Октенисепт спрей 3 раза в день 14 дней
+T104	Symptom 3739 3745	четкие
+T45	Body_location 2072 2084	левого яичка
+T21	Symptom 335 343	изменены
+T39	Symptom 1820 1827	изменен
+T105	Symptom 3863 3871	Жидкости
+T132	Symptom 3060 3077	смещения отломков
+T23	Symptom 484 492	расширен
+T129	Body_location 2246 2252	сердце
+T127	Body_location 2189 2212	правой ножки пучка Гиса
+T59	Symptom 4920 4943	малопродуктивного кашля
+T15	Symptom 1054 1075	нарушение сохраняется
+T20	Symptom 176 293	размер средний, ЛД- 54 мм, 1-й сегмент- 18 мм, ПД-134 мм, контур- ровный, паренхима- однородная, средней эхогенности,
+T57	Drug 4835 4843	беродуал
+T122	Body_location 2952 2973	3 пальца правой кисти
+T36	Body_location 1719 1736	левое – в мошонке
+T19	Symptom 72 166	нормальный, размер – не увеличен, стенки - не изменены, форма - правильная,  просвет- свободен
+T17	Symptom 1149 1162	Структура ОЕЛ
+T69	Body_location 3086 3110	органов грудной  полости
+T6	Body_location 345 365	Поджелудочная железа
+T94	Body_location 3591 3607	листок перикарда
+T75	Symptom 3283 3289	усилен
+T101	Symptom 3535 3550	Форма и размеры
+T14	Symptom 1003 1016	положительная
+T106	Symptom 3968 3984	без особенностей
+T42	Symptom 1671 1698	при ЦДК кровоток не изменен
+T102	Symptom 3616 3672	Множественности, уплотнения, обызвествления, гиперплазии
+T12	Drug 879 889	вентолином
+T22	Symptom 367 470	нормальная, размер - средний, головка- 15 мм, тело- 11мм, хвост- 15 мм, паренхима - эхогенность средняя
+T32	Body_location 1552 1577	Яички: правое – в мошонке
+T52	Drug 4704 4712	вентолин
+T64	Drug 5087 5097	физиомером
+T95	Body_location 3673 3700	внутригрудных лимфатических
+T51	Treatment 4704 4785	вентолин (сальбутамол или саламол) по 2 ингаляции через спейсер до 4-х раз в день
+N1	Reference T121 UMLS:C0020944	иммобилизация
+N2	Reference T31 UMLS:C0036471	мошонка
+N3	Reference T134 UMLS:C0006266	бронхоспазм
+N4	Reference T7 UMLS:C0037993	селезенка
+N5	Reference T98 UMLS:C0178802	плевральная полость
+N6	Reference T123 UMLS:C0016658	перелом
+N7	Reference T54 UMLS:C0001927	сальбутамол
+N8	Reference T124 UMLS:C0223792	пальцев фаланги
+N9	Reference T62 UMLS:C2350442	промывание носа
+N10	Reference T130 UMLS:C0085615	блокада правой ножки пучка гиса
+N11	Reference T26 UMLS:C0038001	селезеночная вена
+N12	Reference T33 UMLS:C1142129	результаты ультразвукового исследования яичек в норме
+N13	Reference T18 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N14	Reference T16 UMLS:C0221725	бронхиальная обструкция
+N15	Reference T73 UMLS:CUILESS	физикальное обследование легких
+N16	Reference T79 UMLS:C0024204	лимфатические узлы
+N17	Reference T44 UMLS:CUILESS	рикошетное нарушение гемодинамики
+N18	Reference T120 UMLS:C0016129	палец кисти большой
+N19	Reference T138 UMLS:C0939232	серетид
+N20	Reference T38 UMLS:C0014533	яичка придаток
+N21	Reference T2 UMLS:C0016976	желчный пузырь
+N22	Reference T92 UMLS:C0025066	средостение
+N23	Reference T24 UMLS:C0030288	ультразвуковое исследование желчевыводящих путей
+N24	Reference T93 UMLS:C0018787	сердце
+N25	Reference T30 UMLS:C0235906	бронхоспазм, обострение
+N26	Reference T58 UMLS:C0054201	будесонид
+N27	Reference T34 UMLS:C0014533	яичка придаток
+N28	Reference T13 UMLS:C0001927	сальбутамол
+N29	Reference T3 UMLS:C0023884	печень
+N30	Reference T46 UMLS:C0042341	варикоцеле
+N31	Reference T90 UMLS:C0016694	свобода
+N32	Reference T37 UMLS:C1142129	результаты ультразвукового исследования яичек в норме
+N33	Reference T119 UMLS:C0009938	ушиб
+N34	Reference T53 UMLS:C0001927	сальбутамол
+N35	Reference T29 UMLS:C0006255	бронхи
+N36	Reference T109 UMLS:C0027432	носа перегородка
+N37	Reference T25 UMLS:C2181189	ультразвуковое исследование селезенки
+N38	Reference T80 UMLS:C0024109	легкие
+N39	Reference T66 UMLS:C0013154	комплексонная терапия
+N40	Reference T114 UMLS:C0003205	антисептики
+N41	Reference T128 UMLS:C0231472	вертикальное положение
+N42	Reference T74 UMLS:CUILESS	бронхи
+N43	Reference T35 UMLS:C0235181	измененный характер
+N44	Reference T87 UMLS:C0006255	бронхи
+N45	Reference T8 UMLS:C0038351	желудок
+N46	Reference T43 UMLS:CUILESS	отклонение от нормы результатов цветного допплеровского сканирования
+N47	Reference T81 UMLS:C1112281	нормальный рост
+N48	Reference T135 UMLS:C0020507	гиперплазия
+N49	Reference T141 UMLS:C0001927	сальбутамол
+N50	Reference T85 UMLS:C0006255	бронхи
+N51	Reference T140 UMLS:C0001927	сальбутамол
+N52	Reference T89 UMLS:C0006255	бронхи
+N53	Reference T78 UMLS:C0085122	норма рабочая
+N54	Reference T82 UMLS:CUILESS	острое диффузное инфильтративное заболевание легких
+N55	Reference T112 UMLS:C0013154	промывание носа
+N56	Reference T91 UMLS:C0302142	деформация
+N57	Reference T28 UMLS:C0221725	обструкция бронхов
+N58	Reference T108 UMLS:C0549397	искривление перегородки носа
+N59	Reference T88 UMLS:CUILESS	дыхательные пути, поток воздуха
+N60	Reference T107 UMLS:C2607914	аллергический ринит
+N61	Reference T10 UMLS:C0221725	бронхиальная обструкция
+N62	Reference T83 UMLS:C0024109	легкие
+N63	Reference T50 UMLS:C0553668	затруднение дыхания
+N64	Reference T9 UMLS:C0013303	двенадцатиперстная кишка
+N65	Reference T125 UMLS:C2938860	эктопический водитель ритма
+N66	Reference T11 UMLS:C0006255	бронхи
+N67	Reference T126 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N68	Reference T72 UMLS:C0024109	легкие
+N69	Reference T56 UMLS:C0001559	введение лекарств ингаляционное
+N70	Reference T131 UMLS:C0016658	перелом
+N71	Reference T60 UMLS:C0021459	введение лекарств ингаляционное
+N72	Reference T116 UMLS:C0042341	варикоцеле
+N73	Reference T5 UMLS:C0019155	печеночные вены
+N74	Reference T65 UMLS:C0003205	антисептики
+N75	Reference T86 UMLS:C0235181	измененный характер
+N76	Reference T113 UMLS:C0036499	вода морская
+N77	Reference T97 UMLS:C0024109	легкие
+N78	Reference T96 UMLS:C0032225	плевральная полость
+N79	Reference T70 UMLS:C0230139	грудной клетки полость
+N80	Reference T27 UMLS:C0038257	расширители
+N81	Reference T118 UMLS:C0037859	сперматоцеле
+N82	Reference T76 UMLS:C0302142	деформация
+N83	Reference T139 UMLS:C0939232	серетид
+N84	Reference T4 UMLS:C0032718	воротная вена
+N85	Reference T110 UMLS:C0149517	хронический тонзиллит
+N86	Reference T77 UMLS:C0006255	бронхи
+N87	Reference T49 UMLS:C0010200	кашель
+N88	Reference T137 UMLS:C0036499	вода морская
+N89	Reference T40 UMLS:C0042449	семенной канатик
+N90	Reference T99 UMLS:CUILESS	грудная клетка
+N91	Reference T67 UMLS:C0231441	иммобилизация
+N92	Reference T48 UMLS:C0013154	введение лекарств ингаляционное
+N93	Reference T103 UMLS:C0001511	спайки
+N94	Reference T84 UMLS:C0040578	трахея
+N95	Reference T71 UMLS:CUILESS	острое диффузное инфильтративное заболевание легких
+N96	Reference T61 UMLS:C0002421	амброксол
+N97	Reference T136 UMLS:C0001511	спайки
+N98	Reference T68 UMLS:C0016129	сломанный палец
+N99	Reference T47 UMLS:C0425402	медицинская диета
+N100	Reference T1 UMLS:C0230168	брюшная полость
+N101	Reference T55 UMLS:C0035243	респираторные инфекции
+N102	Reference T63 UMLS:C2350442	промывание носа
+N103	Reference T45 UMLS:C0039597	яички
+N104	Reference T21 UMLS:CUILESS	ультразвуковое исследование сосудов
+N105	Reference T39 UMLS:C0235181	измененный характер
+N106	Reference T105 UMLS:C0005889	жидкости тела
+N107	Reference T132 UMLS:C0585059	перелом со смещением
+N108	Reference T23 UMLS:C0038257	расширители
+N109	Reference T129 UMLS:C0018787	сердце
+N110	Reference T127 UMLS:C0006382	пучок гиса
+N111	Reference T59 UMLS:C0850149	кашель, непродуктивный
+N112	Reference T15 UMLS:CUILESS	нарушение развития
+N113	Reference T20 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N114	Reference T57 UMLS:C0015840	фенотерол
+N115	Reference T122 UMLS:C0016129	пальцы кисти
+N116	Reference T36 UMLS:C0039597	яички
+N117	Reference T19 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N118	Reference T17 UMLS:CUILESS	жизненная емкость легких в норме
+N119	Reference T69 UMLS:C0230139	грудной клетки полость
+N120	Reference T6 UMLS:C0030274	поджелудочная железа
+N121	Reference T94 UMLS:C0031050	перикард
+N122	Reference T75 UMLS:CUILESS	изменение характера
+N123	Reference T101 UMLS:C1450569	органа размер
+N124	Reference T42 UMLS:CUILESS	цветное допплеровское сканирование
+N125	Reference T102 UMLS:CUILESS	гиперплазия
+N126	Reference T12 UMLS:C0001927	сальбутамол
+N127	Reference T22 UMLS:C4285854	результаты ультразвукового исследования поджелудочной железы в норме
+N128	Reference T32 UMLS:C0039597	яички
+N129	Reference T52 UMLS:C0001927	сальбутамол
+N130	Reference T64 UMLS:C0036499	вода морская
+N131	Reference T95 UMLS:C0024204	лимфатические узлы
+N132	Reference T51 UMLS:C0001559	введение лекарств ингаляционное
+#1	AnnotatorNotes T98	first_annotator_label: C0178802||synonyms: плевральная полость|plevral'naia polost'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0031050||synonyms: перикард|perikard||||bert: C0019064||synonyms: перикардиальное кровоизлияние|гемоперикард|кровоизлияние в полость перикарда|кровотечение в полость перикарда|внутриперикардиальное кровотечение||||
+#2	AnnotatorNotes T33	first_annotator_label: C1142129||synonyms: результаты ультразвукового исследования яичек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1142119||synonyms: ультразвуковое исследование яичек||||bert: C0484666||synonyms: бета аланин:массск:24 часа:моча:колич||||
+#3	AnnotatorNotes T18	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#4	AnnotatorNotes T16	first_annotator_label: C0221725||synonyms: бронхиальная обструкция|обструкция бронхов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0006266||synonyms: бронхоспазм|bronkhospazm|bronkhial'nyi spazm|спазм, бронхиальный|бронхиальный спазм||||bert: C1321133||synonyms: кровоизлияние в бронхиальное дерево|кровоизлияние в бронхи|бронхиальное кровотечение||||
+#5	AnnotatorNotes T73	first_annotator_label: C3888785||synonyms: физикальное обследование легких||||second_annotator_label: C0034069||synonyms: легочный фиброз|legochnyi fibroz|al'veolit fibroziruiushchii|khemmena-richa sindrom|pnevmoskleroz||||third_annotator_label: C0239026||synonyms: нормальные результаты рентгенографии органов грудной клетки|результаты рентгенографии бду грудной клетки в норме|результаты рентгенографии органов грудной клетки в норме||||bert: C0034065||synonyms: легочная эмболия|legochnaia emboliia|тэла|тромбоэмболия легочной артерии|эмболия легкого||||
+#6	AnnotatorNotes T79	first_annotator_label: C0024204||synonyms: лимфатические узлы|limfaticheskie uzly||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1522495||synonyms: сторожевой лимфатический узел|storozhevoi limfaticheskii uzel|limfouzel storozhevoi|signal'nyi limfaticheskii uzel|лимфоузел сторожевой||||bert: C0024203||synonyms: лимфатического узла удаление|limfaticheskogo uzla udalenie|limfouzlov udalenie|dissektsiia limfouzla|лимфоузлов удаление||||
+#7	AnnotatorNotes T44	first_annotator_label: C1739107||synonyms: рикошетное нарушение гемодинамики|рикошетная гемодинамическая нестабильность||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1610069||synonyms: снижение кровотока||||bert: C2363749||synonyms: гипердинамический левый желудочек||||
+#8	AnnotatorNotes T120	first_annotator_label: C0040067||synonyms: палец кисти большой|palets kisti bol'shoi||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0016129||synonyms: пальцы кисти|pal'tsy kisti||||bert: C0857008||synonyms: глухота правого уха||||
+#9	AnnotatorNotes T24	first_annotator_label: C1535949||synonyms: ультразвуковое исследование желчевыводящих путей||||second_annotator_label: C0005411||synonyms: желчных путей атрезия|zhelchnykh putei atreziia|билиарная атрезия|атрезия желчных протоков|врожденная атрезия желчевыводящих путей||||third_annotator_label: C0030288||synonyms: поджелудочной железы протоки|podzheludochnoi zhelezy protoki|dvenadtsatiperstnoi kishki malyi sosochek|santoriniev sosochek|virzungov protok||||bert: C1323110||synonyms: улитковый проток|ulitkovyi protok|kanal ulitki|protok ulitki|protok ulitkovyi||||
+#10	AnnotatorNotes T37	first_annotator_label: C1142129||synonyms: результаты ультразвукового исследования яичек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1142119||synonyms: ультразвуковое исследование яичек||||bert: C2923194||synonyms: соматотропин^23-й образец:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T66	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0804089||synonyms: гастрин^50 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#12	AnnotatorNotes T74	first_annotator_label: C0006255||synonyms: бронхи|bronkhi||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0436455||synonyms: результаты бронхографии в норме||||bert: C0079044||synonyms: бронхосуживающие средства|bronkhosuzhivaiushchie sredstva||||
+#13	AnnotatorNotes T43	first_annotator_label: C0861129||synonyms: отклонение от нормы результатов цветного допплеровского сканирования|отклонение результатов цветного допплеровского сканирования от нормы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042341||synonyms: варикоцеле|varikotsele|варикозное расширение вен мошонки|расширение вен лозовидного венозного сплетения яичка|варикозное расширение вен на мошонке||||bert: C0802856||synonyms: пик вдох поток^при 1.5 л/с на аппарате ивл:давл:тчкврм:дыхательная система.дыхательные пути открытие:колич||||
+#14	AnnotatorNotes T82	first_annotator_label: C1735346||synonyms: острое диффузное инфильтративное заболевание легких||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0332448||synonyms: инфильтрация ткани||||bert: C1735346||synonyms: острое диффузное инфильтративное заболевание легких||||
+#15	AnnotatorNotes T112	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1369925||synonyms: пациент симптомы^3 часа после дозы лактозы через рот:впчт:тчкврм:^пациент:ном||||
+#16	AnnotatorNotes T28	first_annotator_label: C0221725||synonyms: бронхиальная обструкция|обструкция бронхов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4087530||synonyms: центральное угнетение дыхания||||bert: C4087530||synonyms: центральное угнетение дыхания||||
+#17	AnnotatorNotes T88	first_annotator_label: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0006255||synonyms: бронхи|bronkhi||||bert: C0038528||synonyms: субклеточные фракции|subkletochnye fraktsii||||
+#18	AnnotatorNotes T10	first_annotator_label: C0221725||synonyms: бронхиальная обструкция|обструкция бронхов||||second_annotator_label: C0006277||synonyms: бронхит|bronkhit|бронхит, бду|бронхит, без уточнения острый или хронический||||third_annotator_label: C0235906||synonyms: бронхоспазм, обострение||||bert: C0018273||synonyms: роста нарушения|rosta narusheniia|нарушение роста||||
+#19	AnnotatorNotes T125	first_annotator_label: C2938860||synonyms: эктопический водитель ритма||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0008519||synonyms: хористома|khoristoma|aberrantnaia tkan'|ektopicheskaia tkan'|geterotopicheskaia tkan'||||
+#20	AnnotatorNotes T60	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C2735216||synonyms: водород/выдыхаемый газ^2 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#21	AnnotatorNotes T96	first_annotator_label: C0178802||synonyms: плевральная полость|plevral'naia polost'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0032225||synonyms: плевра|plevra||||bert: C0340030||synonyms: плевральная бляшка||||
+#22	AnnotatorNotes T40	first_annotator_label: C0037855||synonyms: семенной канатик|semennoi kanatik||||second_annotator_label: C0042341||synonyms: варикоцеле|varikotsele|варикозное расширение вен мошонки|расширение вен лозовидного венозного сплетения яичка|варикозное расширение вен на мошонке||||third_annotator_label: C0042449||synonyms: вены|veny||||bert: C0241216||synonyms: воспаление семенного канатика||||
+#23	AnnotatorNotes T99	first_annotator_label: C0817096||synonyms: грудная клетка|grudnaia kletka|grud'|грудь||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0816871||synonyms: скелет|skelet||||bert: C0005937||synonyms: костные кисты|kostnye kisty|subkhondral'nye kisty|vnutrikostnyi ganglii|костная киста||||
+#24	AnnotatorNotes T48	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#25	AnnotatorNotes T71	first_annotator_label: C1735346||synonyms: острое диффузное инфильтративное заболевание легких||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0332448||synonyms: инфильтрация ткани||||bert: C1735346||synonyms: острое диффузное инфильтративное заболевание легких||||
+#26	AnnotatorNotes T68	first_annotator_label: C0272694||synonyms: сломанный палец||||second_annotator_label: C0435632||synonyms: перелом костей кисти|сломанная кисть||||third_annotator_label: C0016129||synonyms: пальцы кисти|pal'tsy kisti||||bert: C0857008||synonyms: глухота правого уха||||
+#27	AnnotatorNotes T47	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#28	AnnotatorNotes T63	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2242590||synonyms: терапевтическое полоскание||||bert: C0881660||synonyms: кортизол^24 часа после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#29	AnnotatorNotes T21	first_annotator_label: C0948543||synonyms: ультразвуковое исследование сосудов||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#30	AnnotatorNotes T15	first_annotator_label: C0000768||synonyms: аномалии врожденные|poroki razvitiia|vrozhdennye poroki|аномалия врожденная|нарушение развития||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0000768||synonyms: аномалии врожденные|poroki razvitiia|vrozhdennye poroki|аномалия врожденная|нарушение развития||||
+#31	AnnotatorNotes T20	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1114905||synonyms: пластинка средний диаметр:сущндлин:тчкврм:кр:колич||||
+#32	AnnotatorNotes T17	first_annotator_label: C0520830||synonyms: жизненная емкость легких в норме|жел в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0040509||synonyms: легких емкость общая|legkikh emkost' obshchaia|общий объем легких|оол||||bert: C1720925||synonyms: органелл форма|organell forma||||
+#33	AnnotatorNotes T75	first_annotator_label: C0235181||synonyms: изменение характера|измененный характер||||second_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||third_annotator_label: None||synonyms: ||||bert: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||
+#34	AnnotatorNotes T42	first_annotator_label: C1869003||synonyms: цветное допплеровское сканирование||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0005798||synonyms: кровотока скорость|krovotoka skorost'||||bert: C0869086||synonyms: кровотечения, нкдр||||
+#35	AnnotatorNotes T102	first_annotator_label: C0020507||synonyms: гиперплазия|giperplaziia|гиперплазия, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3495852||synonyms: гипертрофия стенки сосуда||||bert: C0269095||synonyms: гиперплазия влагалища||||
+#36	AnnotatorNotes T22	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C5143502||synonyms: температура тела:темп:тчкврм:головной мозг:колич||||

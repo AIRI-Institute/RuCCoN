@@ -1,0 +1,240 @@
+T16	Disease 312 323	Феномен WPW
+T27	Disease 1455 1470	недостаточность
+T25	Disease 1402 1425	с формированием фиброза
+T85	Symptom 2377 2412	уменьшение диаметра перешейка аорты
+T41	Treatment 11439 11471	элькар 30% по 3мл х 1 раз в день
+T26	Body_location 1426 1453	створок аортального клапана
+T59	Drug 12705 12714	Эналаприл
+T63	Treatment 12860 12911	По повторной госпитализации дневник иметь при себе.
+T80	Symptom 1895 1926	умеренно расширены левые отделы
+T97	Body_location 11054 11075	в миокарде желудочков
+T7	Disease 144 156	Феномен WPW.
+T54	Treatment 12415 12486	Ограничение жидкости до 700 мл/сут(включая сочные фрукты, овощи, супы).
+T72	Treatment 13355 13491	Повторная плановая госпитализация при стабильных самочувствии, показателях Эхо-КГ и ЭКГ в отделение кардиологии НЦЗД 17 апреля 2066 года
+T107	Body_location 5252 5278	Левая коронарная артерия 3
+T53	Treatment 12287 12413	Соблюдение диеты №5 (исключить жирное, жареное, капчености, острое, консерванты, соленое, газированные напитки, чипсы, и т.п.)
+T20	Disease 787 799	экстрасистол
+T78	Drug 3487 3495	курантил
+T62	Treatment 12821 12858	Контроль ЧСС и АД с ведением дневника
+T58	Treatment 12705 12766	Эналаприл 2,5 мг х 2 раза в день, в 08.00 и 20.00 - длительно
+T9	Severity 161 165	Iст.
+T95	Body_location 4457 4468	на верхушке
+T39	Drug 11360 11370	верошпирон
+T101	Symptom 3131 3162	повышение АД до 160/90 мм.рт.ст
+T104	Body_location 4543 4581	проводится в левой аксиллярной области
+T75	Drug 3402 3411	Эналаприл
+T86	Disease 2434 2448	Кардиомегалия.
+T29	Disease 1475 1486	гипертрофия
+T44	Treatment 11320 11355	конкор 0,625мг 1 раз в день в 09.00
+T30	Body_location 1487 1489	ЛЖ
+T94	Symptom 4441 4456	I тон приглушен
+T77	Drug 3454 3464	верошпирон
+T74	Treatment 3402 3551	Эналаприл 1,8мг х2р/д, конкор 0,625мг 1 раз в день, верошпирон 12,5 мг 1 раз в день, курантил 6,25 мг 2 раза в день, элькар 30% по 3мл х 1 раз в день
+T84	Symptom 2064 2096	нарушение процесса реполяризации
+T57	Treatment 12623 12699	Котроль б/х анализа крови(калий, натрий, креатинин, мочевина) 1 раз в 6 мес.
+T99	Disease 2952 2966	краевой фиброз
+T14	Disease 281 293	ложная хорда
+T79	Drug 3519 3525	элькар
+T17	Disease 325 328	ХСН
+T23	Severity 764 773	единичных
+T82	Symptom 2026 2062	перегрузки миокарда левого желудочка
+T90	Drug 2616 2622	конкор
+T109	Body_location 5900 5906	ЗАДНЯЯ
+T28	Body_location 1471 1473	МК
+T71	Treatment 13299 13347	Не допускать повышения температуры тела выше 38С
+T73	Symptom 1785 1825	систолический шум по левому краю грудины
+T37	Drug 11217 11226	Эналаприл
+T76	Drug 3425 3431	конкор
+T34	Symptom 372 417	слабость, повышенная утомляемость, потливость
+T12	Disease 223 247	Артериальная гипертензия
+T69	Treatment 13149 13297	При ОРВИ обязательно назначение антибиотиков широкого спектра действия(зиннат, аугментин) с последующим контролем анализов крови и мочи, ЭКГ, Эхо-КГ
+T83	Body_location 2046 2062	левого желудочка
+T56	Treatment 12582 12617	Контроль ЭКГ, Эхо-КГ 1 раз в 3 мес.
+T31	Severity 1491 1508	подострое течение
+T70	Drug 13220 13238	зиннат, аугментин)
+T6	Body_location 126 142	левого желудочка
+T98	Body_location 1319 1327	миокарда
+T61	Drug 12772 12778	Конкор
+T18	Severity 329 332	Iст
+T40	Drug 11404 11412	курантил
+T8	Disease 157 160	ХСН
+T108	Symptom 5907 5940	СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА: утолщена
+T5	Disease 113 142	ложная хорда левого желудочка
+T45	Treatment 11360 11399	верошпирон 12,5 мг 1 раз в день в 20.00
+T92	Drug 2696 2707	преднизолон
+T68	Treatment 13038 13143	Санация очагов хронической инфекции(ЛОР, стоматолог) 2 раза в год с обязательным выполнением рекомендаций
+T13	Disease 189 198	Миокардит
+T2	Disease 32 53	Гипоплазия дуги аорты
+T1	Disease 21 30	Миокардит
+T100	Severity 2937 2951	незначительный
+T60	Treatment 12772 12819	Конкор 0,625мг 1 раз в день в 09.00 - длительно
+T50	Body_location 3064 3066	ЛЖ
+T67	Drug 12973 12981	Курантил
+T22	Disease 801 812	дельта-волн
+T87	Treatment 2480 2784	эналаприл 1.25мг 2р/д с повышением дозы до 1.8 мг 2р/д, дигоксин 0.03мг 2р/д , уменьшение дозы до 0.03мг 1 р/д и с последующей отменой, конкор 0.25 мг 1р/д с увеличения дозы до 0.625 мг 1р/д, верошпирон 12.5мг 2р/д, преднизолон 0.625мг 1р/д с последующей отменой, курантил 6.25мг 2р/д, панангин 1/4т 2р/д
+T19	Severity 334 338	ФК I
+T33	Severity 1514 1526	2А, ФК II-II
+T112	Symptom 11099 11161	Нарушение адаптации длительности интервала QT к увеличению ЧСС
+T96	Disease 11021 11053	Нарушение процесса реполяризации
+T105	Symptom 5826 5863	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА: утолщена
+T66	Treatment 12973 13032	Курантил 6,25 мг 2 раза в день, в 08.00 и 20.00 - длительно
+T93	Symptom 3761 3805	Кожные покровы бледные, периорбитальные тени
+T81	Symptom 1987 2015	резкое отклонение ЭОС вправо
+T38	Drug 11320 11326	конкор
+T21	Body_location 774 786	желудочковых
+T36	Symptom 1707 1751	кожные покровы бледные, периорбитальные тени
+T15	Body_location 294 310	левого желудочка
+T52	Disease 1285 1318	снижение сократитальной спобности
+T55	Treatment 12491 12577	Контроль веса, диуреза и ЧСС (вести дневник, предъявить при следующей госпитализации).
+T111	Symptom 6534 6545	БРАДИКАРДИЯ
+T102	Symptom 4470 4487	систолический шум
+T103	Body_location 4488 4515	над всей поверхности сердца
+T48	Treatment 11732 11858	Эналаприла с 1,8мг х 2 раза вдень до 2,0 мг х 2раза в день с 13.04, и до 2,5 мг х 2 раза в день с 17.04 под контролем ЧСС и АД
+T11	Body_location 211 221	дуги аорты
+T10	Disease 200 210	Гипоплазия
+T32	Disease 1510 1513	ХСН
+T42	Drug 11732 11742	Эналаприла
+T46	Treatment 11413 11434	6,25 мг 2 раза в день
+T24	Disease 1388 1401	Миоперикардит
+T110	Symptom 6487 6515	резкое отклонение ЭОС вправо
+T64	Treatment 12916 12967	Верошпирон 12,5 мг 1 раз в день в 20.00 - длительно
+T51	Symptom 3214 3246	повышением АД до 160/90 мм.рт.ст
+T106	Symptom 5279 5288	расширена
+T91	Drug 2672 2682	верошпирон
+T3	Body_location 43 53	дуги аорты
+T47	Drug 11439 11449	элькар 30%
+T35	Symptom 1181 1205	резкая слабость, вялость
+T65	Drug 12916 12926	Верошпирон
+T49	Disease 3043 3063	Дополнительная хорда
+T4	Disease 55 79	Артериальная гипертензия
+T89	Drug 2536 2544	дигоксин
+T43	Treatment 11217 11315	Эналаприл 1,8мг в 8.00 и в 20.00, с 13.04 по 2,0мг х 2раза в день, с 17.04 по 2,5мг х 2раза в день
+T88	Drug 2480 2489	эналаприл
+N1	Reference T16 UMLS:C0043202	вольфа-паркинсона-уайта синдром
+N2	Reference T27 UMLS:C0011156	недостаточности болезни
+N3	Reference T25 UMLS:C0016059	фиброз
+N4	Reference T85 UMLS:C0003507	стеноз аорты
+N5	Reference T41 UMLS:C0013154	активация метаболическая
+N6	Reference T26 UMLS:C0741190	утолщение створок аортального клапана
+N7	Reference T59 UMLS:C0014025	эналаприл
+N8	Reference T63 UMLS:C0011017	госпитализация на дневное время
+N9	Reference T80 UMLS:C0086312	лесная местность
+N10	Reference T97 UMLS:C0027061	миокард
+N11	Reference T7 UMLS:C0043202	вольфа-паркинсона-уайта синдром
+N12	Reference T54 UMLS:C4042943	фруктовые и овощные соки
+N13	Reference T72 UMLS:C0745036	плановая госпитализация
+N14	Reference T107 UMLS:C0856739	поражение основного ствола левой коронарной артерии
+N15	Reference T53 UMLS:C0242970	диета с ограничением жиров
+N16	Reference T20 UMLS:C0340464	экстрасистола
+N17	Reference T78 UMLS:C0012582	курантил
+N18	Reference T62 UMLS:CUILESS	дневник
+N19	Reference T58 UMLS:C0013154	ангиотензин-превращающего фермента ингибиторы
+N20	Reference T9 UMLS:CUILESS	степень ухудшения бду
+N21	Reference T95 UMLS:C0018787	сердце
+N22	Reference T39 UMLS:C0037982	верошпирон
+N23	Reference T101 UMLS:C0497247	артериальная гипертония
+N24	Reference T104 UMLS:C0035234	аускультативная картина в легких
+N25	Reference T75 UMLS:C0014025	эналаприл
+N26	Reference T86 UMLS:C0018800	кардиомегалия
+N27	Reference T29 UMLS:C0020564	гипертрофия
+N28	Reference T44 UMLS:C0013154	адреноблокаторы
+N29	Reference T30 UMLS:C0080310	сердца желудочка левого функция
+N30	Reference T94 UMLS:C0919999	ненормальный первый тон сердца
+N31	Reference T77 UMLS:C0037982	верошпирон
+N32	Reference T74 UMLS:C0551912	диаметр:дл:тчкврм:аортальный клапан:колич:уз.измеренный
+N33	Reference T84 UMLS:C0948857	нарушения реполяризации на экг
+N34	Reference T57 UMLS:C0201682	клинический анализ крови
+N35	Reference T99 UMLS:C0016059	фиброз
+N36	Reference T14 UMLS:C3241921	косая хорда
+N37	Reference T79 UMLS:C0007258	карнитин
+N38	Reference T17 UMLS:C0264716	хроническая сердечная недостаточность
+N39	Reference T82 UMLS:C0948831	признаки перегрузки левого желудочка на экг
+N40	Reference T90 UMLS:C0053799	бисопролол
+N41	Reference T109 UMLS:C0080310	сердца желудочка левого функция
+N42	Reference T28 UMLS:C0026264	митральный клапан
+N43	Reference T71 UMLS:C0015967	повышение температуры тела
+N44	Reference T73 UMLS:C0232257	систолические шумы
+N45	Reference T37 UMLS:C0014025	эналаприл
+N46	Reference T76 UMLS:C0053799	бисопролол
+N47	Reference T34 UMLS:C0700590	повышенная потливость
+N48	Reference T12 UMLS:C0020538	артериальная гипертензия
+N49	Reference T69 UMLS:C0854606	системная антибактериальная терапия
+N50	Reference T83 UMLS:C0080310	сердца желудочка левого функция
+N51	Reference T56 UMLS:C0013798	электрокардиограмма
+N52	Reference T70 UMLS:C0279516	антибиотики
+N53	Reference T6 UMLS:C0080310	сердца желудочка левого функция
+N54	Reference T98 UMLS:C0027061	миокард
+N55	Reference T61 UMLS:C0053799	бисопролол
+N56	Reference T40 UMLS:C0012582	курантил
+N57	Reference T8 UMLS:C0264716	хроническая сердечная недостаточность
+N58	Reference T108 UMLS:C0149721	увеличение левого желудочка
+N59	Reference T5 UMLS:C4324431	ложная хорда левого желудочка
+N60	Reference T45 UMLS:C0948575	диуретическая терапия
+N61	Reference T92 UMLS:C0032950	преднизолон
+N62	Reference T68 UMLS:C0018703	санитарное просвещение в стоматологии
+N63	Reference T13 UMLS:C0027059	миокардит
+N64	Reference T2 UMLS:C0265892	гипоплазия аорты
+N65	Reference T1 UMLS:C0027059	миокардит
+N66	Reference T60 UMLS:C0013154	адреноблокаторы
+N67	Reference T50 UMLS:C0080310	сердца желудочка левого функция
+N68	Reference T67 UMLS:C0012582	курантил
+N69	Reference T22 UMLS:C0855330	дельта-волна на электрокардиограмме
+N70	Reference T87 UMLS:C0459914	гипотензивные средства
+N71	Reference T112 UMLS:C0023976	синдром удлинения интервала qt
+N72	Reference T96 UMLS:C0948857	нарушения реполяризации на экг
+N73	Reference T105 UMLS:C0225870	межжелудочковая перегородка
+N74	Reference T66 UMLS:C0013154	иммуномодуляция
+N75	Reference T93 UMLS:C0241137	бледная кожа
+N76	Reference T81 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N77	Reference T38 UMLS:C0053799	бисопролол
+N78	Reference T21 UMLS:C0018827	сердца желудочки
+N79	Reference T36 UMLS:C0241137	бледная кожа
+N80	Reference T15 UMLS:C0080310	сердца желудочка левого функция
+N81	Reference T52 UMLS:C0858526	снижение сократительной функции миокарда
+N82	Reference T55 UMLS:C0920298	контроль массы тела
+N83	Reference T111 UMLS:C0428977	брадикардия
+N84	Reference T102 UMLS:C0232257	систолический шум
+N85	Reference T103 UMLS:C0018787	сердце
+N86	Reference T48 UMLS:C0013154	ангиотензин-превращающего фермента ингибиторы
+N87	Reference T11 UMLS:C1522460	аорты дуга
+N88	Reference T10 UMLS:C0266425	гипоплазия яичка
+N89	Reference T32 UMLS:C0264716	хроническая сердечная недостаточность
+N90	Reference T42 UMLS:C0014025	эналаприл
+N91	Reference T46 UMLS:C0013154	кардиотонические средства
+N92	Reference T24 UMLS:C0854532	миоперикардит
+N93	Reference T110 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N94	Reference T64 UMLS:C0948575	диуретическая терапия
+N95	Reference T51 UMLS:C0497247	артериальная гипертония
+N96	Reference T106 UMLS:C0038257	расширители
+N97	Reference T91 UMLS:C0037982	верошпирон
+N98	Reference T3 UMLS:C1522460	аорты дуга
+N99	Reference T47 UMLS:C0007258	карнитин
+N100	Reference T35 UMLS:C3714552	слабость, неуточненная
+N101	Reference T65 UMLS:C0037982	верошпирон
+N102	Reference T49 UMLS:C4324431	ложная хорда левого желудочка
+N103	Reference T4 UMLS:C0020538	артериальная гипертензия
+N104	Reference T89 UMLS:C0012265	дигоксин
+N105	Reference T43 UMLS:C0013154	ангиотензин-превращающего фермента ингибиторы
+N106	Reference T88 UMLS:C0014025	эналаприл
+#1	AnnotatorNotes T41	first_annotator_label: C0025513||synonyms: активация метаболическая|lekarstvennykh veshchestv aktivatsiia|лекарственных веществ активация|aktivatsiia metabolicheskaia|metabolicheskaia aktivatsiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0482536||synonyms: глюкоза^30 минут после 0.1 ед/кг инсулина:массконц:тчкврм:сыв/плаз:колич||||
+#2	AnnotatorNotes T62	first_annotator_label: C0376660||synonyms: дневник|dnevnik|dnevniki|дневники||||second_annotator_label: C4704837||synonyms: дневники как тема|dnevnik kak tema|дневник как тема|dnevniki kak tema||||third_annotator_label: None||synonyms: ||||bert: C4704837||synonyms: дневники как тема|dnevnik kak tema|дневник как тема|dnevniki kak tema||||
+#3	AnnotatorNotes T58	first_annotator_label: C0003015||synonyms: ангиотензин-превращающего фермента ингибиторы|angiotenzin-prevrashchaiushchego fermenta ingibitory|kininazy ii ingibitory|кининазы ii ингибиторы||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0363656||synonyms: глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T9	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0020940||synonyms: иммерсия|immersiia|pogruzhenie|погружение||||third_annotator_label: None||synonyms: ||||bert: C0020940||synonyms: иммерсия|immersiia|pogruzhenie|погружение||||
+#5	AnnotatorNotes T95	first_annotator_label: C0018787||synonyms: сердце|serdtse||||second_annotator_label: C0919999||synonyms: ненормальный первый тон сердца|патологический первый тон сердца||||third_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||bert: C1136057||synonyms: цветов верхушки|tsvetov verkhushki||||
+#6	AnnotatorNotes T101	first_annotator_label: C0020538||synonyms: гипертензия|gipertenziia|gipertonicheskaia bolezn'|krovianoe davlenie vysokoe|артериальная гипертония||||second_annotator_label: C1272641||synonyms: артериальное давление|aortal'noe davlenie krovi|ад|ad|aortal'noe davlenie||||third_annotator_label: C0497247||synonyms: повышение артериального давления|повышенное артериальное давление|подъем артериального давления|высокое артериальное давление|повышенное артериальное давления||||bert: C2735166||synonyms: соматотропин^160 минут после нагрузки:массконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T44	first_annotator_label: C0242889||synonyms: адренергические антагонисты|adrenergicheskie antagonisty|adrenoblokatory|adrenoblokiruiushchie sredstva|antiadrenergicheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0363634||synonyms: глюкоза^1 час после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#8	AnnotatorNotes T57	first_annotator_label: C0200631||synonyms: гемограмма|клинический анализ крови||||second_annotator_label: C0852608||synonyms: биохимические анализы, нкдр||||third_annotator_label: C0201682||synonyms: биохимический анализ, бду||||bert: C0854031||synonyms: уровень креатина в крови в норме||||
+#9	AnnotatorNotes T69	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0854601||synonyms: местная профилактика антибактериальными препаратами||||
+#10	AnnotatorNotes T45	first_annotator_label: C0948575||synonyms: диуретическая терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0363634||synonyms: глюкоза^1 час после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T60	first_annotator_label: C0242889||synonyms: адренергические антагонисты|adrenergicheskie antagonisty|adrenoblokatory|adrenoblokiruiushchie sredstva|antiadrenergicheskie sredstva||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1978300||synonyms: кортикотропин^20 минут после 100 мкг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#12	AnnotatorNotes T87	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0802848||synonyms: пик вдох поток^при 0.5 л/с на аппарате ивл:давл:тчкврм:дыхательная система.дыхательные пути открытие:колич||||
+#13	AnnotatorNotes T66	first_annotator_label: C1963758||synonyms: иммуномодуляция|применение иммуномодуляторов|immunomoduliatsiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T81	first_annotator_label: C3544317||synonyms: отклонение электрической оси сердца по часовой стрелке (вправо)||||second_annotator_label: C0944400||synonyms: ось n 2:угол:тчкврм:очки назначение.линза.левая:колич||||third_annotator_label: C0920155||synonyms: отклонение электрической оси зубца q вправо||||bert: C4551696||synonyms: положение лежа лицом вниз|вентральное расположение||||
+#15	AnnotatorNotes T52	first_annotator_label: C0858526||synonyms: снижение сократительной функции миокарда||||second_annotator_label: C0235091||synonyms: слабость детрузора|снижение сократительной способности детрузора||||third_annotator_label: C0428977||synonyms: брадикардия|bradikardiia|bradiaritmiia|брадикардия, бду|чсс ниже нормы||||bert: C0239787||synonyms: низкий уровень соматотропина|снижение уровня гормона роста|сниж. гр|снижение уровня соматотропина|снижение гр||||
+#16	AnnotatorNotes T55	first_annotator_label: C0920298||synonyms: контроль массы тела||||second_annotator_label: C0376660||synonyms: дневник|dnevnik|dnevniki|дневники||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C1168272||synonyms: чередование запора и диареи|чередование запора и поноса||||
+#17	AnnotatorNotes T48	first_annotator_label: C0003015||synonyms: ангиотензин-превращающего фермента ингибиторы|angiotenzin-prevrashchaiushchego fermenta ingibitory|kininazy ii ingibitory|кининазы ii ингибиторы||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0802860||synonyms: пик вдох поток^при 2.0 л/с на аппарате ивл:давл:тчкврм:дыхательная система.дыхательные пути открытие:колич||||
+#18	AnnotatorNotes T46	first_annotator_label: C0007209||synonyms: кардиотонические средства|kardiotonicheskie sredstva|kardiostimuliruiushchie sredstva|serdechnye sredstva polozhitel'nye inotropnye|sredstva stimuliruiushchie miokard||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1977048||synonyms: кальцитонин^2 минуты после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#19	AnnotatorNotes T110	first_annotator_label: C3544317||synonyms: отклонение электрической оси сердца по часовой стрелке (вправо)||||second_annotator_label: C4324352||synonyms: отклонение электрической оси q-зубца||||third_annotator_label: C0920155||synonyms: отклонение электрической оси зубца q вправо||||bert: C4551696||synonyms: положение лежа лицом вниз|вентральное расположение||||
+#20	AnnotatorNotes T64	first_annotator_label: C0948575||synonyms: диуретическая терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0363719||synonyms: лютропин^1.5 часа после 100 г лютропина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#21	AnnotatorNotes T51	first_annotator_label: C0020538||synonyms: гипертензия|gipertenziia|gipertonicheskaia bolezn'|krovianoe davlenie vysokoe|артериальная гипертония||||second_annotator_label: C0020649||synonyms: гипотензия|gipotenziia|krovianoe davlenie ponizhennoe|падение ад|снижение ад||||third_annotator_label: C0497247||synonyms: повышение артериального давления|повышенное артериальное давление|подъем артериального давления|высокое артериальное давление|повышенное артериальное давления||||bert: C2735166||synonyms: соматотропин^160 минут после нагрузки:массконц:тчкврм:сыв/плаз:колич||||
+#22	AnnotatorNotes T43	first_annotator_label: C0003015||synonyms: ангиотензин-превращающего фермента ингибиторы|angiotenzin-prevrashchaiushchego fermenta ingibitory|kininazy ii ingibitory|кининазы ii ингибиторы||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C0802862||synonyms: пик вдох поток^при 2.0 л/с на аппарате ивл:давл:тчкврм:трахея.дыхательные пути:колич||||

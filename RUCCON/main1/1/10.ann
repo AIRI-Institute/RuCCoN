@@ -1,0 +1,220 @@
+T63	Body_location 2290 2297	на лицо
+T56	Treatment 1851 1870	Поляризованный свет
+T52	Symptom 855 873	ТАХИКАРДИЯ: легкая
+T2	Body_location 29 43	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T87	Treatment 3474 3523	Туалет носа с физиомером продолжить 3 раза в день
+T10	Body_location 298 304	ПЕЧЕНЬ
+T47	Drug 1433 1438	Креон
+T82	Treatment 3042 3101	Строгое соблюдение гипоаллергенной диеты на основе стола №5
+T57	Treatment 1875 1913	Магнитотерапия бегущим магнитным полем
+T39	Disease 1290 1354	Дисфункция билиарного тракта на фоне деформации желчного пузыря.
+T44	Treatment 1500 1560	Хофитол по 10 кап. 3 раза в день за 20 мин. до еды - 14 дней
+T35	Drug 1120 1128	Физиомер
+T66	Treatment 2399 2493	тридерм 2 раза в день, затем протопик мазь 0,03% 2 раза в день Физиомер (1+1)  х 3 раза в день
+T91	Drug 3196 3215	Протопик мазь 0,03%
+T84	Treatment 3196 3299	Протопик мазь 0,03% 2 раза в день 2 недели, затем 1 раз в день 2 недели, затем 2 раза в неделю 2 месяца
+T61	Treatment 2157 2190	посещение центра развития по м/ж.
+T88	Body_location 3573 3596	органов брюшной полости
+T50	Treatment 1414 1428	Диета стола №5
+T4	Symptom 57 75	размер не увеличен
+T76	Drug 2462 2470	Физиомер
+T27	Symptom 438 442	4 мм
+T69	Treatment 2629 2669	хилак-форте 30 кап. 3 раза в день до еды
+T65	Treatment 2359 2396	Октенисепт спрей 2 раза в день местно
+T22	Symptom 484 520	нормальная, размер средний, 56х29 мм
+T64	Treatment 2299 2358	Адвантан крем 2 раза в день затем элидел крем 2 раза в день
+T3	Symptom 45 55	измененный
+T30	Symptom 381 422	Паренхима однородная, средней эхогенности
+T11	Body_location 473 482	СЕЛЕЗЕНКА
+T26	Symptom 463 471	изменены
+T16	Symptom 703 739	признаки деформации желчного пузыря.
+T8	Symptom 113 129	просвет свободен
+T92	Drug 3304 3319	Атодерм РО Цинк
+T60	Treatment 2071 2151	систематические педагогические занятия по всем линиям развития согласно возрасту
+T86	Treatment 3346 3470	Для мытья использовать средства для сухой атопичной кожи, не содержащие мыла (гель атодерм, мустела, и липикар синдэт т.д.).
+T43	Treatment 1433 1496	Креон 10 тыс по 1/2 капс. 4 раза в день во время еды - 14 дней.
+T12	Body_location 444 459	Печеночные вены
+T80	Drug 2580 2586	хофито
+T33	Treatment 1049 1213	Ежедневно орошать слизистую оболочку полости носа солевыми растворами: Физиомер (с 2-х недель и старше), Маримар, Аква-марис, Аквалор софт и т.д.) х 3-4 раза в день
+T20	Symptom 657 686	секрет нет, стенки нормальные
+T78	Drug 2518 2526	бепантен
+T83	Treatment 3131 3191	Ксизал (зиртек) 1 раз в день по 10 кап. продолжить 3 месяца.
+T71	Drug 2299 2312	Адвантан крем
+T53	Symptom 875 950	Нарушения процесса реполяризации в миокарде желудочков, умеренные нарушения
+T15	Body_location 638 655	ДВ.ПЕРСТНАЯ КИШКА
+T5	Symptom 77 91	перегиб в теле
+T23	Symptom 522 563	Паренхима однородная, средней эхогенности
+T38	Drug 1175 1187	Аквалор софт
+T9	Body_location 131 151	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T79	Drug 2543 2555	Креон 10 тыс
+T75	Drug 2428 2447	протопик мазь 0,03%
+T1	Body_location 4 27	органов брюшной полости
+T14	Body_location 597 604	ЖЕЛУДОК
+T59	Treatment 2028 2065	средний режим педагогических нагрузок
+T77	Drug 2495 2501	ксизал
+T46	Body_location 1677 1692	брюшной полости
+T89	Drug 3131 3137	Ксизал
+T21	Symptom 606 636	секрета нет, стенки нормальные
+T17	Body_location 723 738	желчного пузыря
+T31	Symptom 153 210	измененная, размер умеренно увеличен, 11 мм х 9 мм х 11мм
+T37	Drug 1163 1173	Аква-марис
+T7	Symptom 103 111	изменены
+T85	Treatment 3304 3341	Атодерм РО Цинк 1 раз в день 2 месяца
+T51	Symptom 838 853	РИТМ: синусовый
+T25	Symptom 586 595	расширена
+T13	Body_location 424 437	Воротная вена
+T6	Body_location 93 99	стенки
+T48	Drug 1500 1507	Хофитол
+T72	Drug 2333 2344	элидел крем
+T68	Treatment 2495 2516	ксизал по 10 к. 1 р/д
+T41	Disease 1355 1395	Вторичные изменения поджелудочной железы
+T24	Body_location 565 582	Селезеночная вена
+T42	Body_location 1375 1395	поджелудочной железы
+T45	Treatment 1565 1619	Хилак-форте по 30 кап. 3 раза в день до еды - 1 месяц.
+T49	Drug 1565 1576	Хилак-форте
+T73	Drug 2359 2375	Октенисепт спрей
+T67	Treatment 2518 2627	бепантен 2 раза в день, 
+Креон 10 тыс. по ½  к. 3 р/д с едой, хофитол по 10 к. 3 раза в день за 20 мин до еды
+T55	Symptom 811 836	ПОЛОЖЕНИЕ ЭОС: нормальное
+T29	Symptom 366 380	Контур ровный.
+T32	Symptom 212 280	Эхогенность снижена, умеренно неоднородная, уплотнены стенки сосудов
+T62	Treatment 2214 2257	Гипоаллергенная диета, элиминационный режим
+T18	Symptom 740 781	Реактивные изменения поджелудочной железы
+T54	Body_location 910 929	миокарде желудочков
+T19	Body_location 761 782	поджелудочной железы.
+T34	Body_location 1077 1098	оболочку полости носа
+T81	Drug 2629 2640	хилак-форте
+T70	Treatment 2680 2767	курс физиотерапии: 1)	Магнитотерапия (бегущее магнитное поле) + поляризованный свет №5.
+T28	Symptom 306 364	среднего размера, ЛД 46 мм, первый сегмент 14 мм, ПД 87 мм
+T74	Drug 2399 2406	тридерм
+T58	Symptom 1955 2007	Особенности формирования познавательной деятельности
+T36	Drug 1154 1161	Маримар
+T90	Drug 3139 3145	зиртек
+T96	Drug 3488 3498	физиомером
+T40	Body_location 1338 1353	желчного пузыря
+N1	Reference T63 UMLS:C0015450	лицо
+N2	Reference T56 UMLS:C0023693	радиация видимая
+N3	Reference T52 UMLS:C0039231	тахикардия
+N4	Reference T2 UMLS:C0016976	желчный пузырь
+N5	Reference T87 UMLS:C2350442	промывание носа
+N6	Reference T10 UMLS:C0023884	печень
+N7	Reference T47 UMLS:C0030304	креон
+N8	Reference T82 UMLS:C0425402	медицинская диета
+N9	Reference T57 UMLS:C2350609	магнитными полями терапия
+N10	Reference T39 UMLS:C4552284	гипофункция желчного пузыря
+N11	Reference T44 UMLS:C0013154	желчегонные и желчеобразующие средства
+N12	Reference T35 UMLS:C0036499	вода морская
+N13	Reference T66 UMLS:C0013154	вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков
+N14	Reference T91 UMLS:C0085149	такролимус
+N15	Reference T84 UMLS:C0013154	вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков
+N16	Reference T61 UMLS:CUILESS	психология развития
+N17	Reference T88 UMLS:C0230168	брюшная полость
+N18	Reference T50 UMLS:C0012155	диета
+N19	Reference T4 UMLS:CUILESS	органа размер
+N20	Reference T76 UMLS:C0036499	вода морская
+N21	Reference T69 UMLS:C0013154	противодиарейная поддерживающая терапия
+N22	Reference T65 UMLS:C0003424	антисептика
+N23	Reference T22 UMLS:C0421272	нормальный вес тела
+N24	Reference T64 UMLS:C0744425	терапия глюкокортикостероидами
+N25	Reference T3 UMLS:C0235181	измененный характер
+N26	Reference T30 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N27	Reference T11 UMLS:C0037993	селезенка
+N28	Reference T26 UMLS:CUILESS	патология
+N29	Reference T16 UMLS:C1397947	перегиб желчного пузыря
+N30	Reference T92 UMLS:C3494477	крем для кожи
+N31	Reference T60 UMLS:C4082803	подготовка педагогических кадров
+N32	Reference T86 UMLS:C0150773	кожа, уход
+N33	Reference T43 UMLS:C4523842	заместительная терапия ферментами поджелудочной железы
+N34	Reference T12 UMLS:C0019155	печеночные вены
+N35	Reference T80 UMLS:C0008304	желчегонные и желчеобразующие средства
+N36	Reference T33 UMLS:C2350442	промывание носа
+N37	Reference T20 UMLS:CUILESS	результаты обследования желудочно-кишечного тракта в норме
+N38	Reference T78 UMLS:CUILESS	лечение раны
+N39	Reference T83 UMLS:C1504374	антигистаминная терапия
+N40	Reference T71 UMLS:C0025815	метилпреднизолон
+N41	Reference T53 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N42	Reference T15 UMLS:C0013303	двенадцатиперстная кишка
+N43	Reference T5 UMLS:C1397947	перегиб желчного пузыря
+N44	Reference T23 UMLS:CUILESS	ультразвуковое исследование селезенки
+N45	Reference T38 UMLS:C0036499	вода морская
+N46	Reference T9 UMLS:C0030274	поджелудочная железа
+N47	Reference T79 UMLS:C0030304	креон
+N48	Reference T75 UMLS:C0085149	такролимус
+N49	Reference T1 UMLS:C0230168	брюшная полость
+N50	Reference T14 UMLS:C0038351	желудок
+N51	Reference T59 UMLS:CUILESS	дозовая нагрузка на организм
+N52	Reference T77 UMLS:C0055147	цетиризин
+N53	Reference T46 UMLS:C0230168	брюшная полость
+N54	Reference T89 UMLS:C0055147	цетиризин
+N55	Reference T21 UMLS:C0430681	исследования желудочно-кишечного тракта
+N56	Reference T17 UMLS:C0016976	желчный пузырь
+N57	Reference T31 UMLS:CUILESS	увеличение поджелудочной железы
+N58	Reference T37 UMLS:C0036499	вода морская
+N59	Reference T7 UMLS:CUILESS	утолщение стенки желчного пузыря
+N60	Reference T85 UMLS:C0013154	увлажнение сухой кожи тела
+N61	Reference T51 UMLS:C0232201	синусовый ритм
+N62	Reference T25 UMLS:C0038257	расширители
+N63	Reference T13 UMLS:C0032718	воротная вена
+N64	Reference T6 UMLS:CUILESS	утолщение стенки желчного пузыря
+N65	Reference T48 UMLS:C0008304	желчегонные и желчеобразующие средства
+N66	Reference T72 UMLS:C0003211	противовоспалительные средства нестероидные
+N67	Reference T68 UMLS:C1504374	антигистаминная терапия
+N68	Reference T41 UMLS:C0030286	поджелудочной железы болезни
+N69	Reference T24 UMLS:C0038001	селезеночная вена
+N70	Reference T42 UMLS:C0030274	поджелудочная железа
+N71	Reference T45 UMLS:C0853588	противодиарейная поддерживающая терапия
+N72	Reference T49 UMLS:C0003292	противодиаррейные средства
+N73	Reference T73 UMLS:C0003205	антисептики
+N74	Reference T67 UMLS:C2925955	с пептид^10 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич
+N75	Reference T55 UMLS:CUILESS	вариант нормы на экг
+N76	Reference T32 UMLS:CUILESS	отклонение от нормы результатов ультразвукового исследования поджелудочной железы
+N77	Reference T62 UMLS:C0425402	медицинская диета
+N78	Reference T18 UMLS:C0030286	заболевания поджелудочной железы
+N79	Reference T54 UMLS:C0018827	сердца желудочек
+N80	Reference T19 UMLS:C0030274	поджелудочная железа
+N81	Reference T34 UMLS:C0027428	носа слизистая оболочка
+N82	Reference T81 UMLS:C0003292	противодиаррейные средства
+N83	Reference T70 UMLS:C0872210	магнитотерапия
+N84	Reference T28 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N85	Reference T74 UMLS:CUILESS	бетаметазон
+N86	Reference T58 UMLS:C0009240	познавательная способность
+N87	Reference T36 UMLS:C0036499	вода морская
+N88	Reference T90 UMLS:C0055147	цетиризин
+N89	Reference T96 UMLS:C0036499	вода морская
+N90	Reference T40 UMLS:C0016976	желчный пузырь
+#1	AnnotatorNotes T82	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0743195||synonyms: контроль соблюдения диеты||||bert: C4324377||synonyms: повышение диастолического артериального давления в положении лежа на спине||||
+#2	AnnotatorNotes T44	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#3	AnnotatorNotes T66	first_annotator_label: C0854597||synonyms: вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1978292||synonyms: кортикотропин^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#4	AnnotatorNotes T91	first_annotator_label: C0085149||synonyms: такролимус|takrolimus|fk-506||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0851140||synonyms: карцинома шейки матки, стадия 0|in situ рак шейки матки|карцинома шейки матки, преинвазивная|рак шейки матки, стадия 0|карцинома в шейке матки, стадия 0||||
+#5	AnnotatorNotes T84	first_annotator_label: C0854597||synonyms: вспомогательная терапия с применением нестероидных противовоспалительных анальгетиков||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978290||synonyms: кортизол^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T61	first_annotator_label: C1511810||synonyms: психология развития|возрастная психология|psikhologiia razvitiia|эволюционная психология|evoliutsionnaia psikhologiia||||second_annotator_label: C0007403||synonyms: регион медицинского обслуживания|meditsinskogo obsluzhivaniia raion|region meditsinskogo obsluzhivaniia|mediko-sanitarnogo obsluzhivaniia zony|raion, obsluzhivaemyi lechebnym uchrezhdeniem||||third_annotator_label: None||synonyms: ||||bert: C0007403||synonyms: регион медицинского обслуживания|meditsinskogo obsluzhivaniia raion|region meditsinskogo obsluzhivaniia|mediko-sanitarnogo obsluzhivaniia zony|raion, obsluzhivaemyi lechebnym uchrezhdeniem||||
+#7	AnnotatorNotes T4	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0231249||synonyms: увеличение роста||||bert: C0231249||synonyms: увеличение роста||||
+#8	AnnotatorNotes T69	first_annotator_label: C0853588||synonyms: противодиарейная поддерживающая терапия|поддерживающая противодиарейная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3172648||synonyms: был ли период жизни, когда вы курили сигареты каждый день в течение как минимум 30 дней:находка:тчкврм:^пациент:пор:phenx||||
+#9	AnnotatorNotes T65	first_annotator_label: C0003424||synonyms: антисептика|antiseptika||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978291||synonyms: кортикотропин^до 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#10	AnnotatorNotes T64	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1978292||synonyms: кортикотропин^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#11	AnnotatorNotes T30	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#12	AnnotatorNotes T26	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#13	AnnotatorNotes T16	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0016977||synonyms: желчного пузыря болезни|zhelchnogo puzyria bolezni|нарушение со стороны желчного пузыря, бду|заболевание желчного пузыря, бду|нарушение со стороны желчного пузыря||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0434028||synonyms: травма желчного пузыря||||
+#14	AnnotatorNotes T43	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1953159||synonyms: с пептид^4 минуты после 1 мг глюкагона:молконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T20	first_annotator_label: C2609114||synonyms: результаты обследования желудочно-кишечного тракта в норме||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#16	AnnotatorNotes T78	first_annotator_label: C1272654||synonyms: лечение раны||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0085147||synonyms: ткани регенерация управляемая|тканевая регенерация направленная|ткани регенерация контролируемая|tkani regeneratsiia upravliaemaia|tkani regeneratsiia kontroliruemaia||||bert: C0001392||synonyms: адамантан|adamantan|diamantan|диамантан||||
+#17	AnnotatorNotes T83	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#18	AnnotatorNotes T71	first_annotator_label: C0025815||synonyms: метилпреднизолон|metilprednizolon|metipred|urbazon|метипред||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C1142339||synonyms: аденома кишечника||||
+#19	AnnotatorNotes T53	first_annotator_label: C0948857||synonyms: нарушения реполяризации на электрокардиограмме|нарушения реполяризации на экг||||second_annotator_label: C0027056||synonyms: миокарда реваскуляризация|miokarda revaskuliarizatsiia|grudnoi vnutrennei arterii implantatsiia|грудной внутренней артерии имплантация||||third_annotator_label: C0860151||synonyms: удлинение реполяризации желудочков|удлиненная реполяризация желудочков||||bert: C0027056||synonyms: миокарда реваскуляризация|miokarda revaskuliarizatsiia|grudnoi vnutrennei arterii implantatsiia|грудной внутренней артерии имплантация||||
+#20	AnnotatorNotes T23	first_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||second_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#21	AnnotatorNotes T75	first_annotator_label: C0085149||synonyms: такролимус|takrolimus|fk-506||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0851140||synonyms: карцинома шейки матки, стадия 0|in situ рак шейки матки|карцинома шейки матки, преинвазивная|рак шейки матки, стадия 0|карцинома в шейке матки, стадия 0||||
+#22	AnnotatorNotes T59	first_annotator_label: C0005884||synonyms: дозовая нагрузка на организм|tela absorbtsionnaia zagruzka|dozovaia nagruzka|содержание вредных веществ в организме|дозовая нагрузка||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C4505092||synonyms: режим сменной работы|rezhim smennoi raboty|скользящий график работы|skol'ziashchii grafik raboty||||bert: C4082803||synonyms: педагогическая подготовка|pedagogicheskaia podgotovka|подготовка педагогических кадров|kursy dlia prepodavatelei|podgotovka pedagogicheskikh kadrov||||
+#23	AnnotatorNotes T31	first_annotator_label: C1096352||synonyms: увеличение поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C1628456||synonyms: синего языка вирус 11 ат:титр:тчкврм:сыв:колич||||
+#24	AnnotatorNotes T7	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#25	AnnotatorNotes T85	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978287||synonyms: кортикотропин^до 1 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#26	AnnotatorNotes T6	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#27	AnnotatorNotes T72	first_annotator_label: C0003211||synonyms: противовоспалительные средства нестероидные|protivovospalitel'nye sredstva nesteroidnye|npvs|npvp|нпвп||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0037110||synonyms: кремния эластомеры|kremniia elastomery|elastomery kremniia|kauchuk silikonovyi|silikonovaia rezina||||
+#28	AnnotatorNotes T68	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0363637||synonyms: глюкоза^1 час после приема 100 г глюкозы через рот:массконц:тчкврм:моча:колич||||
+#29	AnnotatorNotes T45	first_annotator_label: C0853588||synonyms: противодиарейная поддерживающая терапия|поддерживающая противодиарейная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C3172648||synonyms: был ли период жизни, когда вы курили сигареты каждый день в течение как минимум 30 дней:находка:тчкврм:^пациент:пор:phenx||||
+#30	AnnotatorNotes T49	first_annotator_label: C0003292||synonyms: противодиаррейные средства|protivodiarreinye sredstva||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0005380||synonyms: бифидобактерии|bifidobakterii|bifidobacterium||||bert: C0059079||synonyms: fortatsin|фортацин||||
+#31	AnnotatorNotes T55	first_annotator_label: C0863071||synonyms: вариант нормы на экг||||second_annotator_label: C2712122||synonyms: нормальное артериальное давление|ад в норме||||third_annotator_label: None||synonyms: ||||bert: C2712122||synonyms: нормальное артериальное давление|ад в норме||||
+#32	AnnotatorNotes T32	first_annotator_label: C4285853||synonyms: отклонение от нормы результатов ультразвукового исследования поджелудочной железы||||second_annotator_label: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||third_annotator_label: C0041618||synonyms: ультрасонография|ul'trasonografiia|ekhotomografiia komp'iuternaia|tomografiia ul'trazvukovaia|ul'trazvukovaia diagnostika||||bert: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||
+#33	AnnotatorNotes T62	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#34	AnnotatorNotes T81	first_annotator_label: C0003292||synonyms: противодиаррейные средства|protivodiarreinye sredstva||||second_annotator_label: C0853588||synonyms: противодиарейная поддерживающая терапия|поддерживающая противодиарейная терапия||||third_annotator_label: C0005380||synonyms: бифидобактерии|bifidobakterii|bifidobacterium||||bert: C0059079||synonyms: fortatsin|фортацин||||
+#35	AnnotatorNotes T28	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0482756||synonyms: пластинка фактор 4 аг:массконц:тчкврм:опп:колич:ia||||
+#36	AnnotatorNotes T74	first_annotator_label: C0005308||synonyms: бетаметазон|betametazon|betadeksametazon|flubenizolon|бетадексаметазон||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||bert: C0040915||synonyms: триходермин|trikhodermin|trikhodermol|триходермол||||

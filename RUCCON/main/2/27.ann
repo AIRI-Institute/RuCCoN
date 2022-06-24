@@ -1,0 +1,126 @@
+T56	Symptom 1999 2006	Дизурии
+T52	Body_location 1920 1940	у края реберной дуги
+T6	Disease 137 168	Искривление носовой перегородки
+T36	Disease 1541 1544	ОРИ
+T41	Symptom 1747 1764	чистые, суховатые
+T8	Symptom 280 299	затруднения дыхания
+T35	Drug 1417 1425	лазолван
+T17	Drug 825 833	аскорила
+T4	Disease 89 125	Круглогодичный   аллергический ринит
+T48	Symptom 1860 1866	мягкий
+T26	Severity 1205 1226	среднетяжелое течение
+T34	Drug 1366 1376	пульмикорт
+T46	Symptom 1822 1852	Тоны сердца звучные, ритмичные
+T37	Symptom 1582 1601	затруднения дыхания
+T47	Body_location 1854 1859	Живот
+T50	Symptom 1897 1911	безболезненный
+T40	Body_location 1732 1746	Кожные покровы
+T55	Symptom 1969 1997	Стул регулярный, оформленный
+T16	Treatment 797 845	купировавшиеся после приема аскорила и эуфиллина
+T43	Body_location 1779 1787	В легких
+T20	Disease 967 970	ОРИ
+T28	Disease 1247 1274	аденовирусная суперинфекция
+T31	Treatment 1330 1425	В терапии сумамед, беродуал 10 кап.+пульмикорт 250 мкг 3 раза в день через небулайзер, лазолван
+T25	Disease 1166 1203	бронхиальная астма, атопическая форма
+T53	Body_location 1942 1951	Селезенка
+T14	Disease 757 760	ОРИ
+T30	Disease 1290 1329	левосторонний катаральный средний отит.
+T10	Symptom 313 330	заложенность носа
+T44	Symptom 1788 1808	дыхание везикулярное
+T45	Symptom 1810 1816	хрипов
+T24	Drug 1061 1069	аскорила
+T9	Disease 308 311	ОРИ
+T13	Drug 699 730	местными топическими средствами
+T18	Drug 836 845	эуфиллина
+T57	Symptom 174 203	нарушения дыхательной функции
+T3	Course 79 87	ремиссия
+T38	Treatment 1603 1657	купировавшимися ингаляциями беродуала через небулайзер
+T42	Symptom 1766 1777	Зев спокоен
+T19	Symptom 862 868	кашель
+T23	Drug 1042 1051	беродуала
+T12	Treatment 676 730	купировавшиеся диетой, местными топическими средствами
+T58	Disease 652 674	атопического дерматита
+T22	Treatment 1031 1069	ингаляцией беродуала, приемом аскорила
+T33	Drug 1349 1357	беродуал
+T5	Course 127 135	ремиссия
+T32	Drug 1340 1348	сумамед,
+T21	Symptom 996 1011	бронхобструкции
+T2	Severity 48 77	легкое персистирующее течение
+T54	Symptom 1955 1967	пальпируется
+T51	Body_location 1913 1919	Печень
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T27	Course 1228 1245	приступный период
+T15	Symptom 780 795	бронхобструкции
+T29	Disease 1276 1288	ринофарингит
+T39	Drug 1631 1640	беродуала
+T49	Symptom 1868 1895	доступен глубокой пальпации
+T7	Body_location 149 168	носовой перегородки
+N1	Reference T56 UMLS:C0013428	дизурия
+N2	Reference T52 UMLS:C0858821	край печени пальпируется под реберной дугой
+N3	Reference T6 UMLS:C0549397	искривление перегородки носа
+N4	Reference T36 UMLS:C0035243	респираторные инфекции
+N5	Reference T41 UMLS:C0598869	чистая культура
+N6	Reference T8 UMLS:C0553668	затруднение дыхания
+N7	Reference T35 UMLS:C0002421	амброксол
+N8	Reference T17 UMLS:C0015314	бромгексин
+N9	Reference T4 UMLS:C0035457	круглогодичный аллергический ринит
+N10	Reference T48 UMLS:C0026390	мягкокожие
+N11	Reference T26 UMLS:CUILESS	степень ухудшения бду
+N12	Reference T34 UMLS:C0054201	будесонид
+N13	Reference T46 UMLS:C2230284	нормальный сердечный ритм
+N14	Reference T37 UMLS:C0553668	затруднение дыхания
+N15	Reference T47 UMLS:C0000726	живот
+N16	Reference T50 UMLS:C0857027	болезненность
+N17	Reference T40 UMLS:C1123023	кожа
+N18	Reference T55 UMLS:CUILESS	мягкий стул
+N19	Reference T16 UMLS:C0013154	симптоматическое лечение
+N20	Reference T43 UMLS:C0024109	легкие
+N21	Reference T20 UMLS:C0035243	респираторные инфекции
+N22	Reference T28 UMLS:C0001486	аденовирусная инфекция
+N23	Reference T31 UMLS:C0013154	комплексное лечение
+N24	Reference T25 UMLS:C0004096	астма бронхиальная
+N25	Reference T53 UMLS:C0037993	селезенка
+N26	Reference T14 UMLS:C0035243	респираторные инфекции
+N27	Reference T30 UMLS:C0029877	отит
+N28	Reference T10 UMLS:C0027424	заложенность носа
+N29	Reference T44 UMLS:C0231855	нормальная аускультативная картина в легких
+N30	Reference T45 UMLS:C3887661	хрип
+N31	Reference T24 UMLS:C0006220	бромгексин
+N32	Reference T9 UMLS:C0035243	респираторные инфекции
+N33	Reference T13 UMLS:CUILESS	глюкокортикоиды
+N34	Reference T18 UMLS:C0002575	эуфиллин
+N35	Reference T57 UMLS:C0035204	нарушение функции дыхательной системы
+N36	Reference T3 UMLS:C0035053	ремиссия спонтанная
+N37	Reference T38 UMLS:C0013154	ингаляционная терапия
+N38	Reference T42 UMLS:C0521367	ротоглотка
+N39	Reference T19 UMLS:C0010200	кашель
+N40	Reference T23 UMLS:C0015840	фенотерол
+N41	Reference T12 UMLS:C0013154	терапия глюкокортикостероидами
+N42	Reference T58 UMLS:C0011615	атопический дерматит
+N43	Reference T22 UMLS:C0013154	введение лекарств ингаляционное
+N44	Reference T33 UMLS:C0015840	фенотерол
+N45	Reference T5 UMLS:C0035053	ремиссия спонтанная
+N46	Reference T32 UMLS:C0052796	азитромицин
+N47	Reference T21 UMLS:C0221725	бронхиальная обструкция
+N48	Reference T2 UMLS:CUILESS	астма, хроническая
+N49	Reference T54 UMLS:C0030247	пальпация
+N50	Reference T51 UMLS:C0023884	печень
+N51	Reference T1 UMLS:C0004096	астма бронхиальная
+N52	Reference T27 UMLS:C0036572	приступы болезни
+N53	Reference T15 UMLS:C0221725	бронхиальная обструкция
+N54	Reference T29 UMLS:C0027441	ринофарингит
+N55	Reference T39 UMLS:C0015840	фенотерол
+N56	Reference T49 UMLS:C0030247	пальпация
+N57	Reference T7 UMLS:C0027432	носа перегородка
+#1	AnnotatorNotes T17	first_annotator_label: C0006220||synonyms: бромгексин|bromgeksin||||second_annotator_label: C0001927||synonyms: сальбутамол|sal'butamol|al'buterol|альбутерол||||third_annotator_label: C0015314||synonyms: отхаркивающие средства|otkharkivaiushchie sredstva|mukoliticheskie sredstva|муколитические средства|mukoreguliatornye sredstva||||bert: C0446221||synonyms: лилейные|lileinye|лилиевые|lilievye|asparagus||||
+#2	AnnotatorNotes T26	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#3	AnnotatorNotes T46	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0577822||synonyms: патологические сердечные тоны|патологические тоны сердца||||
+#4	AnnotatorNotes T55	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#5	AnnotatorNotes T16	first_annotator_label: C5243901||synonyms: симптоматическое лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0085565||synonyms: лечения результатов оценка|meditsinskaia pomoshch', rezul'tatov otsenka|lecheniia rezul'tatov otsenka|rezul'tatov lecheniia bol'nykh otsenka|rezul'tatov meditsinskoi pomoshchi issledovanie||||bert: C0032172||synonyms: тромбоцит-активирующий фактор|trombotsit-aktiviruiushchii faktor|trombotsitov aktivatsii faktor|тромбоцитов активации фактор|фосфорилхолин, ацетил-глицериловый эфир||||
+#6	AnnotatorNotes T31	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0942081||synonyms: пиридоксин^до 250 мг пиридоксина через рот:молконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T44	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#8	AnnotatorNotes T13	first_annotator_label: C0017710||synonyms: глюкокортикоиды|gliukokortikoidy||||second_annotator_label: C4042912||synonyms: космецевтика|lechebnye kosmeticheskie sredstva|космецевтики|kosmetsevticheskie sredstva|kosmetsevtika||||third_annotator_label: C0149783||synonyms: стероидная терапия|стероидная терапия, бду||||bert: C2717891||synonyms: биотопливо|биологическое топливо|biotoplivo|toplivo na bioosnove|biologicheskoe toplivo||||
+#9	AnnotatorNotes T38	first_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0009992||synonyms: копирование|kopirovanie|dublirovanie|дублирование||||bert: C0155930||synonyms: зуба анкилоз|zuba ankiloz|ankiloz dentoal'veoliarnyi|ankiloz zuba|dentoal'veoliarnyi ankiloz||||
+#10	AnnotatorNotes T12	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0002934||synonyms: анестезирующие средства местные|anesteziruiushchie sredstva mestnye|anestetiki lokal'nye|anestetiki, blokiruiushchie provodimost'|mestnoanesteziruiushchie sredstva||||
+#11	AnnotatorNotes T22	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0001283||synonyms: активаторные аппараты|aktivatornye apparaty|andresena aktivator|ortodonticheskie apparaty aktivatornye|андресена активатор||||
+#12	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C2919352||synonyms: сезонная астма||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||

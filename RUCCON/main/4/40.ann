@@ -1,0 +1,123 @@
+T8	Disease 210 249	Парциальный дефицит когнитивных функций
+T26	Disease 950 958	краснуха
+T30	Symptom 1335 1355	атонические приступы
+T11	Disease 302 340	Хронический компенсированный тонзиллит
+T5	Course 136 144	ремиссия
+T54	Symptom 2181 2201	Менингеальных знаков
+T42	Symptom 1898 1912	бледно-розовые
+T49	Symptom 2073 2102	Тоны сердца ясные, ритмичные.
+T59	Disease 853 887	Психомоторное развитие с задержкой
+T28	Symptom 1009 1021	Сухой кашель
+T60	Disease 1310 1321	бронхоспазм
+T35	Symptom 1433 1449	аура с видениями
+T19	Symptom 571 602	эпизоды малопродуктивного кашля
+T20	Symptom 604 624	атонические приступы
+T6	Disease 146 170	Идиопатическая эпилепсия
+T17	Disease 400 441	Реактивные изменения поджелудочной железы
+T39	Disease 1528 1537	эпилепсия
+T41	Body_location 1883 1897	Кожные покровы
+T53	Symptom 2151 2179	Стул ежедневный, оформленный
+T57	Disease 626 639	головные боли
+T25	Disease 935 948	ветряная оспа
+T9	Disease 251 300	Ангиопатия сетчатки обоих глаз со спазмом артерий
+T27	Disease 960 966	ангины
+T58	Disease 641 649	бруксизм
+T16	Severity 481 490	2 степени
+T15	Disease 443 480	Конституционально-экзогенное ожирение
+T40	Symptom 1628 1642	Часто болеющий
+T43	Symptom 1914 1920	чистые
+T47	Symptom 1977 2003	дыхание с жестким оттенком
+T63	Disease 1485 1493	бруксизм
+T7	Disease 172 208	Нарушение эмоционально-волевой сферы
+T18	Body_location 421 441	поджелудочной железы
+T14	Disease 373 398	Левосторонний кифосколиоз
+T31	Symptom 1357 1373	ухудшение памяти
+T3	Course 81 98	неполная ремиссия
+T51	Symptom 2127 2133	мягкий
+T61	Disease 1707 1718	анафилаксия
+T4	Disease 100 134	Круглогодичный аллергический ринит
+T33	Symptom 1394 1417	резкие смены настроения
+T62	Disease 1451 1464	головные боли
+T55	Disease 1683 1705	лекарственная аллергия
+T32	Symptom 1375 1392	снижение внимания
+T44	Symptom 1922 1953	Дыхание через нос не затруднено
+T23	Symptom 651 674	частые смены настроения
+T46	Body_location 1968 1976	В легких
+T50	Body_location 2121 2126	Живот
+T29	Treatment 1219 1256	антибиотики, симптоматическая терапия
+T48	Symptom 2005 2010	хрипы
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T45	Symptom 1955 1966	Зев спокоен
+T12	Disease 342 371	Остеохондропатия позвоночника
+T52	Symptom 2135 2149	безболезненный
+T34	Symptom 1419 1431	мнительность
+T2	Severity 48 79	легкое интермиттирующее течение
+T38	Symptom 1495 1510	беспокойный сон
+T13	Body_location 359 371	позвоночника
+T10	Body_location 262 281	сетчатки обоих глаз
+N1	Reference T8 UMLS:C4324403	дефицит когнитивной лингвистики
+N2	Reference T26 UMLS:C0035920	краснуха
+N3	Reference T30 UMLS:C0270846	атонические приступы
+N4	Reference T11 UMLS:C0149517	хронический тонзиллит
+N5	Reference T5 UMLS:C0242793	период ремиссии
+N6	Reference T54 UMLS:C0025287	менингеальные знаки
+N7	Reference T42 UMLS:C4505235	розовые
+N8	Reference T49 UMLS:C2712143	нормальный сердечный ритм
+N9	Reference T59 UMLS:C0235909	задержка психомоторного развития
+N10	Reference T28 UMLS:C0850149	сухой кашель
+N11	Reference T60 UMLS:C0006266	бронхоспазм
+N12	Reference T35 UMLS:C0236018	аура
+N13	Reference T19 UMLS:C0850149	кашель, непродуктивный
+N14	Reference T20 UMLS:C0270846	атонические приступы
+N15	Reference T6 UMLS:C4049182	идиопатическая парциальная эпилепсия
+N16	Reference T17 UMLS:C0030286	заболевания поджелудочной железы
+N17	Reference T39 UMLS:C0014544	эпилепсия
+N18	Reference T41 UMLS:C1123023	кожа
+N19	Reference T53 UMLS:CUILESS	мягкий стул
+N20	Reference T57 UMLS:C0018681	головные боли
+N21	Reference T25 UMLS:C0008049	ветряная оспа
+N22	Reference T9 UMLS:C4552373	ангиопатия сетчатки
+N23	Reference T27 UMLS:C0012586	анальгин
+N24	Reference T58 UMLS:C0006325	бруксизм
+N25	Reference T16 UMLS:CUILESS	степень ухудшения бду
+N26	Reference T15 UMLS:C3665919	конституциональный синдром
+N27	Reference T40 UMLS:CUILESS	болезненность
+N28	Reference T43 UMLS:C0598869	чистая культура
+N29	Reference T47 UMLS:C3666016	жесткое дыхание при аускультации легких
+N30	Reference T63 UMLS:C0006325	бруксизм
+N31	Reference T7 UMLS:C0013985	эмоциональное нарушение, бду
+N32	Reference T18 UMLS:C0030274	поджелудочная железа
+N33	Reference T14 UMLS:C3494892	левосторонний сколиоз
+N34	Reference T31 UMLS:C0233794	ухудшение памяти
+N35	Reference T3 UMLS:C0242793	ремиссия не достигнута
+N36	Reference T51 UMLS:C0026390	мягкокожие
+N37	Reference T61 UMLS:C0002792	анафилаксия
+N38	Reference T4 UMLS:C0035457	круглогодичный аллергический ринит
+N39	Reference T33 UMLS:C0022107	раздражительное настроение
+N40	Reference T62 UMLS:C0018681	головные боли
+N41	Reference T55 UMLS:C0013182	перекрестная лекарственная аллергия
+N42	Reference T32 UMLS:C0391853	снижение активности
+N43	Reference T44 UMLS:C0035203	дыхание
+N44	Reference T23 UMLS:C0233479	повышенное настроение
+N45	Reference T46 UMLS:C0024109	легкие
+N46	Reference T50 UMLS:C0000726	живот
+N47	Reference T29 UMLS:C0013154	системная антибактериальная терапия
+N48	Reference T48 UMLS:C0035234	хрипы
+N49	Reference T1 UMLS:C0004096	астма бронхиальная
+N50	Reference T45 UMLS:CUILESS	ротовая полость
+N51	Reference T12 UMLS:C0036310	остеохондрит позвоночника
+N52	Reference T52 UMLS:C0857027	болезненность
+N53	Reference T34 UMLS:C0857238	нерешительность
+N54	Reference T2 UMLS:CUILESS	астма приступы:колскор:1 неделя:^пациент:колич
+N55	Reference T38 UMLS:C0235160	беспокойный сон
+N56	Reference T13 UMLS:C0037949	позвоночник
+N57	Reference T10 UMLS:C0035298	сетчатка
+#1	AnnotatorNotes T53	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||third_annotator_label: None||synonyms: ||||bert: C2717795||synonyms: врачебный обход|vrachebnyi obkhod|большой врачебный обход|ежедневная сводка по больнице|bol'shoi vrachebnyi obkhod||||
+#2	AnnotatorNotes T16	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0332687||synonyms: ожоги второй степени|ожоги 2-й степени|волдыри с отслоением эпидермиса вследствие ожогов (второй степени) неуточненного участка||||bert: C0332687||synonyms: ожоги второй степени|ожоги 2-й степени|волдыри с отслоением эпидермиса вследствие ожогов (второй степени) неуточненного участка||||
+#3	AnnotatorNotes T40	first_annotator_label: C0857027||synonyms: болезненность|ощущение болезни|испытывать тошноту|ощущение недомогания||||second_annotator_label: C0677500||synonyms: жалящая боль||||third_annotator_label: None||synonyms: ||||bert: C0677500||synonyms: жалящая боль||||
+#4	AnnotatorNotes T3	first_annotator_label: C3888824||synonyms: ремиссия не достигнута||||second_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#5	AnnotatorNotes T55	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C0013182||synonyms: лекарственная гиперсенсибилизация|lekarstvennaia gipersensibilizatsiia|аллергия на лекарственный препарат|аллергическая реакция на препарат|гиперчувствительность к лекарственному препарату||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||
+#6	AnnotatorNotes T29	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0003236||synonyms: антибиотики противоопухолевые|antibiotiki antratsiklinovye|antibiotiki protivoopukholevye|tsitotoksicheskie antibiotiki|антибиотики антрациклиновые||||
+#7	AnnotatorNotes T45	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#8	AnnotatorNotes T34	first_annotator_label: C0679168||synonyms: нерешительность||||second_annotator_label: C0036658||synonyms: чувствительность|chuvstvitel'nost'||||third_annotator_label: C0857238||synonyms: тревожно-мнительный пациент||||bert: C0150277||synonyms: медитация|meditatsiia|transtsendental'naia meditatsiia|трансцендентальная медитация||||
+#9	AnnotatorNotes T2	first_annotator_label: C2708653||synonyms: астма приступы:колскор:1 неделя:^пациент:колич||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||

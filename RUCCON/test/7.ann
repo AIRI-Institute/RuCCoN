@@ -1,0 +1,99 @@
+T26	Drug 1442 1450	эуфиллин
+T17	Treatment 924 950	В терапии местные средства
+T23	Symptom 1329 1354	выслушиваются сухие хрипы
+T44	Body_location 2004 2015	Тоны сердца
+T39	Body_location 1915 1923	В легких
+T4	Course 225 235	обострение
+T21	Disease 1293 1296	ОРИ
+T35	Body_location 1847 1850	Зев
+T31	Symptom 1636 1642	одышка
+T6	Disease 237 277	Вторичные изменения поджелудочной железы
+T32	Disease 1720 1738	бронхиальная астма
+T34	Symptom 1855 1874	катаральных явлений
+T15	Disease 865 887	атопического дерматита
+T24	Treatment 1407 1462	в терапии назначались сальбутамол, эуфиллин, муколитики
+T46	Disease 1101 1114	токсоплазмозу
+T42	Symptom 2016 2021	ясные
+T14	Body_location 812 825	правого глаза
+T3	Symptom 2034 2056	Стул склонен к запорам
+T11	Disease 741 754	ветряная оспа
+T33	Disease 1749 1756	псориаз
+T36	Body_location 1876 1890	Кожные покровы
+T1	Disease 98 129	Бронхиальная астма, атопическая
+T38	Symptom 1907 1913	чистые
+T7	Body_location 257 277	поджелудочной железы
+T19	Disease 1244 1266	респираторные инфекции
+T8	Symptom 338 369	эпизоды малопродуктивного кашля
+T47	Severity 131 162	легкое интермиттирующее течение
+T5	Treatment 518 534	кесарева течения
+T27	Symptom 2058 2064	диурез
+T9	Symptom 371 421	симптомы обструкции на фоне респираторных инфекций
+T10	Disease 399 421	респираторных инфекций
+T22	Symptom 1308 1327	симптомы обструкции
+T29	Symptom 1534 1568	длительным малопродуктивным кашлем
+T2	Disease 182 223	Аллергический ринит, персистирующая форма
+T45	Symptom 2077 2097	Менингеальных знаков
+T30	Symptom 1570 1577	одышкой
+T13	Disease 799 811	дакриоцистит
+T12	Disease 772 778	ангина
+T37	Symptom 1891 1905	бледно-розовые
+T25	Drug 1429 1440	сальбутамол
+T40	Symptom 1924 1978	аускультативно везикулярное дыхание с жестким оттенком
+T20	Symptom 1237 1266	частые респираторные инфекции
+T18	Treatment 952 977	антигистаминные препараты
+T28	Disease 1515 1518	ОРИ
+T43	Symptom 2023 2032	ритмичные
+T41	Symptom 1980 1985	хрипы
+T16	Symptom 854 887	проявления атопического дерматита
+N1	Reference T26 UMLS:C0002575	эуфиллин
+N2	Reference T17 UMLS:C1699506	терапевтическое местное лечение кожи
+N3	Reference T23 UMLS:C0859999	сухие хрипы
+N4	Reference T44 UMLS:C2230284	тоны сердца
+N5	Reference T39 UMLS:C0024109	легкие
+N6	Reference T4 UMLS:C0853946	обострение боли
+N7	Reference T21 UMLS:C0035243	респираторные инфекции
+N8	Reference T35 UMLS:C0521367	ротоглотка
+N9	Reference T31 UMLS:C0013404	одышка
+N10	Reference T6 UMLS:C0030286	поджелудочной железы болезни
+N11	Reference T32 UMLS:C0004096	бронхиальная астма
+N12	Reference T34 UMLS:CUILESS	патология
+N13	Reference T15 UMLS:C0011615	атопический дерматит
+N14	Reference T24 UMLS:C2363849	введение лекарств ингаляционное
+N15	Reference T46 UMLS:C0040558	токсоплазмоз
+N16	Reference T42 UMLS:C0577821	сердечные тоны в норме
+N17	Reference T14 UMLS:C0015392	глаз
+N18	Reference T3 UMLS:C0401149	запор хронический
+N19	Reference T11 UMLS:C0008049	ветряная оспа
+N20	Reference T33 UMLS:C0033860	псориаз
+N21	Reference T36 UMLS:C1123023	кожа
+N22	Reference T1 UMLS:C0004096	астма, бронхиальная
+N23	Reference T38 UMLS:C0598869	чистая культура
+N24	Reference T7 UMLS:C0030274	поджелудочная железа
+N25	Reference T19 UMLS:C0035243	респираторные инфекции
+N26	Reference T8 UMLS:C0850149	кашель, непродуктивный
+N27	Reference T47 UMLS:CUILESS	астма, хроническая
+N28	Reference T5 UMLS:C0007876	операция кесарева сечения
+N29	Reference T27 UMLS:C1287298	диурез
+N30	Reference T9 UMLS:C0037090	респираторный симптом
+N31	Reference T10 UMLS:C0035243	респираторные инфекции
+N32	Reference T22 UMLS:C0340221	обструкция трахеи
+N33	Reference T29 UMLS:C0850149	кашель, непродуктивный
+N34	Reference T2 UMLS:C2607914	аллергический ринит
+N35	Reference T45 UMLS:C0025287	менингеальные знаки
+N36	Reference T30 UMLS:C0013404	одышка
+N37	Reference T13 UMLS:C0010930	дакриоцистит
+N38	Reference T12 UMLS:C0276143	вирусная ангина
+N39	Reference T37 UMLS:C4505235	розовые
+N40	Reference T25 UMLS:C0001927	сальбутамол
+N41	Reference T40 UMLS:C0035234	аускультативная картина в легких
+N42	Reference T20 UMLS:C0035243	респираторные инфекции
+N43	Reference T18 UMLS:C1504374	антигистаминная терапия
+N44	Reference T28 UMLS:C0035243	респираторные инфекции
+N45	Reference T43 UMLS:C0031084	ритмичность
+N46	Reference T41 UMLS:C0035234	хрипы
+N47	Reference T16 UMLS:C5243973	обострение атопического дерматита
+#1	AnnotatorNotes T34	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||
+#2	AnnotatorNotes T24	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C4761102||synonyms: терапевтические лимфоциты, инфильтрирующие опухоль||||
+#3	AnnotatorNotes T42	first_annotator_label: C0577821||synonyms: сердечные тоны в норме||||second_annotator_label: C0029939||synonyms: яичники|iaichniki||||third_annotator_label: None||synonyms: ||||bert: C0029939||synonyms: яичники|iaichniki||||
+#4	AnnotatorNotes T3	first_annotator_label: C0401149||synonyms: запор хронический||||second_annotator_label: C3897342||synonyms: блокада поперечного пространства живота|tap-блок||||third_annotator_label: None||synonyms: ||||bert: C3897342||synonyms: блокада поперечного пространства живота|tap-блок||||
+#5	AnnotatorNotes T47	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||bert: C0015634||synonyms: фермера легкое|fermera legkoe|legkoe fermera|легкое сельскохозяйственного работника|легкое молотильщика||||

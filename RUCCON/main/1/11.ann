@@ -1,0 +1,136 @@
+T48	Symptom 2227 2265	влажные, бледно-розового цвета, чистые
+T60	Symptom 2449 2453	Стул
+T14	Treatment 815 905	терапию в стационоре: цефазолин, фенкарол, бромгексин, беродуал через небулайзер, лазолван
+T52	Symptom 2314 2320	налета
+T37	Drug 1483 1491	беродуал
+T34	Treatment 1473 1523	В терапии беродуал с пульмикортом через небулайзер
+T13	Disease 784 805	обструктивный бронхит
+T17	Drug 858 868	бромгексин
+T5	Disease 106 127	Гипертрофия аденоидов
+T2	Severity 42 71	легкое персистирующее течение
+T23	Drug 1002 1011	флемоксин
+T27	Drug 1125 1133	беродуал
+T31	Disease 1380 1416	Рецидивирующий обструктивный бронхит
+T35	Disease 1532 1535	ОРИ
+T51	Symptom 2296 2312	влажный, розовый
+T11	Symptom 705 744	свистящие хрипы, слышимые на расстоянии
+T44	Drug 1977 1984	Вермокс
+T49	Body_location 2267 2276	Миндалины
+T61	Symptom 2280 2289	увеличены
+T7	Symptom 198 204	кашель
+T12	Symptom 746 767	температура до 37,5 С
+T15	Drug 837 846	цефазолин
+T39	Drug 1573 1584	Кромогексал
+T46	Symptom 2185 2207	чистые, бледно-розовые
+T10	Symptom 638 678	приступообразный сухой кашель (до рвоты)
+T26	Treatment 1106 1163	терапии подключены беродуал и пульмикорт через небулайзер
+T42	Disease 1885 1895	токсокароз
+T62	Disease 1241 1256	бронхопневмония
+T20	Symptom 955 969	усиление кашля
+T4	Disease 83 104	Невротические реакции
+T29	Drug 1294 1301	сумамед
+T45	Body_location 2170 2184	Кожные покровы
+T36	Drug 1494 1506	пульмикортом
+T41	Disease 1685 1688	ОРИ
+T30	Treatment 1285 1301	Назначен сумамед
+T16	Drug 848 856	фенкарол
+T28	Drug 1136 1146	пульмикорт
+T32	Course 1418 1435	неполная ремиссия
+T24	Drug 1013 1021	лазолван
+T43	Treatment 1958 1984	лечения препаратом Вермокс
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T25	Drug 1023 1029	зиртек
+T59	Symptom 2479 2485	Диурез
+T9	Disease 331 334	ОРИ
+T56	Symptom 2419 2447	Тоны сердца ясные, ритмичные
+T53	Symptom 2326 2362	Носовое дыхание несколько затруднено
+T47	Body_location 2209 2226	Видимые слизистые
+T6	Severity 128 137	1 степени
+T21	Symptom 971 990	«свистящее» дыхание
+T50	Body_location 2291 2295	Явык
+T18	Drug 870 878	беродуал
+T38	Treatment 1548 1604	базисной терапии получал Кромогексал (2 мл 2 раза в день
+T54	Symptom 2379 2405	дыхание с жестким оттенком
+T33	Disease 1437 1469	Формирующаяся бронхиальная астма
+T3	Course 73 81	ремиссия
+T55	Symptom 2407 2413	хрипов
+T22	Treatment 992 1029	в лечении флемоксин, лазолван, зиртек
+T57	Symptom 2533 2553	Менингеальных знаков
+T58	Symptom 2498 2519	Очаговая симптоматика
+T8	Symptom 299 322	малопродуктивный кашель
+T19	Drug 897 905	лазолван
+T40	Symptom 1635 1666	эпизоды малопродуктивного кашля
+N1	Reference T48 UMLS:CUILESS	норма рабочая
+N2	Reference T60 UMLS:CUILESS	мягкий стул
+N3	Reference T14 UMLS:C0344133	отравление транквилизаторами на основе бутирофенона
+N4	Reference T52 UMLS:C3854496	налет во рту
+N5	Reference T37 UMLS:C0015840	фенотерол
+N6	Reference T34 UMLS:C0013154	введение лекарств ингаляционное
+N7	Reference T13 UMLS:C0865791	обструктивный бронхит
+N8	Reference T17 UMLS:C0006220	бромгексин
+N9	Reference T5 UMLS:C0149825	гипертрофия исключительно аденоидов
+N10	Reference T2 UMLS:CUILESS	астма, хроническая
+N11	Reference T23 UMLS:C0002645	амоксициллин
+N12	Reference T27 UMLS:C0015840	фенотерол
+N13	Reference T31 UMLS:C0865791	обструктивный бронхит
+N14	Reference T35 UMLS:C0035243	респираторные инфекции
+N15	Reference T51 UMLS:C4505235	розовые
+N16	Reference T11 UMLS:C0043144	свистящие хрипы
+N17	Reference T44 UMLS:C0025023	вермокс
+N18	Reference T49 UMLS:C0040421	миндалина
+N19	Reference T61 UMLS:C0231249	увеличение роста
+N20	Reference T7 UMLS:C0010200	кашель
+N21	Reference T12 UMLS:C2350229	температура высокая
+N22	Reference T15 UMLS:C0007546	цефазолин
+N23	Reference T39 UMLS:C0282555	противоаллергические средства
+N24	Reference T46 UMLS:CUILESS	норма рабочая
+N25	Reference T10 UMLS:C0857172	персистирующий сухой кашель
+N26	Reference T26 UMLS:C2936255	препараты для прямого покрытия пульпы и пульпэктомии
+N27	Reference T42 UMLS:C0040553	токсокароз
+N28	Reference T62 UMLS:C0006285	бронхопневмония
+N29	Reference T20 UMLS:C0574067	кашель усилившийся
+N30	Reference T4 UMLS:C0235172	невротическая реакция
+N31	Reference T29 UMLS:C0052796	азитромицин
+N32	Reference T45 UMLS:C1123023	кожа
+N33	Reference T36 UMLS:C0054201	будесонид
+N34	Reference T41 UMLS:C0035243	респираторные инфекции
+N35	Reference T30 UMLS:C0338237	системная антибактериальная терапия
+N36	Reference T16 UMLS:C0019592	противоаллергические средства
+N37	Reference T28 UMLS:C0054201	будесонид
+N38	Reference T32 UMLS:C3888824	ремиссия не достигнута
+N39	Reference T24 UMLS:C0002421	амброксол
+N40	Reference T43 UMLS:C0003158	антигельминтные средства
+N41	Reference T1 UMLS:C0004096	астма, бронхиальная
+N42	Reference T25 UMLS:C0055147	цетиризин
+N43	Reference T59 UMLS:C1287298	диурез
+N44	Reference T9 UMLS:C0035243	респираторные инфекции
+N45	Reference T56 UMLS:C2230284	нормальный сердечный ритм
+N46	Reference T53 UMLS:C0853254	раздражение носовых ходов
+N47	Reference T47 UMLS:C0026724	слизистая оболочка
+N48	Reference T21 UMLS:C0035234	свистящее дыхание
+N49	Reference T50 UMLS:C0040408	язык
+N50	Reference T18 UMLS:C0015840	фенотерол
+N51	Reference T38 UMLS:C0013154	антиаллергическая терапия
+N52	Reference T54 UMLS:C3666016	жесткое дыхание при аускультации легких
+N53	Reference T33 UMLS:C0004096	астма бронхиальная
+N54	Reference T3 UMLS:C0242793	период ремиссии
+N55	Reference T55 UMLS:C3887661	хрип
+N56	Reference T22 UMLS:C0013154	комплексное лечение
+N57	Reference T57 UMLS:C0025287	менингеальные знаки
+N58	Reference T58 UMLS:C0037088	патология
+N59	Reference T8 UMLS:C0850149	кашель, непродуктивный
+N60	Reference T19 UMLS:C0002421	амброксол
+N61	Reference T40 UMLS:C0850149	кашель, непродуктивный
+#1	AnnotatorNotes T48	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0861161||synonyms: слизистые выделения из глаз|слизь в глазах||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859039||synonyms: темное красноватое пятно||||
+#2	AnnotatorNotes T60	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#3	AnnotatorNotes T34	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0428792||synonyms: фиброз аортального клапана||||
+#4	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#5	AnnotatorNotes T46	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||
+#6	AnnotatorNotes T30	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0338237||synonyms: антибиотикотерапия||||bert: C0265973||synonyms: сосудистая гамартома|невус сосудистый|сосудистый невус|сосудистые гамартомы||||
+#7	AnnotatorNotes T16	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0085173||synonyms: терфенадин|terfenadin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0012201||synonyms: фепранон|fepranon|amfepramon|dietilpropion|амфепрамон||||
+#8	AnnotatorNotes T43	first_annotator_label: C0003158||synonyms: противогельминтные средства|protivogel'mintnye sredstva|antigel'mintnye sredstva|protivoglistnye sredstva|антигельминтные средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C3889099||synonyms: использование лекарственного препарата в качестве допингового средства||||
+#9	AnnotatorNotes T56	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C3853525||synonyms: четвертый тон сердца||||
+#10	AnnotatorNotes T38	first_annotator_label: C1535925||synonyms: антиаллергическая терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1953225||synonyms: соматотропин^2 часа после дозы бетаксолол+глюкагон:произвконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T54	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035205||synonyms: дыхание искусственное|dykhanie iskusstvennoe|ventiliatsiia mekhanicheskaia|вентиляция механическая||||third_annotator_label: None||synonyms: ||||bert: C0035205||synonyms: дыхание искусственное|dykhanie iskusstvennoe|ventiliatsiia mekhanicheskaia|вентиляция механическая||||
+#12	AnnotatorNotes T22	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0030095||synonyms: окситоцин|oksitotsin|3-izoleitsin,8-leitsin-vazopressin|al'fa-gipofamin|izoleitsil, leitsil-vazopressin||||
+#13	AnnotatorNotes T58	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C3494437||synonyms: симптомов оценка|otsenka simptomov|оценка симптомов|simptomov otsenka||||third_annotator_label: C0037088||synonyms: признаки и симптомы|priznaki i simptomy|simptomy|симптомы||||bert: C0752252||synonyms: нервномышечные симптомы при патологических состояниях|myshechnykh boleznei simptomatika|nervnomyshechnye simptomy pri patologicheskikh sostoianiiakh|мышечных болезней симптоматика||||

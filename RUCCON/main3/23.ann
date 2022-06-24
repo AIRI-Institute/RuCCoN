@@ -1,0 +1,186 @@
+T36	Body_location 60 79	митрального клапана
+T43	Drug 4173 4180	капотен
+T25	Symptom 1989 1998	Выбухание
+T46	Body_location 5176 5190	Кожные покровы
+T74	Drug 12085 12091	Диувер
+T27	Symptom 2015 2061	Расширение границ относительной тупости сердца
+T79	Drug 12516 12522	Элькар
+T11	Disease 1038 1061	левосторонняя пневмония
+T69	Treatment 10891 10973	3 Назонекс 1 дозе*2 раза в день, в нос, 1 неделю, затем 1 дозе*1 раз в день, 3 нед
+T51	Body_location 5262 5280	Слизистые оболочки
+T2	Disease 44 79	Недостаточность митрального клапана
+T75	Drug 12143 12153	Цитофлавин
+T67	Treatment 10812 10848	эндоскопическая шейверная аденотомия
+T50	Body_location 5254 5261	спине..
+T62	Body_location 6606 6616	желудочков
+T5	Severity 119 129	2 А стадии
+T61	Symptom 6574 6605	Удлинение электрической систолы
+T21	Disease 1893 1916	Железодефицитная анемия
+T8	Symptom 786 797	«посинение»
+T52	Symptom 5281 5296	чистые, розовые
+T32	Body_location 2358 2381	предсердий и желудочков
+T22	Severity 1917 1931	легкой степени
+T54	Severity 5333 5337	IIст
+T19	Disease 1850 1880	Недостаточность кровообращения
+T14	Symptom 1326 1362	выраженная одышка, ухудшился аппетит
+T24	Body_location 1962 1975	кистей, стоп.
+T38	Disease 178 214	Недостаточность митрального клапана.
+T48	Symptom 5215 5237	периорбитальный цианоз
+T56	Symptom 6391 6419	резкое отклонение ЭОС вправо
+T68	Treatment 10853 10889	Аквалор (носовой душ), 3 раза в день
+T60	Body_location 6521 6547	миокарда правого желудочка
+T29	Symptom 2229 2273	Увеличение печени +5 см из-под реберной дуги
+T34	Body_location 2396 2412	левого желудочка
+T4	Disease 115 118	ХСН
+T66	Disease 10752 10773	Хронический аденоидит
+T55	Symptom 5339 5375	с глубокими лакунами, наложений нет.
+T6	Symptom 304 327	повышенная утомляемость
+T20	Severity 1881 1891	IIБ стадии
+T10	Symptom 927 961	одышка, беспокойство, постанывание
+T70	Drug 11023 11029	козаар
+T42	Symptom 3818 3883	овышение толерантности к физическим нагрузкам, улучшение аппетита
+T53	Body_location 5323 5332	Миндалины
+T15	Body_location 1412 1414	ЛЖ
+T57	Symptom 6438 6456	ТАХИКАРДИЯ: легкая
+T12	Disease 1114 1127	кардиомегалия
+T16	Symptom 1417 1425	увеличен
+T64	Body_location 9756 9770	стенки сосудов
+T33	Symptom 2382 2395	с перегрузкой
+T35	Body_location 92 113	брюшного отдела аорты
+T41	Treatment 2851 3010	После выписки продолжала получать преднизолон с постепенной полной отменой, дигоксин 0,05 мг х 2 р/д, капотен 2 мг х 3 р/д, курс элькара и панангина в мае 2056
+T81	Treatment 12619 12713	При ОРВИ обязательно назначение антибиотиков (аугментин, супракс, зиннат), виферона по 500тыс.
+T39	Body_location 194 213	митрального клапана
+T30	Symptom 2317 2338	Отклонение ЭОС вправо
+T59	Symptom 6486 6520	Повышение электрической активности
+T77	Drug 12379 12386	Трентал
+T18	Disease 1800 1828	Дилатационная кардиомиопатия
+T26	Body_location 1999 2013	области сердца
+T28	Symptom 2156 2227	аускультативно тройной ритм, систолический шум над всей областью сердца
+T1	Disease 21 42	Хронический миокардит
+T72	Drug 11060 11067	трентал
+T37	Disease 155 176	Хронический миокардит
+T23	Symptom 1950 1961	пастозность
+T9	Body_location 798 813	кожи вокруг рта
+T78	Drug 12439 12451	Предуктал МВ
+T80	Drug 12570 12577	Кудесан
+T65	Symptom 9771 9780	уплотнены
+T47	Symptom 5191 5213	бледно-розовые, чистые
+T73	Treatment 11209 12078	Наблюдение кардиологом, педиатром по месту жительства..
+2. Решение вопроса о продлении пособия по инвалидности по месту жительства..
+3. Мед. отвод от профилактических прививок, проведение реакции Манту в декретированные сроки..
+4. Ограничение выпиваемой жидкости до 600 мл/сут с учетом супов, компотов и т.д..
+5. Соблюдение диеты №5 (5-разовый прием пищи, исключить жирное, жареное, копчености, острое, соленое, газированные напитки, шоколад, чипсы и т.п.)..
+6. Ограничение физических и психоэмоциональных нагрузок..
+7. Контроль ЭКГ, ЭхоКГ 1 раз в 6 мес..
+8. Контроль ОАК, биохимического анализов крови (электролиты, креатинин, мочевина) 1 раз в 6 месяцев..
+9. Санация очагов хронического воспаления (ЛОР, стоматолог 2 раза в год, выполнять рекомендации)..
+10. Козаар (лозартан) 6,25 мг х 2 р/день в 09:00, 21:00 – длительно. В следующую госпититализацию замена на иАПФ
+T49	Disease 5239 5250	Гипертрихоз
+T31	Symptom 2340 2357	гипертрофия обоих
+T45	Treatment 4796 4911	козаар 6,25 мг 2 р/д, диувер 2,5 мг 1 р/д, панангин 1т 2 р/д, трентал 12.5 мг 3 р/д, курсами метаболическая терапия
+T58	Symptom 6458 6473	АРИТМИЯ: легкая
+T13	Treatment 1188 1274	После проведенной антибактериальной, инфузионной терапии состояние девочки улучшилось.
+T71	Drug 11042 11048	диувер
+T76	Drug 12311 12319	Панангин
+T7	Symptom 498 536	протекавшей с токсикозом в I триместре
+T17	Symptom 1450 1483	снижение экскурсии задней стенки,
+T63	Symptom 8265 8281	Стенки уплотнены
+T3	Disease 81 113	Гипоплазия брюшного отдела аорты
+T44	Drug 4192 4198	козаар
+T40	Treatment 2528 2704	дигоксин 0,05 мг х 2 р/д, верошпирон 7 мг х 3 р/д, преднизолон 10 мг/сут per os с постепенной отменой с 29.04.56, фуросемид 7 мг х 1 р/д через день в/м, панангин 1/3 т х 3 р/д.
+N1	Reference T36 UMLS:C0026264	митральный клапан
+N2	Reference T43 UMLS:C0006938	каптоприл
+N3	Reference T25 UMLS:CUILESS	выбухание грудной клетки в области левого желудочка
+N4	Reference T46 UMLS:C1123023	кожа
+N5	Reference T74 UMLS:C0076840	торасемид
+N6	Reference T27 UMLS:CUILESS	увеличение сердца
+N7	Reference T79 UMLS:C0007258	карнитин
+N8	Reference T11 UMLS:C0206063	пневмония лучевая
+N9	Reference T69 UMLS:C0744425	терапия глюкокортикостероидами
+N10	Reference T51 UMLS:C0026724	слизистая оболочка
+N11	Reference T2 UMLS:C0026266	недостаточность митрального клапана
+N12	Reference T75 UMLS:C0042890	витамины
+N13	Reference T67 UMLS:C1153706	эндометриальная аденокарцинома
+N14	Reference T50 UMLS:C0004600	спина
+N15	Reference T62 UMLS:C0018827	сердца желудочки
+N16	Reference T61 UMLS:C0151878	экстрасистолы
+N17	Reference T21 UMLS:C0162316	железодефицитная анемия
+N18	Reference T8 UMLS:C0332579	цианоз губ
+N19	Reference T52 UMLS:C0598869	чистая культура
+N20	Reference T32 UMLS:C0018792	предсердие
+N21	Reference T19 UMLS:C1392658	недостаточность кровообращения
+N22	Reference T14 UMLS:C0013404	одышка
+N23	Reference T24 UMLS:CUILESS	стопа
+N24	Reference T38 UMLS:C0026266	недостаточность митрального клапана
+N25	Reference T48 UMLS:C0235532	цианоз периферический
+N26	Reference T56 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N27	Reference T68 UMLS:C2350442	промывание носа
+N28	Reference T60 UMLS:C0080311	правый желудочек сердца, функция
+N29	Reference T29 UMLS:C0019209	увеличение печени
+N30	Reference T34 UMLS:C0149721	увеличение левого желудочка
+N31	Reference T4 UMLS:C0264716	хроническая сердечная недостаточность
+N32	Reference T66 UMLS:C0001427	аденоидит
+N33	Reference T55 UMLS:CUILESS	норма рабочая
+N34	Reference T6 UMLS:C0856136	ухудшение утомляемости
+N35	Reference T10 UMLS:C0743323	одышка, острая форма
+N36	Reference T70 UMLS:C0126174	лозартан
+N37	Reference T42 UMLS:C2024890	повышение толерантности к физической нагрузке
+N38	Reference T53 UMLS:C0040421	миндалина
+N39	Reference T15 UMLS:C0080310	сердца желудочка левого функция
+N40	Reference T57 UMLS:C0039231	тахикардия
+N41	Reference T12 UMLS:C0018800	кардиомегалия
+N42	Reference T16 UMLS:C0231249	увеличение роста
+N43	Reference T64 UMLS:C0042367	сосуды сосудов
+N44	Reference T33 UMLS:C0546817	перегрузка жидкостью
+N45	Reference T35 UMLS:C0003484	аорта брюшная
+N46	Reference T41 UMLS:C2363849	поддерживающая терапия
+N47	Reference T81 UMLS:C0274484	отравление антимикобактериальными антибиотиками
+N48	Reference T39 UMLS:C0026264	митральный клапан
+N49	Reference T30 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N50	Reference T59 UMLS:CUILESS	клеток электрической активности тесты
+N51	Reference T77 UMLS:C0030899	трентал
+N52	Reference T18 UMLS:C0007193	дилатационная кардиомиопатия
+N53	Reference T26 UMLS:C0018787	сердце
+N54	Reference T28 UMLS:C0232257	систолический шум
+N55	Reference T1 UMLS:C0027059	миокардит
+N56	Reference T72 UMLS:C0030899	трентал
+N57	Reference T37 UMLS:C0027059	миокардит
+N58	Reference T23 UMLS:C0151602	пастозность лица
+N59	Reference T9 UMLS:C1123023	кожа
+N60	Reference T78 UMLS:C0041037	триметазидин
+N61	Reference T80 UMLS:C0007209	кардиотонические средства
+N62	Reference T65 UMLS:C0332534	уплотнение
+N63	Reference T47 UMLS:C4505235	розовые
+N64	Reference T73 UMLS:C1542327	воздействие алкоголя на плод или новорожденного при передаче через плаценту или грудное молоко
+N65	Reference T49 UMLS:C0020555	гипертрихоз
+N66	Reference T31 UMLS:C0020564	гипертрофия
+N67	Reference T45 UMLS:C2363849	гипотензивные средства
+N68	Reference T58 UMLS:C0003811	аритмии сердечные
+N69	Reference T13 UMLS:UNKNOWN	системная антибактериальная терапия
+N70	Reference T71 UMLS:C0076840	торасемид
+N71	Reference T76 UMLS:C0032835	калия, магния аспарагинат
+N72	Reference T7 UMLS:C0032914	беременности токсикоз, опг
+N73	Reference T17 UMLS:C0856457	экскориация в области заднего прохода
+N74	Reference T63 UMLS:C0332534	уплотнение
+N75	Reference T3 UMLS:C0265892	гипоплазия аорты
+N76	Reference T44 UMLS:C0126174	лозартан
+N77	Reference T40 UMLS:C0459914	комплексонная терапия
+#1	AnnotatorNotes T25	first_annotator_label: C0948833||synonyms: выбухание грудной клетки в области левого желудочка||||second_annotator_label: C0018787||synonyms: сердце|serdtse||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0011682||synonyms: дегидратационные методы|degidratatsionnye metody|десикация|desikatsiia|vysykhanie||||
+#2	AnnotatorNotes T27	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0275904||synonyms: туберкулез центральной нервной системы|tuberkulez tsentral'noi nervnoi sistemy|неуточненный туберкулез центральной нервной системы, подтвержденный неуточненными методами|туберкулез центральной нервной системы, бду|неуточненный туберкулез центральной нервной системы||||third_annotator_label: None||synonyms: ||||bert: C0275904||synonyms: туберкулез центральной нервной системы|tuberkulez tsentral'noi nervnoi sistemy|неуточненный туберкулез центральной нервной системы, подтвержденный неуточненными методами|туберкулез центральной нервной системы, бду|неуточненный туберкулез центральной нервной системы||||
+#3	AnnotatorNotes T69	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1953165||synonyms: кортизол^после 1 мг дексаметазона через рот накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T75	first_annotator_label: C0042890||synonyms: витамины|vitaminy||||second_annotator_label: C0021528||synonyms: инозин|inozin||||third_annotator_label: C0016410||synonyms: фолиевая кислота|folievaia kislota|vitamin bc|витамин bc|folatsin||||bert: C0010830||synonyms: cytophagaceae|tsitofagovye|flexibacteraceae|цитофаговые||||
+#5	AnnotatorNotes T61	first_annotator_label: C0340464||synonyms: экстрасистолы|serdechnye ekstrasistoly|ekstrasistola ranniaia|ekstrasistola|rannie serdechnye ekstrasistoly||||second_annotator_label: C0039155||synonyms: систола|sistola|sistolicheskii interval vremeni|sistolicheskii vremennoi interval|систолический временной интервал||||third_annotator_label: C0151878||synonyms: удлинение интервала qt на электрокардиограмме|удлинение интервала qt|длинный интервал qt|увеличение qt|удлиненный интервал qt||||bert: C0162537||synonyms: электрический импеданс|elektricheskii impedans|bioelektricheskii impedans|elektricheskaia ustoichivost'|impedans||||
+#6	AnnotatorNotes T8	first_annotator_label: C0240194||synonyms: синюшность губ|цианоз губ|цианотичные губы||||second_annotator_label: C0332579||synonyms: синюшность||||third_annotator_label: C0010520||synonyms: цианоз|tsianoz|синюшный|цианоз, бду||||bert: C4042859||synonyms: диффамация|клеветническое заявление|klevetnicheskoe zaiavlenie|клевета|kleveta||||
+#7	AnnotatorNotes T24	first_annotator_label: C0016504||synonyms: стопа|stopa||||second_annotator_label: C0559494||synonyms: кишечная стома||||third_annotator_label: C0158369||synonyms: отечность конечностей|отечность конечности||||bert: C0559494||synonyms: кишечная стома||||
+#8	AnnotatorNotes T68	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0036499||synonyms: вода морская|voda morskaia||||bert: C0004247||synonyms: атриовентрикулярный узел|atrioventrikuliarnyi uzel|ashofa-tavary uzel|predserdno-zheludochkovyi uzel|ашофа-тавары узел||||
+#9	AnnotatorNotes T29	first_annotator_label: C0019209||synonyms: гепатомегалия|gepatomegaliia|увеличение печени||||second_annotator_label: C0023884||synonyms: печень|pechen'|hepar||||third_annotator_label: C3888808||synonyms: гипертрофия печени||||bert: C0858821||synonyms: край печени пальпируется под реберной дугой||||
+#10	AnnotatorNotes T55	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0152136||synonyms: нормотензивная глаукома|глаукома с нормальным давлением|глаукома с низким давлением|normotenzivnaia glaukoma|глаукома с псевдонормальным давлением||||third_annotator_label: None||synonyms: ||||bert: C0152136||synonyms: нормотензивная глаукома|глаукома с нормальным давлением|глаукома с низким давлением|normotenzivnaia glaukoma|глаукома с псевдонормальным давлением||||
+#11	AnnotatorNotes T42	first_annotator_label: C2024890||synonyms: повышение толерантности к физической нагрузке||||second_annotator_label: C0003618||synonyms: аппетит|appetit||||third_annotator_label: C0232461||synonyms: усиление аппетита|повышенный аппетит, бду|стимулированный аппетит||||bert: C0858274||synonyms: подавление аппетита|угнетение аппетита||||
+#12	AnnotatorNotes T41	first_annotator_label: C0344211||synonyms: поддерживающая терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0859104||synonyms: продольное укорочение, предплюсна или плюсна, полное или частичное (с неполн фаланг деформ или без)||||
+#13	AnnotatorNotes T59	first_annotator_label: C0242625||synonyms: пэтч-кламп методы|petch-fiksiruiushchie metody|petch-klamp metody|metod lokal'noi fiksatsii potentsiala|патч-кламп методы||||second_annotator_label: C0022699||synonyms: кинез|kinez|aktivnost'|активность||||third_annotator_label: C0039231||synonyms: тахикардия|takhikardiia|trepetanie-mertsanie zheludochkov|высокая частота сердечных сокращений|учащение пульса||||bert: C0032865||synonyms: электрической энергии запасы|energii istochniki|энергии источники|elektricheskoi energii zapasy||||
+#14	AnnotatorNotes T9	first_annotator_label: C1123023||synonyms: кожа|kozha||||second_annotator_label: C0151908||synonyms: сухая кожа|кожа, сухая||||third_annotator_label: C0240194||synonyms: синюшность губ|цианоз губ|цианотичные губы||||bert: C0007114||synonyms: рак кожи|злокачественное новообразование кожи бду|злокачественное новообразование кожи, бду|кожные новообразования, злокачественные и неуточненные|новообразование кожи, злокачественное, бду||||
+#15	AnnotatorNotes T80	first_annotator_label: C0007209||synonyms: кардиотонические средства|kardiotonicheskie sredstva|kardiostimuliruiushchie sredstva|serdechnye sredstva polozhitel'nye inotropnye|sredstva stimuliruiushchie miokard||||second_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||third_annotator_label: C0041536||synonyms: убихинон|ubikhinon|koenzim q|koferment q|кофермент q||||bert: C0996818||synonyms: каянус|golubinyi gorokh|kaianus|голубиный горох||||
+#16	AnnotatorNotes T45	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0363627||synonyms: глюкоза^1.5 часа после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#17	AnnotatorNotes T13	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0016286||synonyms: регидратационная терапия|regidratatsionnaia terapiia|пероральная регидратационная терапия|zhidkostnaia terapiia|жидкостная терапия||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#18	AnnotatorNotes T63	first_annotator_label: C0332534||synonyms: уплотнение||||second_annotator_label: C0016976||synonyms: желчный пузырь|zhelchnyi puzyr'||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C3888534||synonyms: утолщение стенки желудочно-кишечного тракта|утолщение стенки кишечника||||
+#19	AnnotatorNotes T40	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363627||synonyms: глюкоза^1.5 часа после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||

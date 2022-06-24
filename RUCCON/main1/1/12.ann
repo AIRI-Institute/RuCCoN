@@ -1,0 +1,111 @@
+T46	Symptom 1708 1723	приступах кашля
+T31	Body_location 198 207	паренхима
+T50	Drug 2212 2222	вентолином
+T2	Course 771 803	осложненный бактериальной флорой
+T12	Body_location 675 710	слизистой оболочки гайморовых пазух
+T30	Body_location 148 168	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T9	Disease 466 506	вторичных изменений поджелудочной железы
+T23	Drug 1932 1942	пульмикорт
+T27	Treatment 1557 1578	Гипоаллергенная диета
+T51	Drug 1786 1793	саламол
+T7	Treatment 1310 1404	Проводится лечение: маример, изофра, виброцил, серетид 100/50 мкг 2 раза в день, вентолин усл.
+T26	Treatment 1605 1662	Пикфлоуметрия ежедневно, с ведением дневника самоконтроля
+T33	Body_location 261 267	ПЕЧЕНЬ
+T38	Body_location 580 597	щитовидной железы
+T40	Drug 2035 2040	Креон
+T18	Treatment 1760 1843	вентолин (сальбутамол или саламол) по 1-2 ингаляции через спейсер до 3-х раз в день
+T13	Disease 869 888	аллергический ринит
+T8	Drug 1391 1399	вентолин
+T47	Symptom 1725 1746	затрудненного дыхания
+T48	Drug 1770 1781	сальбутамол
+T11	Severity 456 465	умеренных
+T36	Body_location 387 404	12-ПЕРСТНАЯ КИШКА
+T19	Disease 1871 1874	ОРИ
+T24	Drug 1667 1674	Серетид
+T39	Treatment 1955 1998	Туалет носа с маример 3 раза в день 30 дней
+T17	Drug 1760 1768	вентолин
+T3	Drug 1330 1337	маример
+T6	Drug 1357 1364	серетид
+T42	Disease 669 674	отека
+T49	Drug 1969 1976	маример
+T35	Body_location 345 352	ЖЕЛУДОК
+T29	Body_location 57 71	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T37	Body_location 515 526	малого таза
+T32	Body_location 233 242	СЕЛЕЗЕНКА
+T25	Treatment 1667 1699	Серетид 100/50 мкг 2 раза в день
+T41	Treatment 2035 2070	Креон по 1к. 3 раза в день 3 недели
+T43	Disease 961 991	синдром неправильного пубертат
+T1	Disease 750 769	аллергический ринит
+T44	Treatment 1039 1079	Йодмарин – 100 по 1т. 1 раз в день 6 мес
+T15	Treatment 1129 1237	галотерапия №10, лазеротерапия №10, магнитотерапия (бегущее магнитное поле) №10, санаторно-курортное лечение
+T28	Treatment 1580 1600	элиминационный режим
+T4	Drug 1339 1345	изофра
+T21	Drug 1893 1901	лазолван
+T45	Disease 1261 1307	парциальный синдром предвозбуждения желудочков
+T14	Drug 1039 1047	Йодмарин
+T5	Drug 1347 1355	виброцил
+T34	Body_location 321 330	паренхима
+T20	Treatment 1875 1950	через небулайзер: лазолван 1.0 мл + беродуал 10 капель + пульмикорт 250 мкг
+T22	Drug 1911 1919	беродуал
+T16	Body_location 1297 1307	желудочков
+T10	Body_location 486 506	поджелудочной железы
+N1	Reference T46 UMLS:C0742857	острый кашель
+N2	Reference T31 UMLS:C4277702	паренхиматозная ткань
+N3	Reference T50 UMLS:C0001927	сальбутамол
+N4	Reference T2 UMLS:C0004623	острое бактериальное осложнение хронического синусита
+N5	Reference T12 UMLS:C0024957	гайморова пазуха
+N6	Reference T30 UMLS:C0030274	поджелудочная железа
+N7	Reference T9 UMLS:C0030286	поджелудочной железы болезни
+N8	Reference T23 UMLS:C0054201	будесонид
+N9	Reference T27 UMLS:C0012155	диета
+N10	Reference T51 UMLS:C0001927	сальбутамол
+N11	Reference T7 UMLS:C0013154	комплексонная терапия
+N12	Reference T26 UMLS:C0035423	флоуметрия
+N13	Reference T33 UMLS:C0023884	печень
+N14	Reference T38 UMLS:C0040132	щитовидная железа
+N15	Reference T40 UMLS:C0030304	креон
+N16	Reference T18 UMLS:C0021459	введение лекарств ингаляционное
+N17	Reference T13 UMLS:C2607914	аллергический ринит
+N18	Reference T8 UMLS:C0001927	сальбутамол
+N19	Reference T47 UMLS:C0553668	затруднение дыхания
+N20	Reference T48 UMLS:C0001927	сальбутамол
+N21	Reference T36 UMLS:C0013303	двенадцатиперстная кишка
+N22	Reference T19 UMLS:C0035243	респираторные инфекции
+N23	Reference T24 UMLS:C0939232	серетид
+N24	Reference T39 UMLS:C2350442	промывание носа
+N25	Reference T17 UMLS:C0001927	сальбутамол
+N26	Reference T3 UMLS:C0036499	вода морская
+N27	Reference T6 UMLS:C0939232	серетид
+N28	Reference T42 UMLS:C0013604	отек
+N29	Reference T49 UMLS:C0036499	вода морская
+N30	Reference T35 UMLS:C0038351	желудок
+N31	Reference T29 UMLS:C0016976	желчный пузырь
+N32	Reference T37 UMLS:C0230278	малый таз
+N33	Reference T32 UMLS:C0037993	селезенка
+N34	Reference T25 UMLS:C0013154	введение лекарств ингаляционное
+N35	Reference T41 UMLS:C4523842	заместительная терапия ферментами поджелудочной железы
+N36	Reference T43 UMLS:CUILESS	пубертатный мастит
+N37	Reference T1 UMLS:C2607914	аллергический ринит
+N38	Reference T44 UMLS:C0013154	лекарственные препараты свободной продажи
+N39	Reference T15 UMLS:C0949766	лазерная терапия
+N40	Reference T28 UMLS:C4505264	лечения режима соблюдение
+N41	Reference T4 UMLS:C0016673	фрамицетин
+N42	Reference T21 UMLS:C0002421	амброксол
+N43	Reference T45 UMLS:C0032915	синдром предвозбуждения желудочков
+N44	Reference T14 UMLS:C0032831	калия иодид
+N45	Reference T5 UMLS:C0031469	фенилэфрин
+N46	Reference T34 UMLS:C4277702	паренхиматозная ткань
+N47	Reference T20 UMLS:C0001559	введение лекарств ингаляционное
+N48	Reference T22 UMLS:C0015840	фенотерол
+N49	Reference T16 UMLS:C0018827	сердца желудочки
+N50	Reference T10 UMLS:C0030274	поджелудочная железа
+#1	AnnotatorNotes T2	first_annotator_label: C5208270||synonyms: острое бактериальное осложнение хронического синусита||||second_annotator_label: C0004623||synonyms: бактериальные инфекции|bakterial'nye infektsii|бактериальная инфекция, бду|инфекция бактериальная|нарушения, вызванные бактериальной инфекцией||||third_annotator_label: C1699100||synonyms: бактериальный ринит||||bert: C1735624||synonyms: нарушения со стороны бактериальной кишечной флоры||||
+#2	AnnotatorNotes T7	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C5212524||synonyms: метамиелоциты.нейтрофильные/100 лейкоцитов:колдоля:тчкврм:костный мозг:колич:ручной подсчет||||
+#3	AnnotatorNotes T18	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C0042518||synonyms: гипоталамуса ядро вентромедиальное|ventromedial'noe iadro gipotalamusa|gipotalamusa iadro ventromedial'noe|вентромедиальное ядро гипоталамуса||||
+#4	AnnotatorNotes T25	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0804089||synonyms: гастрин^50 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T41	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0242194||synonyms: белок 1 анионообменный эритроцитов|belok polosy 3|anion-perenosiashchii belok eritrotsitov|belok 3 polosy membrany eritrotsitov|eritrotsitov anion-transportnyi belok||||
+#6	AnnotatorNotes T43	first_annotator_label: C0342090||synonyms: пубертатный мастит||||second_annotator_label: C0031106||synonyms: периодонтит агрессивный|periodontit iuvenil'nyi|periodontit prepubertatnyi|periodontoz|периодонтит препубертатный||||third_annotator_label: C0853237||synonyms: нарушения функций гипоталамо-гипофизарной системы||||bert: C0156403||synonyms: пубертатная меноррагия|пубертатные кровотечения||||
+#7	AnnotatorNotes T44	first_annotator_label: C0013231||synonyms: лекарства, отпускаемые без рецепта|lekarstva, otpuskaemye bez retsepta|lekarstvennye preparaty svobodnoi prodazhi|patentovannye lekarstva|безрецептурные препараты||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1978298||synonyms: кортизол^1 час после 100 мкг крг внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#8	AnnotatorNotes T15	first_annotator_label: C1955835||synonyms: лазерная терапия|lazernaia khirurgiia|lazernyi nozh|lazernyi skal'pel'|vaporizatsiia lazernaia||||second_annotator_label: C0872210||synonyms: магнитотерапия||||third_annotator_label: C0949766||synonyms: fizioterapiia|физиотерапия|терапия физическими факторами|fizioterapii metody|физиотерапевтические способы воздействия||||bert: C0166027||synonyms: матрикса металлопротеиназа 10|стромелизин 2|матрикс-металлопротеиназа-10|металлопротеиназа 10 матриксная|matriksa metalloproteinaza 10||||
+#9	AnnotatorNotes T4	first_annotator_label: C0016673||synonyms: фрамицетин|framitsetin|neomitsin b|неомицин b||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C0022180||synonyms: изофлуран|izofluran||||
+#10	AnnotatorNotes T14	first_annotator_label: C0032831||synonyms: калия иодид|kaliia iodid|kalii iodistyi|калий иодистый||||second_annotator_label: C0021968||synonyms: иод|iod|йод||||third_annotator_label: C0013227||synonyms: фармацевтические препараты|lekarstva|farmatsevticheskie preparaty|лекарства||||bert: C0020789||synonyms: идарубицин|idarubitsin|4-demetoksidaunorubitsin|4-деметоксидаунорубицин||||

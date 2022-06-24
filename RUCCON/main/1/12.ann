@@ -1,0 +1,81 @@
+T8	Symptom 240 257	свистящее дыхание
+T33	Symptom 1442 1475	Сердечные тоны звучные, ритмичные
+T18	Drug 856 864	Эуфиллин
+T4	Disease 83 118	Аллергический ринит, персистирующий
+T2	Severity 42 71	легкое персистирующее течение
+T10	Treatment 643 670	диетой, местными средствами
+T15	Treatment 856 892	Эуфиллин и антигистаминные препараты
+T34	Symptom 1528 1535	дизурии
+T9	Disease 604 626	атопического дерматита
+T26	Disease 1235 1255	атопический дерматит
+T16	Drug 804 814	беродуалом
+T35	Symptom 1541 1545	Стул
+T37	Symptom 1324 1346	бледно-розовые, чистые
+T30	Body_location 1399 1407	В лёгких
+T39	Disease 931 937	ринита
+T14	Treatment 782 854	В терапии ингаляции с беродуалом и лазолваном, антибактериальная терапия
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T7	Symptom 221 238	заложенность носа
+T17	Drug 817 827	лазолваном
+T13	Symptom 757 780	бронхиальной обструкции
+T25	Symptom 1194 1203	высыпаний
+T32	Symptom 1430 1436	хрипов
+T28	Body_location 1348 1351	Зев
+T31	Symptom 1408 1428	дыхание везикулярное
+T22	Symptom 1058 1081	бронхиальная обструкция
+T38	Symptom 1352 1359	спокоен
+T23	Disease 1128 1144	Пищевая аллергия
+T21	Symptom 1006 1024	свистящего дыхания
+T40	Disease 939 952	конъюнктивита
+T24	Body_location 1187 1193	кожных
+T5	Disease 120 160	Вторичные изменения поджелудочной железы
+T27	Body_location 1308 1322	Кожные покровы
+T29	Symptom 1361 1397	Носовое дыхание несколько затруднено
+T3	Course 73 81	ремиссия
+T11	Disease 688 691	ОРИ
+T6	Body_location 140 160	поджелудочной железы
+T36	Symptom 1571 1591	Менингеальных знаков
+T12	Disease 715 737	респираторной инфекции
+N1	Reference T8 UMLS:C0043144	свистящее дыхание
+N2	Reference T33 UMLS:C2712143	нормальный сердечный ритм
+N3	Reference T18 UMLS:C0002575	эуфиллин
+N4	Reference T4 UMLS:C2607914	аллергический ринит
+N5	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N6	Reference T10 UMLS:C0012155	диета
+N7	Reference T15 UMLS:UNKNOWN	антиаллергическая терапия
+N8	Reference T34 UMLS:C0013428	дизурия
+N9	Reference T9 UMLS:C0011615	атопический дерматит
+N10	Reference T26 UMLS:C0011615	атопический дерматит
+N11	Reference T16 UMLS:C0015840	фенотерол
+N12	Reference T35 UMLS:C0232720	светлый стул
+N13	Reference T37 UMLS:CUILESS	норма рабочая
+N14	Reference T30 UMLS:C0024109	легкие
+N15	Reference T39 UMLS:C0035455	ринит
+N16	Reference T14 UMLS:C0855920	субтерапевтическая концентрация аналгезирующего лекарственного препарата, бду
+N17	Reference T1 UMLS:C0004096	астма, бронхиальная
+N18	Reference T7 UMLS:C0027424	заложенность носа
+N19	Reference T17 UMLS:C0002421	амброксол
+N20	Reference T13 UMLS:C0221725	бронхиальная обструкция
+N21	Reference T25 UMLS:C0302295	высыпание
+N22	Reference T32 UMLS:C3887661	хрип
+N23	Reference T28 UMLS:C0521367	ротоглотка
+N24	Reference T31 UMLS:C3666016	жесткое дыхание при аускультации легких
+N25	Reference T22 UMLS:C0221725	бронхиальная обструкция
+N26	Reference T38 UMLS:CUILESS	норма рабочая
+N27	Reference T23 UMLS:C0149696	пищевая аллергия
+N28	Reference T21 UMLS:C0043144	свистящее дыхание
+N29	Reference T40 UMLS:C0009763	конъюнктивит
+N30	Reference T24 UMLS:C1123023	кожа
+N31	Reference T5 UMLS:C0030286	поджелудочной железы болезни
+N32	Reference T27 UMLS:C1123023	кожа
+N33	Reference T29 UMLS:C0853254	раздражение носовых ходов
+N34	Reference T3 UMLS:C0035053	ремиссия спонтанная
+N35	Reference T11 UMLS:C0035243	респираторные инфекции
+N36	Reference T6 UMLS:C0030274	поджелудочная железа
+N37	Reference T36 UMLS:C0025287	менингеальные знаки
+N38	Reference T12 UMLS:C0035243	респираторные инфекции
+#1	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#2	AnnotatorNotes T15	first_annotator_label: C1535925||synonyms: антиаллергическая терапия||||second_annotator_label: C0019593||synonyms: гистамина h2 антагонисты|gistamina h2 antagonisty|antigistaminnye h2 preparaty|gistaminovykh h2-retseptorov antagonisty|gistaminovykh h2-retseptorov blokatory||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0003414||synonyms: антиплатигельминтные средства|antiplatigel'mintnye sredstva|antitrematodnye sredstva|protivotrematodnye sredstva|антитрематодные средства||||
+#3	AnnotatorNotes T37	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0999507||synonyms: alouatta caraya|cherno-zolotye revuny|черный ревун|revun chernyi|ревун черный парагвайский||||
+#4	AnnotatorNotes T31	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T38	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: None||synonyms: ||||bert: C0038071||synonyms: сквален|skvalen||||

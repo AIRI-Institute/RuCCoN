@@ -1,0 +1,178 @@
+T69	Drug 3293 3299	зиртек
+T56	Drug 2043 2059	киндер-биовиталь
+T48	Disease 1862 1888	Вялая кифотическая осанка.
+T6	Body_location 753 760	Желудок
+T17	Symptom 634 681	увеличена головка 13 мм. тело 9 мм, хвост 16 мм
+T30	Disease 1118 1126	Аденоиды
+T34	Treatment 1265 1325	туалет носа 3-4 раза в день, назонекс по 1 инст 1 раз в день
+T77	Drug 180 190	вентолином
+T47	Severity 1856 1860	2 ст
+T46	Disease 1832 1855	Плоско-вальгусные стопы
+T29	Symptom 996 1037	Неполная блокада правой ножки пучка Гиса.
+T25	Symptom 941 956	Ритм синусовый.
+T65	Drug 2973 2981	назонекс
+T33	Disease 1169 1203	Персистирующий аллергический ринит
+T16	Body_location 596 610	стенки сосудов
+T12	Body_location 467 473	стенки
+T45	Drug 1673 1679	авамис
+T51	Treatment 2018 2119	Поливитамины с кальцием (киндер-биовиталь, центрум, кальцинова, мульти-табс) - по 1 мес. 3 раза в год
+T40	Drug 1564 1572	Физиомер
+T38	Severity 1464 1474	II степени
+T26	Symptom 913 939	Положение ЭОС вертикальное
+T36	Disease 1417 1452	Аллергический персистирующий  ринит
+T21	Symptom 785 802	стенки нормальные
+T35	Drug 1294 1302	назонекс
+T68	Drug 3282 3288	ксизал
+T13	Symptom 477 485	изменены
+T22	Symptom 821 849	признаки вторичных изменений
+T39	Treatment 1493 1725	Ежедневно орошать слизистую оболочку полости носа солевыми растворами: Физиомер (с 2-х недель и старше), Маримар, Аква-марис, Аквалор софт и т.д.) х 3-4 раза в день  --- Назонекс (авамис)  по 1 впр. х 1 раз в день по утрам  3 недели
+T75	Disease 964 975	брадикардия
+T24	Symptom 893 911	ЧСС 60-75 уд в сек
+T1	Body_location 405 428	органов брюшной полости
+T10	Body_location 505 511	Печень
+T31	Severity 1127 1142	II – III (?) ст
+T72	Treatment 1997 2014	массажный коврик.
+T50	Drug 1928 1941	морской солью
+T37	Disease 1455 1463	Аденоиды
+T20	Symptom 735 751	средних размеров
+T2	Body_location 439 453	желчный пузырь
+T52	Treatment 2124 2182	Мазь ЦельТ - местно на область стоп 1-2 раза в день 1 мес.
+T28	Symptom 957 975	Резкая брадикардия
+T41	Drug 1598 1605	Маримар
+T58	Drug 2070 2080	кальцинова
+T63	Treatment 2933 3004	туалет носа с физиомером 3 раза в день, назонекс по 1 инст 1 раз в день
+T42	Drug 1607 1617	Аква-марис
+T18	Symptom 683 702	паренхима однородна
+T32	Disease 1144 1167	Правосторонний тубоотит
+T53	Treatment 2238 2352	Ортопедическая подушка и матрас	, рациональная обувь, индивидуальные ортопедические стельки, осмотр 1-2 раза в год
+T64	Drug 2947 2957	физиомером
+T14	Symptom 487 503	просвет свободен
+T74	Treatment 3153 3211	Соблюдение гипоаллергенного стола и элиминационного режима
+T8	Body_location 725 734	Селезенка
+T9	Body_location 612 632	Поджелудочная железа
+T67	Treatment 3282 3325	ксизал или зиртек по 1т 1 р/д на 1,5 месяца
+T49	Treatment 1919 1992	Ванные с морской солью 2-3  раза в неделю по 15-20 минут, Т воды 36-37 гр
+T19	Symptom 704 723	средней эхогенности
+T61	Treatment 2415 2626	проведение курса физиотерапии: 1)  С противоотечной, иммуномодулирующей целью галотерапия №10, аэроионотерапия №10, инфракрасная лазеротерапия на проекцию аденоидов, миндалин №7, ультратонтерапия эндоназально №7
+T15	Symptom 572 595	Незначительно уплотнены
+T76	Disease 987 994	аритмия
+T23	Body_location 850 870	поджелудочной железы
+T62	Treatment 2642 2653	терапии БОС
+T43	Drug 1619 1631	Аквалор софт
+T55	Treatment 1906 1914	Плавание
+T44	Drug 1663 1671	Назонекс
+T7	Body_location 762 782	12-ти перстная кишка
+T66	Disease 3258 3279	аллергического ринита
+T60	Drug 2124 2134	Мазь ЦельТ
+T54	Treatment 2186 2234	Гимнастика длительно, ежедневно, самостоятельно.
+T4	Symptom 324 337	отрицательная
+T70	Symptom 3331 3353	малопродуктивном кашле
+T73	Disease 830 870	вторичных изменений поджелудочной железы
+T57	Drug 2061 2068	центрум
+T3	Drug 311 321	вентолином
+T5	Symptom 147 169	Показатели ФВД в норме
+T78	Drug 2018 2030	Поливитамины
+T11	Symptom 457 465	увеличен
+T59	Drug 2082 2093	мульти-табс
+T71	Symptom 3365 3388	бронхиальной обструкции
+T27	Symptom 977 994	Умеренная аритмия
+N1	Reference T69 UMLS:C0055147	цетиризин
+N2	Reference T56 UMLS:C1533658	витаминные добавки
+N3	Reference T48 UMLS:C0022823	кифоз (приобретенный) (позиционный)
+N4	Reference T6 UMLS:C0038351	желудок
+N5	Reference T17 UMLS:C1096352	увеличение поджелудочной железы
+N6	Reference T30 UMLS:C0001428	аденоиды
+N7	Reference T34 UMLS:C2350442	промывание носа
+N8	Reference T77 UMLS:C0001927	сальбутамол
+N9	Reference T47 UMLS:CUILESS	степень ухудшения бду
+N10	Reference T46 UMLS:C0016202	плоская стопа
+N11	Reference T29 UMLS:C0085615	блокада правой ножки пучка гиса
+N12	Reference T25 UMLS:C0232201	синусовый ритм
+N13	Reference T65 UMLS:C0066700	назонекс
+N14	Reference T33 UMLS:C2607914	ринит аллергический
+N15	Reference T16 UMLS:CUILESS	патологии сосудов печени
+N16	Reference T12 UMLS:CUILESS	утолщение стенки желчного пузыря
+N17	Reference T45 UMLS:C0082607	флутиказон
+N18	Reference T51 UMLS:C0013154	применение мультивитаминных препаратов
+N19	Reference T40 UMLS:C0036499	вода морская
+N20	Reference T38 UMLS:CUILESS	гипертрофия глоточных миндалин (аденоидов)
+N21	Reference T26 UMLS:C0231472	вертикальное положение
+N22	Reference T36 UMLS:C2607914	аллергический ринит
+N23	Reference T21 UMLS:CUILESS	норма рабочая
+N24	Reference T35 UMLS:C0066700	назонекс
+N25	Reference T68 UMLS:C0055147	цетиризин
+N26	Reference T13 UMLS:CUILESS	норма рабочая
+N27	Reference T22 UMLS:C0273163	поражение поджелудочной железы
+N28	Reference T39 UMLS:C0013154	промывание носа
+N29	Reference T75 UMLS:C0428977	брадикардия
+N30	Reference T24 UMLS:C0018810	сердечных сокращений частота
+N31	Reference T1 UMLS:C0230168	брюшная полость
+N32	Reference T10 UMLS:C0023884	печень
+N33	Reference T72 UMLS:C0024875	массаж
+N34	Reference T50 UMLS:C0036499	вода морская
+N35	Reference T37 UMLS:C0001428	аденоиды
+N36	Reference T20 UMLS:CUILESS	ультразвуковое исследование селезенки
+N37	Reference T2 UMLS:C0016976	желчный пузырь
+N38	Reference T52 UMLS:C0013154	введение лекарств местное
+N39	Reference T28 UMLS:C0232191	рефлекторная брадикардия
+N40	Reference T41 UMLS:C0036499	вода морская
+N41	Reference T58 UMLS:C1533658	витаминные добавки
+N42	Reference T63 UMLS:C2350442	промывание носа
+N43	Reference T42 UMLS:C0036499	вода морская
+N44	Reference T18 UMLS:CUILESS	норма рабочая
+N45	Reference T32 UMLS:C0555866	тубоотит
+N46	Reference T53 UMLS:C0029365	ортопедические устройства
+N47	Reference T64 UMLS:C0036499	вода морская
+N48	Reference T14 UMLS:CUILESS	норма рабочая
+N49	Reference T74 UMLS:C0425402	медицинская диета
+N50	Reference T8 UMLS:C0037993	селезенка
+N51	Reference T9 UMLS:C0030274	поджелудочная железа
+N52	Reference T67 UMLS:C0013154	антигистаминная терапия
+N53	Reference T49 UMLS:C1504484	лечебные ванны
+N54	Reference T19 UMLS:CUILESS	норма рабочая
+N55	Reference T61 UMLS:C0949766	физиотерапия
+N56	Reference T15 UMLS:C0332534	уплотнение
+N57	Reference T76 UMLS:C0003811	аритмия
+N58	Reference T23 UMLS:C0030274	поджелудочная железа
+N59	Reference T62 UMLS:C0005491	терапия с использованием биологической обратной связи
+N60	Reference T43 UMLS:C0036499	вода морская
+N61	Reference T55 UMLS:C0039003	плавание
+N62	Reference T44 UMLS:C0066700	назонекс
+N63	Reference T7 UMLS:C0013303	двенадцатиперстная кишка
+N64	Reference T66 UMLS:C2607914	аллергический ринит
+N65	Reference T60 UMLS:C0024911	гомеопатические средства
+N66	Reference T54 UMLS:C0018409	гимнастика
+N67	Reference T4 UMLS:C4704700	отрицательные результаты
+N68	Reference T70 UMLS:C0850149	кашель, непродуктивный
+N69	Reference T73 UMLS:C0030286	поджелудочной железы болезни
+N70	Reference T57 UMLS:C1533658	витаминные добавки
+N71	Reference T3 UMLS:C0001927	сальбутамол
+N72	Reference T5 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N73	Reference T78 UMLS:C0042890	витамины
+N74	Reference T11 UMLS:C0231249	увеличение роста
+N75	Reference T59 UMLS:C1533658	витаминные добавки
+N76	Reference T71 UMLS:C0221725	бронхиальная обструкция
+N77	Reference T27 UMLS:C0856486	суточная аритмия
+#1	AnnotatorNotes T56	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0005522||synonyms: биопрепараты|biopreparaty|biologicheskie preparaty|биологические препараты||||bert: C0075429||synonyms: янтарная кислота|iantarnaia kislota|1,2-этандикарбоновая кислота|аммония сукцинат|butandiovaia kislota||||
+#2	AnnotatorNotes T48	first_annotator_label: C0022823||synonyms: кифоз (приобретенный) (позиционный)||||second_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||third_annotator_label: C0036439||synonyms: сколиоз|skolioz||||bert: C0272396||synonyms: абсцесс лимфатического узла||||
+#3	AnnotatorNotes T17	first_annotator_label: C1096352||synonyms: увеличение поджелудочной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0488048||synonyms: тело положение голова наклонена:угол:тчкврм:^пациент:колич:*||||bert: C0488048||synonyms: тело положение голова наклонена:угол:тчкврм:^пациент:колич:*||||
+#4	AnnotatorNotes T47	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0033706||synonyms: протромбин|protrombin|faktor ii|фактор ii||||third_annotator_label: None||synonyms: ||||bert: C0172537||synonyms: матрикса металлопротеиназа 2|72 kd zhelatinaza|matriksa metalloproteinaza-2|metalloproteinaza-2 matriksa|mmp-2||||
+#5	AnnotatorNotes T16	first_annotator_label: C0400923||synonyms: патологии сосудов печени||||second_annotator_label: C0679403||synonyms: стеноз сосуда||||third_annotator_label: C0042367||synonyms: vasa vasorum|sosudy sosudov|сосуды сосудов||||bert: C0679403||synonyms: стеноз сосуда||||
+#6	AnnotatorNotes T12	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C5197887||synonyms: съедобные пленки|s"edobnaia upakovka|съедобная упаковка|съедобная пленка|natural'naia upakovka||||bert: C0859032||synonyms: стенание|стоны||||
+#7	AnnotatorNotes T51	first_annotator_label: C0856055||synonyms: применение мультивитаминных препаратов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0029340||synonyms: ортомолекулярная терапия|ortomolekuliarnaia terapiia|vitaminov vysokimi dozami terapiia|витаминов высокими дозами терапия||||bert: C0949653||synonyms: калиевые каналы кальцием-активируемые|kal'tsiem-aktiviruemye kalievye kanaly|kalievye kanaly kal'tsiem-aktiviruemye|кальцием-активируемые калиевые каналы||||
+#8	AnnotatorNotes T38	first_annotator_label: C0149825||synonyms: гипертрофия глоточных миндалин (аденоидов)|гипертрофия исключительно аденоидов||||second_annotator_label: C0033706||synonyms: протромбин|protrombin|faktor ii|фактор ii||||third_annotator_label: None||synonyms: ||||bert: C0033706||synonyms: протромбин|protrombin|faktor ii|фактор ii||||
+#9	AnnotatorNotes T21	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#10	AnnotatorNotes T13	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0203464||synonyms: ультразвуковое исследование брюшной полости||||third_annotator_label: C0235181||synonyms: изменение характера|измененный характер||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#11	AnnotatorNotes T39	first_annotator_label: C2350442||synonyms: носа лаваж|промывание носа|ирригация носа|nosa lavazh|назальный лаваж||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0860457||synonyms: волдырь на месте солнечного ожога||||
+#12	AnnotatorNotes T20	first_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0205847||synonyms: средний возраст|srednii vozrast||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#13	AnnotatorNotes T52	first_annotator_label: C0001566||synonyms: введение лекарств местное|vvedenie lekarstv mestnoe|lekarstv vvedenie mestnoe|mestnoe vvedenie lekarstv|лекарств введение местное||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C2926441||synonyms: кортизол^2 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:слюна:колич||||
+#14	AnnotatorNotes T58	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0042890||synonyms: витамины|vitaminy||||third_annotator_label: C0005522||synonyms: биопрепараты|biopreparaty|biologicheskie preparaty|биологические препараты||||bert: C0006663||synonyms: кальциноз|kal'tsinoz|kal'tsifikatsiia patologicheskaia|кальцификация тканей, бду|кальцификация патологическая||||
+#15	AnnotatorNotes T18	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536174||synonyms: паренхиматозный зоб||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#16	AnnotatorNotes T14	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0016694||synonyms: свобода|svoboda||||bert: C0337544||synonyms: ребенок приемный|rebenok priemnyi|воспитанник|ребенок принятый на воспитание|rebenok priniatyi na vospitanie||||
+#17	AnnotatorNotes T74	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0267994||synonyms: нарушения водно-электролитного баланса и кислотно-основного состояния||||
+#18	AnnotatorNotes T67	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C2926373||synonyms: кортизол^1.5 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:слюна:колич||||
+#19	AnnotatorNotes T19	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||bert: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||
+#20	AnnotatorNotes T15	first_annotator_label: C0332534||synonyms: уплотнение||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0948543||synonyms: ультразвуковое исследование сосудов||||bert: C0162429||synonyms: питание недостаточное|мальнутриция, бду|недостаточное потребление пищи или несбалансированная диета|pitanie nedostatochnoe||||
+#21	AnnotatorNotes T62	first_annotator_label: C0005491||synonyms: биологическая обратная связь, психология|biologicheskaia obratnaia sviaz' (psikhologiia)|biologicheskaia obratnaia sviaz'|биологическая обратная связь|биоуправление||||second_annotator_label: C1510538||synonyms: дистанционное консультирование|distantsionnoe konsul'tirovanie|internet-konsul'tirovanie|e-консультирование|e-konsul'tirovanie||||third_annotator_label: C0033968||synonyms: психотерапия|psikhoterapiia|терапевтические беседы||||bert: C0009953||synonyms: судорожная терапия|sudorozhnaia terapiia|insulinovoi komoi terapiia|shokovaia terapiia insulinovaia|shokovaia terapiia||||
+#22	AnnotatorNotes T57	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0042890||synonyms: витамины|vitaminy||||third_annotator_label: C0005522||synonyms: биопрепараты|biopreparaty|biologicheskie preparaty|биологические препараты||||bert: C0242609||synonyms: кинетохоры|kinetokhory|tsentromery|центромеры||||
+#23	AnnotatorNotes T59	first_annotator_label: C1533658||synonyms: витаминные добавки||||second_annotator_label: C0042890||synonyms: витамины|vitaminy||||third_annotator_label: C0005522||synonyms: биопрепараты|biopreparaty|biologicheskie preparaty|биологические препараты||||bert: C0376478||synonyms: мультимедиа|mul'timedia||||

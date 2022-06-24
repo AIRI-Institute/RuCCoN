@@ -1,0 +1,54 @@
+T4	Severity 783 792	умеренная
+T22	Drug 3323 3331	Назонекс
+T20	Drug 4383 4391	беродуал
+T23	Drug 3383 3405	пыльцевыми аллергенами
+T6	Disease 1550 1581	Искривление носовой перегородки
+T3	Disease 793 800	аритмия
+T25	Drug 4245 4253	вентолин
+T13	Drug 1710 1717	Маример
+T14	Drug 1719 1729	Аква-марис
+T26	Drug 4363 4373	пульмикорт
+T21	Disease 994 1024	Носовая перегородка искривлена
+T27	Drug 4499 4507	лазолван
+T5	Disease 1529 1548	Аллергический ринит
+T18	Drug 3899 3905	зиртек
+T8	Disease 4321 4343	респираторной инфекции
+T11	Body_location 1087 1118	Слизистая оболочка полости носа
+T12	Drug 1700 1708	Физиомер
+T28	Drug 4555 4560	Креон
+T15	Drug 1731 1743	Аквалор софт
+T2	Body_location 709 729	поджелудочной железы
+T19	Drug 3994 4016	пыльцевыми аллергенами
+T1	Disease 689 729	вторичных изменений поджелудочной железы
+T17	Drug 3891 3897	Ксизал
+T7	Disease 2071 2077	Отеков
+T24	Drug 3851 3861	физиомером
+T9	Disease 1144 1150	отечна
+T10	Severity 1135 1143	умеренно
+T16	Drug 3280 3290	Физиомером
+N1	Reference T22 UMLS:C0066700	назонекс
+N2	Reference T20 UMLS:C0015840	фенотерол
+N3	Reference T23 UMLS:C1567994	аллергены растительные
+N4	Reference T6 UMLS:C0549397	искривление перегородки носа
+N5	Reference T3 UMLS:C0003811	аритмия
+N6	Reference T25 UMLS:C0001927	сальбутамол
+N7	Reference T13 UMLS:C0036499	вода морская
+N8	Reference T14 UMLS:C0036499	вода морская
+N9	Reference T26 UMLS:C0054201	будесонид
+N10	Reference T21 UMLS:C0549397	искривление перегородки носа
+N11	Reference T27 UMLS:C0002421	амброксол
+N12	Reference T5 UMLS:C2607914	аллергический ринит
+N13	Reference T18 UMLS:C0055147	цетиризин
+N14	Reference T8 UMLS:C0035243	респираторные инфекции
+N15	Reference T11 UMLS:C0027428	носа слизистая оболочка
+N16	Reference T12 UMLS:C0036499	вода морская
+N17	Reference T28 UMLS:C0030304	креон
+N18	Reference T15 UMLS:C0036499	вода морская
+N19	Reference T2 UMLS:C0030274	поджелудочная железа
+N20	Reference T19 UMLS:C1567994	антигены растительные
+N21	Reference T1 UMLS:C0030286	поджелудочной железы болезни
+N22	Reference T17 UMLS:C0055147	цетиризин
+N23	Reference T7 UMLS:C0013604	отёк
+N24	Reference T24 UMLS:C0036499	вода морская
+N25	Reference T9 UMLS:C0475765	отек слизистой носа
+N26	Reference T16 UMLS:C0036499	вода морская

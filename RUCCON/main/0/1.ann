@@ -1,0 +1,149 @@
+T12	Disease 778 794	пищевой аллергии
+T56	Disease 2549 2577	риноконъюнктивальный синдром
+T19	Body_location 1280 1285	в нос
+T11	Disease 710 723	ветряная оспа
+T31	Body_location 2840 2848	В легких
+T66	Symptom 2582 2590	контакте
+T58	Symptom 312 340	затруднение носового дыхания
+T61	Symptom 1734 1757	бронхиальная обструкция
+T24	Treatment 1368 1432	в лечении ингаляции с беродуалом и пульмикортом, кромоны курсами
+T26	Drug 1403 1415	пульмикортом
+T50	Drug 2305 2312	серетид
+T39	Symptom 2780 2799	катаральных явлений
+T47	Course 2282 2292	обострение
+T5	Disease 229 249	Хронический фарингит
+T2	Disease 176 195	Аллергический ринит
+T41	Severity 2109 2138	легкое персистирующее течение
+T38	Symptom 2816 2838	бледно-розовые, чистые
+T22	Symptom 1344 1367	малопродуктивного кашля
+T43	Disease 2168 2196	риноконъюнктивальный синдром
+T51	Drug 2348 2358	фликсоназе
+T8	Severity 197 217	персистирующая форма
+T45	Course 2227 2237	обострение
+T46	Severity 2260 2280	персистирующая форма
+T57	Treatment 1607 1617	гомеопатии
+T13	Treatment 796 827	купировавшиеся коррекцией диеты
+T4	Disease 137 164	сезонная бронхиальная астма
+T48	Symptom 1826 1904	умеренные нарушения бронхиальной проходимости на уровне периферических бронхов
+T36	Symptom 2921 2926	хрипы
+T18	Drug 1268 1279	кромогексал
+T21	Drug 1297 1303	зиртек
+T17	Symptom 1042 1070	затруднение носового дыхания
+T42	Disease 2239 2258	Аллергический ринит
+T16	Symptom 1072 1095	малопродуктивный кашель
+T65	Drug 1914 1924	вентолином
+T54	Disease 2514 2534	атопический дерматит
+T62	Symptom 2885 2918	с жестким оттенком (выдох удлинен
+T9	Course 219 227	ремиссия
+T10	Symptom 342 365	малопродуктивный кашель
+T25	Drug 1390 1400	беродуалом
+T23	Drug 1417 1424	кромоны
+T35	Symptom 2957 2973	ясные, ритмичные
+T37	Symptom 2864 2884	везикулярное дыхание
+T59	Symptom 1701 1731	риноконъюнктивального синдрома
+T27	Treatment 1458 1481	гомеопатическое лечение
+T3	Disease 107 135	риноконъюнктивальный синдром
+T29	Body_location 2772 2775	Зев
+T30	Body_location 2801 2815	Кожные покровы
+T55	Symptom 2536 2546	обструкция
+T53	Disease 2495 2511	пищевая аллергия
+T64	Disease 97 105	Поллиноз
+T6	Severity 48 77	легкое персистирующее течение
+T60	Symptom 1555 1573	симптомы поллиноза
+T33	Symptom 3001 3021	Менингеальных знаков
+T7	Course 166 174	ремиссия
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T20	Body_location 1288 1295	в глаза
+T40	Disease 2070 2107	Бронхиальная астма, атопическая форма
+T52	Drug 2360 2365	эриус
+T63	Treatment 1258 1310	В терапии кромогексал в нос и в глаза, зиртек внутрь
+T49	Treatment 2295 2365	В терапии серетид 100/50 мкг по 1 инг 2 раза в день, фликсоназе, эриус
+T15	Disease 994 997	ОРИ
+T32	Body_location 2950 2956	сердца
+T44	Disease 2198 2225	сезонная бронхиальная астма
+T28	Drug 1458 1473	гомеопатическое
+T34	Symptom 2975 2999	Стул, диурез не нарушены
+T14	Disease 951 973	респираторные инфекции
+N1	Reference T12 UMLS:C0149696	пищевая аллергия
+N2	Reference T56 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N3	Reference T19 UMLS:C0028429	нос
+N4	Reference T11 UMLS:C0008049	ветряная оспа
+N5	Reference T31 UMLS:C0024109	легкие
+N6	Reference T66 UMLS:C0056257	контактины
+N7	Reference T58 UMLS:C0553668	затруднение дыхания
+N8	Reference T61 UMLS:C0221725	бронхиальная обструкция
+N9	Reference T24 UMLS:C0948421	пик кардиостимулятора на электрокардиограмме
+N10	Reference T26 UMLS:C0054201	будесонид
+N11	Reference T50 UMLS:C0939232	серетид
+N12	Reference T39 UMLS:CUILESS	патология
+N13	Reference T47 UMLS:C0853946	обострение боли
+N14	Reference T5 UMLS:C0155825	хронический фарингит
+N15	Reference T2 UMLS:C2607914	аллергический ринит
+N16	Reference T41 UMLS:CUILESS	астма, хроническая
+N17	Reference T38 UMLS:C4505235	розовые
+N18	Reference T22 UMLS:C0850149	кашель, непродуктивный
+N19	Reference T43 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N20	Reference T51 UMLS:C0082607	флутиказон
+N21	Reference T8 UMLS:CUILESS	хронический ринит
+N22	Reference T45 UMLS:C0853946	обострение боли
+N23	Reference T46 UMLS:CUILESS	хронический ринит
+N24	Reference T57 UMLS:C0684199	гомеопатия
+N25	Reference T13 UMLS:C0012155	медицинская диета
+N26	Reference T4 UMLS:C2919352	сезонная астма
+N27	Reference T48 UMLS:C1868833	утолщение бронхиальной стенки
+N28	Reference T36 UMLS:C0035234	хрипы
+N29	Reference T18 UMLS:C0282555	противоаллергические средства
+N30	Reference T21 UMLS:C0055147	цетиризин
+N31	Reference T17 UMLS:C0553668	затруднение дыхания
+N32	Reference T42 UMLS:C2607914	аллергический ринит
+N33	Reference T16 UMLS:C0850149	кашель, непродуктивный
+N34	Reference T65 UMLS:C0001927	сальбутамол
+N35	Reference T54 UMLS:C0011615	атопический дерматит
+N36	Reference T62 UMLS:C0239324	удлиненный выдох
+N37	Reference T9 UMLS:C0242793	период ремиссии
+N38	Reference T10 UMLS:C0850149	кашель, непродуктивный
+N39	Reference T25 UMLS:C0015840	фенотерол
+N40	Reference T23 UMLS:C0003209	противовоспалительные средства
+N41	Reference T35 UMLS:C2230284	тоны сердца
+N42	Reference T37 UMLS:C0231855	нормальная аускультативная картина в легких
+N43	Reference T59 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N44	Reference T27 UMLS:C0024911	гомеопатические средства
+N45	Reference T3 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N46	Reference T29 UMLS:C0521367	ротовая полость
+N47	Reference T30 UMLS:C1123023	кожа
+N48	Reference T55 UMLS:C0028778	обструкция, бду
+N49	Reference T53 UMLS:C0149696	пищевая аллергия
+N50	Reference T64 UMLS:C0018621	поллиноз
+N51	Reference T6 UMLS:CUILESS	астма, хроническая
+N52	Reference T60 UMLS:C0018621	поллиноз
+N53	Reference T33 UMLS:C0025287	менингеальные знаки
+N54	Reference T7 UMLS:C0242793	период ремиссии
+N55	Reference T1 UMLS:C0004096	астма бронхиальная
+N56	Reference T20 UMLS:C0848383	язва глаза
+N57	Reference T40 UMLS:C0004096	астма бронхиальная
+N58	Reference T52 UMLS:C2923532	дезлоратадин:массконц:тчкврм:кр:колич
+N59	Reference T63 UMLS:C0013154	противоаллергические средства
+N60	Reference T49 UMLS:C0013154	противоаллергические средства
+N61	Reference T15 UMLS:C0035243	респираторные инфекции
+N62	Reference T32 UMLS:C0018787	сердце
+N63	Reference T44 UMLS:C2919352	сезонная астма
+N64	Reference T28 UMLS:C0024911	гомеопатические средства
+N65	Reference T34 UMLS:CUILESS	мягкий стул
+N66	Reference T14 UMLS:C0035243	респираторные инфекции
+#1	AnnotatorNotes T26	first_annotator_label: C0054201||synonyms: будезонид|budezonid|будесонид|budesonid||||second_annotator_label: C1831025||synonyms: будесонид:массконц:тчкврм:моча:колич||||third_annotator_label: C0002421||synonyms: амброксол|ambroksol|bromgeksina metabolit viii|na 872|бромгексина метаболит viii||||bert: C0034102||synonyms: пульпэктомия|pul'pektomiia||||
+#2	AnnotatorNotes T39	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||
+#3	AnnotatorNotes T41	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0694548||synonyms: кашлевая астма||||third_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#4	AnnotatorNotes T51	first_annotator_label: C0082607||synonyms: флутиказон|flutikazon|фликсотид|кутивейт|fliksotid||||second_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C0027556||synonyms: нефопам|nefopam|fenazoksin|феназоксин||||
+#5	AnnotatorNotes T8	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#6	AnnotatorNotes T46	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#7	AnnotatorNotes T13	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0452415||synonyms: диета здоровая|здоровая диета|zdorovaia dieta|здоровое питание|zdorovoe pitanie||||bert: C1168272||synonyms: чередование запора и диареи|чередование запора и поноса||||
+#8	AnnotatorNotes T18	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0012694||synonyms: кромолин-натрий|kromolin-natrii|dinatriia kromoglikat|intal|kromoglikat-natrii||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0008296||synonyms: хлорзоксазон|khlorzoksazon||||
+#9	AnnotatorNotes T9	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#10	AnnotatorNotes T23	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C3267030||synonyms: неполный курс вакцинации||||third_annotator_label: None||synonyms: ||||bert: C0008594||synonyms: хромоны|khromony||||
+#11	AnnotatorNotes T37	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#12	AnnotatorNotes T29	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#13	AnnotatorNotes T6	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0694548||synonyms: кашлевая астма||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#14	AnnotatorNotes T7	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#15	AnnotatorNotes T63	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0853499||synonyms: результаты эндоскопии верхних отделов желудочно-кишечного тракта в норме|результаты эндоскопии верхних отделов желудочно-кишечного тракта в пределах нормы||||
+#16	AnnotatorNotes T49	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0804089||synonyms: гастрин^50 минут после 0.2 ед/кг секретина:массконц:тчкврм:сыв/плаз:колич||||
+#17	AnnotatorNotes T34	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C1167965||synonyms: увеличение диуреза||||third_annotator_label: None||synonyms: ||||bert: C1167965||synonyms: увеличение диуреза||||

@@ -1,0 +1,65 @@
+T18	Symptom 747 790	множественные эритематозно-сквамозные очаги
+T30	Disease 469 491	атопического дерматита
+T5	Symptom 163 172	высыпания
+T15	Disease 642 662	атопический дерматит
+T14	Drug 587 593	зиртек
+T31	Body_location 820 823	Зев
+T2	Course 55 65	обострение
+T26	Symptom 914 947	Сердечные тоны звучные, ритмичные
+T10	Drug 543 551	драполен
+T17	Symptom 731 745	бледно-розовые
+T22	Symptom 833 869	Носовое дыхание несколько затруднено
+T3	Disease 68 95	Гипертрофия небных миндалин
+T23	Symptom 880 900	дыхание везикулярное
+T6	Body_location 173 180	на коже
+T21	Symptom 820 831	Зев спокоен
+T16	Body_location 715 729	Кожные покровы
+T9	Drug 533 541	скин-кап
+T19	Symptom 792 805	лихенификация
+T29	Symptom 1043 1063	Менингеальных знаков
+T8	Treatment 523 593	В терапии скин-кап, драполен, бепантен, сложные мази, акридерм, зиртек
+T20	Symptom 807 818	экскориации
+T28	Symptom 1013 1028	Стул регулярный
+T27	Symptom 1000 1007	дизурии
+T24	Symptom 902 908	хрипов
+T1	Disease 9 53	Атопический дерматит, распространенная форма
+T4	Severity 96 102	2-3 ст
+T12	Drug 563 575	сложные мази
+T32	Body_location 80 95	небных миндалин
+T25	Body_location 871 879	В лёгких
+T13	Drug 577 585	акридерм
+T11	Drug 553 561	бепантен
+N1	Reference T18 UMLS:C0014747	эритемато-сквамозный дерматоз
+N2	Reference T30 UMLS:C0011615	атопический дерматит
+N3	Reference T5 UMLS:C0302295	высыпание
+N4	Reference T15 UMLS:C0011615	атопический дерматит
+N5	Reference T14 UMLS:C0055147	цетиризин
+N6	Reference T31 UMLS:C0521367	ротоглотка
+N7	Reference T2 UMLS:C0853946	обострение боли
+N8	Reference T26 UMLS:C0018810	сердечный ритм
+N9	Reference T10 UMLS:C0003205	антисептики
+N10	Reference T17 UMLS:C4505235	розовые
+N11	Reference T22 UMLS:C0853254	раздражение носовых ходов
+N12	Reference T3 UMLS:C0272386	гипертрофия миндалин
+N13	Reference T23 UMLS:C0231855	нормальная аускультативная картина в легких
+N14	Reference T6 UMLS:C1123023	кожа
+N15	Reference T21 UMLS:CUILESS	норма рабочая
+N16	Reference T16 UMLS:C1123023	кожа
+N17	Reference T9 UMLS:C3494477	крем для кожи
+N18	Reference T19 UMLS:C0023653	лихенификация
+N19	Reference T29 UMLS:C0025287	менингеальные знаки
+N20	Reference T8 UMLS:C0854631	терапия с трансплантацией пуповинной крови
+N21	Reference T20 UMLS:C0015256	экскориация
+N22	Reference T28 UMLS:C0577115	мягкий стул
+N23	Reference T27 UMLS:C0013428	дизурия
+N24	Reference T24 UMLS:C3887661	хрип
+N25	Reference T1 UMLS:C0011615	атопический дерматит
+N26	Reference T12 UMLS:C0028912	крем для кожи
+N27	Reference T32 UMLS:C0040421	миндалины небные
+N28	Reference T25 UMLS:C0024109	легкие
+N29	Reference T13 UMLS:C0005308	бетаметазон
+N30	Reference T11 UMLS:C3494477	крем для кожи
+#1	AnnotatorNotes T23	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#2	AnnotatorNotes T21	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||third_annotator_label: None||synonyms: ||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#3	AnnotatorNotes T9	first_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||second_annotator_label: C0373748||synonyms: zn|цинк|двухвалентный цинк||||third_annotator_label: C0011625||synonyms: дерматологические средства|dermatologicheskie sredstva|kozhnye sredstva|кожные средства||||bert: C0036270||synonyms: кожа волосистой части головы|kozha volosistoi chasti golovy|skal'p|volosistaia chast' kozhi golovy|волосистая часть кожи головы||||
+#4	AnnotatorNotes T12	first_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0028912||synonyms: мази|mazi|pasty|пасты||||bert: C0035233||synonyms: респираторные защитные приспособления|respiratornye zashchitnye prisposobleniia|dykhatel'nye zashchitnye prisposobleniia|gazovye maski|respiratory fabrichnye||||

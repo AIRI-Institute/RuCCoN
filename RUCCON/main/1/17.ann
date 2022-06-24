@@ -1,0 +1,160 @@
+T29	Disease 947 967	атопический дерматит
+T18	Symptom 439 448	шелушение
+T4	Disease 82 102	Атопический дерматит
+T25	Disease 732 740	дифтерия
+T28	Disease 883 945	врожденное иммунодефицитное состояние с гипогаммаглобулинемией
+T66	Body_location 2151 2159	В лёгких
+T14	Body_location 268 286	толстого кишечника
+T8	Disease 154 178	Дискинезия желчных путей
+T52	Drug 1654 1664	пульмикорт
+T32	Drug 1016 1028	пентаглобина
+T49	Drug 1577 1584	серетид
+T71	Symptom 2293 2321	Стул регулярный, оформленный
+T2	Severity 48 70	средне-тяжелое течение
+T24	Disease 719 730	полиомиелит
+T9	Body_location 165 178	желчных путей
+T31	Treatment 986 1096	В терапии неоднократные курсы пентаглобина, полиоксидония, ликопида, местно – глюкокортикостероидные препараты
+T22	Disease 651 656	грипп
+T64	Symptom 2101 2111	Зев рыхлый
+T69	Symptom 2194 2227	Сердечные тоны звучные, ритмичные
+T53	Treatment 1705 1735	получает фликсотид 100 мкг/сут
+T67	Symptom 2160 2180	дыхание везикулярное
+T5	Course 104 121	подострое течение
+T33	Drug 1030 1043	полиоксидония
+T36	Disease 1143 1163	атопический дерматит
+T46	Drug 1519 1527	атровент
+T23	Disease 658 661	ОРИ
+T12	Body_location 235 255	поджелудочной железы
+T19	Symptom 450 467	длительный кашель
+T48	Treatment 1574 1595	на серетид и беродуал
+T55	Treatment 1787 1842	при приеме зиртека в каплях и кромогексала в ингаляциях
+T50	Drug 1587 1595	беродуал
+T43	Treatment 1425 1458	получал антибактериальную терапию
+T44	Treatment 1495 1527	пульмикорт 500 мкг/сут, атровент
+T57	Drug 1817 1829	кромогексала
+T10	Body_location 198 213	желчного пузыря
+T38	Treatment 1189 1236	Лечился местными кортикостероидными препаратами
+T13	Disease 257 286	Дискинезия толстого кишечника
+T16	Disease 334 363	Энурез, неврозоподобная форма
+T20	Symptom 469 476	энурез.
+T56	Drug 1798 1805	зиртека
+T65	Symptom 2113 2149	Носовое дыхание несколько затруднено
+T72	Symptom 2323 2343	Менингеальных знаков
+T26	Disease 742 751	столбняк.
+T73	Symptom 187 213	деформации желчного пузыря
+T62	Body_location 2062 2076	Кожные покровы
+T35	Treatment 1064 1096	глюкокортикостероидные препараты
+T34	Drug 1045 1053	ликопида
+T41	Treatment 1302 1336	в терапии муколитические препараты
+T39	Symptom 1273 1279	кашель
+T70	Symptom 2280 2287	дизурии
+T11	Disease 215 255	Вторичные изменения поджелудочной железы
+T30	Severity 968 984	тяжелого течения
+T21	Body_location 433 437	кожи
+T51	Treatment 1645 1664	назначен пульмикорт
+T68	Symptom 2182 2188	хрипов
+T17	Symptom 425 432	сухость
+T58	Treatment 1850 1892	Получил 2 курса  антибактериальной терапии
+T47	Disease 1469 1484	бронхопневмонии
+T3	Course 72 80	ремиссия
+T60	Drug 1867 1892	антибактериальной терапии
+T1	Disease 9 46	Бронхиальная астма, атопическая форма
+T42	Drug 1312 1336	муколитические препараты
+T6	Disease 123 142	Аллергический ринит
+T40	Disease 1297 1300	ОРИ
+T63	Symptom 2077 2099	чистые, бледно-розовые
+T7	Course 144 152	ремиссия
+T15	Disease 288 332	Синдром дефицита внимания с гиперактивностью
+T45	Drug 1495 1505	пульмикорт
+T27	Disease 802 824	атопического дерматита
+T54	Drug 1714 1723	фликсотид
+T61	Symptom 1938 1972	ночное и дневное неудержание мочи.
+T37	Severity 1165 1187	средне-тяжелое течение
+T59	Disease 1903 1912	лямблиоза
+N1	Reference T29 UMLS:C0011615	атопический дерматит
+N2	Reference T18 UMLS:C0282576	шелушение
+N3	Reference T4 UMLS:C0011615	атопический дерматит
+N4	Reference T25 UMLS:C0012546	дифтерия
+N5	Reference T28 UMLS:C1457897	врожденная гипогаммаглобулинемия
+N6	Reference T66 UMLS:C0024109	легкие
+N7	Reference T14 UMLS:C0021851	кишечник толстый
+N8	Reference T8 UMLS:C0005416	желчных путей дискинезия
+N9	Reference T52 UMLS:C0054201	будесонид
+N10	Reference T32 UMLS:C0202081	иммуноглобулины
+N11	Reference T49 UMLS:C0939232	серетид
+N12	Reference T71 UMLS:CUILESS	мягкий стул
+N13	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N14	Reference T24 UMLS:C0032371	полиомиелит
+N15	Reference T9 UMLS:C0005423	желчные пути
+N16	Reference T31 UMLS:C0030888	пентозана полисульфат
+N17	Reference T22 UMLS:C0021400	грипп
+N18	Reference T64 UMLS:C0521367	ротоглотка
+N19	Reference T69 UMLS:C2712143	нормальный сердечный ритм
+N20	Reference T53 UMLS:C0744425	терапия глюкокортикостероидами
+N21	Reference T67 UMLS:UNKNOWN	жесткое дыхание при аускультации легких
+N22	Reference T5 UMLS:CUILESS	степень ухудшения бду
+N23	Reference T33 UMLS:C0001551	иммуномодуляторы
+N24	Reference T36 UMLS:C0011615	атопический дерматит
+N25	Reference T46 UMLS:C0242897	холинолитики
+N26	Reference T23 UMLS:C0035243	респираторные инфекции
+N27	Reference T12 UMLS:C0030274	поджелудочная железа
+N28	Reference T19 UMLS:C0010201	привычный кашель
+N29	Reference T48 UMLS:C0015121	натрия этидронат
+N30	Reference T55 UMLS:UNKNOWN	антиаллергическая терапия
+N31	Reference T50 UMLS:C0015840	фенотерол
+N32	Reference T43 UMLS:C0854602	местная антибактериальная терапия
+N33	Reference T44 UMLS:UNKNOWN	терапия глюкокортикостероидами
+N34	Reference T57 UMLS:C0282555	антиаллергические средства
+N35	Reference T10 UMLS:C0016976	желчный пузырь
+N36	Reference T38 UMLS:C0854636	терапия кортикостероидами
+N37	Reference T13 UMLS:C0013384	дискинезии
+N38	Reference T16 UMLS:C0856078	энурез, обострение
+N39	Reference T20 UMLS:C0014394	энурез
+N40	Reference T56 UMLS:C0055147	цетиризин
+N41	Reference T65 UMLS:C0853254	раздражение носовых ходов
+N42	Reference T72 UMLS:C0025287	менингеальные знаки
+N43	Reference T26 UMLS:C0039614	столбняк
+N44	Reference T73 UMLS:C1397947	перегиб желчного пузыря
+N45	Reference T62 UMLS:C1123023	кожа
+N46	Reference T35 UMLS:C0744425	терапия глюкокортикостероидами
+N47	Reference T34 UMLS:C0001551	иммуномодуляторы
+N48	Reference T41 UMLS:C0015314	муколитические средства
+N49	Reference T39 UMLS:C0010200	кашель
+N50	Reference T70 UMLS:C0013428	дизурия
+N51	Reference T11 UMLS:C0030286	поджелудочной железы болезни
+N52	Reference T30 UMLS:CUILESS	степень ухудшения бду
+N53	Reference T21 UMLS:C1123023	кожа
+N54	Reference T51 UMLS:C0744425	терапия глюкокортикостероидами
+N55	Reference T68 UMLS:C3887661	хрип
+N56	Reference T17 UMLS:C0151908	сухая кожа
+N57	Reference T58 UMLS:C0854606	системная антибактериальная терапия
+N58	Reference T47 UMLS:C0006285	бронхопневмония
+N59	Reference T3 UMLS:C0035053	ремиссия спонтанная
+N60	Reference T60 UMLS:C0279516	антибактериальные средства
+N61	Reference T1 UMLS:C0004096	астма бронхиальная
+N62	Reference T42 UMLS:C0015314	муколитические средства
+N63	Reference T6 UMLS:C2607914	аллергический ринит
+N64	Reference T40 UMLS:C0035243	респираторные инфекции
+N65	Reference T63 UMLS:CUILESS	норма рабочая
+N66	Reference T7 UMLS:C0035053	ремиссия спонтанная
+N67	Reference T15 UMLS:C1263846	гиперактивности синдром с дефицитом внимания
+N68	Reference T45 UMLS:C0054201	будесонид
+N69	Reference T27 UMLS:C0011615	атопический дерматит
+N70	Reference T54 UMLS:C0082607	фликсотид
+N71	Reference T61 UMLS:C0042024	недержание мочи
+N72	Reference T37 UMLS:CUILESS	степень ухудшения бду
+N73	Reference T59 UMLS:C0017536	лямблиоз
+#1	AnnotatorNotes T71	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#2	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026068||synonyms: средний восток|srednii vostok|ближний восток|blizhnii vostok||||
+#3	AnnotatorNotes T53	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1147679||synonyms: базофилы/100 лейкоцитов:колдоля:тчкврм:плевр ждк:колич:ручной подсчет||||
+#4	AnnotatorNotes T67	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T5	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0038559||synonyms: подводная медицина|meditsina podvodnaia|podvodnaia meditsina|медицина подводная||||
+#6	AnnotatorNotes T19	first_annotator_label: C5208161||synonyms: привычный кашель||||second_annotator_label: C0850149||synonyms: кашель, непродуктивный|сухой кашель||||third_annotator_label: C0010201||synonyms: хронический кашель||||bert: C0425945||synonyms: длительные менструации|длительные месячные|удлинение менструации|меностаксис||||
+#7	AnnotatorNotes T55	first_annotator_label: C1535925||synonyms: антиаллергическая терапия||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0856367||synonyms: иссечение базально-клеточного рака кожи||||
+#8	AnnotatorNotes T44	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C3482110||synonyms: мегакариоцит ядра/100 лейкоцитов:колдоля:тчкврм:кр:колич:ручной подсчет||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3482110||synonyms: мегакариоцит ядра/100 лейкоцитов:колдоля:тчкврм:кр:колич:ручной подсчет||||
+#9	AnnotatorNotes T13	first_annotator_label: C0013384||synonyms: дискинезии|diskinezii|dvizheniia neproizvol'nye|tremor diskineticheskii|дискинетический синдром||||second_annotator_label: C4545065||synonyms: инфекция толстого кишечника||||third_annotator_label: C1869094||synonyms: дискинезия (smq)||||bert: C0232168||synonyms: дискинезия желудочка||||
+#10	AnnotatorNotes T73	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0016977||synonyms: желчного пузыря болезни|zhelchnogo puzyria bolezni|нарушение со стороны желчного пузыря, бду|заболевание желчного пузыря, бду|нарушение со стороны желчного пузыря||||third_annotator_label: C0876968||synonyms: патологии желчного пузыря, нкдр||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#11	AnnotatorNotes T30	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#12	AnnotatorNotes T51	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0033867||synonyms: психиатров помощники|psikhiatrov pomoshchniki|sanitary psikhiatricheskikh uchrezhdenii|санитары психиатрических учреждений||||
+#13	AnnotatorNotes T63	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||
+#14	AnnotatorNotes T37	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026068||synonyms: средний восток|srednii vostok|ближний восток|blizhnii vostok||||

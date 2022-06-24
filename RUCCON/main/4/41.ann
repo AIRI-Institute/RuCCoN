@@ -1,0 +1,138 @@
+T3	Course 73 83	обострение
+T12	Symptom 315 343	приступы затруднения дыхания
+T18	Disease 785 807	атопического дерматита
+T64	Disease 1343 1363	бронхиального спазма
+T62	Disease 954 977	обструктивным синдромом
+T27	Disease 1300 1325	обструктивными бронхитами
+T47	Disease 2565 2583	бронхиальная астма
+T58	Symptom 2954 2974	Менингеальных знаков
+T26	Disease 1229 1251	респираторные инфекции
+T2	Severity 42 71	легкое персистирующее течение
+T8	Course 178 200	компенсированная форма
+T15	Disease 713 719	коклюш
+T44	Symptom 2429 2448	затруднения дыхания
+T33	Disease 1752 1789	правосторонняя нижнедолевая пневмония
+T55	Symptom 2806 2824	с жестким оттенком
+T66	Drug 1118 1127	кетотифен
+T4	Disease 85 104	Аллергический ринит
+T25	Treatment 1168 1193	антигистаминные препараты
+T34	Treatment 1791 1852	В терапии антибактериальные препараты, ингаляции с беродуалом
+T41	Treatment 2312 2358	В терапии ингаляции с беродуалом, пульмикортом
+T37	Symptom 2009 2037	затруднения носового дыхания
+T48	Body_location 2700 2714	Кожные покровы
+T9	Disease 202 218	Варикоцеле слева
+T65	Severity 106 120	персистирующий
+T17	Disease 736 744	краснуха
+T51	Symptom 2744 2773	Носовое дыхание не затруднено
+T35	Drug 1842 1852	беродуалом
+T54	Symptom 2826 2832	хрипов
+T5	Disease 122 153	Искривление носовой перегородки
+T6	Body_location 134 153	носовой перегородки
+T30	Disease 1519 1541	респираторных инфекций
+T31	Disease 1595 1631	левостороннюю нижнедолевую пневмонию
+T52	Body_location 2775 2783	В лёгких
+T45	Treatment 2508 2528	ингаляцией вентолина
+T63	Disease 2100 2117	острой крапивницы
+T19	Treatment 824 883	топическими стероидами и приемом антигистаминных препаратов
+T49	Symptom 2715 2729	бледно-розовые
+T57	Symptom 2924 2952	Стул регулярный, оформленный
+T10	Disease 220 256	Перелом среднего пальца правой кисти
+T50	Symptom 2731 2742	Зев спокоен
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T32	Treatment 1633 1685	В терапии антибактериальные, муколитические средства
+T61	Disease 2182 2212	риноконъюнктивального синдрома
+T14	Symptom 497 515	угрозой прерывания
+T43	Drug 2346 2358	пульмикортом
+T53	Symptom 2784 2804	дыхание везикулярное
+T60	Drug 1384 1395	кленбутерол
+T42	Drug 2334 2344	беродуалом
+T13	Symptom 395 433	болезненность 3-го пальца правой кисти
+T11	Body_location 228 256	среднего пальца правой кисти
+T7	Disease 155 176	Хронический тонзиллит
+T59	Symptom 588 629	Раннее психомоторное развитие по возрасту
+T22	Treatment 996 1073	В терапии симптоматические средства, антибактериальные препараты, кленбутерол
+T23	Drug 1062 1073	кленбутерол
+T36	Symptom 1921 1938	заложенность носа
+T46	Drug 2519 2528	вентолина
+T16	Disease 721 734	ветряная оспа
+T56	Symptom 2838 2871	Сердечные тоны звучные, ритмичные
+T29	Treatment 1370 1395	использовался кленбутерол
+T40	Disease 2265 2287	респираторной инфекции
+T24	Treatment 1102 1127	Курсом принимал кетотифен
+T20	Disease 929 932	ОРИ
+N1	Reference T3 UMLS:C0853946	обострение боли
+N2	Reference T12 UMLS:C0424332	приступ задержки дыхания
+N3	Reference T18 UMLS:C0011615	атопический дерматит
+N4	Reference T64 UMLS:C0006266	бронхиальный спазм
+N5	Reference T62 UMLS:CUILESS	обструктивный шок
+N6	Reference T27 UMLS:C0865791	обструктивный бронхит
+N7	Reference T47 UMLS:C0004096	бронхиальная астма
+N8	Reference T58 UMLS:C0025287	менингеальные знаки
+N9	Reference T26 UMLS:C0035243	респираторные инфекции
+N10	Reference T2 UMLS:CUILESS	астма, хроническая
+N11	Reference T8 UMLS:CUILESS	компенсаторная пауза
+N12	Reference T15 UMLS:C0043167	коклюш
+N13	Reference T44 UMLS:C0553668	затруднение дыхания
+N14	Reference T33 UMLS:C0032285	пневмония
+N15	Reference T55 UMLS:C3666016	жесткое дыхание при аускультации легких
+N16	Reference T66 UMLS:C0022642	кетотифен
+N17	Reference T4 UMLS:C2607914	аллергический ринит
+N18	Reference T25 UMLS:C1504374	антигистаминная терапия
+N19	Reference T34 UMLS:C0013154	системная антибактериальная терапия
+N20	Reference T41 UMLS:C0013154	введение лекарств ингаляционное
+N21	Reference T37 UMLS:C0553668	затруднение дыхания
+N22	Reference T48 UMLS:C1123023	кожа
+N23	Reference T9 UMLS:C0042341	варикоцеле
+N24	Reference T65 UMLS:CUILESS	хронический ринит
+N25	Reference T17 UMLS:C0035920	краснуха
+N26	Reference T51 UMLS:C0035203	дыхание
+N27	Reference T35 UMLS:C0015840	фенотерол
+N28	Reference T54 UMLS:C3887661	хрип
+N29	Reference T5 UMLS:C0549397	искривление перегородки носа
+N30	Reference T6 UMLS:C0027432	носа перегородка
+N31	Reference T30 UMLS:C0035243	респираторные инфекции
+N32	Reference T31 UMLS:C0032285	пневмония
+N33	Reference T52 UMLS:C0024109	легкие
+N34	Reference T45 UMLS:C0004048	ингаляция
+N35	Reference T63 UMLS:C0234935	острая крапивница
+N36	Reference T19 UMLS:C0013154	антигистаминная терапия
+N37	Reference T49 UMLS:C4505235	розовые
+N38	Reference T57 UMLS:CUILESS	мягкий стул
+N39	Reference T10 UMLS:C4087378	перелом пальца
+N40	Reference T50 UMLS:C0521367	ротоглотка
+N41	Reference T1 UMLS:C0004096	астма, бронхиальная
+N42	Reference T32 UMLS:C0279516	антимикобактериальные средства
+N43	Reference T61 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N44	Reference T14 UMLS:C0000821	угроза выкидыша
+N45	Reference T43 UMLS:C0054201	будесонид
+N46	Reference T53 UMLS:C0438186	результаты исследования функции внешнего дыхания в норме, бду
+N47	Reference T60 UMLS:C0008932	кленбутерол
+N48	Reference T42 UMLS:C0015840	фенотерол
+N49	Reference T13 UMLS:C0239833	пальцы кисти
+N50	Reference T11 UMLS:C0857008	глухота правого уха
+N51	Reference T7 UMLS:C0149517	хронический тонзиллит
+N52	Reference T59 UMLS:C0235909	нарушение психомоторного развития
+N53	Reference T22 UMLS:C0013154	системная антибактериальная терапия
+N54	Reference T23 UMLS:C0008932	кленбутерол
+N55	Reference T36 UMLS:C0027424	заложенность носа
+N56	Reference T46 UMLS:C0001927	сальбутамол
+N57	Reference T16 UMLS:C0008049	ветряная оспа
+N58	Reference T56 UMLS:C0018810	сердечный ритм
+N59	Reference T29 UMLS:C0008932	адреномиметики
+N60	Reference T40 UMLS:C0035243	респираторные инфекции
+N61	Reference T24 UMLS:C0013154	обезболивающие средства общего действия
+N62	Reference T20 UMLS:C0035243	респираторные инфекции
+#1	AnnotatorNotes T12	first_annotator_label: C0424332||synonyms: приступ задержки дыхания||||second_annotator_label: C0474454||synonyms: приступ апноэ|эпизод апноэ|случай апноэ|событие апноэ||||third_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||bert: C0424332||synonyms: приступ задержки дыхания||||
+#2	AnnotatorNotes T62	first_annotator_label: C3665783||synonyms: обструктивный шок||||second_annotator_label: C0039082||synonyms: синдром|sindrom||||third_annotator_label: C0028778||synonyms: непроходимость|обструкция, бду||||bert: C3665783||synonyms: обструктивный шок||||
+#3	AnnotatorNotes T2	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#4	AnnotatorNotes T8	first_annotator_label: C2363928||synonyms: компенсаторная пауза||||second_annotator_label: C0040425||synonyms: тонзиллит|tonzillit|тонзиллит, бду|воспаление миндалин||||third_annotator_label: None||synonyms: ||||bert: C2363928||synonyms: компенсаторная пауза||||
+#5	AnnotatorNotes T55	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0024109||synonyms: легкие|legkie||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#6	AnnotatorNotes T34	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0161485||synonyms: отравление антибактериальными препаратами|отравление антибиотиками|отравление неуточненным антибиотиком||||
+#7	AnnotatorNotes T41	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C2317067||synonyms: лекарственной терапии амбулаторной мониторинг|lekarstvennoi terapii ambulatornoi monitoring||||
+#8	AnnotatorNotes T65	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0086066||synonyms: ринит||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#9	AnnotatorNotes T19	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3203602||synonyms: антитела к топоизомеразе||||
+#10	AnnotatorNotes T57	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0489144||synonyms: стул:вид:тчкврм:нижний жк тракт:ном||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#11	AnnotatorNotes T13	first_annotator_label: C0016129||synonyms: пальцы кисти|pal'tsy kisti||||second_annotator_label: C0239833||synonyms: болезненная кисть|боль в кистях||||third_annotator_label: C0239589||synonyms: боль в пальцах рук||||bert: C0080180||synonyms: спумавирус|spumavirus|bychii sintsitial'nyi virus|khomiachkov spumavirus|koshachii sintsitii-obrazuiushchii virus||||
+#12	AnnotatorNotes T22	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0854602||synonyms: местная антибактериальная терапия||||
+#13	AnnotatorNotes T29	first_annotator_label: C0001637||synonyms: адренергические средства|adrenergicheskie sredstva|adrenergicheskie mediatory, ugnetaiushchie sredstva|adrenergicheskikh neironov sredstva|adrenoliticheskie sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0008932||synonyms: кленбутерол|klenbuterol||||bert: C0271278||synonyms: веретено крукенберга||||
+#14	AnnotatorNotes T24	first_annotator_label: C0017302||synonyms: анестезирующие средства общего действия|anesteziruiushchie sredstva obshchego deistviia|anestetiki obshchego deistviia|obezbolivaiushchie sredstva obshchego deistviia|анестетики общего действия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0280440||synonyms: уход за катетером||||

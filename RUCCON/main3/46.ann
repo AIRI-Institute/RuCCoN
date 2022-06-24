@@ -1,0 +1,414 @@
+T194	Body_location 21156 21159	ОЖП
+T134	Drug 8507 8514	трентал
+T160	Severity 11737 11740	69%
+T16	Disease 1471 1494	артериальная гипертония
+T21	Disease 2041 2057	зоб I-II степени
+T68	Symptom 16811 16826	ишемии миокарда
+T49	Body_location 21251 21271	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T166	Body_location 13060 13068	миокарда
+T172	Severity 13471 13477	2,5 мм
+T11	Disease 717 721	ДМПП
+T149	Body_location 10823 10825	ЛЖ
+T53	Body_location 21661 21670	ЛИМФОУЗЛЫ
+T8	Severity 567 573	1-2 ст
+T182	Body_location 16094 16113	Мочеполовая система
+T38	Drug 23795 23805	Тромбо АСС
+T2	Body_location 83 108	миокарда левого желудочка
+T33	Drug 24662 24672	Тромбо АСС
+T144	Drug 9887 9896	тромбоАСС
+T102	Body_location 4348 4379	Двустворчатый аортальный клапан
+T193	Body_location 20667 20682	Костная система
+T91	Drug 7056 7066	цитофлавин
+T162	Symptom 12529 12556	Расширение обоих предсердий
+T145	Treatment 9817 9896	клацида, терапия капотеном 18,75 мг х 3 р/д, предуктал 35 мг х 2 р/д, тромбоАСС
+T39	Drug 23761 23771	Верошпирон
+T197	Symptom 24019 24037	синдрома холестаза
+T124	Symptom 7559 7580	боли в области сердца
+T117	Symptom 2633 2653	изменения в миокарде
+T168	Symptom 13209 13224	ишемии миокарда
+T51	Body_location 21585 21592	ЖЕЛУДОК
+T129	Severity 7925 7928	67%
+T10	Body_location 615 635	желчевыводящих путей
+T125	Body_location 7574 7580	сердца
+T135	Drug 8528 8537	предуктал
+T114	Body_location 6425 6433	миокарда
+T169	Body_location 13379 13387	миокарда
+T18	Disease 1874 1887	ветряная оспа
+T181	Body_location 15991 15997	Печень
+T163	Body_location 12707 12723	левого желудочка
+T158	Drug 11456 11462	клацид
+T183	Body_location 16184 16199	Нервная система
+T45	Body_location 22404 22416	ПРАВАЯ ПОЧКА
+T153	Severity 11435 11437	II
+T154	Severity 11423 11430	II А ст
+T69	Symptom 16549 16560	гипертрофии
+T30	Symptom 3337 3347	увеличения
+T196	Body_location 22943 22953	Мочеточник
+T186	Symptom 18995 19017	эмбриональном миокарде
+T189	Body_location 19901 19917	легочной артерии
+T155	Symptom 11420 11422	НК
+T63	Body_location 18632 18662	ЗАДНЯЯ СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА
+T24	Symptom 2423 2432	нарушения
+T150	Symptom 10796 10822	Повышенная трабекулярность
+T127	Symptom 7746 7777	Неполная блокада правой ножки п
+T174	Body_location 14895 14910	Костная система
+T64	Body_location 18228 18245	ПРАВОЕ ПРЕДСЕРДИЕ
+T115	Symptom 1039 1059	легочная гипертензия
+T151	Disease 11323 11356	неклассифицируемую кардиомиопатию
+T9	Symptom 604 614	Дискинезия
+T28	Body_location 2790 2800	предсердий
+T85	Symptom 5240 5272	нарушения диастолической функции
+T152	Body_location 11371 11395	миокард левого желудочка
+T190	Symptom 19872 19890	повышение давления
+T54	Body_location 21065 21078	Воротная вена
+T94	Drug 7116 7123	хофитол
+T13	Symptom 793 804	гипертрофии
+T62	Body_location 19019 19036	МИТРАЛЬНЫЙ КЛАПАН
+T185	Body_location 18831 18857	правого и левого желудочка
+T60	Body_location 18381 18396	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T98	Symptom 5750 5770	легочную гипертензию
+T113	Treatment 1419 1425	конкор
+T165	Symptom 13048 13085	гипертрофии миокарда обоих желудочков
+T44	Body_location 21792 21803	ЛЕВАЯ ПОЧКА
+T105	Symptom 4457 4477	кальциноза перикарда
+T159	Treatment 11443 11462	вильпрафен и клацид
+T1	Symptom 56 82	Повышенная трабекулярность
+T37	Drug 23847 23854	Урдокса
+T84	Symptom 13816 13836	легочная гипертензия
+T12	Body_location 805 813	миокарда
+T109	Symptom 1132 1164	нарушение процесса реполяризации
+T58	Body_location 19358 19375	НИЖНЯЯ ПОЛАЯ ВЕНА
+T52	Body_location 21608 21624	Д\ПЕРСТНАЯ КИШКА
+T80	Drug 14273 14279	конкор
+T133	Drug 8483 8490	капотен
+T132	Symptom 8382 8399	затруднение вдоха
+T116	Symptom 4584 4620	инфильтративных и очаговых изменений
+T81	Drug 14281 14291	тромбо АСС
+T156	Symptom 11432 11434	ФК
+T89	Drug 7012 7019	трентал
+T199	Drug 25015 25021	зиннат
+T57	Body_location 19328 19336	ПЕРИКАРД
+T139	Treatment 8483 8599	капотен 18.75мг х 3р/д, трентал 50мг х 3р/д, предуктал 35мг х 1р/д, тромбо АСС 50мг х 1р/д, глицин 1т х 3р/д, клацид
+T191	Body_location 20210 20224	легочной ткани
+T179	Body_location 15865 15883	Органы пищеварения
+T122	Body_location 3205 3213	миокарда
+T26	Symptom 2519 2539	Синусовая тахикардия
+T118	Body_location 2645 2653	миокарде
+T4	Disease 274 277	ХСН
+T56	Symptom 19431 19452	Расширение предсердий
+T79	Drug 14261 14271	престариум
+T36	Treatment 24526 24827	Престариум (Периндоприл) 5 мг х 1 раз в день в 08.00 - длительно..
+5. Конкор(Бисопролол) 1,25мг х 1 раз в день в 20.00 - длительно..
+6. Тромбо АСС (Ацетилсалициловая кислота) 100мг х 1 раз в день , в 19.00, после еды - длительно.
+7. Верошпирон(Спиронолактон ) 12,5 мг х 1 раз в день в 18.00, длительно
+T192	Symptom 20182 20207	инфильтративных изменений
+T143	Drug 9862 9871	предуктал
+T46	Body_location 23058 23072	МОЧЕВОЙ ПУЗЫРЬ
+T87	Symptom 5809 5829	нарушение заполнения
+T78	Treatment 13858 13975	престариум 5 мг х 1р/д, конкор 1,25 мг х 1р/д; тромбо АСС 100мг х 1р/д; МагнеВ6 1таб х 3р/д; верошпирон 6.25мг х 1р/д
+T123	Symptom 7495 7516	затрудненного дыхания
+T31	Body_location 3354 3364	желудочков
+T43	Treatment 23681 23881	Престариум 5мг х 1 раз в день, в 08.00.
+Конкор 1,25мг х 1 раз в день , в 20.00.
+Верошпирон 12,5мг х 1 раз в день.
+Тромбо АСС 100мг х 1раз в день, в 19.00, после еды.
+Урдокса 250мг на ночь с 17.05.2045
+T71	Body_location 14751 14765	Зев, миндалины
+T5	Severity 278 284	1-2 ст
+T128	Symptom 7909 7924	ФВ по Тейхольцу
+T82	Drug 14293 14303	верошпирон
+T104	Body_location 4468 4477	перикарда
+T75	Drug 13905 13915	тромбо АСС
+T173	Symptom 13792 13814	признаки застоя по МКК
+T177	Body_location 14978 14985	Суставы
+T184	Body_location 18313 18329	ПРАВЫЙ ЖЕЛУДОЧЕК
+T70	Body_location 16561 16569	миокарда
+T130	Symptom 8230 8252	Удлинение интервала QT
+T146	Severity 10410 10412	63
+T17	Disease 1524 1531	инфаркт
+T126	Severity 7681 7685	44.9
+T23	Symptom 2297 2319	боли в области голеней
+T120	Disease 21 54	Неклассифицируемая кардиомиопатия
+T171	Symptom 13445 13467	депрессией сегмента ST
+T110	Symptom 1225 1246	синусовой брадикардии
+T50	Body_location 21434 21443	СЕЛЕЗЕНКА
+T137	Drug 8575 8581	глицин
+T147	Symptom 10394 10409	ФВ по Тейхольцу
+T6	Severity 286 290	ФК 2
+T3	Symptom 133 187	Недостаточность митрального, трикуспидального клапонов
+T65	Body_location 17789 17794	АОРТА
+T47	Body_location 20762 20776	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T111	Body_location 1334 1350	левого желудочка
+T25	Body_location 2449 2468	миокарде желудочков
+T20	Disease 1931 1951	фолликулярная ангина
+T73	Drug 13858 13868	престариум
+T34	Drug 24596 24602	Конкор
+T76	Drug 13930 13937	МагнеВ6
+T92	Drug 7078 7086	магне В6
+T106	Symptom 4562 4575	кардиомегалии
+T131	Severity 8256 8270	0.08 – 0.11сек
+T180	Body_location 15902 15907	Живот
+T164	Symptom 12812 12844	персистирующие синусоиды, лакуны
+T7	Disease 563 566	ХСН
+T19	Disease 1889 1918	двусторонний катаральный отит
+T148	Body_location 10424 10431	миокард
+T178	Body_location 15577 15583	сердца
+T188	Severity 19414 19417	50%
+T136	Drug 8551 8561	тромбо АСС
+T42	Drug 24114 24140	урсодезоксихолевая кислота
+T86	Body_location 5830 5847	правого желудочка
+T96	Treatment 6988 7144	капотен 18.75мг х 3р/д; трентал 50мг х 3р/д; предуктал 35мг х 1р/д; цитофлавин 1т х 2р/д; магне В6 1т х 3р/д; глицин 1т х 1р/д; хофитол 1т х3р/д; вильпрафен
+T100	Severity 5137 5141	0.76
+T41	Drug 23681 23691	Престариум
+T103	Symptom 4384 4406	нарушения гемодинамики
+T141	Drug 9817 9824	клацида
+T27	Symptom 2765 2800	перегрузка объемом обоих предсердий
+T55	Body_location 19103 19125	ТРИКУСПИДАЛЬНЫЙ КЛАПАН
+T119	Disease 310 343	Неклассифицируемая кардиомиопатия
+T167	Body_location 13176 13195	миокарде желудочков
+T121	Body_location 149 187	митрального, трикуспидального клапонов
+T88	Drug 6988 6995	капотен
+T83	Treatment 14261 14303	престариум, конкор, тромбо АСС, верошпирон
+T61	Body_location 18558 18585	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА
+T77	Drug 13951 13961	верошпирон
+T170	Symptom 13372 13378	ишемии
+T72	Body_location 14935 14949	Мышцы, суставы
+T90	Drug 7033 7042	предуктал
+T97	Symptom 6772 6801	повышенным содержанием железа
+T175	Body_location 14859 14880	Лимфатическая система
+T176	Body_location 14794 14813	Подкожная клетчатка
+T14	Severity 575 579	ФК 2
+T198	Drug 25023 25032	аугментин
+T66	Body_location 18049 18065	ЛЕГОЧНАЯ АРТЕРИЯ
+T187	Symptom 19377 19386	расширена
+T32	Drug 24759 24769	Верошпирон
+T140	Drug 8873 8881	диазолин
+T112	Symptom 1307 1333	повышенная трабекулярность
+T161	Body_location 12193 12218	миокарде левого желудочка
+T142	Drug 9834 9843	капотеном
+T93	Drug 7098 7104	глицин
+T48	Body_location 20883 20889	ПЕЧЕНЬ
+T101	Symptom 5121 5136	ФВ по Тейхольцу
+T67	Body_location 16755 16774	миокарде желудочков
+T95	Drug 7134 7144	вильпрафен
+T74	Drug 13882 13888	конкор
+T29	Body_location 3487 3503	левого желудочка
+T59	Body_location 18182 18198	ЛЕВОЕ ПРЕДСЕРДИЕ
+T22	Disease 2129 2146	хронический ринит
+T35	Drug 24526 24536	Престариум
+T107	Body_location 4623 4629	легких
+T138	Drug 8593 8599	клацид
+T195	Body_location 21969 21978	Паренхима
+T99	Symptom 5518 5532	микрокальцинат
+T40	Drug 23721 23727	Конкор
+T157	Drug 11443 11453	вильпрафен
+T108	Body_location 1167 1175	миокарде
+N1	Reference T194 UMLS:C0009437	общий желчный проток, киста
+N2	Reference T134 UMLS:C0030899	трентал
+N3	Reference T16 UMLS:C0020538	артериальная гипертония
+N4	Reference T21 UMLS:C0018021	зоб
+N5	Reference T68 UMLS:C0151744	ишемия миокарда
+N6	Reference T49 UMLS:C0030274	поджелудочная железа
+N7	Reference T166 UMLS:C0027061	миокард
+N8	Reference T11 UMLS:C4324734	дефект предсердной перегородки (венозного синуса)
+N9	Reference T149 UMLS:C0080310	сердца желудочка левого функция
+N10	Reference T53 UMLS:C0024204	лимфатические узлы
+N11	Reference T182 UMLS:C0042066	мочеполовая система
+N12	Reference T38 UMLS:C0004057	ацетилсалициловая кислота
+N13	Reference T2 UMLS:C0080310	сердца желудочка левого функция
+N14	Reference T33 UMLS:C0004057	ацетилсалициловая кислота
+N15	Reference T144 UMLS:C0004057	ацетилсалициловая кислота
+N16	Reference T102 UMLS:C0149630	двустворчатый аортальный клапан
+N17	Reference T193 UMLS:C0816871	скелет
+N18	Reference T91 UMLS:C0042890	витамины
+N19	Reference T162 UMLS:C4324595	увеличение обоих предсердий
+N20	Reference T145 UMLS:C0009429	комплексное лечение
+N21	Reference T39 UMLS:C0037982	верошпирон
+N22	Reference T197 UMLS:C0008370	холестаз
+N23	Reference T124 UMLS:C0423636	боль в области сердца
+N24	Reference T117 UMLS:C3241958	болезни миокарда
+N25	Reference T168 UMLS:C0151744	ишемия миокарда
+N26	Reference T51 UMLS:C0038351	желудок
+N27	Reference T129 UMLS:CUILESS	степень ухудшения бду
+N28	Reference T10 UMLS:C0005424	заболевание желчевыводящих путей
+N29	Reference T125 UMLS:C0018799	сердца болезни
+N30	Reference T135 UMLS:C0041037	триметазидин
+N31	Reference T114 UMLS:C0027061	миокард
+N32	Reference T169 UMLS:C0027061	миокард
+N33	Reference T18 UMLS:C0008049	ветряная оспа
+N34	Reference T181 UMLS:C0023884	печень
+N35	Reference T163 UMLS:C0149721	увеличение левого желудочка
+N36	Reference T158 UMLS:C0055856	кларитромицин
+N37	Reference T183 UMLS:C0027763	нервная система
+N38	Reference T45 UMLS:C0022646	почки
+N39	Reference T69 UMLS:C0020564	гипертрофия
+N40	Reference T30 UMLS:C0231249	увеличение роста
+N41	Reference T196 UMLS:C0041951	мочеточник
+N42	Reference T186 UMLS:C0013940	эмбрион немлекопитающих
+N43	Reference T189 UMLS:C0034052	легочная артерия
+N44	Reference T155 UMLS:C1392658	недостаточность кровообращения
+N45	Reference T63 UMLS:C0080310	сердца желудочка левого функция
+N46	Reference T24 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N47	Reference T150 UMLS:C0040573	трабекулярная сеть
+N48	Reference T127 UMLS:C0262525	неполная блокада правой ножки пучка гиса
+N49	Reference T174 UMLS:C0816871	скелет
+N50	Reference T64 UMLS:C0078996	предсердие правое, функция
+N51	Reference T115 UMLS:C0020542	гипертензия, легочная
+N52	Reference T151 UMLS:C0877438	неишемическая кардиомиопатия
+N53	Reference T9 UMLS:C0013384	дискинезия
+N54	Reference T28 UMLS:C0018792	предсердие
+N55	Reference T85 UMLS:C0520863	диастолическая дисфункция
+N56	Reference T152 UMLS:C0080310	сердца желудочка левого функция
+N57	Reference T190 UMLS:C0852853	повышение давления в легочной артерии
+N58	Reference T54 UMLS:C0032718	воротная вена
+N59	Reference T94 UMLS:C0008304	желчегонные и желчеобразующие средства
+N60	Reference T13 UMLS:C0020564	гипертрофия
+N61	Reference T62 UMLS:C0026264	митральный клапан
+N62	Reference T185 UMLS:C0018827	сердца желудочки
+N63	Reference T60 UMLS:C0080310	сердца желудочка левого функция
+N64	Reference T98 UMLS:C0020542	гипертензия, легочная
+N65	Reference T113 UMLS:C0009738	конго
+N66	Reference T165 UMLS:C0281788	гипертрофия обоих желудочков
+N67	Reference T44 UMLS:C0022646	почки
+N68	Reference T105 UMLS:C0006663	кальциноз
+N69	Reference T159 UMLS:C0854606	системная антибактериальная терапия
+N70	Reference T1 UMLS:C0040573	трабекулярная сеть
+N71	Reference T37 UMLS:C0042105	урсодезоксихолевая кислота
+N72	Reference T84 UMLS:C0020542	гипертензия, легочная
+N73	Reference T12 UMLS:C0027061	миокард
+N74	Reference T109 UMLS:C0948857	нарушения реполяризации на экг
+N75	Reference T58 UMLS:C0042458	полая вена, нижняя
+N76	Reference T52 UMLS:C0013303	двенадцатиперстная кишка
+N77	Reference T80 UMLS:C0053799	бисопролол
+N78	Reference T133 UMLS:C0006938	каптоприл
+N79	Reference T132 UMLS:C0553668	затруднение дыхания
+N80	Reference T116 UMLS:C1735346	острое диффузное инфильтративное заболевание легких
+N81	Reference T81 UMLS:C0004057	ацетилсалициловая кислота
+N82	Reference T89 UMLS:C0030899	трентал
+N83	Reference T199 UMLS:C0663182	зинбрита
+N84	Reference T57 UMLS:C0031050	перикард
+N85	Reference T139 UMLS:C0009429	комплексное лечение
+N86	Reference T191 UMLS:C0024109	легкие
+N87	Reference T179 UMLS:C0017189	желудочно-кишечный тракт
+N88	Reference T122 UMLS:C0027061	миокард
+N89	Reference T26 UMLS:C0039239	синусовая тахикардия
+N90	Reference T118 UMLS:C0027061	миокард
+N91	Reference T4 UMLS:C0264716	хроническая сердечная недостаточность
+N92	Reference T56 UMLS:C0741276	увеличение предсердия
+N93	Reference T79 UMLS:C0136123	периндоприл
+N94	Reference T36 UMLS:C0881658	кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич
+N95	Reference T192 UMLS:CUILESS	патология
+N96	Reference T143 UMLS:C0041037	триметазидин
+N97	Reference T46 UMLS:C0005682	мочевой пузырь
+N98	Reference T87 UMLS:CUILESS	отклонение от нормы результатов гемодинамического анализа
+N99	Reference T78 UMLS:C0009429	комплексное лечение
+N100	Reference T123 UMLS:C0553668	затруднение дыхания
+N101	Reference T31 UMLS:C0018827	сердца желудочки
+N102	Reference T43 UMLS:C0945258	пролактин^1 час после 200 мкг трг внутривенно:массконц:тчкврм:сыв/плаз:колич
+N103	Reference T71 UMLS:C0521367	ротоглотка
+N104	Reference T128 UMLS:C0489482	фракция выброса (фв)
+N105	Reference T82 UMLS:C0037982	верошпирон
+N106	Reference T104 UMLS:C0031050	перикард
+N107	Reference T75 UMLS:C0004057	ацетилсалициловая кислота
+N108	Reference T173 UMLS:C0034057	кровообращение, малый круг
+N109	Reference T177 UMLS:C0022417	суставы
+N110	Reference T184 UMLS:C0080311	сердца желудочка правого функция
+N111	Reference T70 UMLS:C0027061	миокард
+N112	Reference T130 UMLS:C0151878	удлинение интервала qt
+N113	Reference T17 UMLS:C0021308	инфаркт
+N114	Reference T23 UMLS:C0231749	боль в колене
+N115	Reference T120 UMLS:C0878544	кардиомиопатии
+N116	Reference T171 UMLS:C0520887	депрессия сегмента st
+N117	Reference T110 UMLS:C0085610	синусовая брадикардия
+N118	Reference T50 UMLS:C0037993	селезенка
+N119	Reference T137 UMLS:C0017890	глицин
+N120	Reference T147 UMLS:C0489482	фракция выброса (фв)
+N121	Reference T3 UMLS:C0040961	недостаточность трикуспидального клапана
+N122	Reference T65 UMLS:C0003483	аорта
+N123	Reference T47 UMLS:C0016976	желчный пузырь
+N124	Reference T111 UMLS:C0080310	сердца желудочка левого функция
+N125	Reference T25 UMLS:C0027051	инфаркт миокарда
+N126	Reference T20 UMLS:C0001361	вирусная ангина
+N127	Reference T73 UMLS:C0136123	периндоприл
+N128	Reference T34 UMLS:C0053799	бисопролол
+N129	Reference T76 UMLS:C0024467	магний
+N130	Reference T92 UMLS:C0206112	магния соединения
+N131	Reference T106 UMLS:C0018800	кардиомегалия
+N132	Reference T180 UMLS:C0000726	живот
+N133	Reference T164 UMLS:C2717907	некомпактность левого желудочкового миокарда x-хромосомная
+N134	Reference T7 UMLS:C0264716	хроническая сердечная недостаточность
+N135	Reference T19 UMLS:C0029877	отит
+N136	Reference T148 UMLS:C0027061	миокард
+N137	Reference T178 UMLS:C0018787	сердце
+N138	Reference T136 UMLS:C0004057	ацетилсалициловая кислота
+N139	Reference T42 UMLS:C0042105	урсодезоксихолевая кислота
+N140	Reference T86 UMLS:C0080311	сердца желудочка правого функция
+N141	Reference T96 UMLS:C0009429	комплексное лечение
+N142	Reference T41 UMLS:C0136123	периндоприл
+N143	Reference T103 UMLS:C0948268	нестабильность гемодинамики
+N144	Reference T141 UMLS:C0055856	кларитромицин
+N145	Reference T27 UMLS:C0225836	экг-признаки перегрузки правого предсердия
+N146	Reference T55 UMLS:C0040960	трехстворчатый клапан
+N147	Reference T119 UMLS:C0878544	кардиомиопатии
+N148	Reference T167 UMLS:C0018827	сердца желудочки
+N149	Reference T121 UMLS:C0026267	митрального клапана пролапс
+N150	Reference T88 UMLS:C0006938	каптоприл
+N151	Reference T83 UMLS:C0009429	комплексное лечение
+N152	Reference T61 UMLS:C0225870	межжелудочковая перегородка
+N153	Reference T77 UMLS:C0037982	верошпирон
+N154	Reference T170 UMLS:C0022116	ишемия
+N155	Reference T72 UMLS:C0026845	мышцы
+N156	Reference T90 UMLS:C0041037	триметазидин
+N157	Reference T97 UMLS:C0860976	высокий уровень железа
+N158	Reference T175 UMLS:C0024235	лимфатическая система
+N159	Reference T176 UMLS:C0278403	подкожная клетчатка
+N160	Reference T198 UMLS:C0002503	аминоакридин
+N161	Reference T66 UMLS:C0034052	легочная артерия
+N162	Reference T187 UMLS:C0038257	расширители
+N163	Reference T32 UMLS:C0037982	верошпирон
+N164	Reference T140 UMLS:C0282555	противоаллергические средства
+N165	Reference T112 UMLS:C0040573	трабекулярная сеть
+N166	Reference T161 UMLS:C0080310	сердца желудочка левого функция
+N167	Reference T142 UMLS:C0006938	каптоприл
+N168	Reference T93 UMLS:C0017890	глицин
+N169	Reference T48 UMLS:C0023884	печень
+N170	Reference T101 UMLS:C0489482	фракция выброса (фв)
+N171	Reference T67 UMLS:C0027051	инфаркт миокарда
+N172	Reference T95 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N173	Reference T74 UMLS:C0053799	бисопролол
+N174	Reference T29 UMLS:C0080310	сердца желудочка левого функция
+N175	Reference T59 UMLS:C0078995	предсердие левое, функция
+N176	Reference T22 UMLS:C0008711	хронический ринит
+N177	Reference T35 UMLS:C0136123	периндоприл
+N178	Reference T107 UMLS:C0024109	легкие
+N179	Reference T138 UMLS:C0055856	кларитромицин
+N180	Reference T195 UMLS:C4277702	паренхиматозная ткань
+N181	Reference T99 UMLS:C1715946	сосудов обызвествление
+N182	Reference T40 UMLS:C0053799	бисопролол
+N183	Reference T157 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N184	Reference T108 UMLS:C0027061	миокард
+#1	AnnotatorNotes T194	first_annotator_label: C0008340||synonyms: желчного протока общего киста|zhelchnogo protoka obshchego kista|obshchii zhelchnyi protok, kista|киста желчного протока|общий желчный проток, киста||||second_annotator_label: C0030274||synonyms: поджелудочная железа|podzheludochnaia zheleza||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C2609414||synonyms: почек острое повреждение|pochechnaia nedostatochnost' ostraia|острое повреждение почек|почечная недостаточность острая|почечная недостаточность функциональная, острая||||
+#2	AnnotatorNotes T11	first_annotator_label: C4324734||synonyms: дефект предсердной перегородки (венозного синуса)||||second_annotator_label: C0853343||synonyms: дефект межпредсердной перегородки приобретенный||||third_annotator_label: C0018817||synonyms: межпредсердной перегородки дефекты|mezhpredserdnoi peregorodki defekty|врожденный дефект межпредсердной перегородки|дефект межпредсердной перегородки (дмпп)|дефект межпредсердной перегородки (дмпп), бду||||bert: C0036916||synonyms: половым путем передаваемые болезни|polovym putem peredavaemye bolezni|venericheskie bolezni|заболевание, передающееся половым путем.|заболевание, передающиеся половым путем, бду||||
+#3	AnnotatorNotes T91	first_annotator_label: C0042890||synonyms: витамины|vitaminy||||second_annotator_label: C0021528||synonyms: инозин|inozin||||third_annotator_label: C0016410||synonyms: фолиевая кислота|folievaia kislota|vitamin bc|витамин bc|folatsin||||bert: C0010830||synonyms: cytophagaceae|tsitofagovye|flexibacteraceae|цитофаговые||||
+#4	AnnotatorNotes T145	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363510||synonyms: кальцитонин^3 часа после 15 мг/кг кальция глюконата внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T129	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: 5||synonyms: ||||bert: C0870365||synonyms: смелость|khrabrost'|kurazh|otvaga|храбрость||||
+#6	AnnotatorNotes T159	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0338237||synonyms: антибиотикотерапия||||bert: C0586989||synonyms: varicella-zoster вирусная инфекция|varicella-zoster virusnaia infektsiia|врожденной ветряной оспы синдром|varitsella-zoster virusa infektsiia|vrozhdennoi vetrianoi ospy sindrom||||
+#7	AnnotatorNotes T37	first_annotator_label: C0042105||synonyms: урсодезоксихолевая кислота|ursodezoksikholevaia kislota|dezoksiursokholevaia kislota|дезоксиурсохолевая кислота|урсофальк||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242897||synonyms: холинергические антагонисты|kholinergicheskie antagonisty|antikholinergicheskie antagonisty|atsetilkholina antagonisty|kholinergicheskikh retseptorov blokiruiushchie sredstva||||bert: C1080686||synonyms: адоксовые|adoksovye||||
+#8	AnnotatorNotes T199	first_annotator_label: C0663182||synonyms: даклизумаб|zinbrita|дакликсимаб|zenapaks|dakliksimab||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3536856||synonyms: цефалоспорины|tsefalosporanovye kisloty|tsefalosporiny|цефалоспорановые кислоты||||bert: C0663182||synonyms: даклизумаб|zinbrita|дакликсимаб|zenapaks|dakliksimab||||
+#9	AnnotatorNotes T139	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0482754||synonyms: пластинка фактор 3:произвконц:тчкврм:опп:колич||||
+#10	AnnotatorNotes T56	first_annotator_label: C0741276||synonyms: увеличение предсердия||||second_annotator_label: C0018792||synonyms: предсердие|predserdie||||third_annotator_label: C0340278||synonyms: гипертрофия предсердия||||bert: C0004239||synonyms: предсердий трепетание|predserdii trepetanie|trepetanie predserdii|ushka predserdiia trepetanie|трепетание предсердий||||
+#11	AnnotatorNotes T79	first_annotator_label: C0136123||synonyms: периндоприл|perindopril||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||bert: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||
+#12	AnnotatorNotes T192	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0203156||synonyms: рентгенография грудного отдела позвоночника||||third_annotator_label: C0235896||synonyms: инфильтрация легких|легочная инфильтрация|инфильтрация легких, бду|легочная инфильтрация, бду||||bert: C1168158||synonyms: инфильтративная эритема||||
+#13	AnnotatorNotes T87	first_annotator_label: C1112665||synonyms: отклонение от нормы результатов гемодинамического анализа|отклонение от нормы результатов гемодинамического теста||||second_annotator_label: C0080311||synonyms: сердца желудочка правого функция|serdtsa zheludochka pravogo funktsiia|pravozheludochkovaia funktsiia serdtsa|pravozheludochkovaia funktsiia|pravyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0743400||synonyms: снижение фракции выброса|низкая фракция выброса||||bert: C0393760||synonyms: нарушение засыпания|проблемы засыпания||||
+#14	AnnotatorNotes T78	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2926279||synonyms: кортикотропин^1.5 часа после 1 мкг/кг крг внутривенно:молконц:тчкврм:плаз:колич||||
+#15	AnnotatorNotes T20	first_annotator_label: C0276143||synonyms: вирусный фарингит|вирусная ангина|вирусный фарингит, бду||||second_annotator_label: C0001487||synonyms: аденовирусные инфекции человека|adenovirusnye infektsii cheloveka|adenofaringokon"iunktival'naia likhoradka|angina adenovirusnaia|faringokon"iunktival'naia likhoradka||||third_annotator_label: C0001361||synonyms: острый тонзиллит, бду|острый тонзиллит||||bert: C0016434||synonyms: фолликулярная фаза|follikuliarnaia faza|preovuliatornaia faza|преовуляторная фаза||||
+#16	AnnotatorNotes T73	first_annotator_label: C0136123||synonyms: периндоприл|perindopril||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||bert: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||
+#17	AnnotatorNotes T92	first_annotator_label: C0206112||synonyms: магния соединения|magniia soedineniia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0024467||synonyms: магний|magnii||||bert: C0162799||synonyms: рибонуклеопротеин u4-u6 малый ядерный|malye iadernye ribonukleoproteiny u4-u6|malye iadernye ribonukleoproteiny u4|malye iadernye ribonukleoproteiny u6|miarnp u4-u6||||
+#18	AnnotatorNotes T96	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0482754||synonyms: пластинка фактор 3:произвконц:тчкврм:опп:колич||||
+#19	AnnotatorNotes T41	first_annotator_label: C0136123||synonyms: периндоприл|perindopril||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||
+#20	AnnotatorNotes T27	first_annotator_label: C3495869||synonyms: экг-признаки перегрузки правого предсердия||||second_annotator_label: C0225836||synonyms: предсердная перегородка|peregorodka predserdiia|перегородка предсердия|predserdnaia peregorodka||||third_annotator_label: None||synonyms: ||||bert: C0225836||synonyms: предсердная перегородка|peregorodka predserdiia|перегородка предсердия|predserdnaia peregorodka||||
+#21	AnnotatorNotes T83	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0577618||synonyms: аллергия на парфюмерные изделия||||
+#22	AnnotatorNotes T198	first_annotator_label: C0002503||synonyms: аминоакридин|aminoakridin|9-aminoakridin|akridinamin|aminakrin||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0054066||synonyms: амоксициллина-калия клавуланата комбинация|amoksitsillin-klavulanovaia kislota|амоксициллин-клавулановая кислота|amoksitsillina-kaliia klavulanata kombinatsiia||||bert: C0002503||synonyms: аминоакридин|aminoakridin|9-aminoakridin|akridinamin|aminakrin||||
+#23	AnnotatorNotes T140	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0038230||synonyms: стеариновые кислоты|stearinovye kisloty|oktadekanovye kisloty|tetragidrolinolevye kisloty|октадекановые кислоты||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0012271||synonyms: дигидралазин|digidralazin|nepressol|непрессол||||
+#24	AnnotatorNotes T35	first_annotator_label: C0136123||synonyms: периндоприл|perindopril||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0001792||synonyms: пожилые|prestarelye|престарелые|pozhilye|pozhiloi vozrast||||
+#25	AnnotatorNotes T99	first_annotator_label: C0342649||synonyms: кровеносных сосудов кальцификация|krovenosnykh sosudov kal'tsifikatsiia|кальциноз кровеносных сосудов|сосудов обызвествление|kal'tsifikatsiia sosudistaia||||second_annotator_label: C1715946||synonyms: микрокальцификаты:находка:тчкврм:молочная железа опухоль:ном||||third_annotator_label: C2936350||synonyms: бляшка атеросклеротическая|ateroma|атеросклеротическая бляшка|атерома|фиброатерома||||bert: C0006935||synonyms: капсулы|kapsuly|mikrokapsuly|микрокапсулы||||

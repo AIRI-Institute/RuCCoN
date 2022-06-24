@@ -1,0 +1,107 @@
+T18	Symptom 807 827	дыхание везикулярное
+T22	Symptom 882 888	мягкий
+T17	Body_location 798 806	В лёгких
+T8	Disease 530 545	гиперметропия  
+T24	Symptom 971 978	дизурии
+T30	Symptom 1910 1940	чувствительность - не нарушена
+T5	Drug 466 476	кортексина
+T11	Disease 620 647	Дисфункция проводящих путей
+T46	Disease 108 133	синдром мышечной дистонии
+T43	Disease 1421 1443	горизонтальный нистагм
+T36	Symptom 1379 1396	на свет реагирует
+T41	Disease 360 363	ОРЗ
+T40	Symptom 1676 1702	Пытается ползать, присесть
+T44	Body_location 631 647	проводящих путей
+T14	Symptom 746 752	чистые
+T32	Symptom 1046 1067	общемозговые симптомы
+T10	Disease 596 618	горизонтальный нистагм
+T15	Symptom 754 765	Зев спокоен
+T3	Disease 135 212	Своеобразие формирования психической деятельности вследствие нарушения зрения
+T2	Disease 45 72	Перинатальное поражение ЦНС
+T12	Body_location 715 729	Кожные покровы
+T25	Symptom 984 1012	Стул регулярный, оформленный
+T26	Symptom 1351 1377	зрачковые рефлексы снижены
+T31	Symptom 1840 1878	напрягает ручки при избыточных эмоциях
+T34	Symptom 1034 1044	адекватная
+T42	Body_location 920 939	Мочеполовая система
+T37	Symptom 1398 1419	за игрушкой не следит
+T19	Symptom 829 835	хрипов
+T6	Drug 479 489	актовегина
+T23	Symptom 904 918	безболезненный
+T1	Disease 9 40	Врожденная зонулярная катаракта
+T13	Symptom 730 744	бледно-розовые
+T38	Symptom 1610 1675	переворачивается, активно встаёт и раскачивается на четвереньках.
+T47	Severity 545 561	высокой  степени
+T27	Symptom 1421 1568	горизонтальный нистагм умеренной интенсивности, элементы содружественного плавающего движения глаз сочетаются с вполне осмысленными движениями глаз
+T35	Symptom 1212 1319	мимика живая, активная, улыбается, знает имя, узнаёт родных по голосу, дифференцировано поведение с родными
+T45	Severity 74 106	поздний восстановительный период
+T33	Symptom 1083 1086	сон
+T9	Disease 564 594	гиперметропический астигматизм
+T4	Treatment 453 506	Получал курс кортексина и актовегина, вит. В6, массаж
+T7	Drug 491 498	вит. В6
+T16	Symptom 767 796	Носовое дыхание не затруднено
+T29	Symptom 1880 1908	сухожильные рефлексы - живые
+T21	Body_location 876 881	Живот
+T28	Symptom 1820 1838	умеренная дистония
+T20	Symptom 841 874	Сердечные тоны звучные, ритмичные
+T39	Symptom 1704 1801	игрушки захватывает при случайном тактильном контакте, новые по тактильным ощущениями не выделяет
+N1	Reference T18 UMLS:C0231855	нормальная аускультативная картина в легких
+N2	Reference T22 UMLS:C0026390	мягкокожие
+N3	Reference T17 UMLS:C0024109	легкие
+N4	Reference T8 UMLS:C0020490	дальнозоркость
+N5	Reference T24 UMLS:C0013428	дизурия
+N6	Reference T30 UMLS:C0392699	нарушение чувствительности
+N7	Reference T5 UMLS:C0011710	кортексон
+N8	Reference T11 UMLS:CUILESS	зрительных нервов перекрест
+N9	Reference T46 UMLS:C0013421	мышечная дистония
+N10	Reference T43 UMLS:C0155379	вестибулярный нистагм
+N11	Reference T36 UMLS:C0854001	нормальная реакция зрачка на свет
+N12	Reference T41 UMLS:C0035243	орз
+N13	Reference T40 UMLS:C0016579	ползание
+N14	Reference T44 UMLS:C0027792	проводящие пути
+N15	Reference T14 UMLS:C0598869	чистая культура
+N16	Reference T32 UMLS:C0037088	признаки и симптомы
+N17	Reference T10 UMLS:C0155379	вестибулярный нистагм
+N18	Reference T15 UMLS:CUILESS	ротовая полость
+N19	Reference T3 UMLS:C0155006	психофизические нарушения зрения
+N20	Reference T2 UMLS:C0852862	перинатальное поражение головного мозга
+N21	Reference T12 UMLS:C1123023	кожа
+N22	Reference T25 UMLS:C3546446	клетки регулируемая гибель
+N23	Reference T26 UMLS:C0858559	отсутствие зрачкового рефлекса
+N24	Reference T31 UMLS:C1969807	чувства и эмоции:находка:тчкврм:^пациент:ном:phenx
+N25	Reference T34 UMLS:CUILESS	местная реакция
+N26	Reference T42 UMLS:C0042066	мочеполовая система
+N27	Reference T37 UMLS:C1112379	исследование визуального слежения
+N28	Reference T19 UMLS:C3887661	хрип
+N29	Reference T6 UMLS:CUILESS	биогенные стимуляторы
+N30	Reference T23 UMLS:C0857027	болезненность
+N31	Reference T1 UMLS:C0158551	врожденная ядерная катаракта
+N32	Reference T13 UMLS:C4505235	розовые
+N33	Reference T38 UMLS:C0026606	задержка развития крупной моторики
+N34	Reference T47 UMLS:C0241240	высокий рост
+N35	Reference T27 UMLS:C0028738	нистагм патологический
+N36	Reference T35 UMLS:CUILESS	изменения психического состояния
+N37	Reference T45 UMLS:CUILESS	ранний восстановительный период
+N38	Reference T33 UMLS:C0037313	сон
+N39	Reference T9 UMLS:C1847524	гиперопический астигматизм
+N40	Reference T4 UMLS:C0013154	поддерживающая терапия
+N41	Reference T7 UMLS:C4524021	добавки витамина в6
+N42	Reference T16 UMLS:C0438186	результаты исследования функции легких в норме
+N43	Reference T29 UMLS:C0034942	сухожильный рефлекс
+N44	Reference T21 UMLS:C0000726	живот
+N45	Reference T28 UMLS:C0013421	дистония
+N46	Reference T20 UMLS:C0018810	сердечный ритм
+N47	Reference T39 UMLS:C4760913	защитное поведение по отношению к тактильным стимулам
+#1	AnnotatorNotes T18	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#2	AnnotatorNotes T11	first_annotator_label: C0029126||synonyms: зрительный перекрест|zritel'nyi perekrest|chiasma opticum|plastinchatoe tm|zritel'nykh nervov perekrest||||second_annotator_label: C0042075||synonyms: урологические болезни|urologicheskie bolezni|mochevoi sistemy bolezni|дисфункция мочевыводящих путей|заболевание мочевыводящих путей, бду||||third_annotator_label: None||synonyms: ||||bert: C0042075||synonyms: урологические болезни|urologicheskie bolezni|mochevoi sistemy bolezni|дисфункция мочевыводящих путей|заболевание мочевыводящих путей, бду||||
+#3	AnnotatorNotes T32	first_annotator_label: C0037088||synonyms: признаки и симптомы|priznaki i simptomy|simptomy|симптомы||||second_annotator_label: C0159028||synonyms: общий симптом|общий симптом, бду|общие симптомы||||third_annotator_label: C0549249||synonyms: снижение уровня сознания|нарушение сознания|угнетение сознания||||bert: C0087169||synonyms: абсистентный симптом||||
+#4	AnnotatorNotes T15	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#5	AnnotatorNotes T31	first_annotator_label: C3259792||synonyms: чувства и эмоции:находка:тчкврм:^пациент:ном:phenx||||second_annotator_label: C1969807||synonyms: фокальная дистония кисти руки||||third_annotator_label: C0751900||synonyms: моторный тик||||bert: C0238547||synonyms: напряженность мышц живота||||
+#6	AnnotatorNotes T34	first_annotator_label: C0853813||synonyms: местная реакция||||second_annotator_label: C0948564||synonyms: медицинский осмотр||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C1447035||synonyms: адаптерные белки везикулярного транспорта|adapternye belki|belki adapternye|klatrinovyi ansambl' belkov|klatrinovyi nabor belkov||||
+#7	AnnotatorNotes T37	first_annotator_label: C1112379||synonyms: исследование визуального слежения||||second_annotator_label: C0017313||synonyms: уход за больным|ukhod za bol'nym||||third_annotator_label: None||synonyms: ||||bert: C0017313||synonyms: уход за больным|ukhod za bol'nym||||
+#8	AnnotatorNotes T6	first_annotator_label: C3658370||synonyms: тканевая терапия историческая|tkanevaia terapiia istoricheskaia|kletochnaia terapiia istoricheskaia|клеточная терапия историческая|biogennye stimuliatory||||second_annotator_label: C0860408||synonyms: генотерапия in vivo с плазмидами или депротеинизированными днк||||third_annotator_label: None||synonyms: ||||bert: C0140610||synonyms: ризедроновая кислота|atelvia|ателвиа|ризедронат натрия|rizedronat natriia||||
+#9	AnnotatorNotes T38	first_annotator_label: C1837658||synonyms: задержка развития крупной моторики||||second_annotator_label: C0026603||synonyms: движения болезнь|dvizheniia bolezn'|morskaia bolezn'|transportnaia bolezn'|ukachivanie||||third_annotator_label: C0026606||synonyms: двигательная активность|dvigatel'naia aktivnost'||||bert: C5197918||synonyms: четвертичная профилактика|chetvertichnaia profilaktika||||
+#10	AnnotatorNotes T27	first_annotator_label: C0028738||synonyms: нистагм патологический|nistagm|nistagm patologicheskii|нистагм|нистагм, бду||||second_annotator_label: C0240292||synonyms: высокий уровень магния|повышение уровня магния|повышенный уровень магния|повышение уровня двухвалентного магния||||third_annotator_label: None||synonyms: ||||bert: C0240292||synonyms: высокий уровень магния|повышение уровня магния|повышенный уровень магния|повышение уровня двухвалентного магния||||
+#11	AnnotatorNotes T35	first_annotator_label: C0856054||synonyms: изменения психического состояния||||second_annotator_label: C1535936||synonyms: полипэктомия голосовых связок||||third_annotator_label: None||synonyms: ||||bert: C1535936||synonyms: полипэктомия голосовых связок||||
+#12	AnnotatorNotes T45	first_annotator_label: C0013457||synonyms: ранний восстановительный период|rannee vstavanie, lechebnyi metod|rannii vosstanovitel'nyi period|uskorennoe vstavanie|rannee vosstanovlenie podvizhnosti||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0013457||synonyms: ранний восстановительный период|rannee vstavanie, lechebnyi metod|rannii vosstanovitel'nyi period|uskorennoe vstavanie|rannee vosstanovlenie podvizhnosti||||
+#13	AnnotatorNotes T4	first_annotator_label: C0344211||synonyms: поддерживающая терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0367366||synonyms: западного конского энцефалита вирус ат:произвконц:тчкврм:сыв:колич||||

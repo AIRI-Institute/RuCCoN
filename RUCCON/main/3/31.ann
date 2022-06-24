@@ -1,0 +1,67 @@
+T16	Body_location 1057 1071	Кожные покровы
+T35	Disease 606 628	атопического дерматита
+T15	Symptom 859 883	малопродуктивным кашлем.
+T26	Symptom 1476 1496	Менингеальных знаков
+T7	Symptom 191 214	малопродуктивным кашлем
+T23	Symptom 1318 1324	хрипов
+T5	Body_location 69 88	носовой перегородки
+T17	Body_location 1103 1129	Видимые слизистые оболочки
+T2	Disease 42 50	Аденоиды
+T3	Severity 51 55	2 ст
+T13	Disease 746 749	ОРИ
+T12	Treatment 630 683	В терапии антигистаминные препараты, местные средства
+T6	Disease 169 172	ОРИ
+T27	Symptom 1178 1214	Носовое дыхание несколько затруднено
+T19	Body_location 1250 1258	В лёгких
+T1	Disease 9 40	Острый двусторонний риносинусит
+T24	Symptom 1433 1461	Стул регулярный, оформленный
+T31	Symptom 1072 1101	бледно-розового цвета, чистые
+T22	Symptom 1259 1279	дыхание везикулярное
+T20	Body_location 1345 1359	Область сердца
+T8	Symptom 216 233	заложенность носа
+T34	Disease 264 292	риноконъюнктивальный синдром
+T36	Disease 769 799	обструктивного ларинготрахеита
+T18	Body_location 1147 1165	Зев: задняя стенка
+T37	Symptom 1373 1381	изменена
+T32	Body_location 978 1004	подкожно-жировая клетчатка
+T29	Symptom 1166 1176	разрыхлена
+T21	Symptom 1383 1414	Сердечные тоны ясные, ритмичные
+T30	Symptom 1130 1145	розовые, чистые
+T10	Disease 302 318	пищевая аллергия
+T25	Symptom 1463 1470	Дизурии
+T28	Symptom 1216 1248	небольшое количество отделяемого
+T4	Disease 57 88	Искривление носовой перегородки
+T33	Symptom 1013 1030	удовлетворительно
+N1	Reference T16 UMLS:C1123023	кожа
+N2	Reference T35 UMLS:C0011615	атопический дерматит
+N3	Reference T15 UMLS:C0850149	кашель, непродуктивный
+N4	Reference T26 UMLS:C0025287	менингеальные знаки
+N5	Reference T7 UMLS:C0850149	кашель, непродуктивный
+N6	Reference T23 UMLS:C3887661	хрип
+N7	Reference T5 UMLS:C0027432	носа перегородка
+N8	Reference T17 UMLS:C0026724	слизистая оболочка
+N9	Reference T2 UMLS:C0001428	аденоиды
+N10	Reference T13 UMLS:C0035243	респираторные инфекции
+N11	Reference T12 UMLS:C1535925	антиаллергическая терапия
+N12	Reference T6 UMLS:C0035243	респираторные инфекции
+N13	Reference T27 UMLS:C0853254	раздражение носовых ходов
+N14	Reference T19 UMLS:C0024109	легкие
+N15	Reference T1 UMLS:C4728125	острый аллергический риносинусит
+N16	Reference T24 UMLS:C3546446	клетки регулируемая гибель
+N17	Reference T31 UMLS:C4505235	розовые
+N18	Reference T22 UMLS:C0231855	нормальная аускультативная картина в легких
+N19	Reference T20 UMLS:C0018787	сердце
+N20	Reference T8 UMLS:C0027424	заложенность носа
+N21	Reference T34 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N22	Reference T36 UMLS:C0854207	ларинготрахеит обструктивный
+N23	Reference T18 UMLS:C0521367	ротоглотка
+N24	Reference T37 UMLS:C0242863	absent
+N25	Reference T32 UMLS:C0222331	подкожная жировая клетчатка
+N26	Reference T29 UMLS:C0013604	отек
+N27	Reference T21 UMLS:C2712143	нормальный сердечный ритм
+N28	Reference T30 UMLS:C4505235	розовые
+N29	Reference T10 UMLS:C0149696	пищевая аллергия
+N30	Reference T25 UMLS:C0013428	дизурия
+N31	Reference T28 UMLS:C2926602	выделения
+N32	Reference T4 UMLS:C0549397	искривление перегородки носа
+N33	Reference T33 UMLS:C0679105	чувство удовлетворения

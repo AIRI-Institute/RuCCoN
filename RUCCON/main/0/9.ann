@@ -1,0 +1,64 @@
+T12	Drug 660 670	беродуалом
+T15	Disease 947 965	бронхиальная астма
+T23	Symptom 1440 1471	Сердечные тоны ясные, ритмичные
+T19	Symptom 1269 1305	Носовое дыхание несколько затруднено
+T18	Body_location 1256 1259	Зев
+T6	Symptom 142 170	затруднение носового дыхания
+T30	Symptom 1260 1267	спокоен
+T11	Drug 645 657	пульмикортом
+T22	Symptom 1377 1383	хрипов
+T20	Body_location 1307 1315	В лёгких
+T10	Treatment 633 670	ингаляции с пульмикортом и беродуалом
+T16	Body_location 1166 1180	Кожные покровы
+T21	Symptom 1316 1338	дыхание с везикулярное
+T24	Body_location 1402 1416	Область сердца
+T4	Disease 62 70	Аденоиды
+T13	Symptom 721 744	малопродуктивный кашель
+T26	Symptom 1518 1525	Дизурии
+T7	Symptom 180 203	малопродуктивного кашля
+T28	Symptom 1239 1254	розовые, чистые
+T1	Disease 9 28	Аллергический ринит
+T2	Severity 30 44	персистирующий
+T5	Severity 71 81	II степени
+T25	Symptom 1488 1492	Стул
+T8	Disease 534 556	респираторные инфекции
+T17	Body_location 1212 1238	Видимые слизистые оболочки
+T29	Symptom 1181 1210	бледно-розового цвета, чистые
+T9	Symptom 573 601	бронхобструктивным синдромом
+T27	Symptom 1531 1551	Менингеальных знаков
+T14	Symptom 815 820	кашля
+T3	Course 46 60	вне обострения
+N1	Reference T12 UMLS:C0015840	фенотерол
+N2	Reference T15 UMLS:C0004096	бронхиальная астма
+N3	Reference T23 UMLS:C2712143	нормальный сердечный ритм
+N4	Reference T19 UMLS:C0853254	раздражение носовых ходов
+N5	Reference T18 UMLS:C0521367	ротоглотка
+N6	Reference T6 UMLS:C0553668	затруднение дыхания
+N7	Reference T30 UMLS:CUILESS	отсутствие реакции
+N8	Reference T11 UMLS:C0054201	будесонид
+N9	Reference T22 UMLS:C3887661	хрип
+N10	Reference T20 UMLS:C0024109	легкие
+N11	Reference T10 UMLS:C0001559	введение лекарств ингаляционное
+N12	Reference T16 UMLS:C1123023	кожа
+N13	Reference T21 UMLS:C0231855	нормальная аускультативная картина в легких
+N14	Reference T24 UMLS:C0018787	сердце
+N15	Reference T4 UMLS:C0001428	аденоиды
+N16	Reference T13 UMLS:C0850149	кашель, непродуктивный
+N17	Reference T26 UMLS:C0013428	дизурия
+N18	Reference T7 UMLS:C0850149	кашель, непродуктивный
+N19	Reference T28 UMLS:C4505235	розовые
+N20	Reference T1 UMLS:C2607914	аллергический ринит
+N21	Reference T2 UMLS:CUILESS	хронический ринит
+N22	Reference T25 UMLS:C0232720	светлый стул
+N23	Reference T8 UMLS:C0035243	респираторные инфекции
+N24	Reference T17 UMLS:C0026724	слизистая оболочка
+N25	Reference T29 UMLS:C4505235	розовые
+N26	Reference T9 UMLS:C0235906	бронхоспазм, обострение
+N27	Reference T27 UMLS:C0025287	менингеальные знаки
+N28	Reference T14 UMLS:C0010200	кашель
+N29	Reference T3 UMLS:C0242793	период ремиссии
+#1	AnnotatorNotes T30	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0038071||synonyms: сквален|skvalen||||
+#2	AnnotatorNotes T10	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0004048||synonyms: ингаляция|vdykhanie|вдыхание|ingaliatsiia||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0948421||synonyms: пик кардиостимулятора на электрокардиограмме|спайк электрокардиостимулятора||||
+#3	AnnotatorNotes T21	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#4	AnnotatorNotes T2	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#5	AnnotatorNotes T3	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||

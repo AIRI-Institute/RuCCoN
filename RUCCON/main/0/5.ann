@@ -1,0 +1,60 @@
+T16	Body_location 1569 1583	кожные покровы
+T24	Symptom 1649 1669	дыхание везикулярное
+T11	Disease 779 798	контактный дерматит
+T8	Disease 570 586	пищевой аллергии
+T15	Disease 1542 1549	псориаз
+T2	Course 27 35	ремиссия
+T6	Symptom 156 184	затруднение носового дыхания
+T19	Body_location 1688 1694	сердца
+T23	Symptom 1695 1711	ясные, ритмичные
+T14	Disease 1488 1504	пищевая аллергия
+T29	Disease 854 860	ринита
+T18	Body_location 1642 1648	легких
+T3	Disease 37 56	Контактный дерматит
+T7	Symptom 216 246	риноконъюнктивального синдрома
+T10	Symptom 673 699	мелко-папулезных высыпаний
+T26	Symptom 1584 1609	бледно-розовые, суховатые
+T1	Disease 9 25	Пищевая аллергия
+T17	Body_location 1611 1614	Зев
+T25	Symptom 1619 1638	катаральных явлений
+T21	Symptom 1719 1725	диурез
+T9	Treatment 603 621	коррекцией рациона
+T28	Body_location 70 79	аденоидов
+T13	Disease 1171 1190	аллергический ринит
+T27	Symptom 1671 1677	хрипов
+T4	Disease 58 79	Гипертрофия аденоидов
+T20	Symptom 1713 1717	Стул
+T22	Symptom 1739 1759	Менингеальных знаков
+T5	Severity 80 94	II-III степени
+N1	Reference T16 UMLS:C1123023	кожа
+N2	Reference T24 UMLS:C0231855	нормальная аускультативная картина в легких
+N3	Reference T11 UMLS:C0011616	контактный дерматит
+N4	Reference T8 UMLS:C0149696	пищевая аллергия
+N5	Reference T15 UMLS:C0033860	псориаз
+N6	Reference T2 UMLS:C0242793	период ремиссии
+N7	Reference T6 UMLS:C0553668	затруднение дыхания
+N8	Reference T19 UMLS:C0018787	сердце
+N9	Reference T23 UMLS:CUILESS	нормальный сердечный ритм
+N10	Reference T14 UMLS:C0149696	пищевая аллергия
+N11	Reference T29 UMLS:C0035455	ринит
+N12	Reference T18 UMLS:C0024109	легкие
+N13	Reference T3 UMLS:C0011616	контактный дерматит
+N14	Reference T7 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N15	Reference T10 UMLS:C0015230	кожное высыпание
+N16	Reference T26 UMLS:C4505235	розовые
+N17	Reference T1 UMLS:C0149696	пищевая аллергия
+N18	Reference T17 UMLS:C0521367	ротоглотка
+N19	Reference T25 UMLS:C0021368	воспаление
+N20	Reference T21 UMLS:C1287298	диурез
+N21	Reference T9 UMLS:C0012155	медицинская диета
+N22	Reference T28 UMLS:C1112640	аденоиды
+N23	Reference T13 UMLS:C2607914	аллергический ринит
+N24	Reference T27 UMLS:C3887661	хрип
+N25	Reference T4 UMLS:C0149825	гипертрофия исключительно аденоидов
+N26	Reference T20 UMLS:C0232720	светлый стул
+N27	Reference T22 UMLS:C0025287	менингеальные знаки
+#1	AnnotatorNotes T24	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#2	AnnotatorNotes T2	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#3	AnnotatorNotes T23	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0023740||synonyms: язычный нерв|iazychnyi nerv||||
+#4	AnnotatorNotes T25	first_annotator_label: C0021368||synonyms: воспаление|vospalenie|воспалительная реакция|воспаления|воспаление, бду||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||
+#5	AnnotatorNotes T9	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0013164||synonyms: лекарств приготовление|mikrokapsuliatsiia|lekarstv prigotovlenie po retseptu vracha|lekarstv kompaundirovanie|sostavlenie lekarstv||||

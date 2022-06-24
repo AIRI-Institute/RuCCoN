@@ -1,0 +1,467 @@
+T7	Symptom 637 654	стенки нормальные
+T183	Symptom 1628 1686	вспышки альфа-бета-активности с тенденцией к генерализации
+T47	Symptom 1037 1072	нормальная, размер средний 87х33 мм
+T96	Drug 5179 5186	Фенибут
+T128	Body_location 3527 3561	основной и задних мозговых артерий
+T103	Disease 4158 4192	Смешанная себорея, вульгарные угри
+T151	Symptom 2460 2475	новообразований
+T185	Symptom 1746 1814	Типичной эпилептической, пароксизмальной активности, грубых очаговых
+T115	Drug 3939 3947	Физиомер
+T193	Body_location 252 261	паренхима
+T51	Symptom 1141 1150	расширена
+T48	Symptom 1074 1100	положение в типичном месте
+T163	Body_location 2736 2801	Субарахноидальное пространство больших полушарий мозга и мозжечка
+T54	Body_location 1187 1197	Мочеточник
+T158	Body_location 2641 2659	Миндалины мозжечка
+T29	Symptom 615 624	расширена
+T72	Body_location 5508 5519	конъюнктивы
+T165	Body_location 2820 2834	Сильвиевы щели
+T57	Symptom 1227 1247	нормальный, заполнен
+T19	Symptom 311 315	7 мм
+T149	Symptom 2388 2431	очагов патологически измененного МР сигнала
+T125	Symptom 3562 3586	патологических изменений
+T78	Symptom 5582 5589	извитые
+T66	Treatment 6519 6558	Кальций Д3 никомед 1 таб.  1 раз в день
+T85	Drug 6452 6465	морской солью
+T98	Drug 5357 5366	Неврохель
+T159	Body_location 2670 2686	линии Чемберлена
+T201	Symptom 1114 1130	дифференцирована
+T49	Symptom 1102 1130	паренхима – дифференцирована
+T55	Symptom 1201 1209	расширен
+T161	Symptom 2707 2716	расширены
+T136	Body_location 3204 3219	слуховые улитки
+T97	Treatment 5357 5439	Неврохель 1таб. х 1 раз в день 1 месяц до еды рассасывать (утро, день, перед сном)
+T37	Symptom 855 890	нормальная, размер средний 90х35 мм
+T156	Body_location 2594 2616	Серое и белое вещество
+T194	Symptom 263 273	однородная
+T30	Body_location 669 689	12-ти перстная кишка
+T52	Body_location 1152 1158	Сосуды
+T86	Treatment 6354 6376	Сон на жесткой постели
+T46	Symptom 1019 1027	расширен
+T39	Symptom 920 948	паренхима – дифференцирована
+T25	Symptom 444 475	паренхима – эхогенность средняя
+T172	Symptom 2927 2943	без особенностей
+T187	Treatment 4872 4894	ЭЭГ через 6-12 месяцев
+T179	Body_location 3113 3138	параорбитальной клетчатке
+T11	Symptom 73 83	нормальный
+T118	Drug 4006 4016	Аква-марис
+T142	Body_location 1999 2020	глазной артерии слева
+T84	Treatment 6444 6472	Ванны с морской солью №10-15
+T140	Body_location 1950 1966	в вене Розенталя
+T148	Body_location 2356 2385	краниовертебрального перехода
+T134	Body_location 3162 3189	Внутренние слуховые проходы
+T184	Symptom 1697 1707	дисфункции
+T100	Disease 4451 4459	Цефалгии
+T197	Symptom 560 591	однородная, средней эхогенности
+T67	Drug 6519 6537	Кальций Д3 никомед
+T138	Body_location 1874 1897	сосудов головного мозга
+T50	Body_location 1132 1135	ЧЛС
+T94	Body_location 4906 4935	сосудов головного мозга и шеи
+T18	Body_location 296 309	воротная вена
+T145	Body_location 2245 2280	головного мозга срединные структуры
+T14	Symptom 252 273	паренхима- однородная
+T174	Body_location 2955 2963	гипофиза
+T202	Disease 1527 1568	Сглаженность межзональной дифференцировки
+T21	Symptom 381 397	размер – средний
+T101	Disease 4461 4482	Невротические реакции
+T147	Body_location 2293 2346	В веществе мозга больших полушарий, ствола и мозжечка
+T93	Disease 4820 4846	Цефалгии смешанного генеза
+T116	Drug 3975 3987	Аквалор софт
+T111	Disease 3847 3866	Аллергический ринит
+T173	Symptom 2945 2974	Структура гипофиза однородная
+T43	Symptom 996 1003	изменен
+T110	Drug 4356 4363	Липикар
+T71	Disease 5491 5519	сосудистый невус конъюнктивы
+T200	Body_location 1102 1111	паренхима
+T16	Symptom 337 345	изменены
+T169	Body_location 2878 2892	Турецкое седло
+T191	Body_location 107 113	стенки
+T82	Symptom 5749 5779	защитные реакции по типу ухода
+T196	Body_location 549 558	паренхима
+T36	Body_location 846 852	правая
+T2	Body_location 57 71	Желчный пузырь
+T83	Symptom 5781 5824	риск соматизации психологических переживани
+T171	Body_location 2919 2926	Гипофиз
+T188	Treatment 4899 4954	Доплер сосудов головного мозга и шеи через 6-12 месяцев
+T10	Symptom 150 167	просвет- свободен
+T121	Body_location 3640 3650	Вены мозга
+T59	Body_location 1249 1255	стенки
+T153	Body_location 2512 2548	периваскулярные пространства Вирхова
+T168	Symptom 2867 2876	расширены
+T139	Symptom 1912 1987	увеличена линейная скорость кровотока в вене Розенталя – венозная дисгемия.
+T170	Symptom 2893 2917	обычной формы и размеров
+T113	Treatment 3939 4035	Физиомер (с 2-х нед. и старше) (или Аквалор софт, или Маример, или Аква-марис) х 3-4 раза в день
+T91	Disease 4757 4779	невротические реакции.
+T56	Body_location 1211 1225	Мочевой пузырь
+T73	Body_location 5524 5535	глазном дне
+T195	Body_location 444 453	паренхима
+T143	Body_location 2065 2080	головного мозга
+T126	Body_location 3430 3488	горизонтальных отделов и сифонов внутренних сонных артерий
+T75	Symptom 5564 5575	расширенные
+T88	Treatment 6423 6426	ЛФК
+T135	Symptom 3193 3202	расширены
+T162	Symptom 2721 2734	деформированы
+T44	Body_location 1005 1015	Мочеточник
+T42	Body_location 970 976	Сосуды
+T81	Symptom 5736 5747	тревожность
+T17	Symptom 275 294	средней эхогенности
+T33	Body_location 813 818	почек
+T152	Symptom 2500 2548	расширенные периваскулярные пространства Вирхова
+T6	Body_location 627 634	Желудок
+T5	Body_location 499 508	Селезенка
+T64	Disease 6300 6323	Плоско-вальгусная стопа
+T61	Symptom 1294 1311	ортопроба – норма
+T120	Symptom 3694 3723	объемное и очаговое поражение
+T3	Body_location 169 175	Печень
+T26	Symptom 522 547	размер - средний 88х42 мм
+T62	Symptom 1281 1292	анэхогенный
+T38	Symptom 892 918	положение в типичном месте
+T105	Treatment 4225 4320	вечером на чистую кожу лица гель Скинорен тонким слоем – 1.5-2 месяца, затем 2-3 раза в неделю.
+T63	Disease 6258 6298	нарушение осанки (сколиотическая осанка)
+T199	Symptom 932 948	дифференцирована
+T114	Body_location 3926 3938	полость носа
+T92	Disease 4780 4818	Особенности эмоционально-волевой сферы
+T167	Body_location 2849 2863	Цистерны мозга
+T45	Body_location 1029 1034	левая
+T34	Body_location 821 836	мочевого пузыря
+T102	Disease 4136 4156	атопический дерматит
+T132	Body_location 3369 3389	магистральные сосуды
+T180	Symptom 3139 3148	изменений
+T22	Symptom 399 442	головка – 10 мм, тело - 8 мм, хвост – 14 мм
+T166	Symptom 2838 2847	расширены
+T20	Symptom 85 105	размер – не увеличен
+T74	Symptom 5536 5556	асимметрия кровотока
+T178	Symptom 3096 3109	деформированы
+T9	Symptom 129 147	форма - правильная
+T27	Symptom 549 591	паренхима- однородная, средней эхогенности
+T68	Symptom 6070 6116	истощаемость, снижение внимания при утомлении,
+T76	Body_location 5576 5580	вены
+T133	Body_location 3414 3417	шеи
+T80	Symptom 5707 5734	неустойчивость самопринятия
+T160	Body_location 2688 2703	Желудочки мозга
+T104	Severity 4194 4208	легкая степень
+T106	Body_location 4243 4252	кожу лица
+T107	Body_location 4329 4336	на тело
+T112	Severity 3868 3888	персистирующая форма
+T155	Symptom 2581 2592	симметрично
+T8	Symptom 107 127	стенки - не изменены
+T129	Body_location 3294 3299	мозга
+T198	Body_location 920 929	паренхима
+T190	Disease 2437 2450	кровоизлияний
+T182	Body_location 1708 1744	средних (мезодиэнцефальных) структур
+T137	Symptom 3223 3236	деформированы
+T24	Symptom 489 497	расширен
+T189	Drug 4258 4266	Скинорен
+T109	Drug 4338 4350	Атодерм крем
+T1	Body_location 31 54	органов брюшной полости
+T89	Treatment 6431 6439	Плавание
+T15	Body_location 317 332	печеночные вены
+T157	Symptom 2617 2639	четко дифференцировано
+T177	Body_location 3038 3092	Каналы зрительных нервов и перекрест зрительных нервов
+T41	Symptom 959 968	расширена
+T150	Symptom 2433 2450	зон кровоизлияний
+T40	Body_location 950 953	ЧЛС
+T144	Body_location 2100 2115	головного мозга
+T146	Symptom 2284 2291	смещены
+T95	Treatment 5179 5335	Фенибут 0.25 (Латвия) ½ таб. х 3 раза в день – 3 дня, далее 1 таб. х 2 раза (утро, вечер) в день п/еды до 21 ч. – 1.5 мес + 1 неделя – ¼ таб х 3 раза в день
+T99	Disease 4445 4449	СДВГ
+T164	Symptom 2802 2818	без особенностей
+T154	Body_location 2550 2568	Борозды и извилины
+T65	Symptom 6325 6335	Боли роста
+T28	Body_location 593 610	селезеночная вена
+T13	Symptom 236 250	контур- ровный
+T87	Treatment 6381 6418	Массаж спины № 12-15 (3-4 раза в год)
+T4	Body_location 347 367	Поджелудочная железа
+T141	Symptom 1988 2020	Гипертонус глазной артерии слева
+T79	Symptom 5684 5706	невротизация личности,
+T181	Body_location 1572 1612	лобно-центрально-передневисочных отделах
+T108	Treatment 4338 4378	Атодерм крем (или Липикар) 2 раза в день
+T31	Symptom 693 723	стенки нормальные, секрета нет
+T60	Body_location 1271 1278	просвет
+T192	Symptom 116 127	не изменены
+T12	Symptom 177 234	размер средний, ЛД- 54 мм, 1-й сегмент- 18 мм, ПД- 116 мм
+T119	Body_location 3733 3748	головного мозга
+T124	Symptom 3627 3638	симметричен
+T69	Symptom 6117 6138	невротические реакции
+T127	Body_location 3490 3525	передних и средних мозговых артерий
+T175	Body_location 2986 2991	орбит
+T35	Body_location 839 844	Почки
+T77	Body_location 5590 5597	артерии
+T122	Symptom 3651 3667	без особенностей
+T23	Body_location 477 483	проток
+T130	Body_location 3311 3327	виллизиева круга
+T53	Symptom 1178 1185	изменен
+T70	Symptom 6029 6068	особенности познавательной деятельности
+T90	Treatment 6477 6515	Индивидуальные ортопедические стельки.
+T123	Body_location 3607 3626	позвоночных артерий
+T117	Drug 3993 4000	Маример
+T131	Body_location 3330 3359	основных церебральных артерий
+T176	Symptom 2992 3024	видимых патологических изменений
+T58	Symptom 1261 1269	утолщены
+T32	Symptom 656 667	секрет есть
+N1	Reference T7 UMLS:CUILESS	норма рабочая
+N2	Reference T183 UMLS:C0151611	нарушения биоэлектрической активности мозга по данным ээг (бду)
+N3	Reference T47 UMLS:C0748337	результаты ультразвукового исследования почки в норме
+N4	Reference T96 UMLS:C0242913	ноотропные средства
+N5	Reference T128 UMLS:C0149576	мозга головного артерия задняя
+N6	Reference T103 UMLS:C0036508	сыпь себорейная
+N7	Reference T151 UMLS:C0027651	новообразования
+N8	Reference T185 UMLS:C0393734	комплексный парциальный эпилептический статус
+N9	Reference T115 UMLS:C0036499	вода морская
+N10	Reference T193 UMLS:C4277702	паренхиматозная ткань
+N11	Reference T51 UMLS:C0038257	расширители
+N12	Reference T48 UMLS:CUILESS	тела положение
+N13	Reference T163 UMLS:C0038527	субарахноидальное пространство
+N14	Reference T54 UMLS:C0041951	мочеточник
+N15	Reference T158 UMLS:C0007765	мозжечок
+N16	Reference T29 UMLS:C0038257	расширители
+N17	Reference T72 UMLS:C0009758	конъюнктива
+N18	Reference T165 UMLS:C0007797	сильвиева вена
+N19	Reference T57 UMLS:CUILESS	ультразвуковое исследование мочевого пузыря
+N20	Reference T149 UMLS:C4523870	изменения мрт-сигнала головного мозга
+N21	Reference T125 UMLS:C0030660	патологические процессы
+N22	Reference T78 UMLS:C0302142	ангиопатия сетчатки
+N23	Reference T66 UMLS:C2735925	кальцидиол^1 час после дозы кальция:молконц:тчкврм:сыв/плаз:колич
+N24	Reference T85 UMLS:C0036499	вода морская
+N25	Reference T98 UMLS:C0024911	гомеопатические средства
+N26	Reference T159 UMLS:CUILESS	зубовидный отросток
+N27	Reference T201 UMLS:CUILESS	норма рабочая
+N28	Reference T49 UMLS:CUILESS	результаты ультразвукового исследования почек в норме
+N29	Reference T55 UMLS:C0038257	расширители
+N30	Reference T161 UMLS:C0038257	расширители
+N31	Reference T136 UMLS:C0022889	ухо внутреннее
+N32	Reference T97 UMLS:C0013154	гомеопатия
+N33	Reference T37 UMLS:C0748337	результаты ультразвукового исследования почки в норме
+N34	Reference T156 UMLS:C0682708	белое вещество
+N35	Reference T194 UMLS:CUILESS	норма рабочая
+N36	Reference T30 UMLS:C0013303	двенадцатиперстная кишка
+N37	Reference T52 UMLS:C0042367	сосуды сосудов
+N38	Reference T86 UMLS:C0037313	сон
+N39	Reference T46 UMLS:C0038257	расширители
+N40	Reference T39 UMLS:CUILESS	результаты ультразвукового исследования почек в норме
+N41	Reference T25 UMLS:CUILESS	норма рабочая
+N42	Reference T172 UMLS:C0237284	отсутствие реакции
+N43	Reference T187 UMLS:C0013819	электроэнцефалография
+N44	Reference T179 UMLS:C0597169	парабрахиальное ядро
+N45	Reference T11 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N46	Reference T118 UMLS:C0036499	вода морская
+N47	Reference T142 UMLS:C0029078	глазная артерия
+N48	Reference T84 UMLS:C1504484	лечебные ванны
+N49	Reference T140 UMLS:C0007797	вена галена
+N50	Reference T148 UMLS:C0004168	краниовертебральное сочленение
+N51	Reference T134 UMLS:C0013444	слуховой проход наружный
+N52	Reference T184 UMLS:C0262405	мозговая дисфункция
+N53	Reference T100 UMLS:C0018681	цефалгия
+N54	Reference T197 UMLS:CUILESS	норма рабочая
+N55	Reference T67 UMLS:C0006681	кальция карбонат
+N56	Reference T138 UMLS:C0005847	кровеносные сосуды
+N57	Reference T50 UMLS:C0227666	почечные лоханки
+N58	Reference T94 UMLS:UNKNOWN	мозг головной
+N59	Reference T18 UMLS:C0032718	воротная вена
+N60	Reference T145 UMLS:C0006104	мозг головной
+N61	Reference T14 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N62	Reference T174 UMLS:C0032005	гипофиз
+N63	Reference T202 UMLS:CUILESS	структурные поражения головного мозга, нкдр
+N64	Reference T21 UMLS:CUILESS	органа размер
+N65	Reference T101 UMLS:C0235172	невротическая реакция
+N66	Reference T147 UMLS:C0682708	белое вещество мозга
+N67	Reference T93 UMLS:C0393735	цефалгии синдром
+N68	Reference T116 UMLS:C0036499	вода морская
+N69	Reference T111 UMLS:C2607914	аллергический ринит
+N70	Reference T173 UMLS:C0032005	гипофиз
+N71	Reference T43 UMLS:CUILESS	измененный характер
+N72	Reference T110 UMLS:C3494477	крем для кожи
+N73	Reference T71 UMLS:C0346363	невус конъюнктивы
+N74	Reference T200 UMLS:C4277702	паренхиматозная ткань
+N75	Reference T16 UMLS:CUILESS	результаты исследования сосудов в норме
+N76	Reference T169 UMLS:C0036609	турецкое седло
+N77	Reference T191 UMLS:CUILESS	утолщение стенки желчного пузыря
+N78	Reference T82 UMLS:CUILESS	уклоняющееся расстройство личности
+N79	Reference T196 UMLS:C4277702	паренхиматозная ткань
+N80	Reference T36 UMLS:CUILESS	почки
+N81	Reference T2 UMLS:C0016976	желчный пузырь
+N82	Reference T83 UMLS:C0748076	психотическое расстройство вследствие общего соматического состояния
+N83	Reference T171 UMLS:C0032005	гипофиз
+N84	Reference T188 UMLS:C0162481	ультрасонография допплеровская
+N85	Reference T10 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N86	Reference T121 UMLS:C0007797	мозга головного вены
+N87	Reference T59 UMLS:CUILESS	ультразвуковое исследование мочевого пузыря
+N88	Reference T153 UMLS:C4704774	головного мозга периваскулярные пространства
+N89	Reference T168 UMLS:C0038257	расширители
+N90	Reference T139 UMLS:C5208297	повышение градиента давления в венозной системе печени
+N91	Reference T170 UMLS:CUILESS	норма рабочая
+N92	Reference T113 UMLS:C2350442	промывание носа
+N93	Reference T91 UMLS:C0235172	невротическая реакция
+N94	Reference T56 UMLS:C0005682	мочевой пузырь
+N95	Reference T73 UMLS:C0016823	глазное дно
+N96	Reference T195 UMLS:C4277702	паренхиматозная ткань
+N97	Reference T143 UMLS:C4028269	магнитно-резонансная томография головного мозга
+N98	Reference T126 UMLS:C0007276	сонные артерии
+N99	Reference T75 UMLS:CUILESS	варикозное расширение вены сетчатки
+N100	Reference T88 UMLS:C0452240	физическая культура лечебная
+N101	Reference T135 UMLS:C0038257	расширители
+N102	Reference T162 UMLS:C0302142	деформация
+N103	Reference T44 UMLS:C0041951	мочеточник
+N104	Reference T42 UMLS:C0005847	кровеносные сосуды
+N105	Reference T81 UMLS:C2945761	тревога
+N106	Reference T17 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N107	Reference T33 UMLS:C0022646	почки
+N108	Reference T152 UMLS:C2363971	расширение периваскулярных пространств головного мозга
+N109	Reference T6 UMLS:C0038351	желудок
+N110	Reference T5 UMLS:C0037993	селезенка
+N111	Reference T64 UMLS:C0016202	плоская стопа
+N112	Reference T61 UMLS:C1112302	нормальные результаты ортопедического осмтра
+N113	Reference T120 UMLS:C0221505	поражение головного мозга
+N114	Reference T3 UMLS:C0023884	печень
+N115	Reference T26 UMLS:CUILESS	органа размер
+N116	Reference T62 UMLS:CUILESS	норма рабочая
+N117	Reference T38 UMLS:C0748337	результаты ультразвукового исследования почки в норме
+N118	Reference T105 UMLS:C1699506	терапевтическое местное лечение кожи
+N119	Reference T63 UMLS:C0036439	сколиоз (и кифосколиоз), идиопатический
+N120	Reference T199 UMLS:CUILESS	норма рабочая
+N121	Reference T114 UMLS:C0027423	носовая полость
+N122	Reference T92 UMLS:C0677660	эмоциональные проблемы
+N123	Reference T167 UMLS:C0038527	цистерна подпаутинная
+N124	Reference T45 UMLS:C0022646	почки
+N125	Reference T34 UMLS:C0005682	мочевой пузырь
+N126	Reference T102 UMLS:C0011615	атопический дерматит
+N127	Reference T132 UMLS:C0005847	кровеносные сосуды
+N128	Reference T180 UMLS:C0032659	население
+N129	Reference T22 UMLS:C4285854	результаты ультразвукового исследования поджелудочной железы в норме
+N130	Reference T166 UMLS:C0038257	расширители
+N131	Reference T20 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N132	Reference T74 UMLS:CUILESS	функциональное нарушение кровообращения
+N133	Reference T178 UMLS:C0302142	деформация
+N134	Reference T9 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N135	Reference T27 UMLS:CUILESS	ультразвуковое исследование селезенки
+N136	Reference T68 UMLS:C0856136	ухудшение утомляемости
+N137	Reference T76 UMLS:C0042449	вены
+N138	Reference T133 UMLS:C0027530	шея
+N139	Reference T80 UMLS:CUILESS	психологическая устойчивость
+N140	Reference T160 UMLS:C0007799	мозга головного желудочки
+N141	Reference T106 UMLS:C1123023	лицо
+N142	Reference T107 UMLS:C0242821	человека тело
+N143	Reference T112 UMLS:CUILESS	хронический ринит
+N144	Reference T155 UMLS:CUILESS	норма рабочая
+N145	Reference T8 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N146	Reference T129 UMLS:C0006104	мозг головной
+N147	Reference T198 UMLS:C4277702	паренхиматозная ткань
+N148	Reference T190 UMLS:C0019080	кровоизлияния
+N149	Reference T182 UMLS:CUILESS	структурные поражения головного мозга
+N150	Reference T137 UMLS:C0302142	деформация
+N151	Reference T24 UMLS:C0038257	расширители
+N152	Reference T189 UMLS:C3494477	крем для кожи
+N153	Reference T109 UMLS:C3494477	крем для кожи
+N154	Reference T1 UMLS:C0230168	брюшная полость
+N155	Reference T89 UMLS:C0039003	плавание
+N156	Reference T15 UMLS:C0019155	печеночные вены
+N157	Reference T157 UMLS:C0007589	клетки дифференциация
+N158	Reference T177 UMLS:C0029126	зрительных нервов перекрест
+N159	Reference T41 UMLS:C0038257	расширители
+N160	Reference T150 UMLS:C0019080	кровоизлияние (бду)
+N161	Reference T40 UMLS:C0227666	почечные лоханки
+N162	Reference T144 UMLS:C0006104	мозг головной
+N163	Reference T146 UMLS:C0576481	смещение срединных структур головного мозга
+N164	Reference T95 UMLS:C0013154	ноотропные средства
+N165	Reference T99 UMLS:C1263846	синдром дефицита внимания/гиперактивности
+N166	Reference T164 UMLS:CUILESS	норма рабочая
+N167	Reference T154 UMLS:C0006104	мозг головной
+N168	Reference T65 UMLS:C0423693	боли роста
+N169	Reference T28 UMLS:C0038001	селезеночная вена
+N170	Reference T13 UMLS:CUILESS	контуринг тела
+N171	Reference T87 UMLS:C0024875	массаж
+N172	Reference T4 UMLS:C0030274	поджелудочная железа
+N173	Reference T141 UMLS:C1328470	гипертония глазного дна
+N174	Reference T79 UMLS:C0856254	невротическое расстройство личности
+N175	Reference T181 UMLS:C0006104	мозг головной
+N176	Reference T108 UMLS:C1699506	увлажнение сухой кожи тела
+N177	Reference T31 UMLS:CUILESS	норма рабочая
+N178	Reference T60 UMLS:C0855956	ультразвуковое исследование мочевого пузыря
+N179	Reference T192 UMLS:CUILESS	норма рабочая
+N180	Reference T12 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N181	Reference T119 UMLS:C0006104	мозг головной
+N182	Reference T124 UMLS:CUILESS	исследование сосудов
+N183	Reference T69 UMLS:C0235172	невротическая реакция
+N184	Reference T127 UMLS:C0149561	мозга головного артерия передняя
+N185	Reference T175 UMLS:C0029180	орбита
+N186	Reference T35 UMLS:C0022646	почки
+N187	Reference T77 UMLS:C0003842	артерии
+N188	Reference T122 UMLS:CUILESS	норма рабочая
+N189	Reference T23 UMLS:C0030288	расширение протока поджелудочной железы
+N190	Reference T130 UMLS:C0008812	круг виллизиев
+N191	Reference T53 UMLS:CUILESS	измененный характер
+N192	Reference T70 UMLS:C0009240	познавательная способность
+N193	Reference T90 UMLS:C5243619	ортопедические стельки
+N194	Reference T123 UMLS:C0042559	позвоночная артерия
+N195	Reference T117 UMLS:C0036499	вода морская
+N196	Reference T131 UMLS:C0149566	церебральная артерия средняя
+N197	Reference T176 UMLS:CUILESS	патология
+N198	Reference T58 UMLS:CUILESS	утолщение стенки мочевого пузыря
+N199	Reference T32 UMLS:C1096020	выделение секрета
+#1	AnnotatorNotes T7	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||bert: C1112281||synonyms: нормальный рост||||
+#2	AnnotatorNotes T183	first_annotator_label: C0151611||synonyms: изменения на электроэнцефалограмме|отклонение от нормы результатов ээг|отклонение от нормы показателей на электроэнцефалограмме|отклонение от нормы результатов электроэнцефалографии (ээг)|нарушения биоэлектрической активности мозга по данным ээг (бду)||||second_annotator_label: C0017324||synonyms: генерализация ответных реакций психологическая|generalizatsiia otvetnykh reaktsii psikhologicheskaia|generalizatsiia, psikhologiia|генерализация, психология|generalizatsiia otvetnykh reaktsii||||third_annotator_label: C0474395||synonyms: повышение активности||||bert: C0027752||synonyms: нерва роста фактор|faktor rosta nervnoi tkani|nerva rosta faktor|фактор роста нервной ткани|нерва фактор роста 1||||
+#3	AnnotatorNotes T103	first_annotator_label: C0234926||synonyms: сыпь себорейная||||second_annotator_label: C0036508||synonyms: дерматит себорейный|dermatit seboreinyi|gipersteatoz|seboreia|кожа, себорейная||||third_annotator_label: C0849640||synonyms: повреждение кожи||||bert: C0020592||synonyms: снотворные и седативные средства|snotvornye i sedativnye sredstva|snotvornye sredstva nebarbiturovye|barbituraty sedativnye|gipnoticheskie i sedativnye sredstva||||
+#4	AnnotatorNotes T193	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#5	AnnotatorNotes T48	first_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||bert: C0037669||synonyms: соматотипы|teloslozheniia tipy|slozheniia tipy|somatotipy|сложения типы||||
+#6	AnnotatorNotes T57	first_annotator_label: C0855956||synonyms: ультразвуковое исследование мочевого пузыря|диагностическое ультразвуковое исследование мочевого пузыря||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#7	AnnotatorNotes T78	first_annotator_label: C4552373||synonyms: ангиопатия сетчатки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0021254||synonyms: индриевые|indriidy|indri|хохлатые индри|khokhlatye indri||||
+#8	AnnotatorNotes T159	first_annotator_label: C0028881||synonyms: зубовидный отросток|zubovidnyi otrostok|zub osevogo pozvonka|зуб осевого позвонка||||second_annotator_label: C0266911||synonyms: кайма синего цвета на деснах|синяя линия на деснах|синяя полоса на деснах|линии бертона|синяя кайма на деснах||||third_annotator_label: None||synonyms: ||||bert: C0266911||synonyms: кайма синего цвета на деснах|синяя линия на деснах|синяя полоса на деснах|линии бертона|синяя кайма на деснах||||
+#9	AnnotatorNotes T201	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#10	AnnotatorNotes T49	first_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0007589||synonyms: клетки дифференциация|kletki differentsiatsiia||||bert: C0007589||synonyms: клетки дифференциация|kletki differentsiatsiia||||
+#11	AnnotatorNotes T136	first_annotator_label: C0022889||synonyms: ухо внутреннее|labirint|ukho vnutrennee|лабиринт||||second_annotator_label: C0013450||synonyms: слуховые косточки|slukhovye kostochki|kostochki barabannye|ushnye kostochki|косточки барабанные||||third_annotator_label: C0009195||synonyms: улитка|ulitka||||bert: C0230626||synonyms: стереоцилии|slukhovye voloski|слуховые волоски|stereotsilii||||
+#12	AnnotatorNotes T97	first_annotator_label: C0684199||synonyms: гомеопатия|gomeopatiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1148245||synonyms: туберкулёз реакция папула^1 день после дозы млекопитающих туберкулина внутрикожно:диам:тчкврм:кожа:колич||||
+#13	AnnotatorNotes T194	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#14	AnnotatorNotes T39	first_annotator_label: C0748337||synonyms: результаты ультразвукового исследования почки в норме|результаты ультразвукового исследования почек в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0007589||synonyms: клетки дифференциация|kletki differentsiatsiia||||bert: C0007589||synonyms: клетки дифференциация|kletki differentsiatsiia||||
+#15	AnnotatorNotes T25	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#16	AnnotatorNotes T197	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#17	AnnotatorNotes T138	first_annotator_label: C0005847||synonyms: кровеносные сосуды|krovenosnye sosudy||||second_annotator_label: C0007820||synonyms: мозгового кровообращения расстройства|mozgovogo krovoobrashcheniia rasstroistva|tserebrovaskuliarnye rasstroistva|нарушение мозгового кровообращения неуточненное|нарушенное мозговое кровообращение||||third_annotator_label: C4324335||synonyms: дилатация сосудов головного мозга||||bert: C0007820||synonyms: мозгового кровообращения расстройства|mozgovogo krovoobrashcheniia rasstroistva|tserebrovaskuliarnye rasstroistva|нарушение мозгового кровообращения неуточненное|нарушенное мозговое кровообращение||||
+#18	AnnotatorNotes T94	first_annotator_label: C0006104||synonyms: мозг головной|mozg golovnoi||||second_annotator_label: C0007820||synonyms: мозгового кровообращения расстройства|mozgovogo krovoobrashcheniia rasstroistva|tserebrovaskuliarnye rasstroistva|нарушение мозгового кровообращения неуточненное|нарушенное мозговое кровообращение||||third_annotator_label: C0042367||synonyms: vasa vasorum|sosudy sosudov|сосуды сосудов||||bert: C0007820||synonyms: мозгового кровообращения расстройства|mozgovogo krovoobrashcheniia rasstroistva|tserebrovaskuliarnye rasstroistva|нарушение мозгового кровообращения неуточненное|нарушенное мозговое кровообращение||||
+#19	AnnotatorNotes T145	first_annotator_label: C0006104||synonyms: мозг головной|mozg golovnoi||||second_annotator_label: C4028269||synonyms: магнитно-резонансная томография головного мозга|мрт головного мозга||||third_annotator_label: C0006121||synonyms: ствол мозга|stvol mozga||||bert: C0576481||synonyms: смещение срединных структур головного мозга||||
+#20	AnnotatorNotes T14	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#21	AnnotatorNotes T202	first_annotator_label: C0851595||synonyms: структурные поражения головного мозга, нкдр||||second_annotator_label: C0021799||synonyms: межпрофессиональные отношения|mezhprofessional'nye otnosheniia||||third_annotator_label: None||synonyms: ||||bert: C0021799||synonyms: межпрофессиональные отношения|mezhprofessional'nye otnosheniia||||
+#22	AnnotatorNotes T21	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#23	AnnotatorNotes T147	first_annotator_label: C0682708||synonyms: белое вещество мозга|beloe veshchestvo mozga|beloe veshchestvo|mozzhechka beloe veshchestvo|белое вещество||||second_annotator_label: C0858896||synonyms: поражение полушария мозжечка||||third_annotator_label: C0006104||synonyms: мозг головной|mozg golovnoi||||bert: C0858896||synonyms: поражение полушария мозжечка||||
+#24	AnnotatorNotes T43	first_annotator_label: C0235181||synonyms: изменение характера|измененный характер||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4704700||synonyms: отрицательные результаты|otritsatel'nye rezul'taty||||bert: C0235181||synonyms: изменение характера|измененный характер||||
+#25	AnnotatorNotes T200	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#26	AnnotatorNotes T16	first_annotator_label: C1112414||synonyms: результаты исследования сосудов в норме||||second_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#27	AnnotatorNotes T191	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#28	AnnotatorNotes T82	first_annotator_label: C0004444||synonyms: уклоняющееся расстройство личности|уклоняющаяся личность||||second_annotator_label: C0581884||synonyms: ощущение закладывания уха||||third_annotator_label: None||synonyms: ||||bert: C0581884||synonyms: ощущение закладывания уха||||
+#29	AnnotatorNotes T196	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#30	AnnotatorNotes T36	first_annotator_label: C0022646||synonyms: почки|pochki||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1272641||synonyms: артериальное давление|aortal'noe davlenie krovi|ад|ad|aortal'noe davlenie||||bert: C4524267||synonyms: целенаправленная оценка с сонографией при травме|сонография ургентная при травме|fast|sonografiia urgentnaia pri travme|срочное узи брюшной полости при травме||||
+#31	AnnotatorNotes T59	first_annotator_label: C0855956||synonyms: ультразвуковое исследование мочевого пузыря|диагностическое ультразвуковое исследование мочевого пузыря||||second_annotator_label: C0859032||synonyms: стенание|стоны||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#32	AnnotatorNotes T170	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0005886||synonyms: тела конституция|tela konstitutsiia|konstitutsiia tela|razmery tela|конституция тела||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0005886||synonyms: тела конституция|tela konstitutsiia|konstitutsiia tela|razmery tela|конституция тела||||
+#33	AnnotatorNotes T195	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#34	AnnotatorNotes T126	first_annotator_label: C0007272||synonyms: сонные артерии|sonnye arterii|karotidnye arterii|каротидные артерии||||second_annotator_label: C0007276||synonyms: сонная артерия внутренняя|sonnaia arteriia vnutrenniaia||||third_annotator_label: C0003842||synonyms: артерии|arterii||||bert: C0002032||synonyms: chlorophyta|vodorosli zelenye|khlorofita|sifonovye vodorosli|ulotriksovye vodorosli||||
+#35	AnnotatorNotes T75	first_annotator_label: C4727999||synonyms: варикозное расширение вены сетчатки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#36	AnnotatorNotes T42	first_annotator_label: C0005847||synonyms: кровеносные сосуды|krovenosnye sosudy||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0042367||synonyms: vasa vasorum|sosudy sosudov|сосуды сосудов||||bert: C0042367||synonyms: vasa vasorum|sosudy sosudov|сосуды сосудов||||
+#37	AnnotatorNotes T17	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C2936423||synonyms: кишечник эхогенный|kishechnik ekhogennyi|эхогенность кишечника|ekhogennost' kishechnika|гиперэхогенный кишечник||||
+#38	AnnotatorNotes T120	first_annotator_label: C0221505||synonyms: поражение головного мозга||||second_annotator_label: C0577559||synonyms: объемное образование|объемное образование бду||||third_annotator_label: C0030660||synonyms: патологические процессы|patologicheskie protsessy||||bert: C0149726||synonyms: объемное образование в легком|объемное образование легкого||||
+#39	AnnotatorNotes T26	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C0205847||synonyms: средний возраст|srednii vozrast||||
+#40	AnnotatorNotes T62	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0949641||synonyms: анеугены|aneugeny||||third_annotator_label: None||synonyms: ||||bert: C0949641||synonyms: анеугены|aneugeny||||
+#41	AnnotatorNotes T63	first_annotator_label: C0036440||synonyms: сколиоз (и кифосколиоз), идиопатический||||second_annotator_label: C1262869||synonyms: поза|osanka|poza|tela polozhenie|tela poza||||third_annotator_label: C0036439||synonyms: сколиоз|skolioz||||bert: C1739406||synonyms: острая коагулопатия||||
+#42	AnnotatorNotes T199	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#43	AnnotatorNotes T167	first_annotator_label: C0008841||synonyms: цистерна большая|tsisterna bol'shaia|tsisterna podpautinnaia|цистерна подпаутинная||||second_annotator_label: C0025148||synonyms: мозг продолговатый|mozg prodolgovatyi||||third_annotator_label: C0038527||synonyms: субарахноидальное пространство|subarakhnoidal'noe prostranstvo|podpautinnoe prostranstvo|подпаутинное пространство||||bert: C0338437||synonyms: нейроцистицеркоз|tsistitserkoz golovnogo mozga|neirotsistitserkoz|цистицеркоз головного мозга||||
+#44	AnnotatorNotes T132	first_annotator_label: C0005847||synonyms: кровеносные сосуды|krovenosnye sosudy||||second_annotator_label: C0040761||synonyms: транспозиция магистральных сосудов|transpozitsiia magistral'nykh sosudov|полная транспозиция крупных сосудов|транспозиция аорты и ствола легочной артерии|транспозиция крупных сосудов||||third_annotator_label: C0003842||synonyms: артерии|arterii||||bert: C1708257||synonyms: перфорация магистрального сосуда||||
+#45	AnnotatorNotes T22	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C0488048||synonyms: тело положение голова наклонена:угол:тчкврм:^пациент:колич:*||||
+#46	AnnotatorNotes T74	first_annotator_label: C0859056||synonyms: функциональное нарушение кровообращения||||second_annotator_label: C0042791||synonyms: зрения инконгруэнтность|zreniia inkongruentnost'|videniia nesorazmernost'|zreniia asimmetriia|бинокулярное несоответствие||||third_annotator_label: C1610069||synonyms: снижение кровотока||||bert: C0042791||synonyms: зрения инконгруэнтность|zreniia inkongruentnost'|videniia nesorazmernost'|zreniia asimmetriia|бинокулярное несоответствие||||
+#47	AnnotatorNotes T27	first_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0264649||synonyms: почечная паренхимальная гипертензия||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#48	AnnotatorNotes T80	first_annotator_label: C0683253||synonyms: психологическая устойчивость|zhiznestoikost'|rezil'entnost'|жизнестойкость|резильентность||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0030975||synonyms: перцептуальные расстройства|pertseptual'nye rasstroistva|vospriiatiia rasstroistva|восприятия расстройства||||bert: C0036605||synonyms: самообслуживание, приспособления|samoobsluzhivanie, prisposobleniia||||
+#49	AnnotatorNotes T106	first_annotator_label: C0015450||synonyms: лицо|litso||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C0150773||synonyms: кожа, уход|kozha, ukhod||||bert: C0037294||synonyms: кожи температура|kozhi temperatura|температура кожи||||
+#50	AnnotatorNotes T112	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0562483||synonyms: персистирующий кашель||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#51	AnnotatorNotes T155	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0037138||synonyms: симетикон|simetikon|dimetikon|диметикон||||third_annotator_label: None||synonyms: ||||bert: C0037138||synonyms: симетикон|simetikon|dimetikon|диметикон||||
+#52	AnnotatorNotes T198	first_annotator_label: C4277702||synonyms: паренхиматозная ткань|parenkhimatoznaia tkan'||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#53	AnnotatorNotes T182	first_annotator_label: C0851391||synonyms: структурные поражения головного мозга||||second_annotator_label: C0271889||synonyms: диэнцефальный синдром новорожденных||||third_annotator_label: C0682735||synonyms: среднего мозга шва ядра|iadra shva rostral'nogo otdela|srednego mozga shov|rostral'nogo shva iadro|среднего мозга шов||||bert: C0232264||synonyms: среднедиастолический шум||||
+#54	AnnotatorNotes T95	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0797050||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#55	AnnotatorNotes T164	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0237284||synonyms: отсутствие реакции||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0237284||synonyms: отсутствие реакции||||
+#56	AnnotatorNotes T13	first_annotator_label: C2224569||synonyms: тела контурирование|formirovanie figury|контуринг тела|konturing tela|tela konturirovanie||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C2224569||synonyms: тела контурирование|formirovanie figury|контуринг тела|konturing tela|tela konturirovanie||||
+#57	AnnotatorNotes T181	first_annotator_label: C0006104||synonyms: мозг головной|mozg golovnoi||||second_annotator_label: C0236642||synonyms: пика болезнь головного мозга|lobnoi doli ogranichennaia atrofiia|pika bolezn' golovnogo mozga|болезнь пика|лобно-височная атрофия головного мозга||||third_annotator_label: C0085140||synonyms: мозг передний|mozg perednii||||bert: C0751843||synonyms: церебральной артерии передней инфаркт|kheibnera arterii infarkt|mozga golovnogo arterii perednei infarkt|tserebral'noi arterii perednei infarkt|мозга головного артерии передней инфаркт||||
+#58	AnnotatorNotes T108	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1699506||synonyms: терапевтическое местное лечение кожи||||bert: C1978292||synonyms: кортикотропин^после 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#59	AnnotatorNotes T31	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#60	AnnotatorNotes T192	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: No entity found in this position||synonyms: ||||bert: None||synonyms: ||||
+#61	AnnotatorNotes T12	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C0797681||synonyms: вирус папилломы человека 16+18 аг:prthr:тчкврм:пенис:пор||||
+#62	AnnotatorNotes T124	first_annotator_label: C0948458||synonyms: исследование сосудов|сосудистый тест, бду||||second_annotator_label: C0037138||synonyms: симетикон|simetikon|dimetikon|диметикон||||third_annotator_label: None||synonyms: ||||bert: C0037138||synonyms: симетикон|simetikon|dimetikon|диметикон||||
+#63	AnnotatorNotes T122	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0237284||synonyms: отсутствие реакции||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C0237284||synonyms: отсутствие реакции||||
+#64	AnnotatorNotes T23	first_annotator_label: C2747827||synonyms: расширение протока поджелудочной железы||||second_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||third_annotator_label: C0030288||synonyms: поджелудочной железы протоки|podzheludochnoi zhelezy protoki|dvenadtsatiperstnoi kishki malyi sosochek|santoriniev sosochek|virzungov protok||||bert: C1323110||synonyms: улитковый проток|ulitkovyi protok|kanal ulitki|protok ulitki|protok ulitkovyi||||
+#65	AnnotatorNotes T53	first_annotator_label: C0235181||synonyms: изменение характера|измененный характер||||second_annotator_label: None||synonyms: ||||third_annotator_label: C4704700||synonyms: отрицательные результаты|otritsatel'nye rezul'taty||||bert: C0235181||synonyms: изменение характера|измененный характер||||
+#66	AnnotatorNotes T176	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0857562||synonyms: результаты биопсии орбиты в норме||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0158090||synonyms: патологический вывих сустава|патологический вывих сустава неуточненной локализации|патологический вывих||||
+#67	AnnotatorNotes T58	first_annotator_label: C4324732||synonyms: утолщение стенки мочевого пузыря||||second_annotator_label: C0855956||synonyms: ультразвуковое исследование мочевого пузыря|диагностическое ультразвуковое исследование мочевого пузыря||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0013142||synonyms: утопление|utoplenie||||

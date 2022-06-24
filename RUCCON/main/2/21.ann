@@ -1,0 +1,116 @@
+T26	Disease 1442 1450	аденоиды
+T5	Symptom 205 233	затруднение носового дыхания
+T8	Disease 515 548	врожденная двусторонняя катаракта
+T11	Disease 710 723	ветряная оспа
+T30	Symptom 1587 1598	сухие хрипы
+T20	Symptom 1175 1200	кожных признаков аллергии
+T2	Disease 29 92	Искривление носовой перегородки с затруднением носового дыхания
+T43	Symptom 2125 2132	звучные
+T48	Symptom 2253 2281	Стул регулярный, оформленный
+T41	Symptom 2098 2104	хрипов
+T27	Severity 1451 1460	2 степени
+T44	Symptom 2134 2143	ритмичные
+T57	Disease 677 685	инфекции
+T3	Body_location 41 60	носовой перегородки
+T49	Symptom 2283 2303	Менингеальных знаков
+T32	Drug 1679 1689	вильпрафен
+T10	Disease 698 708	скарлатина
+T35	Disease 1832 1841	пневмоний
+T45	Body_location 2145 2150	Живот
+T38	Symptom 2017 2027	Зев рыхлый
+T4	Disease 94 123	ОРИ (катаральный ринофарингит
+T29	Disease 1521 1542	обструктивный бронхит
+T53	Disease 1346 1354	ринитами
+T50	Symptom 2240 2247	дизурии
+T9	Disease 688 696	краснуха
+T34	Disease 1788 1808	атопический дерматит
+T19	Treatment 1111 1133	получает курсы терапии
+T17	Disease 1021 1037	синдром Жильбера
+T54	Treatment 946 985	регулярно получает стационарное лечение
+T55	Disease 1192 1200	аллергии
+T31	Treatment 1643 1690	Получала антибактериальную терапию (вильпрафен)
+T6	Symptom 235 258	малопродуктивный кашель
+T42	Body_location 2067 2075	В лёгких
+T12	Disease 725 731	ангины
+T40	Symptom 2076 2096	дыхание везикулярное
+T56	Body_location 2017 2020	Зев
+T16	Severity 934 944	II степени
+T21	Symptom 1249 1277	затруднение носового дыхания
+T7	Disease 490 513	внутриутробная инфекция
+T14	Severity 820 845	амблиопии высокой степени
+T25	Disease 1422 1440	вазомоторный ринит
+T33	Disease 1733 1752	аллергический ринит
+T39	Symptom 2029 2065	Носовое дыхание несколько затруднено
+T51	Symptom 1993 2015	чистые, бледно-розовые
+T28	Disease 1489 1511	респираторной инфекции
+T37	Body_location 1978 1992	Кожные покровы
+T36	Disease 1867 1892	буллезная эмфизема легких
+T47	Symptom 2173 2187	безболезненный
+T46	Symptom 2151 2157	мягкий
+T13	Disease 785 818	врожденной двусторонней катаракты
+T24	Disease 1356 1363	отитами
+T15	Disease 881 933	левостороннего грудопоясничного S-образного сколиоза
+T1	Disease 9 27	Вазомоторный ринит
+T22	Disease 1305 1327	респираторные инфекции
+T52	Disease 1365 1368	ОРИ
+T18	Disease 1077 1109	синдрома вегетативной дисфункции
+N1	Reference T26 UMLS:C0001428	аденоиды
+N2	Reference T5 UMLS:C0553668	затруднение дыхания
+N3	Reference T8 UMLS:C0521707	двусторонняя катаракта
+N4	Reference T11 UMLS:C0008049	ветряная оспа
+N5	Reference T30 UMLS:C0859999	сухие хрипы
+N6	Reference T20 UMLS:C0339805	аллергия на кошек
+N7	Reference T2 UMLS:C0549397	искривление перегородки носа
+N8	Reference T43 UMLS:C0037709	zvuk
+N9	Reference T48 UMLS:CUILESS	мягкий стул
+N10	Reference T41 UMLS:C3887661	хрип
+N11	Reference T44 UMLS:C0031084	ритмичность
+N12	Reference T57 UMLS:C3714514	инфекции
+N13	Reference T3 UMLS:C0027432	носа перегородка
+N14	Reference T49 UMLS:C0025287	менингеальные знаки
+N15	Reference T32 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N16	Reference T10 UMLS:C0036285	скарлатина
+N17	Reference T35 UMLS:C0032285	пневмония
+N18	Reference T45 UMLS:C0000726	живот
+N19	Reference T38 UMLS:C0521367	ротоглотка
+N20	Reference T4 UMLS:C0035243	ларингофарингит
+N21	Reference T29 UMLS:C0865791	обструктивный бронхит
+N22	Reference T53 UMLS:C0086066	ринит
+N23	Reference T50 UMLS:C0013428	дизурия
+N24	Reference T9 UMLS:C0035920	краснуха
+N25	Reference T34 UMLS:C0011615	атопический дерматит
+N26	Reference T19 UMLS:C0013216	лекарственная терапия
+N27	Reference T17 UMLS:C0017551	синдром жильбера
+N28	Reference T54 UMLS:C0011017	стационарное лечение дневное
+N29	Reference T55 UMLS:C0020517	аллергия
+N30	Reference T31 UMLS:C0854606	системная антибактериальная терапия
+N31	Reference T6 UMLS:C0850149	кашель, непродуктивный
+N32	Reference T42 UMLS:C0024109	легкие
+N33	Reference T12 UMLS:C0036689	стрептококковая ангина
+N34	Reference T40 UMLS:C0231855	нормальная аускультативная картина в легких
+N35	Reference T56 UMLS:C0521367	ротоглотка
+N36	Reference T21 UMLS:C0553668	затруднение дыхания
+N37	Reference T7 UMLS:C1112209	внутрибрюшная инфекция
+N38	Reference T14 UMLS:C0002418	амблиопия врожденная
+N39	Reference T25 UMLS:C0035460	вазомоторный ринит
+N40	Reference T33 UMLS:C2607914	аллергический ринит
+N41	Reference T39 UMLS:C0853254	раздражение носовых ходов
+N42	Reference T51 UMLS:CUILESS	бледный вид
+N43	Reference T28 UMLS:C0035243	респираторные инфекции
+N44	Reference T37 UMLS:C1123023	кожа
+N45	Reference T36 UMLS:C1261120	буллезная эмфизема
+N46	Reference T47 UMLS:C0857027	болезненность
+N47	Reference T46 UMLS:C0026390	мягкокожие
+N48	Reference T13 UMLS:C0521707	катаракта двусторонняя, бду
+N49	Reference T24 UMLS:C0029877	отит
+N50	Reference T15 UMLS:C3494892	левосторонний сколиоз
+N51	Reference T1 UMLS:C0035460	вазомоторный ринит
+N52	Reference T22 UMLS:C0035243	респираторные инфекции
+N53	Reference T52 UMLS:C0035243	респираторные инфекции
+N54	Reference T18 UMLS:C1145628	вегетативная дисфункция
+#1	AnnotatorNotes T48	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#2	AnnotatorNotes T4	first_annotator_label: C0023070||synonyms: ларингофарингит, бду|ларингофарингит||||second_annotator_label: C0035243||synonyms: респираторные инфекции|respiratornye infektsii|ostrye respiratornye virusnye infektsii|орви|острые респираторные вирусные инфекции||||third_annotator_label: C0027441||synonyms: назофарингит|nazofaringit|ринофарингит||||bert: C0919659||synonyms: орофарингеальный кандидоз||||
+#3	AnnotatorNotes T12	first_annotator_label: C0036689||synonyms: стрептококковый фарингит|боль в горле при стрептококковой инфекции|стрептококковая ангина||||second_annotator_label: C0276143||synonyms: вирусный фарингит|вирусная ангина|вирусный фарингит, бду||||third_annotator_label: C0031157||synonyms: перитонзиллярный абсцесс|peritonzilliarnyi abstsess|abstsess peritonzilliarnyi|острый тонзиллит|гнойный тонзиллит||||bert: C0012586||synonyms: анальгин|anal'gin|dipiron|metamizol|metampiron||||
+#4	AnnotatorNotes T40	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T14	first_annotator_label: C0339694||synonyms: амблиопия врожденная|врожденная амблиопия||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0002418||synonyms: амблиопия|ambliopiia|амблиопия, бду|амблиопия, неуточненная||||bert: C3888966||synonyms: высокий уровень аст||||
+#6	AnnotatorNotes T51	first_annotator_label: C0857342||synonyms: бледный вид||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||

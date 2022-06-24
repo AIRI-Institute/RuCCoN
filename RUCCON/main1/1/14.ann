@@ -1,0 +1,84 @@
+T3	Disease 1207 1228	Гипертрофия аденоидов
+T19	Drug 1375 1383	Физиомер
+T37	Drug 2018 2028	полимиксин
+T29	Drug 1973 1984	сульперазон
+T15	Drug 2620 2628	физиомер
+T2	Disease 1195 1205	аденоидита
+T36	Drug 2007 2016	меропенем
+T7	Body_location 1219 1228	аденоидов
+T21	Drug 2247 2254	Маример
+T17	Drug 2641 2647	ксизал
+T27	Drug 1951 1959	амикацин
+T16	Drug 2630 2639	полидекса
+T12	Treatment 2421 2467	Полоскать зев р-ром Октенисепта 3 р/д 2 недели
+T6	Severity 1268 1277	2 степени
+T41	Drug 2527 2540	имовакс полио
+T23	Drug 1511 1523	фенилэфрином
+T28	Drug 1961 1971	нетилмицин
+T33	Drug 2046 2054	колистин
+T4	Severity 1229 1238	2 степени
+T8	Body_location 1252 1267	небных миндалин
+T35	Drug 2191 2199	Физиомер
+T39	Drug 2329 2335	Авамис
+T24	Drug 1621 1624	ОКИ
+T10	Body_location 2154 2163	аденоидов
+T26	Drug 1939 1949	гентамицин
+T1	Disease 851 872	Избыточная масса тела
+T20	Drug 1430 1437	Маример
+T38	Drug 2316 2324	Назонекс
+T30	Drug 1986 1996	цефтазидим
+T32	Drug 2030 2044	ципрофлоксацин
+T18	Treatment 2903 2946	Гипоаллергенная диета, элиминационный режим
+T11	Severity 2164 2175	1-2 степени
+T25	Drug 2663 2666	ОКИ
+T9	Disease 2142 2163	гипертрофия аденоидов
+T13	Drug 2441 2452	Октенисепта
+T31	Drug 1998 2005	цефепим
+T14	Treatment 2611 2666	лечение: физиомер, полидекса, ксизал,  полоскание с ОКИ
+T5	Disease 1240 1267	Гипертрофия небных миндалин
+T40	Drug 2369 2387	Коллоидное серебро
+T34	Drug 2056 2066	тобрамицин
+T22	Drug 1499 1508	Полидекса
+N1	Reference T3 UMLS:C0149825	гипертрофия исключительно аденоидов
+N2	Reference T19 UMLS:C0036499	вода морская
+N3	Reference T37 UMLS:C0032539	полимиксин
+N4	Reference T29 UMLS:C0038742	сульфинпиразон
+N5	Reference T15 UMLS:C0036499	вода морская
+N6	Reference T2 UMLS:C0001427	аденоидит
+N7	Reference T36 UMLS:C0066005	меропенем
+N8	Reference T7 UMLS:C1112640	аденоиды
+N9	Reference T21 UMLS:C0036499	вода морская
+N10	Reference T17 UMLS:C0055147	цетиризин
+N11	Reference T27 UMLS:C0002499	амикацин
+N12	Reference T16 UMLS:C0011777	дексаметазон
+N13	Reference T12 UMLS:C0013154	полоскания для рта
+N14	Reference T41 UMLS:C0199809	вакцинация от полиомиелита
+N15	Reference T23 UMLS:C0031469	фенилэфрин
+N16	Reference T28 UMLS:C0027780	нетилмицин
+N17	Reference T33 UMLS:C0009316	колистин
+N18	Reference T8 UMLS:C0040421	миндалины небные
+N19	Reference T35 UMLS:C0036499	вода морская
+N20	Reference T39 UMLS:C0082607	флутиказон
+N21	Reference T24 UMLS:C0003211	нпвс
+N22	Reference T10 UMLS:C1112640	аденоиды
+N23	Reference T26 UMLS:C0017436	гентамицины
+N24	Reference T1 UMLS:C0497406	избыточная масса тела
+N25	Reference T20 UMLS:C0036499	вода морская
+N26	Reference T38 UMLS:C0066700	назонекс
+N27	Reference T30 UMLS:C0007559	цефтазидим
+N28	Reference T32 UMLS:C0008809	ципрофлоксацин
+N29	Reference T18 UMLS:C0425402	медицинская диета
+N30	Reference T25 UMLS:C0003211	противовоспалительные средства нестероидные
+N31	Reference T9 UMLS:C0149825	гипертрофия исключительно аденоидов
+N32	Reference T13 UMLS:C0003205	антисептики
+N33	Reference T31 UMLS:C0055003	цефепим
+N34	Reference T14 UMLS:C0013154	терапия глюкокортикостероидами
+N35	Reference T5 UMLS:C0272386	гипертрофия миндалин
+N36	Reference T40 UMLS:C0037125	серебро
+N37	Reference T34 UMLS:C0040341	тобрамицин
+N38	Reference T22 UMLS:C0011777	дексаметазон
+#1	AnnotatorNotes T16	first_annotator_label: C0011777||synonyms: дексаметазон|deksametazon|geksadekadrol|гексадекадрол||||second_annotator_label: C0027603||synonyms: неомицин|neomitsin|neamin|neomitsin a|неамин||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C3179052||synonyms: поликетиды|ketidy|poliketidy|кетиды||||
+#2	AnnotatorNotes T12	first_annotator_label: C0026647||synonyms: ротовая полость, жидкость для полоскания|rotovaia polost', zhidkost' dlia poloskaniia|зубной элексир|полоскания для рта|poloskaniia dlia rta||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2242590||synonyms: терапевтическое полоскание||||bert: C1978291||synonyms: кортикотропин^до 2 мг дексаметазона через рот накануне вечером:массконц:тчкврм:плаз:колич||||
+#3	AnnotatorNotes T18	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#4	AnnotatorNotes T14	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0920131||synonyms: пациент с глазным протезом|использование глазного протеза||||
+#5	AnnotatorNotes T22	first_annotator_label: C0011777||synonyms: дексаметазон|deksametazon|geksadekadrol|гексадекадрол||||second_annotator_label: C0027603||synonyms: неомицин|neomitsin|neamin|neomitsin a|неамин||||third_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||bert: C3179052||synonyms: поликетиды|ketidy|poliketidy|кетиды||||

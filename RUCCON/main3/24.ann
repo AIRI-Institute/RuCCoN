@@ -1,0 +1,149 @@
+T21	Symptom 985 1005	пиелоэктазия у плода
+T28	Symptom 1844 1863	выявлено расширение
+T43	Body_location 3292 3321	в III-IV м/р слева от грудины
+T50	Symptom 10281 10322	рентгенологические признаки кардиомегалии
+T3	Disease 293 296	ХСН
+T56	Drug 14768 14781	альдостерона.
+T14	Disease 598 601	ХСН
+T41	Body_location 2947 2963	левого желудочка
+T46	Treatment 5127 5245	фуросемид заменен на гипотиазид, увеличена доза капотена до 10,5 мг/сут, остальная терапия продолжена в прежнем объеме
+T15	Severity 603 619	ст, I ФК по Ross
+T24	Treatment 1081 1122	гормонотерапией до 18 недель беременности
+T9	Symptom 349 447	Нарушение ритма сердца и проводимости: желудочковая экстрасистолия, суправентрикулярная тахикардия
+T57	Drug 14811 14834	пропафенона (Пропанорм)
+T54	Drug 14695 14714	торасемида (Диувер)
+T8	Disease 317 347	Основной Хронический миокардит
+T38	Symptom 2902 2915	с истончением
+T20	Symptom 947 975	низкое прикрепление плаценты
+T10	Disease 449 504	Неспецифическая блокада внутрижелудочкового проведения.
+T27	Disease 1574 1598	гипертонической болезнью
+T18	Symptom 694 742	На быструю утомляемость при физической нагрузке.
+T25	Symptom 1124 1182	последние две недели беременности отмечались отеки кистей.
+T2	Symptom 44 142	Нарушение ритма сердца и проводимости: желудочковая экстрасистолия, суправентрикулярная тахикардия
+T12	Body_location 538 572	задней створки митрального клапана
+T34	Disease 2756 2774	Пиелоэктазия слева
+T26	Body_location 1175 1181	кистей
+T53	Treatment 15073 15990	Наблюдение педиатра, кардиолога по месту жительства..
+2. Возможна вакцинация по индивидуальному графику по щадящему методу..
+3. Продление инвалидности по месту жительства..
+4. Каптоприл (Капотен) 5 мг 3 р/д в 7.00, 15.00, 22.00, длительно, замена в следующую госпитализацию..
+5. Бисопролол (Конкор) 0,625 мг 2 р/д в 9.00, 21.00, длительно..
+6. Пропафенон (Пропанорм) 37,5 мг 3 р/д в 8.00, 15.00, 22.00, за 12 дней до следующей госпитализации снизить дозировку в 2 раза, за 10 дней – полная отмена..
+7. Пентоксифиллин (Трентал) 12,5мг 3 р/д, длительно..
+8. Ацетиламиноянтарная кислота (Когитум) 2мл х 2 р/д, утром и в обед, после еды, 1-20 число каждого месяца..
+9. Убидекаренон (Кудесан) капли 30 мг (20 капель) х 1 р/д, май, июнь.
+10. Левокарнитин (Элькар 30%) 1 мл х 1 р/д, июль, август.
+11. Контроль ЭКГ 1 раз в 3 месяца, ЭхоКГ, ХМ 1 раз в 6 месяцев..
+12. Повторная госпитализация в отделение ФГБНУ НЦЗД 17.11.2055
+T7	Body_location 233 267	задней створки митрального клапана
+T33	Disease 2719 2743	Фиброма левого желудочка
+T44	Body_location 3836 3842	сердце
+T55	Drug 14718 14744	спиронолактон (Верошпирон)
+T19	Disease 816 853	частые ОРВИ с обструктивным бронхитом
+T13	Disease 574 596	Открытое овальное окно
+T36	Symptom 2888 2898	Увеличение
+T45	Symptom 3843 3866	увеличено в поперечнике
+T40	Symptom 2922 2946	Снижение фракции выброса
+T11	Symptom 505 537	Дополнительная папиллярная мышца
+T17	Body_location 647 667	желчевыводящих путей
+T1	Disease 21 42	Хронический миокардит
+T52	Treatment 14303 14593	Режим общий.
+2. Диета №5.
+3. Контроль вес/диурз.
+4. Капотен 5 мг х 3 р/д (7.00-15.00-22.00).
+5. Конкор 0,625 мг х 2 р/д (9.00-21.00).
+6. Пропанорм 37,5 мг х 3р/д (7.00-15.00-22.00)..
+7. Трентал 12,5 х 3 р/д.
+8. Диувер 1,25 мг х 1 р/д (9.00) до 15.05.
+9. Верошпирон - 6,25 мг (18.00) с 15.05
+T29	Body_location 1864 1880	левого желудочка
+T37	Body_location 2899 2901	ЛЖ
+T47	Treatment 5669 5706	величена доза конкора до 1 мг в сутки
+T42	Symptom 3241 3291	систолический шум над областью сердца с максимумом
+T5	Disease 144 198	Неспецифическая блокада внутрижелудочкового проведения
+T48	Disease 5987 6008	Хронический миокардит
+T39	Body_location 2916 2920	ЗСЛЖ
+T32	Treatment 2668 2695	В отделении получала элькар
+T51	Symptom 10538 10550	Регургитация
+T16	Disease 636 667	Дискинезия желчевыводящих путей
+T49	Disease 5947 5975	Дилатационная кардиомиопатия
+T22	Disease 1019 1056	ОРВИ, осложнившееся отитом, синуситом
+T23	Drug 1066 1078	вильпрафеном
+T4	Severity 296 314	1 ст, I ФК по Ross
+T35	Disease 2776 2807	Гепатит, неуточненной этиологии
+T31	Symptom 2646 2654	расширен
+T30	Body_location 2640 2642	ПЖ
+T6	Symptom 200 232	Дополнительная папиллярная мышца
+N1	Reference T21 UMLS:C2317073	плода пиелэктазия
+N2	Reference T28 UMLS:CUILESS	увеличение левого желудочка
+N3	Reference T43 UMLS:CUILESS	грудина
+N4	Reference T50 UMLS:C0018800	кардиомегалия, бду
+N5	Reference T3 UMLS:C0264716	хроническая сердечная недостаточность
+N6	Reference T56 UMLS:C0002006	альдостерон
+N7	Reference T14 UMLS:C0600260	хнлз
+N8	Reference T41 UMLS:C0149721	увеличение левого желудочка
+N9	Reference T46 UMLS:UNKNOWN	комплексонная терапия
+N10	Reference T15 UMLS:CUILESS	степень ухудшения бду
+N11	Reference T24 UMLS:UNKNOWN	дооперационная гормонотерапия
+N12	Reference T9 UMLS:C0854121	нарушение перистальтики желудочно-кишечного тракта
+N13	Reference T57 UMLS:C0033429	пропафенон
+N14	Reference T54 UMLS:C0076840	торасемид
+N15	Reference T8 UMLS:C0027059	миокардит
+N16	Reference T38 UMLS:CUILESS	дилатация левого желудочка
+N17	Reference T20 UMLS:C0032046	плаценты болезни
+N18	Reference T10 UMLS:C0264909	внутрижелудочковая блокада
+N19	Reference T27 UMLS:C0020538	гипертоническая болезнь
+N20	Reference T18 UMLS:C0231230	быстрая утомляемость, генерализованная
+N21	Reference T25 UMLS:C0815336	отек кистей рук
+N22	Reference T2 UMLS:C0003811	нарушения сердечного ритма
+N23	Reference T12 UMLS:C0026267	митрального клапана пролапс
+N24	Reference T34 UMLS:C0948221	пиелокаликоэктазия, бду
+N25	Reference T26 UMLS:C0018563	кисть руки
+N26	Reference T53 UMLS:C1542327	воздействие алкоголя на плод или новорожденного при передаче через плаценту или грудное молоко
+N27	Reference T7 UMLS:C0026264	митральный клапан
+N28	Reference T33 UMLS:C0016045	фиброма
+N29	Reference T44 UMLS:C0018787	сердце
+N30	Reference T55 UMLS:C0037982	спиронолактон
+N31	Reference T19 UMLS:C0865791	обструктивный бронхит
+N32	Reference T13 UMLS:C1956188	овальное окно уха
+N33	Reference T36 UMLS:C0231249	увеличение роста
+N34	Reference T45 UMLS:CUILESS	увеличенное сердце
+N35	Reference T40 UMLS:C0743400	снижение фракции выброса
+N36	Reference T11 UMLS:C0155713	разрыв папиллярных мышц
+N37	Reference T17 UMLS:C0010672	нарушения со стороны желчевыводящих путей (smq)
+N38	Reference T1 UMLS:C0027059	миокардит
+N39	Reference T52 UMLS:C4070671	jwh-200 4-гидроксииндол порог:массконц:тчкврм:моча:колич:подтверждать
+N40	Reference T29 UMLS:C0018827	сердца желудочек
+N41	Reference T37 UMLS:C0080310	левый желудочек сердца, функция
+N42	Reference T47 UMLS:C1611744	увеличение дозы препарата
+N43	Reference T42 UMLS:C0232257	систолический шум
+N44	Reference T5 UMLS:C0264909	внутрижелудочковая блокада
+N45	Reference T48 UMLS:C1142165	миокардит микотический
+N46	Reference T39 UMLS:C0149721	глж
+N47	Reference T32 UMLS:C2363849	обмен веществ
+N48	Reference T51 UMLS:C2004489	регургитация
+N49	Reference T16 UMLS:C0005416	дискинезия желчевыводящих путей
+N50	Reference T49 UMLS:C0007193	дилатационная кардиомиопатия
+N51	Reference T22 UMLS:C0155808	острый синусит, другой
+N52	Reference T23 UMLS:C0941701	джозамицин:чув:тчкврм:изолят:поркол
+N53	Reference T35 UMLS:C0019158	гепатит, неуточненный
+N54	Reference T31 UMLS:C0038257	расширители
+N55	Reference T30 UMLS:C0018827	сердца желудочек
+N56	Reference T6 UMLS:C0158784	добавочная мышца
+#1	AnnotatorNotes T28	first_annotator_label: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||second_annotator_label: C0040416||synonyms: зрачок тонизированный|zrachka neirotonicheskaia reaktsiia|зрачок холмса-эйди|тоническая реакция зрачков|пупиллотония||||third_annotator_label: None||synonyms: ||||bert: C0040416||synonyms: зрачок тонизированный|zrachka neirotonicheskaia reaktsiia|зрачок холмса-эйди|тоническая реакция зрачков|пупиллотония||||
+#2	AnnotatorNotes T43	first_annotator_label: C0038293||synonyms: грудина|grudina||||second_annotator_label: C0861457||synonyms: злокачественное новообразование слепой кишки iii стадии|рак слепой кишки, стадия iii|рак слепой кишки iii стадии|злокачественное новообразование слепой кишки, стадия iii||||third_annotator_label: None||synonyms: ||||bert: C0861457||synonyms: злокачественное новообразование слепой кишки iii стадии|рак слепой кишки, стадия iii|рак слепой кишки iii стадии|злокачественное новообразование слепой кишки, стадия iii||||
+#3	AnnotatorNotes T50	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0203139||synonyms: рентгенография спинного мозга|рентгенография бду позвоночника|рентгенограмма позвоночника||||third_annotator_label: None||synonyms: ||||bert: C0203139||synonyms: рентгенография спинного мозга|рентгенография бду позвоночника|рентгенограмма позвоночника||||
+#4	AnnotatorNotes T46	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0086519||synonyms: лактаза-флоризингидролаза|glikoziltseramidaza|laktaza-florizingidrolaza|laktazo-florizin-gidrolaza|лактазо-флоризин-гидролаза||||
+#5	AnnotatorNotes T15	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0086795||synonyms: мпс i h|болезнь гурлера|синдром гурлер||||bert: C0086795||synonyms: мпс i h|болезнь гурлера|синдром гурлер||||
+#6	AnnotatorNotes T24	first_annotator_label: C1535921||synonyms: дооперационная гормонотерапия||||second_annotator_label: C0032961||synonyms: беременность|beremennost'|беременность, бду||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0015962||synonyms: фетоскопия|amnioskopiia|fetoskopiia|фетоскопия при беременности|амниоскопия||||
+#7	AnnotatorNotes T57	first_annotator_label: C0033429||synonyms: пропафенон|propafenon||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003195||synonyms: противоаритмические средства|protivoaritmicheskie sredstva|antiaritmicheskie sredstva|kardial'nye depressanty|miokardial'nye depressanty||||bert: C0033474||synonyms: пропионаты|propionaty|propionovye kisloty|propanoaty|пропаноаты||||
+#8	AnnotatorNotes T54	first_annotator_label: C0076840||synonyms: торсемид|torsemid|торасемид|torasemid||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0012798||synonyms: диуретики|diuretiki|diuretiki sul'familovye|diureticheskie sredstva|mochegonnye sredstva||||bert: C0005283||synonyms: бета-талассемия|beta-talassemiia|anemiia eritroblasticheskaia|anemiia kuli|anemiia sredizemnomorskaia||||
+#9	AnnotatorNotes T38	first_annotator_label: C0344911||synonyms: дилатация левого желудочка||||second_annotator_label: C1962945||synonyms: рентгенография|rentgenografiia|rentgenovskoe izluchenie, diagnosticheskoe|rentgenodiagnostika|рентгеновское излучение, диагностическое||||third_annotator_label: C2363868||synonyms: атрофия мягких тканей||||bert: C0423757||synonyms: истончение кожи|истонченная кожа||||
+#10	AnnotatorNotes T20	first_annotator_label: C0032045||synonyms: плаценты болезни|platsenty bolezni|патология плаценты|плацентарная патология|плацентарная патология, бду||||second_annotator_label: C0032043||synonyms: плацента|platsenta||||third_annotator_label: C0032046||synonyms: плаценты предлежание|platsenty predlezhanie|предлежание плаценты|предлежание хориона||||bert: C0860546||synonyms: ущемление плаценты||||
+#11	AnnotatorNotes T18	first_annotator_label: C0858923||synonyms: быстрая утомляемость, генерализованная|генерализованная утомляемость|общая утомляемость||||second_annotator_label: C0015259||synonyms: физическая нагрузка|fizicheskaia nagruzka|aerobnoe uprazhnenie|izometricheskoe uprazhnenie|uprazhnenie aerobnoe||||third_annotator_label: C0231230||synonyms: быстрая утомляемость|утомляемость||||bert: C0004099||synonyms: астма бронхиальная, спровоцированная физической нагрузкой|astma bronkhial'naia, sprovotsirovannaia fizicheskoi nagruzkoi|bronkhospazm, sprovotsirovannyi fizicheskoi nagruzkoi|астма физического усилия|астма, провоцируемая физической нагрузкой||||
+#12	AnnotatorNotes T25	first_annotator_label: C0239819||synonyms: отек кистей рук|отеки кистей||||second_annotator_label: C0032961||synonyms: беременность|beremennost'|беременность, бду||||third_annotator_label: C0815336||synonyms: отек или избыточное увеличение массы тела при беременности, предродовое состояние||||bert: C1516231||synonyms: выжившие после рака|patsienty, perenesshie rak|postradavshie ot raka|пережившие рак|pobedivshie rak||||
+#13	AnnotatorNotes T45	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C1306645||synonyms: рентгенография|рентгенография бду||||third_annotator_label: C0020575||synonyms: гипертропия||||bert: C3888534||synonyms: утолщение стенки желудочно-кишечного тракта|утолщение стенки кишечника||||
+#14	AnnotatorNotes T17	first_annotator_label: C3544360||synonyms: нарушения со стороны желчевыводящих путей (smq)||||second_annotator_label: C1869094||synonyms: дискинезия (smq)||||third_annotator_label: C0010672||synonyms: желчного пузыря проток|zhelchnogo puzyria protok|ductus cysticus|puzyrnyi protok|пузырный проток||||bert: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||
+#15	AnnotatorNotes T47	first_annotator_label: C1611744||synonyms: увеличение дозы препарата||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0482465||synonyms: кортикотропин^до 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#16	AnnotatorNotes T32	first_annotator_label: C0025519||synonyms: обмен веществ|obmen veshchestv|metabolicheskie protsessy|metabolizm|метаболизм||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0860153||synonyms: астма эльснера||||
+#17	AnnotatorNotes T6	first_annotator_label: C0158784||synonyms: добавочная мышца||||second_annotator_label: C0155713||synonyms: разрыв сосочковых мышц|разрыв сосочковых мышц сердца|разрыв папиллярных мышц||||third_annotator_label: None||synonyms: ||||bert: C0155713||synonyms: разрыв сосочковых мышц|разрыв сосочковых мышц сердца|разрыв папиллярных мышц||||

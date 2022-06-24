@@ -1,0 +1,100 @@
+T15	Treatment 764 791	наружно применяли  скин-кап
+T8	Disease 173 213	Вторичные изменения поджелудочной железы
+T18	Treatment 731 762	зодак, креон, мезим без эффекта
+T6	Body_location 119 136	билиарного тракта
+T22	Drug 851 858	эмолиум
+T30	Symptom 1571 1587	единичные папулы
+T29	Symptom 1558 1569	лихенизация
+T26	Symptom 1257 1266	высыпания
+T43	Symptom 1863 1870	Дизурии
+T10	Symptom 276 285	высыпания
+T38	Symptom 1735 1741	хрипов
+T3	Course 78 88	обострение
+T16	Treatment 818 858	для увлажнения кожных покровов - эмолиум
+T25	Disease 1034 1050	Пищевая аллергия
+T7	Body_location 156 171	желчного пузыря
+T40	Body_location 1760 1774	Область сердца
+T13	Symptom 641 650	высыпаний
+T27	Body_location 1505 1535	На кончиках пальцев кистей рук
+T21	Drug 783 791	скин-кап
+T35	Symptom 1664 1671	спокоен
+T32	Body_location 1616 1642	Видимые слизистые оболочки
+T24	Disease 891 902	отек Квинке
+T36	Symptom 1673 1688	Носовое дыхание
+T23	Disease 944 956	отека Квинке
+T28	Symptom 1547 1556	шелушение
+T33	Symptom 1643 1658	розовые, чистые
+T45	Symptom 145 171	деформации желчного пузыря
+T41	Symptom 1798 1829	Сердечные тоны ясные, ритмичные
+T1	Disease 9 53	Атопический дерматит, распространенная форма
+T42	Symptom 1846 1850	Стул
+T17	Drug 731 736	зодак
+T34	Body_location 1660 1663	Зев
+T39	Symptom 1713 1733	дыхание везикулярное
+T12	Disease 534 556	атопического дерматита
+T20	Drug 745 750	мезим
+T19	Drug 738 743	креон
+T4	Disease 90 106	Пищевая аллергия
+T2	Severity 55 76	среднетяжелое течение
+T11	Body_location 286 293	на коже
+T31	Symptom 1600 1614	ониходистрофия
+T5	Disease 108 136	Дисфункция билиарного тракта
+T9	Body_location 193 213	поджелудочной железы
+T44	Symptom 1876 1896	Менингеальных знаков
+T37	Body_location 1704 1712	В лёгких
+T46	Disease 706 710	сыпи
+N1	Reference T15 UMLS:UNKNOWN	увлажнение сухой кожи тела
+N2	Reference T8 UMLS:C0030286	поджелудочной железы болезни
+N3	Reference T18 UMLS:C0013154	заместительная терапия ферментами поджелудочной железы
+N4	Reference T6 UMLS:C0005400	заболевание желчевыводящих путей
+N5	Reference T22 UMLS:C3494477	крем для кожи
+N6	Reference T30 UMLS:C0877127	папулы в месте применения
+N7	Reference T29 UMLS:C0023653	лихенификация
+N8	Reference T26 UMLS:C0302295	высыпание
+N9	Reference T43 UMLS:C0013428	дизурия
+N10	Reference T10 UMLS:C0302295	высыпание
+N11	Reference T38 UMLS:C3887661	хрип
+N12	Reference T3 UMLS:C0853946	обострение боли
+N13	Reference T16 UMLS:C3203714	увлажнение сухой кожи тела
+N14	Reference T25 UMLS:C0149696	пищевая аллергия
+N15	Reference T7 UMLS:C0016976	желчный пузырь
+N16	Reference T40 UMLS:C0018787	сердце
+N17	Reference T13 UMLS:C0302295	высыпание
+N18	Reference T27 UMLS:C0016129	пальцы кисти
+N19	Reference T21 UMLS:C3494477	крем для кожи
+N20	Reference T35 UMLS:CUILESS	норма рабочая
+N21	Reference T32 UMLS:C0026724	слизистая оболочка
+N22	Reference T24 UMLS:C0002994	отек квинке
+N23	Reference T36 UMLS:C0035203	дыхание
+N24	Reference T23 UMLS:C0002994	отек квинке
+N25	Reference T28 UMLS:C0282576	шелушение
+N26	Reference T33 UMLS:CUILESS	норма рабочая
+N27	Reference T45 UMLS:C1397947	перегиб желчного пузыря
+N28	Reference T41 UMLS:C2712143	нормальный сердечный ритм
+N29	Reference T1 UMLS:C0011615	атопический дерматит
+N30	Reference T42 UMLS:C0232720	светлый стул
+N31	Reference T17 UMLS:C0055147	цетиризин
+N32	Reference T34 UMLS:C0521367	ротоглотка
+N33	Reference T39 UMLS:C0231855	нормальная аускультативная картина в легких
+N34	Reference T12 UMLS:C0011615	атопический дерматит
+N35	Reference T20 UMLS:C0030304	панкреатин
+N36	Reference T19 UMLS:C0030304	креон
+N37	Reference T4 UMLS:C0149696	пищевая аллергия
+N38	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N39	Reference T11 UMLS:C1123023	кожа
+N40	Reference T31 UMLS:C0221260	ониходистрофия
+N41	Reference T5 UMLS:C0005424	заболевание желчевыводящих путей
+N42	Reference T9 UMLS:C0030274	поджелудочная железа
+N43	Reference T44 UMLS:C0025287	менингеальные знаки
+N44	Reference T37 UMLS:C0024109	легкие
+N45	Reference T46 UMLS:C0015230	сыпь
+#1	AnnotatorNotes T15	first_annotator_label: C3203714||synonyms: увлажнение сухой кожи тела|увлажнение сухой кожи||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0752321||synonyms: мап-киназ сигнальная система|map-kinaz kaskad|map-kinaz signal'naia sistema|map-kinaz signal'nye puti|мап-киназ каскад||||
+#2	AnnotatorNotes T18	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0021931||synonyms: интубация желудочно-кишечная|intubatsiia zheludochno-kishechnaia|введение желудочно-кишечного зонда|введение зонда для энтерального питания||||
+#3	AnnotatorNotes T6	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C0005400||synonyms: желчные протоки|zhelchnye protoki||||bert: C1142316||synonyms: устранение билиарного свища||||
+#4	AnnotatorNotes T21	first_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||second_annotator_label: C0034295||synonyms: пиридитол|piriditol|dipiridoksolildisul'fid|entsefabol|piridoksindisul'fid||||third_annotator_label: C0598958||synonyms: нейропротекция|neiroprotektsiia|neirozashchita|neiroprotektivnoe deistvie|нейропротективное действие||||bert: C0036270||synonyms: кожа волосистой части головы|kozha volosistoi chasti golovy|skal'p|volosistaia chast' kozhi golovy|волосистая часть кожи головы||||
+#5	AnnotatorNotes T35	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: None||synonyms: ||||bert: C0038071||synonyms: сквален|skvalen||||
+#6	AnnotatorNotes T33	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0585350||synonyms: слизистые выделения||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0035854||synonyms: розацеа|akne-rozatsea|acne rosacea|rozatsea|ugri rozovye||||
+#7	AnnotatorNotes T45	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0008325||synonyms: холецистит|kholetsistit|empiema zhelchnogo puzyria|холецистит, бду|воспаление желчного пузыря||||third_annotator_label: C0876968||synonyms: патологии желчного пузыря, нкдр||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#8	AnnotatorNotes T39	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#9	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#10	AnnotatorNotes T5	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C0852578||synonyms: процедуры визуализации печени и желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||

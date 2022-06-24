@@ -1,0 +1,91 @@
+T5	Disease 100 121	Невротические реакции
+T10	Disease 234 262	Сосудистый невус конъюнктивы
+T16	Body_location 432 436	кожи
+T19	Symptom 477 481	боли
+T11	Disease 264 281	Смешанная себорея
+T33	Symptom 1236 1242	чистые
+T18	Symptom 462 475	головные боли
+T4	Course 90 98	ремиссия
+T24	Symptom 954 959	зудом
+T9	Disease 209 232	Плоско-вальгусная стопа
+T38	Symptom 1410 1430	Менингеальных знаков
+T29	Body_location 1205 1219	Кожные покровы
+T40	Symptom 1390 1396	диурез
+T23	Symptom 912 919	сухость
+T20	Body_location 484 489	ногах
+T28	Symptom 1184 1203	катаральных явлений
+T34	Symptom 1244 1253	суховатые
+T37	Symptom 1330 1335	хрипы
+T15	Symptom 424 431	сухость
+T26	Treatment 961 968	Лечения
+T35	Body_location 1286 1292	легких
+T31	Body_location 1276 1282	бедрах
+T36	Symptom 1308 1328	везикулярное дыхание
+T42	Symptom 1366 1382	ясные, ритмичные
+T32	Symptom 1220 1234	бледно-розовые
+T30	Body_location 1267 1274	коленях
+T27	Body_location 1176 1179	Зев
+T8	Disease 191 207	Нарушение осанки
+T1	Disease 9 50	Аллергический ринит, персистирующая форма
+T22	Body_location 920 924	кожи
+T17	Symptom 455 460	зудом
+T12	Disease 283 298	вульгарные угри
+T25	Disease 1018 1038	атопический дерматит
+T7	Disease 163 189	Цефалгии смешанного генеза
+T21	Symptom 491 519	затруднение носового дыхания
+T39	Symptom 1384 1388	Стул
+T13	Severity 300 314	легкая степень
+T2	Course 52 66	вне обострения
+T6	Disease 123 161	Особенности эмоционально-волевой сферы
+T14	Disease 382 404	респираторные инфекции
+T3	Disease 68 88	Атопический дерматит
+T41	Body_location 1359 1365	сердца
+N1	Reference T5 UMLS:C0235172	невротическая реакция
+N2	Reference T10 UMLS:C0346363	невус конъюнктивы
+N3	Reference T16 UMLS:C1123023	кожа
+N4	Reference T19 UMLS:C0030193	боли
+N5	Reference T11 UMLS:C0085657	сухая себорея
+N6	Reference T33 UMLS:C0598869	чистая культура
+N7	Reference T18 UMLS:C0018681	головные боли
+N8	Reference T4 UMLS:C0242793	период ремиссии
+N9	Reference T24 UMLS:C0033774	зуд
+N10	Reference T9 UMLS:C0016202	плоская стопа
+N11	Reference T38 UMLS:C0025287	менингеальные знаки
+N12	Reference T29 UMLS:C1123023	кожа
+N13	Reference T40 UMLS:C1287298	диурез
+N14	Reference T23 UMLS:C0151908	сухая кожа
+N15	Reference T20 UMLS:C1140621	нога
+N16	Reference T28 UMLS:UNKNOWN	патология
+N17	Reference T34 UMLS:C0151908	сухая кожа
+N18	Reference T37 UMLS:C0035234	хрипы
+N19	Reference T15 UMLS:C0151908	сухая кожа
+N20	Reference T26 UMLS:UNKNOWN	длительное лечение
+N21	Reference T35 UMLS:C0024109	легкие
+N22	Reference T31 UMLS:C0039866	бедро
+N23	Reference T36 UMLS:C0231855	нормальная аускультативная картина в легких
+N24	Reference T42 UMLS:C2230284	нормальный сердечный ритм
+N25	Reference T32 UMLS:C4505235	розовые
+N26	Reference T30 UMLS:C0022742	колено
+N27	Reference T27 UMLS:C0521367	ротоглотка
+N28	Reference T8 UMLS:C1510410	нарушение обоняния
+N29	Reference T1 UMLS:C2607914	аллергический ринит
+N30	Reference T22 UMLS:C1123023	кожа
+N31	Reference T17 UMLS:C0033774	зуд
+N32	Reference T12 UMLS:C0702166	угри
+N33	Reference T25 UMLS:C0011615	атопический дерматит
+N34	Reference T7 UMLS:C0393735	цефалгии синдром
+N35	Reference T21 UMLS:C0553668	затруднение дыхания
+N36	Reference T39 UMLS:C0232720	светлый стул
+N37	Reference T13 UMLS:CUILESS	степень ухудшения бду
+N38	Reference T2 UMLS:C0242793	период ремиссии
+N39	Reference T6 UMLS:C0677660	эмоциональные проблемы
+N40	Reference T14 UMLS:C0035243	респираторные инфекции
+N41	Reference T3 UMLS:C0011615	атопический дерматит
+N42	Reference T41 UMLS:C0018787	сердце
+#1	AnnotatorNotes T4	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#2	AnnotatorNotes T28	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||
+#3	AnnotatorNotes T26	first_annotator_label: C0444921||synonyms: продолжительная терапия|prodolzhitel'naia terapiia|длительное лечение|продолжительное лечение|prodolzhitel'noe lechenie||||second_annotator_label: C0015189||synonyms: эвтаназия пассивная|eitanaziia passivnaia|evtanaziia passivnaia|otmena lecheniia|pozvolenie umeret'||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0025118||synonyms: медицина|meditsina|meditsinskie spetsial'nosti|spetsial'nosti meditsinskie|медицинские специальности||||
+#4	AnnotatorNotes T36	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T42	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0023740||synonyms: язычный нерв|iazychnyi nerv||||
+#6	AnnotatorNotes T13	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0235874||synonyms: ухудшение состояния|обострение заболевания||||third_annotator_label: None||synonyms: ||||bert: C0376709||synonyms: металлы легкие|metally legkie|legkie metally|легкие металлы||||
+#7	AnnotatorNotes T2	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||

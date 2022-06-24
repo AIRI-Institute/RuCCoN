@@ -1,0 +1,153 @@
+T16	Body_location 475 482	на коже
+T68	Disease 2184 2193	ритмичные
+T7	Course 129 139	обострение
+T52	Symptom 2223 2237	безболезненный
+T56	Symptom 1896 1916	эритематозные бляшки
+T54	Symptom 2134 2146	везикулярное
+T4	Severity 42 71	легкое персистирующее течение
+T40	Disease 1647 1655	поллиноз
+T48	Symptom 2303 2307	Стул
+T50	Symptom 2290 2297	дизурии
+T6	Disease 83 127	Атопический дерматит, распространенная форма
+T8	Disease 141 176	Аллергический ринит, персистирующий
+T51	Symptom 2201 2207	мягкий
+T29	Symptom 1319 1328	высыпания
+T65	Symptom 2077 2084	спокоен
+T35	Symptom 1542 1547	зудом
+T12	Body_location 344 359	желчного пузыря
+T41	Symptom 1657 1685	риноконъюнктивальный синдром
+T45	Body_location 1983 2025	на разгибательных поверхностях пальцев ног
+T19	Disease 898 919	обструктивный бронхит
+T57	Body_location 1969 1981	на коже стоп
+T42	Body_location 1882 1895	левой лодыжке
+T44	Body_location 1830 1880	на разгибательных поверхностях верхних конечностей
+T36	Body_location 1568 1580	ногах, руках
+T37	Disease 855 868	ложного крупа
+T49	Symptom 2333 2353	Менингеальных знаков
+T66	Body_location 2073 2076	Зев
+T18	Disease 844 847	ОРИ
+T47	Body_location 2195 2200	Живот
+T20	Treatment 1040 1102	В терапии беродуал, лазолван через небулайзер, зиртек, эреспал
+T53	Symptom 2148 2154	хрипов
+T11	Disease 252 291	Парциальный дефицит когнитивных функций
+T28	Drug 1250 1260	лазолваном
+T31	Treatment 1382 1401	В терапии супрастин
+T62	Symptom 1749 1770	бледно-розовые, сухие
+T55	Symptom 2175 2193	звучные, ритмичные
+T23	Drug 1087 1093	зиртек
+T3	Disease 9 40	Бронхиальная астма, атопическая
+T63	Symptom 1150 1165	бронхобструкции
+T32	Drug 1392 1401	супрастин
+T39	Disease 1618 1636	бронхиальная астма
+T43	Body_location 1772 1783	кожа ягодиц
+T38	Body_location 1734 1748	Кожные покровы
+T17	Symptom 492 515	малопродуктивного кашля
+T27	Drug 1238 1248	беродуалом
+T21	Drug 1050 1058	беродуал
+T59	Symptom 2060 2071	с трещинами
+T2	Body_location 304 324	желчевыводящих путей
+T15	Symptom 465 474	высыпания
+T60	Symptom 2036 2054	выраженной сухости
+T10	Disease 206 250	Синдром дефицита внимания с гиперактивностью
+T61	Symptom 1784 1828	инфильтрирована, с шелушением, экскориациями
+T22	Drug 1060 1068	лазолван
+T26	Treatment 1216 1260	В терапии ингаляции с беродуалом, лазолваном
+T58	Symptom 1948 1968	обильная десквамация
+T25	Symptom 1184 1214	сухого малопродуктивного кашля
+T64	Symptom 2086 2115	Носовое дыхание не затруднено
+T5	Course 73 81	ремиссия
+T67	Symptom 333 359	деформации желчного пузыря
+T46	Body_location 2117 2125	В лёгких
+T14	Body_location 382 402	поджелудочной железы
+T34	Symptom 1516 1525	Высыпания
+T1	Disease 293 324	Дискинезия желчевыводящих путей
+T33	Symptom 1431 1440	высыпания
+T30	Body_location 1332 1343	коже ягодиц
+T9	Disease 178 204	Цефалгии смешанного генеза
+T13	Disease 361 402	Реактивные изменения поджелудочной железы
+T24	Drug 1095 1102	эреспал
+N1	Reference T16 UMLS:C1123023	кожа
+N2	Reference T68 UMLS:UNKNOWN	сердечных сокращений частота
+N3	Reference T7 UMLS:C0853946	обострение боли
+N4	Reference T52 UMLS:C0857027	болезненность
+N5	Reference T56 UMLS:C0746925	эритематозный узелок
+N6	Reference T54 UMLS:C0231855	нормальная аускультативная картина в легких
+N7	Reference T4 UMLS:CUILESS	астма, хроническая
+N8	Reference T40 UMLS:C0018621	поллиноз
+N9	Reference T48 UMLS:C0232720	светлый стул
+N10	Reference T50 UMLS:C0013428	дизурия
+N11	Reference T6 UMLS:C0011615	атопический дерматит
+N12	Reference T8 UMLS:C2607914	аллергический ринит
+N13	Reference T51 UMLS:C0026390	мягкокожие
+N14	Reference T29 UMLS:C0302295	высыпание
+N15	Reference T65 UMLS:CUILESS	отсутствие реакции
+N16	Reference T35 UMLS:C0033774	зуд
+N17	Reference T12 UMLS:C0016976	желчный пузырь
+N18	Reference T41 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N19	Reference T45 UMLS:C0576780	удаление ногтя на пальце ноги
+N20	Reference T19 UMLS:C0865791	обструктивный бронхит
+N21	Reference T57 UMLS:C1123023	стопа
+N22	Reference T42 UMLS:C0003086	лодыжка
+N23	Reference T44 UMLS:C0446516	рука
+N24	Reference T36 UMLS:C0920259	операция на ноге
+N25	Reference T37 UMLS:C0339875	псевдокруп
+N26	Reference T49 UMLS:C0025287	менингеальные знаки
+N27	Reference T66 UMLS:C0521367	ротовая полость
+N28	Reference T18 UMLS:C0035243	респираторные инфекции
+N29	Reference T47 UMLS:C0000726	живот
+N30	Reference T20 UMLS:C0009429	комплексное лечение
+N31	Reference T53 UMLS:C3887661	хрип
+N32	Reference T11 UMLS:C4324403	дефицит когнитивной лингвистики
+N33	Reference T28 UMLS:C0002421	амброксол
+N34	Reference T31 UMLS:C1504374	антигистаминная терапия
+N35	Reference T62 UMLS:C4505235	розовые
+N36	Reference T55 UMLS:C0018409	ритмическая гимнастика
+N37	Reference T23 UMLS:C0055147	цетиризин
+N38	Reference T3 UMLS:C0004096	астма, бронхиальная
+N39	Reference T63 UMLS:C0221725	бронхиальная обструкция
+N40	Reference T32 UMLS:C0019592	антигистаминные h1 средства
+N41	Reference T39 UMLS:C0004096	бронхиальная астма
+N42	Reference T43 UMLS:C1123023	кожа
+N43	Reference T38 UMLS:C1123023	кожа
+N44	Reference T17 UMLS:C0850149	кашель, непродуктивный
+N45	Reference T27 UMLS:C0015840	фенотерол
+N46	Reference T21 UMLS:C0015840	фенотерол
+N47	Reference T59 UMLS:C3544223	трещина ребра
+N48	Reference T2 UMLS:C0005423	желчные пути
+N49	Reference T15 UMLS:C0302295	высыпание
+N50	Reference T60 UMLS:C0857116	выраженное ожирение
+N51	Reference T10 UMLS:C1263846	гиперактивности синдром с дефицитом внимания
+N52	Reference T61 UMLS:C0520893	экскориация
+N53	Reference T22 UMLS:C0002421	амброксол
+N54	Reference T26 UMLS:UNKNOWN	введение лекарств ингаляционное
+N55	Reference T58 UMLS:C0237849	десквамация
+N56	Reference T25 UMLS:C0850149	кашель, непродуктивный
+N57	Reference T64 UMLS:C0553668	дыхание, затрудненное
+N58	Reference T5 UMLS:C0242793	период ремиссии
+N59	Reference T67 UMLS:C0016977	заболевание желчного пузыря, бду
+N60	Reference T46 UMLS:C0024109	легкие
+N61	Reference T14 UMLS:C0030274	поджелудочная железа
+N62	Reference T34 UMLS:C0302295	высыпание
+N63	Reference T1 UMLS:C0005416	дискинезия желчевыводящих путей
+N64	Reference T33 UMLS:C0302295	высыпание
+N65	Reference T30 UMLS:C1123023	кожа
+N66	Reference T9 UMLS:C0393735	цефалгии синдром
+N67	Reference T13 UMLS:C0030286	заболевания поджелудочной железы
+N68	Reference T24 UMLS:C0019592	противовоспалительные средства
+#1	AnnotatorNotes T68	first_annotator_label: No entity found in this position||synonyms: ||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: None||synonyms: ||||
+#2	AnnotatorNotes T54	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0206548||synonyms: везикуловирус|vezikulovirus||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0206548||synonyms: везикуловирус|vezikulovirus||||
+#3	AnnotatorNotes T4	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#4	AnnotatorNotes T65	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0038071||synonyms: сквален|skvalen||||
+#5	AnnotatorNotes T57	first_annotator_label: C0016504||synonyms: стопа|stopa||||second_annotator_label: C0191275||synonyms: операция на коже|операция на коже, бду||||third_annotator_label: C1123023||synonyms: кожа|kozha||||bert: C0191275||synonyms: операция на коже|операция на коже, бду||||
+#6	AnnotatorNotes T44	first_annotator_label: C0446516||synonyms: рука|ruka||||second_annotator_label: C4523841||synonyms: судороги верхних конечностей||||third_annotator_label: C0013769||synonyms: локоть|lokot'||||bert: C4523841||synonyms: судороги верхних конечностей||||
+#7	AnnotatorNotes T37	first_annotator_label: C0339875||synonyms: псевдокруп||||second_annotator_label: C0697206||synonyms: krushina|frangula alnus|rhamnus frangula|крушина ольховидная|krushina ol'khovidnaia||||third_annotator_label: C0155811||synonyms: острый ларинготрахеит бду|острый ларинготрахеит|острый ларинготрахеит, бду|острый ларингит и трахеит||||bert: C0697206||synonyms: krushina|frangula alnus|rhamnus frangula|крушина ольховидная|krushina ol'khovidnaia||||
+#8	AnnotatorNotes T66	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#9	AnnotatorNotes T20	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C2363790||synonyms: парциальное давление кислорода в альвеолах||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2363790||synonyms: парциальное давление кислорода в альвеолах||||
+#10	AnnotatorNotes T31	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0024820||synonyms: психотерапия супружеских пар|psikhoterapiia supruzheskikh par|супружеская терапия|brachnaia terapiia|supruzheskaia terapiia||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0024820||synonyms: психотерапия супружеских пар|psikhoterapiia supruzheskikh par|супружеская терапия|brachnaia terapiia|supruzheskaia terapiia||||
+#11	AnnotatorNotes T2	first_annotator_label: C0005423||synonyms: желчные пути|zhelchnye puti||||second_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||
+#12	AnnotatorNotes T61	first_annotator_label: C0015256||synonyms: экскориация||||second_annotator_label: C1696701||synonyms: дерматилломания|компульсивная экскориация||||third_annotator_label: C0520893||synonyms: локализованная эксфолиация|шелушение||||bert: C1696701||synonyms: дерматилломания|компульсивная экскориация||||
+#13	AnnotatorNotes T26	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C1532765||synonyms: лбж|лапароскопическое бандажирование желудка||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C1532765||synonyms: лбж|лапароскопическое бандажирование желудка||||
+#14	AnnotatorNotes T58	first_annotator_label: C0237849||synonyms: эксфолиация кожи|десквамация|кожа, отслаивающаяся|кожная десквамация|шелушащаяся кожа||||second_annotator_label: C0022585||synonyms: кератолитические средства|keratoliticheskie sredstva|deskvamativnye sredstva|десквамативные средства||||third_annotator_label: C0520893||synonyms: локализованная эксфолиация|шелушение||||bert: C0022585||synonyms: кератолитические средства|keratoliticheskie sredstva|deskvamativnye sredstva|десквамативные средства||||
+#15	AnnotatorNotes T64	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0027339||synonyms: ногтей болезни|nogtei bolezni|заболевание ногтя, неуточненное|поражение ногтя|поражение ногтей, бду||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0027339||synonyms: ногтей болезни|nogtei bolezni|заболевание ногтя, неуточненное|поражение ногтя|поражение ногтей, бду||||
+#16	AnnotatorNotes T5	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#17	AnnotatorNotes T24	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C0014806||synonyms: эритромицин|eritromitsin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0337435||synonyms: эстриол||||

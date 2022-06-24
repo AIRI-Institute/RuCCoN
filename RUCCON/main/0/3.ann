@@ -1,0 +1,108 @@
+T9	Body_location 157 177	поджелудочной железы
+T46	Body_location 1389 1412	по всем кожным покровам
+T12	Symptom 321 337	покраснение кожи
+T39	Symptom 1914 1936	чистые, бледно-розовые
+T10	Symptom 239 262	малопродуктивный кашель
+T24	Symptom 1514 1537	малопродуктивный кашель
+T13	Body_location 333 337	кожи
+T48	Disease 1289 1293	сыпь
+T30	Body_location 1938 1941	Зев
+T2	Course 49 57	ремиссия
+T38	Disease 1446 1464	фотосенсибилизация
+T42	Symptom 2040 2058	звучные, ритмичные
+T43	Symptom 2111 2118	дизурии
+T22	Symptom 1209 1228	эритематозных пятен
+T27	Drug 1703 1711	бисептол
+T25	Symptom 1600 1609	высыпания
+T7	Disease 126 135	Аденоидит
+T35	Symptom 1309 1318	Высыпания
+T40	Symptom 1942 1949	спокоен
+T32	Symptom 1999 2011	везикулярное
+T5	Disease 93 114	Гипертрофия аденоидов
+T47	Symptom 1184 1193	высыпания
+T31	Body_location 1982 1990	В лёгких
+T17	Disease 931 937	ринита
+T37	Body_location 1358 1362	лице
+T6	Severity 115 124	2 степени
+T23	Body_location 1194 1201	на коже
+T11	Disease 296 302	ринита
+T29	Body_location 1899 1913	Кожные покровы
+T18	Disease 980 999	аллергический ринит
+T26	Disease 1677 1699	Лекарственная аллергия
+T19	Treatment 1001 1019	В терапии назонекс
+T3	Disease 59 81	Лекарственная аллергия
+T41	Symptom 1951 1980	Носовое дыхание не затруднено
+T8	Disease 137 177	Вторичные изменения поджелудочной железы
+T15	Disease 791 813	атопического дерматита
+T20	Drug 1011 1019	назонекс
+T34	Disease 1829 1845	пищевая аллергия
+T49	Disease 1714 1724	крапивница
+T14	Disease 711 724	ветряная оспа
+T16	Treatment 819 866	коррекции диеты и использовании местных средств
+T21	Disease 1130 1136	ринита
+T33	Symptom 2013 2019	хрипов
+T45	Symptom 2154 2174	Менингеальных знаков
+T36	Body_location 1330 1355	на открытых участках тела
+T1	Disease 19 47	риноконъюнктивальный синдром
+T44	Symptom 2124 2128	Стул
+T4	Course 83 91	ремиссия
+N1	Reference T9 UMLS:C0030274	поджелудочная железа
+N2	Reference T46 UMLS:C1123023	кожа
+N3	Reference T12 UMLS:C0016382	покраснение кожи
+N4	Reference T39 UMLS:C4505235	бледный
+N5	Reference T10 UMLS:C0850149	кашель, непродуктивный
+N6	Reference T24 UMLS:C0850149	кашель, непродуктивный
+N7	Reference T13 UMLS:C1123023	кожа
+N8	Reference T48 UMLS:C0015230	сыпь
+N9	Reference T30 UMLS:C0521367	ротоглотка
+N10	Reference T2 UMLS:C0242793	период ремиссии
+N11	Reference T38 UMLS:C0162713	фотосенсибилизаторы
+N12	Reference T42 UMLS:CUILESS	нормальный сердечный ритм
+N13	Reference T43 UMLS:C0013428	дизурия
+N14	Reference T22 UMLS:C0041834	эритематозные состояния
+N15	Reference T27 UMLS:C0038689	сульфаниламиды
+N16	Reference T25 UMLS:C0302295	высыпание
+N17	Reference T7 UMLS:C0001427	аденоидит
+N18	Reference T35 UMLS:C0302295	высыпание
+N19	Reference T40 UMLS:CUILESS	отсутствие реакции
+N20	Reference T32 UMLS:C0231855	нормальная аускультативная картина в легких
+N21	Reference T5 UMLS:C0149825	гипертрофия исключительно аденоидов
+N22	Reference T47 UMLS:C0302295	высыпание
+N23	Reference T31 UMLS:C0024109	легкие
+N24	Reference T17 UMLS:C0035455	ринит
+N25	Reference T37 UMLS:C0015450	лицо
+N26	Reference T23 UMLS:C1123023	кожа
+N27	Reference T11 UMLS:C0035455	ринит
+N28	Reference T29 UMLS:C1123023	кожа
+N29	Reference T18 UMLS:C2607914	аллергический ринит
+N30	Reference T26 UMLS:C0013182	перекрестная лекарственная аллергия
+N31	Reference T19 UMLS:C2608293	назальные спреи
+N32	Reference T3 UMLS:C1070217	алтей лекарственный
+N33	Reference T41 UMLS:CUILESS	дыхание
+N34	Reference T8 UMLS:C0030286	поджелудочной железы болезни
+N35	Reference T15 UMLS:C0011615	атопический дерматит
+N36	Reference T20 UMLS:C0066700	назонекс
+N37	Reference T34 UMLS:C0149696	пищевая аллергия
+N38	Reference T49 UMLS:C0042109	крапивница
+N39	Reference T14 UMLS:C0008049	ветряная оспа
+N40	Reference T16 UMLS:UNKNOWN	медицинская диета
+N41	Reference T21 UMLS:C0035455	ринит
+N42	Reference T33 UMLS:C3887661	хрип
+N43	Reference T45 UMLS:C0025287	менингеальные знаки
+N44	Reference T36 UMLS:C1123023	кожа
+N45	Reference T1 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N46	Reference T44 UMLS:CUILESS	мягкий стул
+N47	Reference T4 UMLS:C0242793	период ремиссии
+#1	AnnotatorNotes T39	first_annotator_label: C0678215||synonyms: бледный||||second_annotator_label: C1123023||synonyms: кожа|kozha||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0859290||synonyms: черное пятно||||
+#2	AnnotatorNotes T2	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#3	AnnotatorNotes T42	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C0018409||synonyms: гимнастика|gimnastika|khudozhestvennaia gimnastika|ritmicheskaia gimnastika|ритмическая гимнастика||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0018409||synonyms: гимнастика|gimnastika|khudozhestvennaia gimnastika|ritmicheskaia gimnastika|ритмическая гимнастика||||
+#4	AnnotatorNotes T27	first_annotator_label: C0038703||synonyms: сульфаниламиды|sul'fanilamidy||||second_annotator_label: C0038689||synonyms: сульфаметоксазол|sul'fametoksazol|sul'fametilizoksazol|сульфаметилизоксазол||||third_annotator_label: C0279516||synonyms: антибактериальные средства|antibakterial'nye sredstva|antibiotiki|antibiotiki aminoglikozidnye|antibiotiki glikopeptidnye||||bert: C0068475||synonyms: небиволол|лобивон|bistolik|nebivolol|lobivon||||
+#5	AnnotatorNotes T40	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0038071||synonyms: сквален|skvalen||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0038071||synonyms: сквален|skvalen||||
+#6	AnnotatorNotes T32	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0206548||synonyms: везикуловирус|vezikulovirus||||
+#7	AnnotatorNotes T26	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||third_annotator_label: C0013182||synonyms: лекарственная гиперсенсибилизация|lekarstvennaia gipersensibilizatsiia|аллергия на лекарственный препарат|аллергическая реакция на препарат|гиперчувствительность к лекарственному препарату||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||
+#8	AnnotatorNotes T19	first_annotator_label: C2608293||synonyms: назальные спреи|назальный аэрозоль|nazal'nye sprei|nazal'nyi aerozol'||||second_annotator_label: C5243760||synonyms: терапия аэроанионами||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C5243760||synonyms: терапия аэроанионами||||
+#9	AnnotatorNotes T41	first_annotator_label: C0035203||synonyms: дыхание|dykhanie||||second_annotator_label: C0027339||synonyms: ногтей болезни|nogtei bolezni|заболевание ногтя, неуточненное|поражение ногтя|поражение ногтей, бду||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0027339||synonyms: ногтей болезни|nogtei bolezni|заболевание ногтя, неуточненное|поражение ногтя|поражение ногтей, бду||||
+#10	AnnotatorNotes T16	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012179||synonyms: диетического питания службы|dieticheskogo pitaniia sluzhby||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0012179||synonyms: диетического питания службы|dieticheskogo pitaniia sluzhby||||
+#11	AnnotatorNotes T36	first_annotator_label: C1123023||synonyms: кожа|kozha||||second_annotator_label: C0886414||synonyms: температура тела||||third_annotator_label: C0206113||synonyms: облучение части тела|obluchenie chastei tela|obluchenie chasti tela|obluchenie posledovatel'noe|obluchenie sistemnoe||||bert: C0886414||synonyms: температура тела||||
+#12	AnnotatorNotes T44	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#13	AnnotatorNotes T4	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||

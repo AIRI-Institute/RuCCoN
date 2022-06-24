@@ -1,0 +1,141 @@
+T13	Body_location 471 478	на коже
+T43	Disease 1613 1631	инсектная аллергия
+T42	Disease 1598 1610	фотодерматит
+T67	Disease 1039 1052	конъюнктивита
+T47	Symptom 1767 1781	бледно-розовые
+T57	Symptom 1999 2032	Сердечные тоны громкие, ритмичные
+T41	Disease 1576 1596	холодовая крапивница
+T22	Body_location 928 940	периоральный
+T44	Disease 1649 1665	пищевая аллергия
+T28	Symptom 1065 1071	кашель
+T70	Symptom 1215 1219	храп
+T51	Body_location 1808 1816	на ногах
+T69	Drug 1490 1496	ксизал
+T20	Disease 902 918	пищевой аллергии
+T64	Disease 497 510	конъюнктивита
+T53	Symptom 1886 1896	Зев рыхлый
+T71	Disease 1320 1348	риноконъюнктивальный синдром
+T8	Disease 187 206	Аллергический ринит
+T68	Disease 928 949	периоральный дерматит
+T23	Symptom 970 980	зуд в зеве
+T5	Severity 134 148	легкое течение
+T18	Treatment 814 834	В терапии пробиотики
+T45	Body_location 1741 1755	Кожные покровы
+T49	Body_location 1783 1790	на лице
+T1	Disease 19 46	сезонная бронхиальная астма
+T34	Symptom 1350 1359	высыпания
+T7	Disease 169 185	Пищевая аллергия
+T35	Symptom 1389 1405	кожные высыпания
+T36	Body_location 1389 1395	кожные
+T24	Body_location 974 980	в зеве
+T10	Disease 247 303	Искривление носовой перегородки без затруднения дыхания.
+T72	Severity 209 229	персистирующая форма
+T62	Symptom 2101 2121	Менингеальных знаков
+T16	Symptom 513 536	малопродуктивный кашель
+T9	Course 231 245	вне обострения
+T61	Symptom 2078 2090	Стул, диурез
+T29	Treatment 1073 1110	При приеме антигистаминных препаратов
+T12	Symptom 461 478	высыпания на коже
+T54	Body_location 1913 1921	В лёгких
+T4	Disease 88 132	Атопический дерматит, распространенная форма
+T60	Symptom 2062 2076	безболезненный
+T27	Symptom 1054 1063	высыпания
+T2	Disease 48 76	риноконъюнктивальный синдром
+T39	Drug 1482 1488	локоид
+T32	Severity 1280 1291	2-3 степени
+T52	Symptom 1848 1884	Носовое дыхание несколько затруднено
+T38	Treatment 1473 1496	Назначен локоид, ксизал
+T6	Course 150 167	период обострения
+T55	Symptom 1922 1942	везикулярное дыхание
+T30	Symptom 1145 1173	Затруднение носового дыхание
+T63	Disease 489 495	ринита
+T17	Symptom 779 812	проявления атопического дерматита
+T66	Disease 1031 1037	ринита
+T19	Symptom 849 858	высыпания
+T58	Body_location 2034 2039	Живот
+T37	Disease 1451 1471	атопический дерматит
+T59	Symptom 2040 2046	мягкий
+T11	Body_location 259 278	носовой перегородки
+T40	Symptom 1563 1566	ркс
+T31	Disease 1258 1279	гиперплазия аденоидов
+T48	Symptom 1783 1806	на лице участки сухости
+T3	Course 78 86	ремиссия
+T65	Disease 790 812	атопического дерматита
+T50	Symptom 1808 1846	на ногах эритематозно-сквамозные очаги
+T46	Symptom 1756 1765	суховатые
+T56	Symptom 1970 1976	хрипов
+N1	Reference T13 UMLS:C1123023	кожа
+N2	Reference T43 UMLS:C1261392	аллергия на укусы насекомых
+N3	Reference T42 UMLS:C0162830	фотодерматит
+N4	Reference T67 UMLS:C0009763	конъюнктивит
+N5	Reference T47 UMLS:C4505235	розовые
+N6	Reference T57 UMLS:C0018810	сердечный ритм
+N7	Reference T41 UMLS:C0221207	холодовая крапивница
+N8	Reference T22 UMLS:C0239062	периоральный отек
+N9	Reference T44 UMLS:C0149696	пищевая аллергия
+N10	Reference T28 UMLS:C0010200	кашель
+N11	Reference T70 UMLS:C0037384	храп
+N12	Reference T51 UMLS:C1140621	нога
+N13	Reference T69 UMLS:C0055147	цетиризин
+N14	Reference T20 UMLS:C0149696	пищевая аллергия
+N15	Reference T64 UMLS:C0009763	конъюнктивит
+N16	Reference T53 UMLS:C0521367	ротоглотка
+N17	Reference T71 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N18	Reference T8 UMLS:C2607914	аллергический ринит
+N19	Reference T68 UMLS:C0263449	периоральный дерматит
+N20	Reference T23 UMLS:C0948521	зуд во рту
+N21	Reference T5 UMLS:CUILESS	степень ухудшения бду
+N22	Reference T18 UMLS:C2242626	лечение пробиотиками
+N23	Reference T45 UMLS:C1123023	кожа
+N24	Reference T49 UMLS:C0191956	операция на лице
+N25	Reference T1 UMLS:C2919352	сезонная астма
+N26	Reference T34 UMLS:C0302295	высыпание
+N27	Reference T7 UMLS:C0149696	пищевая аллергия
+N28	Reference T35 UMLS:C0015230	кожное высыпание
+N29	Reference T36 UMLS:C1123023	кожа
+N30	Reference T24 UMLS:C0521367	ротовая полость
+N31	Reference T10 UMLS:C0549397	искривление перегородки носа
+N32	Reference T72 UMLS:CUILESS	хронический ринит
+N33	Reference T62 UMLS:C0025287	менингеальные знаки
+N34	Reference T16 UMLS:C0850149	кашель, непродуктивный
+N35	Reference T9 UMLS:C0242793	период ремиссии
+N36	Reference T61 UMLS:C1287298	диурез
+N37	Reference T29 UMLS:C1504374	антигистаминная терапия
+N38	Reference T12 UMLS:C0239521	высыпание на коже лица
+N39	Reference T54 UMLS:C0024109	легкие
+N40	Reference T4 UMLS:C0011615	атопический дерматит
+N41	Reference T60 UMLS:C0857027	болезненность
+N42	Reference T27 UMLS:C0302295	высыпание
+N43	Reference T2 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N44	Reference T39 UMLS:C0201968	гидрокортизон
+N45	Reference T52 UMLS:C0853254	раздражение носовых ходов
+N46	Reference T38 UMLS:C0013154	противоаллергические средства
+N47	Reference T6 UMLS:C0854697	дерматит бду, обострение
+N48	Reference T55 UMLS:C0231855	нормальная аускультативная картина в легких
+N49	Reference T30 UMLS:C0553668	затруднение дыхания
+N50	Reference T63 UMLS:C0035455	ринит
+N51	Reference T17 UMLS:C5243973	обострение атопического дерматита
+N52	Reference T66 UMLS:C0035455	ринит
+N53	Reference T19 UMLS:C0302295	высыпание
+N54	Reference T58 UMLS:C0000726	живот
+N55	Reference T37 UMLS:C0011615	атопический дерматит
+N56	Reference T59 UMLS:C0026390	мягкокожие
+N57	Reference T11 UMLS:C0027432	носа перегородка
+N58	Reference T40 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N59	Reference T31 UMLS:C0149825	гипертрофия исключительно аденоидов
+N60	Reference T48 UMLS:C2221318	сухая кожа лица
+N61	Reference T3 UMLS:C0242793	период ремиссии
+N62	Reference T65 UMLS:C0011615	атопический дерматит
+N63	Reference T50 UMLS:C0234913	эритематозная кожная сыпь
+N64	Reference T46 UMLS:C0151908	сухая кожа
+N65	Reference T56 UMLS:C3887661	хрип
+#1	AnnotatorNotes T43	first_annotator_label: C1261392||synonyms: аллергия на укусы насекомых||||second_annotator_label: C0559469||synonyms: гиперсенсибилизация к яйцам|аллергия на яйца|giperchuvstvitel'nost' k iaitsam|gipersensibilizatsiia k iaitsam|гиперчувствительность к яйцам||||third_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||bert: C0559469||synonyms: гиперсенсибилизация к яйцам|аллергия на яйца|giperchuvstvitel'nost' k iaitsam|gipersensibilizatsiia k iaitsam|гиперчувствительность к яйцам||||
+#2	AnnotatorNotes T5	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0037274||synonyms: кожные болезни|kozhi derivatov bolezni|kozhnye bolezni|кожное заболевание бду|дерматоз||||third_annotator_label: None||synonyms: ||||bert: C0035222||synonyms: респираторный дистресс-синдром взрослых|dykhatel'nykh rasstroistv sindrom vzroslykh|atelektaz zastoinyi|shokovoe legkoe|vzroslykh dykhatel'nykh rasstroistv sindrom||||
+#3	AnnotatorNotes T24	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0033774||synonyms: зуд|zud|зудящий|зуд бду|неуточненное нарушение, связанное с зудом||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0849907||synonyms: зуд в ухе||||
+#4	AnnotatorNotes T72	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#5	AnnotatorNotes T9	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#6	AnnotatorNotes T39	first_annotator_label: C0201968||synonyms: гидрокортизон|кортизол||||second_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||third_annotator_label: C0001566||synonyms: введение лекарств местное|vvedenie lekarstv mestnoe|lekarstv vvedenie mestnoe|mestnoe vvedenie lekarstv|лекарств введение местное||||bert: C0022548||synonyms: келоид|keloid|келоидный рубец||||
+#7	AnnotatorNotes T38	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0028757||synonyms: обидоксима хлорид|obidoksima khlorid|toksogonin|токсогонин||||
+#8	AnnotatorNotes T55	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#9	AnnotatorNotes T40	first_annotator_label: C0236036||synonyms: конъюнктивально-слизисто-кожный синдром||||second_annotator_label: C0009255||synonyms: кокс|koks||||third_annotator_label: None||synonyms: ||||bert: C0009255||synonyms: кокс|koks||||
+#10	AnnotatorNotes T46	first_annotator_label: C0151908||synonyms: сухая кожа|кожа, сухая||||second_annotator_label: C0039508||synonyms: сухожилия|sukhozhiliia|sukhozhiliia okolosustavnye|сухожилия околосуставные||||third_annotator_label: None||synonyms: ||||bert: C0039508||synonyms: сухожилия|sukhozhiliia|sukhozhiliia okolosustavnye|сухожилия околосуставные||||

@@ -1,0 +1,127 @@
+T32	Symptom 2382 2472	Выраженное нарушение процесса реполяризации в миокарде желудочков с депрессией сегмента ST
+T49	Treatment 4661 4872	капотен 27 мг/сут, конкор 2,5 мг/сут (возвращен в терапию с октября 2053 года в связи с тахикардией), верошпирон 6,25 мг/сут, трентал 150 мг/сут, курсами - фламин 1/2 т/сут, кудесан 25 кап/сут, цитофлавин 2т/сут
+T7	Severity 185 197	ФК I по NYHA
+T15	Symptom 459 521	На тахикрадию, боли в области сердца после физической нагрузки
+T29	Drug 1830 1836	элькар
+T8	Disease 209 237	Дилатационная кардиомиопатия
+T25	Drug 1746 1754	дигоксин
+T52	Symptom 5453 5517	Физическое развитие среднее, дисгармоничное за счет избытка веса
+T46	Severity 2914 2923	2А стадии
+T51	Treatment 5136 5283	капотен 27 мг/сут, конкор 2,5 мг/сут, верошпирон 6,25 мг/сут, трентал 150 мг/сут, курсами - фламин 1/2 т/сут, кудесан 25 кап/сут, цитофлавин 2т/сут
+T35	Disease 2557 2591	гипертрофии миокарда левых отделов
+T1	Disease 21 49	Дилатационная кардиомиопатия
+T27	Drug 1788 1798	верошпирон
+T18	Disease 857 881	хроническим алкоголизмом
+T9	Disease 274 309	Недостаточность митрального клапана
+T42	Disease 2836 2871	Недостаточность митрального клапана
+T55	Symptom 8924 8978	Легочный рисунок усилен за счет сосудистого компонента
+T37	Symptom 2635 2689	нарушение процесса реполяризации в миокарде желудочков
+T22	Disease 1217 1239	Неревматический кардит
+T34	Severity 2516 2525	Умеренная
+T3	Body_location 102 121	митрального клапана
+T31	Drug 1869 1876	виферон
+T14	Disease 402 432	Дисплазия соединительной ткани
+T48	Treatment 2966 3204	дигоксин 0,05 мг/сут, капотен 12 мг/сут, конкор 1,25 мг/сут, верошпирон 25 мг/сут, фуросемид 5 мг/сут, кудесан 5 кап/сут, трентал 37,5 мг 3 р/день, в/в интраглобин 10 г/курс, в/в неотон 5 г/курс, в/в неоцитотект 30 мл/курс, виферон курсом
+T56	Treatment 14513 15550	Каптоприл (капотен) 9 мг х 3 р/д (08.00,15.00,21.00), с 06.03.56 по 6,25 мг х 3 р/д, с 20.03.56 по 6,25 мг х 2 р/д, с 30.03.56 – отмена..
+7. Бисопролол (конкор) 2,5 мг в 8.00, 1,875 мг в 20.00 – через 1 месяц контроль ХМ-ЭКГ по месту жительства, при сохранении тахикардии – 2,5 мг х 2 р/д (8.00, 20.00) – прием препарата постоянно.
+8. Спиронолактон (верошпирон) 6,25 мг х 1 р/д в 8.00, постоянно.
+9. Пентоксифиллин (трентал) 50мг х 3 р/д после еды – апрель-июнь, октябрь–декабрь 2056 года.
+10. Дипиридамол (курантил) 25 мг х 3 р/д после еды, июль-сентябрь 2055 года, январь-март 2056 года.
+11. Коэнзим Q10 + витамин Е (кудесан) 1 мл х 2 р в день апрель-июнь 2055 года.
+12. Триметазидин (предуктал) 17,5 мг 1 р/д – июль-октябрь 2055 года.
+13. Инозин + никотинамид + рибофлавин + янтарная кислота (цитофлавин) по 1 таб х 2р/д с ноября 2055 года по апрель 2056 года.
+14. Амоксициллин/клавуланат (флемоклав) 500 мг х 3 р/д до 23.05.
+15. При интеркуррентных инфекциях - антибактериальная терапия (цедекс, зиннат, аугментин и др) по показаниям
+T4	Disease 123 165	Неспецифическая внутрижелудочковая блокада
+T28	Drug 1810 1818	курантил
+T36	Body_location 2569 2591	миокарда левых отделов
+T24	Treatment 1746 1886	дигоксин 0,10 мг/сут, капотен 9,9 мг/сут, верошпирон 30 мг/сут, курантил 1/2 т/сут, элькар 60 кап/сут, аспаркам 1/2 т/сут, виферон (курсами)
+T44	Disease 2897 2910	Гидроперикард
+T38	Body_location 2670 2689	миокарде желудочков
+T20	Symptom 1068 1080	беспокойство
+T26	Drug 1768 1775	капотен
+T39	Symptom 2711 2770	сердце широко прилежит к диафрагме, увеличена левая граница
+T23	Treatment 1242 1389	Получала антибактериальную терапию, кардиотрофики, диуретики, гормоны, оксигенотерапию, антиагреганты, ингибиторы АПФ (препараты и дозы не указаны)
+T19	Symptom 1060 1066	одышка
+T47	Disease 2925 2952	Цитомегаловирусная инфекция
+T13	Severity 373 385	ФК I по NYHA
+T40	Symptom 2795 2801	АГ ЦМВ
+T43	Disease 2873 2895	Открытое овальное окно
+T6	Severity 171 183	I-IIА стадии
+T53	Symptom 5793 5852	Краевая гиперемия небных дужек, миндалины увеличены, рыхлые
+T45	Disease 2912 2914	НК
+T50	Symptom 4964 5023	тахикардию, боли в области сердца после физической нагрузки
+T2	Disease 86 121	Недостаточность митрального клапана
+T16	Symptom 533 630	Ребенок от 2 беременности на фоне токсикоза, анемии, ОРВИ с фебрильной лихорадкой на сроке 21 нед
+T30	Drug 1849 1857	аспаркам
+T17	Symptom 781 819	на искусственном вскармливании с 2 мес
+T54	Symptom 6487 6583	Тоны сердца звучные, аритмичные (дыхательная аритмия), расщепление 2 тона по левому краю грудины
+T5	Disease 167 170	ХСН
+T10	Disease 311 353	Неспецифическая внутрижелудочковая блокада
+T33	Disease 2526 2546	синусовая тахикардия
+T41	Disease 2813 2834	Хронический миокардит
+T12	Severity 359 371	I-IIА стадии
+T11	Disease 355 358	ХСН
+T21	Symptom 1082 1099	снижение аппетита
+N1	Reference T32 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N2	Reference T49 UMLS:C2363849	комплексонная терапия
+N3	Reference T15 UMLS:C1536076	боль в боку при физической нагрузке
+N4	Reference T29 UMLS:C0007258	l-karnitin
+N5	Reference T8 UMLS:C0007193	дилатационная кардиомиопатия
+N6	Reference T25 UMLS:C0012265	дигоксин
+N7	Reference T52 UMLS:CUILESS	задержка физического развития
+N8	Reference T51 UMLS:C0459914	антигипертензивные средства
+N9	Reference T35 UMLS:C0149721	гипертрофия левого желудочка
+N10	Reference T1 UMLS:C0007193	дилатационная кардиомиопатия
+N11	Reference T27 UMLS:C0037982	верошпирон
+N12	Reference T18 UMLS:C0001973	хронический алкоголизм
+N13	Reference T9 UMLS:C0026266	недостаточность митрального клапана
+N14	Reference T42 UMLS:C0026266	недостаточность митрального клапана
+N15	Reference T55 UMLS:C0858975	усиление легочного рисунка
+N16	Reference T37 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N17	Reference T22 UMLS:C0869523	кардит
+N18	Reference T3 UMLS:C0026264	митральный клапан
+N19	Reference T31 UMLS:C2937361	виферон
+N20	Reference T14 UMLS:C4014739	дисплазия соединительной ткани
+N21	Reference T48 UMLS:C0459914	комплексонная терапия
+N22	Reference T56 UMLS:C1977046	кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич
+N23	Reference T4 UMLS:C0264909	внутрижелудочковая блокада
+N24	Reference T28 UMLS:C0012582	курантил
+N25	Reference T36 UMLS:C0027061	миокард
+N26	Reference T24 UMLS:C0459914	комплексонная терапия
+N27	Reference T44 UMLS:C0349077	гидроперикард
+N28	Reference T38 UMLS:C0027061	миокард
+N29	Reference T20 UMLS:C3887612	беспокойство
+N30	Reference T26 UMLS:C0006938	каптоприл
+N31	Reference T39 UMLS:CUILESS	увеличенное сердце
+N32	Reference T23 UMLS:C2363849	системная антибактериальная терапия
+N33	Reference T19 UMLS:C0013404	одышка
+N34	Reference T47 UMLS:C0010823	цитомегаловирусная инфекция
+N35	Reference T40 UMLS:C0997103	амбровое дерево
+N36	Reference T43 UMLS:C0542209	аорто-легочно-артериальное окно
+N37	Reference T53 UMLS:C1963978	гипертрофия миндалин
+N38	Reference T45 UMLS:C1392658	сердечная недостаточность
+N39	Reference T50 UMLS:C0042514	тахикардия желудочковая
+N40	Reference T2 UMLS:C0026266	недостаточность митрального клапана
+N41	Reference T16 UMLS:C0032914	беременности токсикоз, опг
+N42	Reference T30 UMLS:C0040577	микроэлементы
+N43	Reference T17 UMLS:C0006042	искусственное вскармливание
+N44	Reference T54 UMLS:C0003811	сердечная аритмия
+N45	Reference T5 UMLS:C0264716	хроническая сердечная недостаточность
+N46	Reference T10 UMLS:C0264909	внутрижелудочковая блокада
+N47	Reference T33 UMLS:C0039239	синусовая тахикардия
+N48	Reference T41 UMLS:C1142165	миокардит микотический
+N49	Reference T11 UMLS:C0264716	хроническая сердечная недостаточность
+N50	Reference T21 UMLS:C0232462	снижение аппетита
+#1	AnnotatorNotes T49	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0797057||synonyms: ренин^2 часа после 25 мг каптоприла через рот:каталконц:тчкврм:плаз:колич||||
+#2	AnnotatorNotes T52	first_annotator_label: C0015544||synonyms: задержка физического развития|detei fizicheskogo razvitiia otkloneniia|zaderzhka fizicheskogo razvitiia|zaderzhka rosta|недостаточная прибавка веса||||second_annotator_label: C0520853||synonyms: повышение среднего артериального давления|повышенное среднее артериальное давление|повышение срад||||third_annotator_label: None||synonyms: ||||bert: C0520853||synonyms: повышение среднего артериального давления|повышенное среднее артериальное давление|повышение срад||||
+#3	AnnotatorNotes T51	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977047||synonyms: кальцитонин^5 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T48	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977047||synonyms: кальцитонин^5 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#5	AnnotatorNotes T36	first_annotator_label: C0027061||synonyms: миокард|miokard|myshtsa serdechnaia|мышца сердечная||||second_annotator_label: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||third_annotator_label: None||synonyms: ||||bert: C1168331||synonyms: инфаркт миокарда верхушки левого желудочка||||
+#6	AnnotatorNotes T24	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#7	AnnotatorNotes T39	first_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||second_annotator_label: C0857009||synonyms: глухота левого уха||||third_annotator_label: None||synonyms: ||||bert: C0857009||synonyms: глухота левого уха||||
+#8	AnnotatorNotes T23	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0855933||synonyms: терапевтическая концентрация кардиотонического препарата|терапевтическая концентрация кардиотонического препарата, бду||||
+#9	AnnotatorNotes T43	first_annotator_label: C0003516||synonyms: аортолегочной перегородки дефект|aortolegochnoi peregorodki defekt|aortopul'monal'nyi septal'nyi defekt|аорто-легочно-артериальное окно|дефект перегородки между аортой и легочной артерией||||second_annotator_label: C1956188||synonyms: овальное окно уха|okno preddveriia|окно преддверия|oval'noe okno ukha||||third_annotator_label: C0542209||synonyms: открытое овальное отверстие||||bert: C1956188||synonyms: овальное окно уха|okno preddveriia|окно преддверия|oval'noe okno ukha||||
+#10	AnnotatorNotes T53	first_annotator_label: C0272386||synonyms: гипертрофия миндалин||||second_annotator_label: C0272392||synonyms: язва миндалины||||third_annotator_label: C1963978||synonyms: заболевания ротоглотки (smq)||||bert: C0268852||synonyms: гиперемия мочевого пузыря|гиперемия стенок мочевого пузыря||||
+#11	AnnotatorNotes T45	first_annotator_label: C0392173||synonyms: сердечная недостаточность||||second_annotator_label: C0859057||synonyms: органическое нарушение кровообращения||||third_annotator_label: C1392658||synonyms: недостаточность кровообращения||||bert: C0028178||synonyms: нитрогидроксииодофенилацетат|nitrogidroksiiodofenilatsetat|nip|nitrooksiiodofenilatsetat|нитрооксийодофенилацетат||||
+#12	AnnotatorNotes T30	first_annotator_label: C0040577||synonyms: микроэлементы|mikroelementy|sledovye elementy|следовые элементы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003999||synonyms: аспартам|aspartam|aspartilfenilalanina metilovyi efir|аспартилфенилаланина метиловый эфир||||bert: C0003999||synonyms: аспартам|aspartam|aspartilfenilalanina metilovyi efir|аспартилфенилаланина метиловый эфир||||

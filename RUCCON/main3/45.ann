@@ -1,0 +1,253 @@
+T76	Symptom 8605 8628	умеренное расширение ЛЖ
+T107	Symptom 13245 13304	миграции водителя ритма в миокард правого предсердия во сне
+T4	Body_location 60 79	митрального клапана
+T61	Treatment 5215 5344	капотеном, гипотиазидом, вольтареном, тренталом, ретарпеном, курсовой прием цитофлавина, коэнзима, рибомунила, клацида, вобэнзима
+T110	Treatment 10128 10327	Козаар 18,75 мг в 9.00, 12,5 мг в 21.00, трентал 50 мг х 3 р/день, цитофлавин 1 таб х 2 р/день, кудесан-форте 1 мл х 2 р/день, элькар 5 мл х 2 р/день, рибомунил курсами 15,16,17,18 числа каждого мес.
+T93	Body_location 16536 16539	ОЖП
+T37	Symptom 2167 2193	свечение листков перикарда
+T22	Disease 644 670	Ишемическая болезнь сердца
+T26	Drug 1261 1268	элькара
+T71	Treatment 7929 8086	трентал 50 мг 3 р/день, цитофлавин в/в 10 мл в 80 мл 5% р-ре глюкозы, элькар 30% 5 мл 2 раза в день, козаар 50 мг 1/4 таб. 2 раза в день, рибомунил 1 таб/сут
+T52	Drug 5009 5016	капотен
+T75	Disease 8367 8401	Синдром вегето-сосудистой дистонии
+T24	Symptom 869 902	1 года выслушан систолический шум
+T35	Symptom 1923 1943	дилатация полости ЛЖ
+T49	Body_location 4006 4023	правого желудочка
+T54	Drug 5075 5083	панангин
+T20	Symptom 473 492	редкие колющие боли
+T73	Disease 8242 8261	Ангиопатия сетчатки
+T59	Drug 5156 5167	пентаглобин
+T17	Symptom 409 440	одышку при физических нагрузках
+T106	Symptom 13420 13462	Умеренное нарушение процесса реполяризации
+T88	Drug 18639 18646	кудесан
+T42	Drug 2484 2495	преднизолон
+T70	Symptom 7593 7618	сократительная активность
+T96	Body_location 13914 13930	ЛЕВОЕ ПРЕДСЕРДИЕ
+T109	Symptom 11719 11737	систолический шум.
+T12	Severity 197 201	ФК 1
+T72	Disease 8186 8223	Дакриоаденит OS, острый конъюнктивит.
+T117	Symptom 11382 11387	хрипы
+T13	Disease 226 295	Синдром вегето-сосудистой дисфункции кардиально- гипотензивного типа,
+T94	Body_location 16137 16151	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T83	Drug 19477 19485	Моноприл
+T11	Severity 190 193	1ст
+T108	Symptom 12185 12205	менингеальных знаков
+T46	Drug 3914 3925	преднизолон
+T51	Symptom 4696 4730	положительные маркеры к микоплазме
+T105	Symptom 13473 13517	синдрома ранней реполяризации в ночное время
+T28	Disease 1399 1452	недостаточностью митрального клапана без нарушения ФВ
+T116	Symptom 11337 11357	дыхание везикулярное
+T87	Drug 18606 18613	трентал
+T40	Treatment 2348 2420	найзом, аскорутином, панангином, преднизолоном 5 мг/сут, предукталом, ви
+T44	Drug 3542 3553	преднизолон
+T89	Drug 18682 18691	дилатренд
+T53	Drug 5051 5061	гипотиазид
+T21	Symptom 520 539	отёки в области век
+T39	Severity 2304 2310	1-2 ст
+T104	Body_location 14926 14942	левого желудочка
+T50	Treatment 4532 4607	капотен, гипотиазид, трентал, вольтарен, ретарпен, панангин, курс вобэнзима
+T63	Treatment 5722 5917	капотеном, гипотиазидом (с отменой за месяц до поступления в НЦЗД РАМН), тренталом, панангином, вольтареном, цитофлавином, кудесаном-форте, элькаром, нейромультивитом, ретарпеном, курс рибомунила
+T100	Body_location 14007 14033	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T118	Symptom 10825 10831	отеков
+T69	Treatment 6924 7197	капотен 12,5 мг/д х 3 р/д в связи с длительностью приема с 12.08.2052 заменен на козаар 12,5 мг х 2 р/день (9:00 и 21:00), трентал 150 мг/сут, реамберин в/в 100 мл, зиртек 1 табл/сут, флоксал 1-2 капли х 4 р/д, тетрациклиновая мазь (глазная) 4 р/д, ацикловир 200 мг х 4 р/д
+T66	Treatment 6563 6671	капотен 37,5мг/сут, трентал 150мг/сут, панагин, цитофлавин, вольтарен с постепенной отменой к 23.12.2051 г..
+T86	Drug 18518 18526	моноприл
+T92	Body_location 18436 18450	МОЧЕВОЙ ПУЗЫРЬ
+T45	Disease 3735 3763	Дилатационная кардиомиопатия
+T56	Drug 5110 5117	трентал
+T6	Severity 97 99	ФК
+T19	Symptom 457 471	плохой аппетит
+T95	Body_location 16264 16270	ПЕЧЕНЬ
+T18	Symptom 442 455	головные боли
+T33	Symptom 1680 1698	дилатация полостей
+T84	Drug 18938 18962	дилатренда в дозе 1,56мг
+T30	Disease 1486 1527	Недостаточность митрального клапана I ст.
+T23	Disease 695 715	гестоз во 2 половине
+T77	Symptom 8647 8659	регургитация
+T7	Disease 121 142	Хронический миокардит
+T15	Disease 320 365	Остаточные явления двустороннего риносинусита
+T47	Symptom 3962 3982	гипертрофии миокарда
+T43	Drug 3120 3131	преднизолон
+T36	Symptom 1989 2023	недостаточность митрального капана
+T74	Disease 8302 8310	мейбомит
+T111	Treatment 10008 10101	Моноприл 7,5 мг х 2р/д, трентал 50мг х 3 раза в день, после еды, кудесан 1 мл х 2 раза в день
+T32	Symptom 1648 1659	снижение ФВ
+T101	Body_location 14045 14062	ПРАВЫЙ ЖЕЛУДОЧЕК:
+T114	Symptom 11188 11223	Носовое дыхание умеренно затруднено
+T112	Symptom 10604 10611	бледные
+T68	Symptom 6842 6881	положительные АТ IgM и IgG H.simplex1/2
+T57	Drug 5132 5140	вобэнзим
+T1	Disease 21 42	Хронический миокардит
+T31	Drug 1560 1567	элькара
+T80	Symptom 9255 9290	воспалительных изменений в миокарде
+T81	Drug 19595 19602	Трентал
+T58	Drug 5144 5152	ретарпен
+T79	Body_location 8853 8872	миокарде желудочков
+T41	Treatment 2423 2434	В1, В6 в/м,
+T48	Body_location 3983 4003	левых отделов сердца
+T103	Symptom 14899 14925	умеренное утолщение стенок
+T98	Body_location 14113 14128	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T38	Disease 2272 2298	ДКМП, исход миоперикардита
+T65	Symptom 6457 6470	экстрасистолы
+T99	Body_location 13960 13977	ПРАВОЕ ПРЕДСЕРДИЕ
+T10	Disease 186 189	ХСН
+T115	Symptom 11307 11326	ясный легочный звук
+T102	Symptom 14869 14897	меренное расширение полостей
+T78	Symptom 8808 8852	умеренные нарушения процесса реполяризации в
+T14	Severity 296 318	легкой степени тяжести
+T64	Symptom 6387 6418	эпизоды миграции водителя ритма
+T62	Treatment 5608 5698	капотен, гипотиазид, трентал, панангин в прежних дозировках, цитофлавин в/в 7 мл, ретарпен
+T2	Disease 44 84	Недостаточность митрального клапана 1 ст
+T29	Disease 1480 1484	ДКМП
+T5	Severity 90 93	1ст
+T34	Symptom 1700 1735	недостаточность митрального клапана
+T90	Body_location 17171 17182	ЛЕВАЯ ПОЧКА
+T97	Body_location 13781 13797	ЛЕГОЧНАЯ АРТЕРИЯ
+T27	Disease 1384 1396	дилатация ЛЖ
+T9	Severity 180 184	1 ст
+T60	Drug 5178 5184	клацид
+T113	Body_location 10589 10603	Кожные покровы
+T3	Disease 86 89	ХСН
+T82	Drug 19545 19554	Дилатренд
+T85	Drug 18997 19023	моноприла до 17,5 мг в сут
+T8	Disease 144 179	Недостаточность митрального клапана
+T67	Disease 6759 6790	острый ОS халязион нижнего века
+T91	Body_location 17782 17794	ПРАВАЯ ПОЧКА
+T16	Symptom 395 407	утомляемость
+T55	Drug 5087 5096	вольтарен
+T25	Disease 1211 1215	ДКМП
+N1	Reference T76 UMLS:C0344911	дилатация левого желудочка
+N2	Reference T107 UMLS:C1321523	миграция водителя ритма по предсердию
+N3	Reference T4 UMLS:C0026264	митральный клапан
+N4	Reference T61 UMLS:C0459914	комплексонная терапия
+N5	Reference T110 UMLS:C0459914	комплексонная терапия
+N6	Reference T93 UMLS:C0008340	общий желчный проток, киста
+N7	Reference T37 UMLS:CUILESS	заболевание перикарда
+N8	Reference T22 UMLS:C0151744	ишемическая болезнь сердца
+N9	Reference T26 UMLS:C0007258	карнитин
+N10	Reference T71 UMLS:C0459914	поддерживающая терапия
+N11	Reference T52 UMLS:C0006938	каптоприл
+N12	Reference T75 UMLS:C1262305	вегетососудистая дистония
+N13	Reference T24 UMLS:C0232257	систолические шумы
+N14	Reference T35 UMLS:C0344911	дилатация левого желудочка
+N15	Reference T49 UMLS:C0162770	увеличение правого желудочка
+N16	Reference T54 UMLS:C0032835	калия, магния аспарагинат
+N17	Reference T20 UMLS:C0423603	колющая боль
+N18	Reference T73 UMLS:C4552373	ангиопатия сетчатки
+N19	Reference T59 UMLS:C0202081	иммуноглобулины
+N20	Reference T17 UMLS:C0231807	одышка при физической нагрузке
+N21	Reference T106 UMLS:C0948857	нарушения реполяризации на экг
+N22	Reference T88 UMLS:C0007209	кардиотонические средства
+N23	Reference T42 UMLS:C0032950	преднизолон
+N24	Reference T70 UMLS:C0680791	социальная активность
+N25	Reference T96 UMLS:C0078995	предсердие левое, функция
+N26	Reference T109 UMLS:C0232257	систолический шум
+N27	Reference T72 UMLS:C0155141	острый конъюнктивит
+N28	Reference T117 UMLS:C0035234	хрипы
+N29	Reference T13 UMLS:C4285924	вегетососудистая дистония
+N30	Reference T94 UMLS:C0016976	желчный пузырь
+N31	Reference T83 UMLS:C0118168	фосиноприл
+N32	Reference T108 UMLS:C0025287	менингеальные знаки
+N33	Reference T46 UMLS:C0032950	преднизолон
+N34	Reference T51 UMLS:C2748136	положительный результат исследования на микоплазму
+N35	Reference T105 UMLS:C0948857	нарушения реполяризации на электрокардиограмме
+N36	Reference T28 UMLS:C0026266	недостаточность митрального клапана
+N37	Reference T116 UMLS:C0231855	нормальная аускультативная картина в легких
+N38	Reference T87 UMLS:C0030899	трентал
+N39	Reference T40 UMLS:C0459914	комплексонная терапия
+N40	Reference T44 UMLS:C0032950	преднизолон
+N41	Reference T89 UMLS:C0054836	дилатренд
+N42	Reference T53 UMLS:C0020261	гипотиазид
+N43	Reference T21 UMLS:C0162285	отёк век
+N44	Reference T104 UMLS:C0149721	увеличение левого желудочка
+N45	Reference T50 UMLS:C0459914	комплексонная терапия
+N46	Reference T63 UMLS:C0459914	комплексонная терапия
+N47	Reference T100 UMLS:C2717762	перегородки межпредсердной обтуратор
+N48	Reference T118 UMLS:C0013604	отёк
+N49	Reference T69 UMLS:C0013154	гипотензивные средства
+N50	Reference T66 UMLS:C2363849	комплексонная терапия
+N51	Reference T86 UMLS:C3655089	фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия
+N52	Reference T92 UMLS:C0005682	мочевой пузырь
+N53	Reference T45 UMLS:C0007193	дилатационная кардиомиопатия
+N54	Reference T56 UMLS:C0030899	трентал
+N55	Reference T19 UMLS:C1971624	отсутствие аппетита
+N56	Reference T95 UMLS:C0023884	печень
+N57	Reference T18 UMLS:C0018681	головные боли
+N58	Reference T33 UMLS:C0424829	дилатация сосудов
+N59	Reference T84 UMLS:C0054836	дилатренд
+N60	Reference T30 UMLS:C0026266	недостаточность митрального клапана
+N61	Reference T23 UMLS:C0032914	гестоз, опг
+N62	Reference T77 UMLS:C2004489	регургитация
+N63	Reference T7 UMLS:C0027059	миокардит
+N64	Reference T15 UMLS:C0948780	риносинусит
+N65	Reference T47 UMLS:C3495916	гипертрофия миокарда
+N66	Reference T43 UMLS:C0032950	преднизолон
+N67	Reference T36 UMLS:C0026266	недостаточность митрального клапана
+N68	Reference T74 UMLS:C0549398	мейбомит
+N69	Reference T111 UMLS:C0459914	гипотензивные средства
+N70	Reference T32 UMLS:C0743400	снижение фракции выброса
+N71	Reference T101 UMLS:C0080311	сердца желудочка правого функция
+N72	Reference T114 UMLS:C0027424	затруднение дыхания
+N73	Reference T112 UMLS:C0678215	бледный
+N74	Reference T68 UMLS:CUILESS	herpes simplex вирус ат.igm:prthr:тчкврм:сыв:пор
+N75	Reference T57 UMLS:C0001551	иммуномодуляторы
+N76	Reference T1 UMLS:C0027059	миокардит
+N77	Reference T31 UMLS:C0007258	l-karnitin
+N78	Reference T80 UMLS:C3241958	болезни миокарда
+N79	Reference T81 UMLS:C0030899	трентал
+N80	Reference T58 UMLS:C0030842	пенициллины
+N81	Reference T79 UMLS:C0018827	сердца желудочки
+N82	Reference T41 UMLS:C0042849	витаминов b комплекс
+N83	Reference T48 UMLS:C0018787	сердце
+N84	Reference T103 UMLS:C0332534	уплотнение
+N85	Reference T98 UMLS:C0080310	сердца желудочка левого функция
+N86	Reference T38 UMLS:C0854532	миоперикардит
+N87	Reference T65 UMLS:C0340464	экстрасистолы
+N88	Reference T99 UMLS:C0078996	предсердие правое, функция
+N89	Reference T10 UMLS:C0264716	хроническая сердечная недостаточность
+N90	Reference T115 UMLS:C0231855	нормальная аускультативная картина в легких
+N91	Reference T102 UMLS:C1322279	дилатация
+N92	Reference T78 UMLS:C0948857	нарушения реполяризации на экг
+N93	Reference T64 UMLS:C1321523	миграция водителя ритма по предсердию
+N94	Reference T62 UMLS:C2363849	гипотензивные средства
+N95	Reference T2 UMLS:C0026266	недостаточность митрального клапана
+N96	Reference T29 UMLS:C0007193	кардиомиопатия дилатационная
+N97	Reference T34 UMLS:C0026266	недостаточность митрального клапана
+N98	Reference T90 UMLS:C0022646	почки
+N99	Reference T97 UMLS:C0034052	легочная артерия
+N100	Reference T27 UMLS:C0344911	дилатация левого желудочка
+N101	Reference T9 UMLS:CUILESS	степень ухудшения бду
+N102	Reference T60 UMLS:C0055856	кларитромицин
+N103	Reference T113 UMLS:C1123023	кожа
+N104	Reference T3 UMLS:C0264716	хроническая сердечная недостаточность
+N105	Reference T82 UMLS:C0054836	дилатренд
+N106	Reference T85 UMLS:C3655089	фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия
+N107	Reference T8 UMLS:C0026266	недостаточность митрального клапана
+N108	Reference T67 UMLS:C0007933	халязион
+N109	Reference T91 UMLS:C0022646	почки
+N110	Reference T16 UMLS:C0231230	утомляемость
+N111	Reference T55 UMLS:C0012091	диклофенак
+N112	Reference T25 UMLS:C0007193	кардиомиопатия дилатационная
+#1	AnnotatorNotes T76	first_annotator_label: C0344911||synonyms: дилатация левого желудочка||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0149721||synonyms: сердца желудочка левого гипертрофия|serdtsa zheludochka levogo gipertrofiia|gipertrofiia levogo zheludochka serdtsa|levogo zheludochka gipertrofiia|levozheludochkovaia gipertrofiia||||bert: C0151680||synonyms: высокий уровень гонадотропного лютеинизирующего гормона|повышение уровня лютеинизирующего гормона|повышение уровня гонадотропного лг|повышение уровня лютотропина|повыш. ур. гонадотропного лютеинизирующего гормона||||
+#2	AnnotatorNotes T61	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3509486||synonyms: аортального клапана транскатетерная трансплантация|aortal'nogo klapana transkateternaia transplantatsiia|transkateternoe zameshchenie aortal'nogo klapana|транскатетерное замещение аортального клапана|транскатетерная имплантация аортального клапана (tavi)||||
+#3	AnnotatorNotes T110	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363627||synonyms: глюкоза^1.5 часа после 0.05-0.15 ед инсулина/кг внутривенно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич||||
+#4	AnnotatorNotes T37	first_annotator_label: C0265122||synonyms: заболевание перикарда|заболевание перикарда, бду|неуточненное заболевание перикарда|болезни перикарда||||second_annotator_label: C0025060||synonyms: средостения киста|sredosteniia kista|mediastinal'naia kista|perikarda kista|timusa kista||||third_annotator_label: None||synonyms: ||||bert: C0025060||synonyms: средостения киста|sredosteniia kista|mediastinal'naia kista|perikarda kista|timusa kista||||
+#5	AnnotatorNotes T71	first_annotator_label: C0344211||synonyms: поддерживающая терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#6	AnnotatorNotes T88	first_annotator_label: C0007209||synonyms: кардиотонические средства|kardiotonicheskie sredstva|kardiostimuliruiushchie sredstva|serdechnye sredstva polozhitel'nye inotropnye|sredstva stimuliruiushchie miokard||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0041536||synonyms: убихинон|ubikhinon|koenzim q|koferment q|кофермент q||||bert: C0996818||synonyms: каянус|golubinyi gorokh|kaianus|голубиный горох||||
+#7	AnnotatorNotes T83	first_annotator_label: C0118168||synonyms: фосиноприл|fosinopril|fosenopril|фосеноприл||||second_annotator_label: C3655089||synonyms: фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||bert: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||
+#8	AnnotatorNotes T116	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#9	AnnotatorNotes T40	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0007112||synonyms: аденокарцинома предстательной железы||||
+#10	AnnotatorNotes T50	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2350449||synonyms: панкреатит трансплантата|трансплантата панкреатит|pankreatit transplantata|transplantata pankreatit||||
+#11	AnnotatorNotes T63	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1096422||synonyms: уход за перитонеальным катетером||||
+#12	AnnotatorNotes T69	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||bert: C1977046||synonyms: кальцитонин^10 минут после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#13	AnnotatorNotes T66	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1977049||synonyms: кальцитонин^1 минута после 2 мг/кг кальция & 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T111	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2926269||synonyms: с пептид^5 минут после 1 мг глюкагона внутривенно:молконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T114	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0014591||synonyms: носовое кровотечение|nosovoe krovotechenie|epistaksis|эпистаксис|носовые кровотечения||||
+#16	AnnotatorNotes T68	first_annotator_label: C0945223||synonyms: herpes simplex вирус ат.igm:prthr:тчкврм:сыв:пор||||second_annotator_label: C0202081||synonyms: иммуноглобулины||||third_annotator_label: C3665896||synonyms: положительные антитела к b-антигенам (эритроцитов)||||bert: C1315305||synonyms: herpes simplex вирус 2 ат.igg^1-й образец/2-й образец:отношение:тчкврм:сыв:колич||||
+#17	AnnotatorNotes T58	first_annotator_label: C0030842||synonyms: пенициллины|penitsilliny||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0030827||synonyms: пенициллин g|penitsillin g|benzilpenitsillin|бензилпенициллин||||bert: C0035309||synonyms: сетчатки болезни|setchatki bolezni|нарушение со стороны сетчатки, бду|нарушение со стороны сетчатки глаза|ретинопатия бду||||
+#18	AnnotatorNotes T41	first_annotator_label: C0042849||synonyms: витаминов b комплекс|vitaminov b kompleks||||second_annotator_label: C0936215||synonyms: витамина b 6 недостаточность|piridoksina nedostatochnost'|недостаточность витамина в6|vitamina b 6 nedostatochnost'|пиридоксина недостаточность||||third_annotator_label: C0202251||synonyms: витамин b6||||bert: C0936215||synonyms: витамина b 6 недостаточность|piridoksina nedostatochnost'|недостаточность витамина в6|vitamina b 6 nedostatochnost'|пиридоксина недостаточность||||
+#19	AnnotatorNotes T103	first_annotator_label: C0332534||synonyms: уплотнение||||second_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C4523828||synonyms: утолщение створки протеза клапана||||
+#20	AnnotatorNotes T115	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0037709||synonyms: звук|zvuk||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0023740||synonyms: язычный нерв|iazychnyi nerv||||
+#21	AnnotatorNotes T102	first_annotator_label: C1322279||synonyms: дилатация|dilatatsiia||||second_annotator_label: C0018800||synonyms: сердца гипертрофия|serdtsa gipertrofiia|kardiomegaliia|serdechnaia gipertrofiia|serdtsa rasshirenie||||third_annotator_label: C0020564||synonyms: гипертрофия|gipertrofiia|гипертрофия, бду||||bert: C0746459||synonyms: расширение средостения||||
+#22	AnnotatorNotes T62	first_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C2242565||synonyms: ветряная оспа у вакцинированного пациента (прорывная)||||
+#23	AnnotatorNotes T9	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0033150||synonyms: рожавшая один раз|1 роды||||bert: C0033150||synonyms: рожавшая один раз|1 роды||||

@@ -1,0 +1,113 @@
+T18	Disease 196 236	Вторичные изменения поджелудочной железы
+T6	Body_location 1791 1799	В лёгких
+T15	Disease 93 101	Поллиноз
+T32	Drug 1045 1056	тайлед минт
+T52	Symptom 1918 1926	изменена
+T45	Symptom 1723 1730	розовые
+T37	Symptom 1220 1248	затруднение носового дыхания
+T14	Course 133 141	ремиссия
+T21	Disease 338 360	респираторных инфекций
+T33	Drug 1058 1066	вентолин
+T4	Symptom 1928 1959	Сердечные тоны ясные, ритмичные
+T43	Symptom 1672 1694	бледно-розовые, чистые
+T49	Disease 421 427	ринита
+T39	Symptom 1319 1342	бронхиальной обструкции
+T50	Disease 430 443	конъюнктивита
+T44	Body_location 1696 1722	Видимые слизистые оболочки
+T34	Drug 1068 1074	зиртек
+T26	Treatment 750 796	коррекцией диеты, симптоматическими средствами
+T20	Symptom 306 329	бронхиальной обструкции
+T30	Drug 1003 1012	беродуала
+T38	Disease 1276 1298	респираторных инфекций
+T55	Severity 164 178	персистирующий
+T1	Symptom 2019 2039	Менингеальных знаков
+T29	Drug 979 991	преднизолона
+T36	Symptom 1142 1169	эпизоды затруднения дыхания
+T9	Symptom 1865 1871	хрипов
+T28	Treatment 940 1013	Получал терапию в стационаре (инъекции преднизолона, ингаляции беродуала)
+T51	Disease 917 938	обструктивный бронхит
+T11	Disease 9 40	Бронхиальная астма, атопическая
+T53	Disease 828 836	аллергии
+T2	Symptom 2006 2013	Дизурии
+T48	Disease 103 131	риноконъюнктивальный синдром
+T19	Body_location 216 236	поджелудочной железы
+T8	Symptom 1828 1863	равномерно проводится во все отделы
+T12	Severity 42 73	легкого персистирующего течения
+T31	Treatment 1015 1074	В терапии был назначен курсом тайлед минт, вентолин, зиртек
+T42	Body_location 1657 1671	Кожные покровы
+T47	Symptom 1740 1751	Зев спокоен
+T10	Symptom 1753 1789	Носовое дыхание несколько затруднено
+T3	Symptom 1976 2004	Стул регулярный, оформленный
+T25	Disease 711 733	атопического дерматита
+T41	Symptom 1369 1398	дистанционные свистящие хрипы
+T5	Body_location 1890 1904	Область сердца
+T17	Course 180 194	вне обострения
+T35	Symptom 1128 1140	покашливание
+T46	Symptom 1732 1738	чистые
+T54	Body_location 810 816	кожные
+T22	Symptom 362 390	затруднение носового дыхания
+T7	Symptom 1800 1826	дыхание с жестким оттенком
+T16	Disease 143 162	Аллергический ринит
+T40	Symptom 1344 1367	малопродуктивный кашель
+N1	Reference T18 UMLS:C0030286	поджелудочной железы болезни
+N2	Reference T6 UMLS:C0024109	легкие
+N3	Reference T15 UMLS:C0018621	поллиноз
+N4	Reference T32 UMLS:C0068483	недокромил
+N5	Reference T52 UMLS:CUILESS	патология
+N6	Reference T45 UMLS:C4505235	розовые
+N7	Reference T37 UMLS:C0553668	затруднение дыхания
+N8	Reference T14 UMLS:UNKNOWN	ремиссия спонтанная
+N9	Reference T21 UMLS:C0035243	респираторные инфекции
+N10	Reference T33 UMLS:C0001927	сальбутамол
+N11	Reference T4 UMLS:C2712143	нормальный сердечный ритм
+N12	Reference T43 UMLS:C4505235	розовые
+N13	Reference T49 UMLS:C0035455	ринит
+N14	Reference T39 UMLS:C0221725	бронхиальная обструкция
+N15	Reference T50 UMLS:C0009763	конъюнктивит
+N16	Reference T44 UMLS:C0026724	слизистая оболочка
+N17	Reference T34 UMLS:C0055147	цетиризин
+N18	Reference T26 UMLS:C0012155	диета
+N19	Reference T20 UMLS:C0221725	бронхиальная обструкция
+N20	Reference T30 UMLS:C0015840	фенотерол
+N21	Reference T38 UMLS:C0035243	респираторные инфекции
+N22	Reference T55 UMLS:CUILESS	хронический ринит
+N23	Reference T1 UMLS:C0025287	менингеальные знаки
+N24	Reference T29 UMLS:C0032950	преднизолон
+N25	Reference T36 UMLS:C0553668	затруднение дыхания
+N26	Reference T9 UMLS:C3887661	хрип
+N27	Reference T28 UMLS:C0013154	инъекции
+N28	Reference T51 UMLS:C0865791	обструктивный бронхит
+N29	Reference T11 UMLS:C0004096	астма, бронхиальная
+N30	Reference T53 UMLS:C0020517	аллергия
+N31	Reference T2 UMLS:C0013428	дизурия
+N32	Reference T48 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N33	Reference T19 UMLS:C0030274	поджелудочная железа
+N34	Reference T8 UMLS:CUILESS	дыхательные пути, поток воздуха
+N35	Reference T12 UMLS:CUILESS	астма, хроническая
+N36	Reference T31 UMLS:C0013154	комплексонная терапия
+N37	Reference T42 UMLS:C1123023	кожа
+N38	Reference T47 UMLS:CUILESS	ротовая полость
+N39	Reference T10 UMLS:C0853254	раздражение носовых ходов
+N40	Reference T3 UMLS:CUILESS	мягкий стул
+N41	Reference T25 UMLS:C0011615	атопический дерматит
+N42	Reference T41 UMLS:C0043144	свистящие хрипы
+N43	Reference T5 UMLS:C0018787	сердце
+N44	Reference T17 UMLS:UNKNOWN	ремиссия спонтанная
+N45	Reference T35 UMLS:C0010200	покашливание
+N46	Reference T46 UMLS:C0598869	чистая культура
+N47	Reference T54 UMLS:C0037274	кожные болезни
+N48	Reference T22 UMLS:C0553668	затруднение дыхания
+N49	Reference T7 UMLS:C3666016	жесткое дыхание при аускультации легких
+N50	Reference T16 UMLS:C2607914	аллергический ринит
+N51	Reference T40 UMLS:C0850149	кашель, непродуктивный
+#1	AnnotatorNotes T32	first_annotator_label: C0068483||synonyms: недокромил|nedokromil||||second_annotator_label: C0001637||synonyms: адренергические средства|adrenergicheskie sredstva|adrenergicheskie mediatory, ugnetaiushchie sredstva|adrenergicheskikh neironov sredstva|adrenoliticheskie sredstva||||third_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||bert: C0017440||synonyms: генцианвиолет|gentsianviolet|kristal violet|metil violet|metilrozanilina khlorid||||
+#2	AnnotatorNotes T52	first_annotator_label: C0040128||synonyms: щитовидной железы болезни|shchitovidnoi zhelezy bolezni|нарушение со стороны щитовидной железы, бду|неуточненное нарушение со стороны щитовидной железы|нарушение со стороны щитовидной железы||||second_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||third_annotator_label: None||synonyms: ||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#3	AnnotatorNotes T14	first_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: None||synonyms: ||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#4	AnnotatorNotes T55	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#5	AnnotatorNotes T28	first_annotator_label: C1828121||synonyms: инъекции|in"ektsii|vpryskivaniia|впрыскивания||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0030673||synonyms: больного прием в стационар|bol'nogo priem v statsionar|bol'nitsy, priem bol'nykh|больницы, прием больных||||
+#6	AnnotatorNotes T8	first_annotator_label: C0035213||synonyms: легких вентиляция|legkikh ventiliatsiia|dykhatel'nye puti, potok vozdukha|ventiliatsii testy|ventiliatsiia legochnaia||||second_annotator_label: C4523817||synonyms: перикардиальное образование||||third_annotator_label: None||synonyms: ||||bert: C4523817||synonyms: перикардиальное образование||||
+#7	AnnotatorNotes T12	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C3888817||synonyms: перфорация легкого||||
+#8	AnnotatorNotes T31	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3274301||synonyms: холестаз при парентеральном питании||||
+#9	AnnotatorNotes T47	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||third_annotator_label: None||synonyms: ||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#10	AnnotatorNotes T3	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#11	AnnotatorNotes T17	first_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||second_annotator_label: C0740326||synonyms: выздоравливающий||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||

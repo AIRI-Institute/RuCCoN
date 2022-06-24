@@ -1,0 +1,74 @@
+T6	Disease 666 676	скарлатина
+T13	Symptom 767 772	рвоты
+T25	Body_location 1544 1550	сердца
+T34	Disease 292 315	обструктивный ларингиты
+T4	Severity 42 71	легкое персистирующее течение
+T12	Symptom 732 755	малопродуктивный кашель
+T20	Symptom 1605 1625	Менингеальных знаков
+T5	Symptom 260 283	малопродуктивного кашля
+T1	Disease 150 190	Вторичные изменения поджелудочной железы
+T24	Body_location 1469 1477	В легких
+T19	Course 134 148	вне обострения
+T15	Symptom 1068 1074	кашель
+T23	Body_location 1430 1444	Кожные покровы
+T10	Disease 1232 1248	пищевая аллергия
+T26	Symptom 1551 1567	ясные, ритмичные
+T17	Treatment 839 875	В терапии симптоматические препараты
+T18	Symptom 1586 1592	диурез
+T8	Disease 1270 1288	бронхиальная астма
+T11	Disease 9 40	Бронхиальная астма, атопическая
+T33	Symptom 561 603	Раннее психомоторное развитие без задержек
+T3	Body_location 170 190	поджелудочной железы
+T9	Disease 1176 1198	лекарственная аллергия
+T31	Disease 324 346	респираторных инфекций
+T7	Severity 112 132	персистирующая форма
+T2	Disease 91 110	Аллергический ринит
+T32	Symptom 411 429	угрозой прерывания
+T22	Body_location 1401 1404	Зев
+T29	Symptom 1569 1573	Стул
+T27	Symptom 1493 1513	везикулярное дыхание
+T14	Symptom 1515 1520	хрипы
+T21	Symptom 1409 1428	катаральных явлений
+T30	Symptom 1445 1467	бледно-розовые, чистые
+T28	Drug 1202 1213	пенициллины
+N1	Reference T6 UMLS:C0036285	скарлатина
+N2	Reference T13 UMLS:C0042963	рвота
+N3	Reference T25 UMLS:C0018787	сердце
+N4	Reference T34 UMLS:C0854207	ларинготрахеит обструктивный
+N5	Reference T4 UMLS:CUILESS	астма, хроническая
+N6	Reference T12 UMLS:C0850149	кашель, непродуктивный
+N7	Reference T20 UMLS:C0025287	менингеальные знаки
+N8	Reference T5 UMLS:C0850149	кашель, непродуктивный
+N9	Reference T1 UMLS:C0030286	поджелудочной железы болезни
+N10	Reference T24 UMLS:C0024109	легкие
+N11	Reference T19 UMLS:C0242793	период ремиссии
+N12	Reference T15 UMLS:C0010200	кашель
+N13	Reference T23 UMLS:C1123023	кожа
+N14	Reference T10 UMLS:C0149696	пищевая аллергия
+N15	Reference T26 UMLS:C2230284	нормальный сердечный ритм
+N16	Reference T17 UMLS:C5243901	симптоматическое лечение
+N17	Reference T18 UMLS:C1287298	диурез
+N18	Reference T8 UMLS:C0004096	бронхиальная астма
+N19	Reference T11 UMLS:C0004096	астма, бронхиальная
+N20	Reference T33 UMLS:C0008071	детей развитие
+N21	Reference T3 UMLS:C0030274	поджелудочная железа
+N22	Reference T9 UMLS:C0013182	перекрестная лекарственная аллергия
+N23	Reference T31 UMLS:C0035243	респираторные инфекции
+N24	Reference T7 UMLS:CUILESS	хронический ринит
+N25	Reference T2 UMLS:C2607914	аллергический ринит
+N26	Reference T32 UMLS:C3160961	прерывание беременности и риск аборта (smq)
+N27	Reference T22 UMLS:C0521367	ротовая полость
+N28	Reference T29 UMLS:C0232720	светлый стул
+N29	Reference T27 UMLS:C0231855	нормальная аускультативная картина в легких
+N30	Reference T14 UMLS:C0035234	хрипы
+N31	Reference T21 UMLS:CUILESS	отсутствие реакции
+N32	Reference T30 UMLS:C4505235	розовые
+N33	Reference T28 UMLS:C0030842	пенициллины
+#1	AnnotatorNotes T4	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0694548||synonyms: кашлевая астма||||third_annotator_label: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#2	AnnotatorNotes T19	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#3	AnnotatorNotes T26	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0023740||synonyms: язычный нерв|iazychnyi nerv||||
+#4	AnnotatorNotes T9	first_annotator_label: C1112632||synonyms: перекрестная лекарственная аллергия||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C0013182||synonyms: лекарственная гиперсенсибилизация|lekarstvennaia gipersensibilizatsiia|аллергия на лекарственный препарат|аллергическая реакция на препарат|гиперчувствительность к лекарственному препарату||||bert: C1070217||synonyms: алтей|altei|altei lekarstvennyi|алтей лекарственный||||
+#5	AnnotatorNotes T7	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#6	AnnotatorNotes T22	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#7	AnnotatorNotes T27	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#8	AnnotatorNotes T21	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||third_annotator_label: None||synonyms: ||||bert: C0392557||synonyms: катаракта ядерная|ядерная катаракта||||

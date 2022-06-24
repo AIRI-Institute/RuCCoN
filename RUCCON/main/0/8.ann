@@ -1,0 +1,100 @@
+T18	Drug 655 674	топические стероиды
+T16	Treatment 618 682	В терапии антигистаминные препараты, топические стероиды курсами
+T47	Symptom 1808 1816	изменена
+T29	Severity 1119 1130	2-3 степени
+T19	Disease 713 729	пищевой аллергии
+T10	Disease 151 191	Вторичные изменения поджелудочной железы
+T23	Treatment 939 969	В терапии пульмикорт, беродуал
+T5	Course 92 100	ремиссия
+T20	Symptom 793 821	обструктивный ларинготрахеит
+T2	Severity 30 52	интермиттирующая форма
+T30	Disease 1132 1152	хронический ларингит
+T33	Body_location 1587 1601	Кожные покровы
+T45	Body_location 1673 1676	Зев
+T38	Symptom 1828 1849	тоны ясные, ритмичные
+T3	Course 54 68	вне обострения
+T42	Body_location 1629 1655	Видимые слизистые оболочки
+T11	Body_location 171 191	поджелудочной железы
+T25	Drug 961 969	беродуал
+T26	Symptom 1017 1045	затруднение носового дыхания
+T31	Disease 1319 1338	аллергический ринит
+T41	Symptom 1755 1761	хрипов
+T28	Disease 1110 1118	аденоиды
+T37	Body_location 1780 1794	Область сердца
+T12	Symptom 252 280	затруднение носового дыхания
+T35	Symptom 1896 1903	Дизурии
+T46	Symptom 1677 1684	спокоен
+T21	Disease 878 881	ОРИ
+T14	Body_location 307 314	на коже
+T36	Symptom 1866 1870	Стул
+T22	Symptom 914 937	бронхиальной обструкции
+T40	Symptom 1733 1753	дыхание везикулярное
+T1	Disease 9 28	Аллергический ринит
+T34	Symptom 1909 1929	Менингеальных знаков
+T8	Disease 130 138	Аденоиды
+T6	Disease 102 118	Пищевая аллергия
+T24	Drug 949 959	пульмикорт
+T17	Drug 628 653	антигистаминные препараты
+T39	Body_location 1726 1732	лёгких
+T15	Disease 594 616	атопического дерматита
+T7	Course 120 128	ремиссия
+T44	Symptom 1656 1671	розовые, чистые
+T4	Disease 70 90	Атопический дерматит
+T27	Disease 1089 1108	аллергический ринит
+T43	Symptom 1602 1627	бледно-розовые, суховатые
+T32	Disease 1358 1376	инсектная аллергия
+T13	Symptom 297 306	высыпания
+T9	Severity 139 149	II степени
+N1	Reference T18 UMLS:C0149783	стероидная терапия
+N2	Reference T16 UMLS:C1504374	антигистаминная терапия
+N3	Reference T47 UMLS:C0242863	absent
+N4	Reference T19 UMLS:C0149696	пищевая аллергия
+N5	Reference T10 UMLS:C0030286	поджелудочной железы болезни
+N6	Reference T23 UMLS:C0013154	введение лекарств ингаляционное
+N7	Reference T5 UMLS:C0242793	период ремиссии
+N8	Reference T20 UMLS:C0854207	ларинготрахеит обструктивный
+N9	Reference T2 UMLS:CUILESS	хронический ринит
+N10	Reference T30 UMLS:C0155836	хронический ларингит
+N11	Reference T33 UMLS:C1123023	кожа
+N12	Reference T45 UMLS:C0521367	ротоглотка
+N13	Reference T38 UMLS:C2230284	нормальный сердечный ритм
+N14	Reference T3 UMLS:C0242793	период ремиссии
+N15	Reference T42 UMLS:C0026724	слизистая оболочка
+N16	Reference T11 UMLS:C0030274	поджелудочная железа
+N17	Reference T25 UMLS:C0015840	фенотерол
+N18	Reference T26 UMLS:C0553668	затруднение дыхания
+N19	Reference T31 UMLS:C2607914	аллергический ринит
+N20	Reference T41 UMLS:C3887661	хрип
+N21	Reference T28 UMLS:C0001428	аденоиды
+N22	Reference T37 UMLS:C0018799	сердца болезни
+N23	Reference T12 UMLS:C0553668	затруднение дыхания
+N24	Reference T35 UMLS:C0013428	дизурия
+N25	Reference T46 UMLS:CUILESS	норма рабочая
+N26	Reference T21 UMLS:C0035243	респираторные инфекции
+N27	Reference T14 UMLS:C1123023	кожа
+N28	Reference T36 UMLS:C0232720	светлый стул
+N29	Reference T22 UMLS:C0221725	бронхиальная обструкция
+N30	Reference T40 UMLS:C0231855	нормальная аускультативная картина в легких
+N31	Reference T1 UMLS:C2607914	аллергический ринит
+N32	Reference T34 UMLS:C0025287	менингеальные знаки
+N33	Reference T8 UMLS:C0001428	аденоиды
+N34	Reference T6 UMLS:C0149696	пищевая аллергия
+N35	Reference T24 UMLS:C0054201	будесонид
+N36	Reference T17 UMLS:C1504374	антигистаминная терапия
+N37	Reference T39 UMLS:C0024109	легкие
+N38	Reference T15 UMLS:C0011615	атопический дерматит
+N39	Reference T7 UMLS:C3888824	ремиссия не достигнута
+N40	Reference T44 UMLS:C4505235	розовые
+N41	Reference T4 UMLS:C0011615	атопический дерматит
+N42	Reference T27 UMLS:C2607914	аллергический ринит
+N43	Reference T43 UMLS:C0151908	сухая кожа
+N44	Reference T32 UMLS:C1261392	аллергия на укусы насекомых
+N45	Reference T13 UMLS:C0302295	высыпание
+#1	AnnotatorNotes T23	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2317067||synonyms: лекарственной терапии амбулаторной мониторинг|lekarstvennoi terapii ambulatornoi monitoring||||
+#2	AnnotatorNotes T5	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#3	AnnotatorNotes T2	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C1370824||synonyms: интерстициальная эмфизема||||
+#4	AnnotatorNotes T38	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0234857||synonyms: пение|pesni|ritmicheskaia vokalizatsiia|свист|penie||||
+#5	AnnotatorNotes T3	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#6	AnnotatorNotes T46	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||third_annotator_label: C4505235||synonyms: розовые|rosanae|rozovye||||bert: C0038071||synonyms: сквален|skvalen||||
+#7	AnnotatorNotes T40	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#8	AnnotatorNotes T32	first_annotator_label: C1261392||synonyms: аллергия на укусы насекомых||||second_annotator_label: C0020517||synonyms: гиперсенсибилизация|gipersensibilizatsiia|allergiia|hysn|реакция гиперчувствительности (бду)||||third_annotator_label: C1141955||synonyms: аллергия на укусы насекомых||||bert: C0559469||synonyms: гиперсенсибилизация к яйцам|аллергия на яйца|giperchuvstvitel'nost' k iaitsam|gipersensibilizatsiia k iaitsam|гиперчувствительность к яйцам||||

@@ -1,0 +1,174 @@
+T60	Symptom 73 165	ормальный, размер – не увеличен, стенки - не изменены, форма- правильная,  просвет- свободен
+T22	Disease 1184 1240	Искривление носовой перегородки, без затруднения дыхания
+T66	Body_location 315 330	печеночные вены
+T14	Symptom 878 1003	миграция водителя ритма из синусового узла в миокард правого предсердия с преобладанием эктопического правопредсердного ритма
+T1	Body_location 31 54	органов брюшной полости
+T8	Body_location 806 813	желудке
+T12	Symptom 722 752	стенки нормальные, секрета нет
+T51	Drug 2757 2766	Нормобакт
+T9	Symptom 632 649	стенки нормальные
+T39	Drug 2454 2463	Нормобакт
+T63	Symptom 610 619	расширена
+T49	Drug 2713 2720	Маалокс
+T69	Disease 833 841	гастрита
+T74	Disease 1048 1096	Синдром ранней реполяризации миокарда желудочков
+T5	Body_location 494 503	Селезенка
+T24	Disease 1242 1250	Поллиноз
+T25	Treatment 1271 1425	Орошать слизистую оболочку носа Физиомер (с 2-х нед. и старше)(или Аквалор софт, или Маример, или аква-марис) х 3-4 раза в день (тщательное отсмаркивание2
+T33	Body_location 1984 2001	билиарного тракта
+T16	Body_location 923 949	миокард правого предсердия
+T31	Disease 1945 1971	хронический гастродуоденит
+T67	Symptom 335 343	изменены
+T27	Drug 1303 1311	Физиомер
+T58	Drug 3504 3510	Ксизал
+T35	Treatment 2185 2238	Маалокс по 1 ст. ложке 3 р/д, за час до еды – 14 дней
+T19	Symptom 1028 1046	выраженная аритмия
+T41	Drug 2492 2503	Хилак-форте
+T44	Treatment 2626 2669	Гипоаллергенная диета, элиминационный режим
+T40	Drug 2377 2384	Хофитол
+T43	Drug 2243 2254	Мезим-форте
+T71	Severity 1005 1014	умеренная
+T53	Treatment 3178 3221	Гипоаллергенная диета, элиминационный режим
+T29	Drug 1356 1363	Маример
+T56	Treatment 3589 3635	Назонекс по 1 инст. 1 р/д продолжить 3 недели.
+T50	Drug 2738 2743	Мезим
+T45	Treatment 2695 2812	Физиомер х 3 р/д; Маалокс 1 ст.л. х 3 р/д; Мезим 1т. х 3 р/д, Нормобакт по 1 пор. 1 р/д, Хилак-форте по 30 кап. 3 р/д
+T30	Drug 1369 1379	аква-марис
+T65	Body_location 294 307	воротная вена
+T11	Body_location 698 718	12-ти перстная кишка
+T54	Treatment 3237 3305	СИТ с пыльцевыми аллергенами сублингвально по схеме (схема на руках)
+T59	Drug 3512 3518	зиртек
+T4	Body_location 345 365	Поджелудочная железа
+T26	Body_location 1279 1302	слизистую оболочку носа
+T70	Disease 1015 1026	брадикардия
+T61	Symptom 505 586	нормальная, размер - средний 90х52 мм, паренхима- однородная, средней эхогенности
+T73	Severity 1028 1038	выраженная
+T34	Treatment 2020 2130	Строгое соблюдение диеты ст. №5, с исключением жирного, жаренного, острого, копченого,  газированных напитков.
+T7	Symptom 779 813	выраженной гиперсекреции в желудке
+T15	Body_location 905 920	синусового узла
+T21	Body_location 1077 1096	миокарда желудочков
+T2	Body_location 56 70	Желчный пузырь
+T52	Drug 2784 2795	Хилак-форте
+T64	Symptom 367 492	нормальная, размер - средний, головка- 10 мм, тело- 7 мм, хвост- 15 мм, паренхима – эхогенность средняя, проток - не расширен
+T55	Treatment 3504 3583	Ксизал (зиртек) 1 раз в день продолжить на время проведения основного курса СИТ
+T72	Disease 1039 1046	аритмия
+T46	Treatment 2820 2962	курс СИТ с пыльцевыми аллергенами (лещины, березы, дуба, ольхи, райграса) сублингвальным методом по классической схеме до разведения 1:100000.
+T38	Treatment 2454 2532	Нормобакт по 1 пор. 1 р/д – 10 дней + Хилак-форте по 30 кап. 3 р/д – 3 недели.
+T32	Disease 1973 2002	Дисфункция билиарного тракта.
+T75	Drug 3237 3265	СИТ с пыльцевыми аллергенами
+T48	Drug 2695 2703	Физиомер
+T6	Body_location 622 629	Желудок
+T10	Symptom 651 696	секрет есть 4.5-5 мм выраженная гиперсекреция
+T68	Symptom 175 292	размер средний, ЛД- 61 мм, 1-й сегмент- 17 мм, ПД- 130 мм, контур- ровный, паренхима- однородная, средней эхогенности
+T23	Body_location 1196 1215	носовой перегородки
+T18	Symptom 1005 1026	умеренная брадикардия
+T37	Treatment 2361 2450	Через 14 дней – Хофитол по 1 табл. 3 р/д, за 20 минут до еды – по 2 нед/месяца – 2 курса.
+T3	Body_location 167 173	Печень
+T17	Body_location 980 997	правопредсердного
+T47	Drug 2825 2853	СИТ с пыльцевыми аллергенами
+T28	Drug 1338 1350	Аквалор софт
+T62	Body_location 588 605	селезеночная вена
+T42	Drug 2185 2192	Маалокс
+T57	Drug 3589 3597	Назонекс
+T13	Symptom 852 876	нормальное положение ЭОС
+T36	Treatment 2243 2357	Мезим-форте по 1 табл. 3 р/д, во время еды – 10 дней, затем 2 недели – перерыв, затем по 10 дней месяца – 2 курса.
+N1	Reference T60 UMLS:C1536154	ультразвуковое исследование желчного пузыря
+N2	Reference T22 UMLS:C0549397	искривление перегородки носа
+N3	Reference T66 UMLS:C0019155	печеночные вены
+N4	Reference T14 UMLS:C1321523	миграция водителя ритма по предсердию
+N5	Reference T1 UMLS:C0230168	брюшная полость
+N6	Reference T8 UMLS:C0038351	желудок
+N7	Reference T12 UMLS:CUILESS	норма рабочая
+N8	Reference T51 UMLS:C0022938	молочнокислые бактерии
+N9	Reference T9 UMLS:CUILESS	норма рабочая
+N10	Reference T39 UMLS:C0022938	молочнокислые бактерии
+N11	Reference T63 UMLS:CUILESS	исследование сосудов
+N12	Reference T49 UMLS:C0003138	антацидные средства
+N13	Reference T69 UMLS:C0017152	гастрит
+N14	Reference T74 UMLS:C0859925	нарушения реполяризации на электрокардиограмме
+N15	Reference T5 UMLS:C0037993	селезенка
+N16	Reference T24 UMLS:C0018621	поллиноз
+N17	Reference T25 UMLS:C2350442	носа орошение
+N18	Reference T33 UMLS:C0005400	желчные протоки
+N19	Reference T16 UMLS:C0027061	миокард
+N20	Reference T31 UMLS:C4728231	хронический гастродуоденит
+N21	Reference T67 UMLS:CUILESS	исследование сосудов
+N22	Reference T27 UMLS:C0036499	вода морская
+N23	Reference T58 UMLS:C0055147	противоаллергические средства
+N24	Reference T35 UMLS:C0013154	применение антацидов
+N25	Reference T19 UMLS:C0003811	аритмии сердечные
+N26	Reference T41 UMLS:C0003292	противодиаррейные средства
+N27	Reference T44 UMLS:C0012155	диета
+N28	Reference T40 UMLS:C0008304	желчегонные и желчеобразующие средства
+N29	Reference T43 UMLS:C0030304	панкреатин
+N30	Reference T71 UMLS:CUILESS	климат
+N31	Reference T53 UMLS:C0012155	диета
+N32	Reference T29 UMLS:C0036499	вода морская
+N33	Reference T56 UMLS:C0013154	терапия глюкокортикостероидами
+N34	Reference T50 UMLS:C0030304	панкреатин
+N35	Reference T45 UMLS:C0013154	лечение патологии желудочно-кишечного тракта
+N36	Reference T30 UMLS:C0036499	вода морская
+N37	Reference T65 UMLS:C0032718	воротная вена
+N38	Reference T11 UMLS:C0013303	двенадцатиперстная кишка
+N39	Reference T54 UMLS:C0178702	иммунотерапия аллергенами
+N40	Reference T59 UMLS:C0016679	zhester
+N41	Reference T4 UMLS:C0030274	поджелудочная железа
+N42	Reference T26 UMLS:C0027428	носа слизистая оболочка
+N43	Reference T70 UMLS:C0428977	брадикардия
+N44	Reference T61 UMLS:C2181189	ультразвуковое исследование селезенки
+N45	Reference T73 UMLS:C0235101	выраженное волнение
+N46	Reference T34 UMLS:C0242970	диета с ограничением жиров
+N47	Reference T7 UMLS:C0542029	гиперсекреция желудка
+N48	Reference T15 UMLS:C0037189	синусный узел
+N49	Reference T21 UMLS:C0027061	миокард
+N50	Reference T2 UMLS:C0016976	желчный пузырь
+N51	Reference T52 UMLS:C0003292	противодиаррейные средства
+N52	Reference T64 UMLS:C2021259	ультразвуковое исследование поджелудочной железы
+N53	Reference T55 UMLS:C0013154	антигистаминная терапия
+N54	Reference T72 UMLS:C0003811	аритмия
+N55	Reference T46 UMLS:C0178702	иммунотерапия аллергенами
+N56	Reference T38 UMLS:C0013154	лечение патологии желудочно-кишечного тракта
+N57	Reference T32 UMLS:UNKNOWN	нарушения со стороны желчевыводящих путей (smq)
+N58	Reference T75 UMLS:C0018621	аллергия на пыльцу
+N59	Reference T48 UMLS:C0036499	вода морская
+N60	Reference T6 UMLS:C0038351	желудок
+N61	Reference T10 UMLS:C0542029	гиперсекреция желудка
+N62	Reference T68 UMLS:C0853566	результаты ультразвукового исследования печени в норме
+N63	Reference T23 UMLS:C0027432	носа перегородка
+N64	Reference T18 UMLS:C0428977	брадикардия
+N65	Reference T37 UMLS:C0013154	желчегонные и желчеобразующие средства
+N66	Reference T3 UMLS:C0023884	печень
+N67	Reference T17 UMLS:CUILESS	предсердие
+N68	Reference T47 UMLS:C0178702	иммунотерапия аллергенами
+N69	Reference T28 UMLS:C0036499	вода морская
+N70	Reference T62 UMLS:C0038001	селезеночная вена
+N71	Reference T42 UMLS:C0003138	антацидные средства
+N72	Reference T57 UMLS:C0066700	назонекс
+N73	Reference T13 UMLS:C0231472	вертикальное положение
+N74	Reference T36 UMLS:C0013154	заместительная терапия ферментами поджелудочной железы
+#1	AnnotatorNotes T14	first_annotator_label: C1321523||synonyms: блуждающий водитель ритма (сердца)|миграция водителя ритма по предсердию||||second_annotator_label: C0155629||synonyms: острый инфаркт миокарда передне-латеральной стенки левого желудочка, начальный эпизод лечения||||third_annotator_label: C0003811||synonyms: аритмии сердечные|aritmiia|аритмия, бду|нарушения сердечного ритма|аритмия (бду)||||bert: C0155629||synonyms: острый инфаркт миокарда передне-латеральной стенки левого желудочка, начальный эпизод лечения||||
+#2	AnnotatorNotes T12	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0013303||synonyms: двенадцатиперстная кишка|dvenadtsatiperstnaia kishka|kishka dvenadtsatiperstnaia|кишка двенадцатиперстная||||third_annotator_label: None||synonyms: ||||bert: C0856244||synonyms: сетчатка в пределах нормы|нормальная сетчатка||||
+#3	AnnotatorNotes T51	first_annotator_label: C0022938||synonyms: лактобациллы|laktobatsilly|lactobacillus|laktobakterii|molochnokislye bakterii||||second_annotator_label: C2936470||synonyms: синбиотики|sinbiotiki||||third_annotator_label: C0525033||synonyms: пробиотики|probiotiki||||bert: C0014762||synonyms: эритробласты|eritroblasty|normoblast|ядерные эритроциты|proeritroblasty||||
+#4	AnnotatorNotes T9	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0038351||synonyms: желудок|zheludok|ventriculus gaster||||third_annotator_label: C1112281||synonyms: нормальный рост||||bert: C1112281||synonyms: нормальный рост||||
+#5	AnnotatorNotes T39	first_annotator_label: C0022938||synonyms: лактобациллы|laktobatsilly|lactobacillus|laktobakterii|molochnokislye bakterii||||second_annotator_label: C2936470||synonyms: синбиотики|sinbiotiki||||third_annotator_label: C0525033||synonyms: пробиотики|probiotiki||||bert: C0014762||synonyms: эритробласты|eritroblasty|normoblast|ядерные эритроциты|proeritroblasty||||
+#6	AnnotatorNotes T63	first_annotator_label: C0948458||synonyms: исследование сосудов|сосудистый тест, бду||||second_annotator_label: C0037993||synonyms: селезенка|selezenka||||third_annotator_label: None||synonyms: ||||bert: C0038257||synonyms: стенты|rasshiriteli|stenty|расширители||||
+#7	AnnotatorNotes T74	first_annotator_label: C0948857||synonyms: нарушения реполяризации на электрокардиограмме|нарушения реполяризации на экг||||second_annotator_label: C0859925||synonyms: укорочение времени реполяризации желудочков||||third_annotator_label: C0348626||synonyms: другие уточненные нарушения сердечного ритма|другое уточненное нарушение ритма сердца||||bert: C0027056||synonyms: миокарда реваскуляризация|miokarda revaskuliarizatsiia|grudnoi vnutrennei arterii implantatsiia|грудной внутренней артерии имплантация||||
+#8	AnnotatorNotes T67	first_annotator_label: C0948458||synonyms: исследование сосудов|сосудистый тест, бду||||second_annotator_label: C0023884||synonyms: печень|pechen'|hepar||||third_annotator_label: None||synonyms: ||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#9	AnnotatorNotes T58	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0055147||synonyms: цетиризин|tsetirizin||||third_annotator_label: C0019592||synonyms: гистамина h1 антагонисты|gistamina h1 antagonisty|antigistaminnye h1 sredstva|antigistaminnye sredstva klassicheskie|gistaminovykh h1-retseptorov antagonisty||||bert: C0043375||synonyms: ксилоза|ksiloza||||
+#10	AnnotatorNotes T35	first_annotator_label: C1096697||synonyms: применение антацидов||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0013216||synonyms: лекарственная терапия|lekarstvennaia terapiia|farmakoterapiia|khimioterapiia|медикаментозная терапия||||bert: C1114892||synonyms: глюкоза^3 часа после 1.2 г/кг лактозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#11	AnnotatorNotes T41	first_annotator_label: C0003292||synonyms: противодиаррейные средства|protivodiarreinye sredstva||||second_annotator_label: C0853588||synonyms: противодиарейная поддерживающая терапия|поддерживающая противодиарейная терапия||||third_annotator_label: C0014834||synonyms: escherichia coli|alkalescens-dispar group|kishechnaia palochka|kolibakteriia|кишечная палочка||||bert: C0059079||synonyms: fortatsin|фортацин||||
+#12	AnnotatorNotes T40	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: C0997027||synonyms: артишок|artishok||||third_annotator_label: C2970179||synonyms: cynara scolymus ат.igg:массконц:тчкврм:сыв:колич||||bert: C0008260||synonyms: хлорофилл|khlorofill||||
+#13	AnnotatorNotes T71	first_annotator_label: C0008946||synonyms: климат|klimat||||second_annotator_label: C0428977||synonyms: брадикардия|bradikardiia|bradiaritmiia|брадикардия, бду|чсс ниже нормы||||third_annotator_label: None||synonyms: ||||bert: C0008946||synonyms: климат|klimat||||
+#14	AnnotatorNotes T56	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1953459||synonyms: синтетический глюкокортикоидный препарат:массконц:тчкврм:неизв вещ:колич||||bert: C1953165||synonyms: кортизол^после 1 мг дексаметазона через рот накануне вечером:молконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T45	first_annotator_label: C0872176||synonyms: лечение патологии желудочно-кишечного тракта||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0363763||synonyms: соматотропин^3 часа после 1 г/кг глюкозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#16	AnnotatorNotes T54	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C3889069||synonyms: гипопигментные пятна (в форме ясеневого листа) при туберозном склерозе||||
+#17	AnnotatorNotes T52	first_annotator_label: C0003292||synonyms: противодиаррейные средства|protivodiarreinye sredstva||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0014834||synonyms: escherichia coli|alkalescens-dispar group|kishechnaia palochka|kolibakteriia|кишечная палочка||||bert: C0059079||synonyms: fortatsin|фортацин||||
+#18	AnnotatorNotes T55	first_annotator_label: C1504374||synonyms: антигистаминная терапия||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0011017||synonyms: дневной стационар|dnevnoi statsionar|gospitalizatsiia chastichnaia|gospitalizatsiia na dnevnoe vremia|statsionarnoe lechenie dnevnoe||||
+#19	AnnotatorNotes T46	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C1739388||synonyms: аллергия на березовую пыльцу||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C1739388||synonyms: аллергия на березовую пыльцу||||
+#20	AnnotatorNotes T38	first_annotator_label: C0872176||synonyms: лечение патологии желудочно-кишечного тракта||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1830295||synonyms: соматотропин^30 минут после 1 г/кг глюкозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#21	AnnotatorNotes T32	first_annotator_label: C3544360||synonyms: нарушения со стороны желчевыводящих путей (smq)||||second_annotator_label: C0236124||synonyms: обструкция желудочно-кишечного тракта|обструкция жк тракта|обструкция желудочно-кишечного тракта, бду||||third_annotator_label: C0013384||synonyms: дискинезии|diskinezii|dvizheniia neproizvol'nye|tremor diskineticheskii|дискинетический синдром||||bert: C0242973||synonyms: сердца желудочков дисфункция|serdtsa zheludochkov disfunktsiia|zheludochkov serdtsa disfunktsiia|дисфункция желудочка|желудочков сердца дисфункция||||
+#22	AnnotatorNotes T68	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: C0023884||synonyms: печень|pechen'|hepar||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1114905||synonyms: пластинка средний диаметр:сущндлин:тчкврм:кр:колич||||
+#23	AnnotatorNotes T37	first_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0013216||synonyms: лекарственная терапия|lekarstvennaia terapiia|farmakoterapiia|khimioterapiia|медикаментозная терапия||||bert: C0363761||synonyms: соматотропин^2 часа после 1 г/кг глюкозы через рот:массконц:тчкврм:сыв/плаз:колич||||
+#24	AnnotatorNotes T17	first_annotator_label: C0018792||synonyms: предсердие|predserdie||||second_annotator_label: C2607966||synonyms: преступники|криминальный|злоумышленники|pravonarushiteli|zloumyshlenniki||||third_annotator_label: None||synonyms: ||||bert: C2607966||synonyms: преступники|криминальный|злоумышленники|pravonarushiteli|zloumyshlenniki||||
+#25	AnnotatorNotes T47	first_annotator_label: C0178702||synonyms: десенсибилизация иммунологическая|desensibilizatsiia immunologicheskaia|giposensibilizatsiia|giposensibilizatsionnaia terapiia|immunoterapiia allergenami||||second_annotator_label: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||third_annotator_label: C0021083||synonyms: иммунотерапия|immunoterapiia||||bert: C0018621||synonyms: ринит аллергический сезонный|sennaia likhoradka|rinit allergicheskii sezonnyi|сезонная аллергия|сезонный аллергический ринит||||
+#26	AnnotatorNotes T36	first_annotator_label: C4523842||synonyms: заместительная терапия ферментами поджелудочной железы||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0013216||synonyms: лекарственная терапия|lekarstvennaia terapiia|farmakoterapiia|khimioterapiia|медикаментозная терапия||||bert: C0881658||synonyms: кортизол^10 часов после 1 мг дексаметазона внутрь накануне вечером:молконц:тчкврм:сыв/плаз:колич||||

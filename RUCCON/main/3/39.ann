@@ -1,0 +1,79 @@
+T15	Treatment 664 717	В терапии симптоматические средства – геделикс и т.п.
+T6	Disease 115 142	Гипертрофия небных миндалин
+T24	Symptom 1141 1152	Зев спокоен
+T20	Symptom 868 902	длительным малопродуктивным кашлем
+T38	Body_location 1141 1144	Зев
+T17	Treatment 731 751	При приеме кларитина
+T23	Body_location 1102 1116	Кожные покровы
+T13	Symptom 275 291	заложенность нос
+T5	Disease 92 113	Катаральный аденоидит
+T1	Disease 9 59	Круглогодичный аллергический ринит, персистирующий
+T12	Symptom 250 273	малопродуктивного кашля
+T10	Body_location 127 142	небных миндалин
+T25	Symptom 1154 1190	Носовое дыхание несколько затруднено
+T4	Severity 86 90	2 ст
+T3	Disease 77 85	Аденоиды
+T16	Drug 702 710	геделикс
+T27	Symptom 1223 1229	хрипов
+T30	Body_location 1270 1275	Живот
+T29	Symptom 1235 1268	Сердечные тоны звучные, ритмичные
+T28	Body_location 1192 1200	В лёгких
+T18	Drug 742 751	кларитина
+T2	Severity 61 75	легкое течение
+T11	Disease 983 1011	риноконъюнктивальный синдром
+T31	Symptom 1276 1282	мягкий
+T19	Disease 846 849	ОРИ
+T34	Symptom 1117 1131	бледно-розовые
+T37	Symptom 1408 1428	Менингеальных знаков
+T8	Disease 149 180	Дискинезия желчевыводящих путей
+T9	Body_location 160 180	желчевыводящих путей
+T32	Symptom 1298 1312	безболезненный
+T35	Symptom 1133 1139	чистые
+T26	Symptom 1201 1221	дыхание везикулярное
+T7	Severity 143 147	2 ст
+T21	Disease 939 958	контактный дерматит
+T36	Symptom 1378 1406	Стул регулярный, оформленный
+T14	Symptom 632 662	сухого малопродуктивного кашля
+T33	Symptom 1365 1372	дизурии
+N1	Reference T15 UMLS:C5243901	симптоматическое лечение
+N2	Reference T6 UMLS:C0272386	гипертрофия миндалин
+N3	Reference T24 UMLS:CUILESS	отсутствие реакции
+N4	Reference T20 UMLS:C0850149	кашель, непродуктивный
+N5	Reference T38 UMLS:C0521367	ротовая полость
+N6	Reference T17 UMLS:C0459914	противоаллергические средства
+N7	Reference T23 UMLS:C1123023	кожа
+N8	Reference T13 UMLS:C0027424	заложенность носа
+N9	Reference T5 UMLS:C0001427	аденоидит
+N10	Reference T1 UMLS:C0035457	круглогодичный аллергический ринит
+N11	Reference T12 UMLS:C0850149	кашель, непродуктивный
+N12	Reference T10 UMLS:C0040421	миндалины небные
+N13	Reference T25 UMLS:C0853254	раздражение носовых ходов
+N14	Reference T3 UMLS:C0001428	аденоиды
+N15	Reference T16 UMLS:C0015314	отхаркивающие средства
+N16	Reference T27 UMLS:C3887661	хрип
+N17	Reference T30 UMLS:C0000726	живот
+N18	Reference T29 UMLS:C0018810	сердечный ритм
+N19	Reference T28 UMLS:C0024109	легкие
+N20	Reference T18 UMLS:C0065180	лоратадин
+N21	Reference T2 UMLS:CUILESS	степень ухудшения бду
+N22	Reference T11 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N23	Reference T31 UMLS:C0026390	мягкокожие
+N24	Reference T19 UMLS:C0035243	респираторные инфекции
+N25	Reference T34 UMLS:C4505235	розовые
+N26	Reference T37 UMLS:C0025287	менингеальные знаки
+N27	Reference T8 UMLS:C0005416	дискинезия желчевыводящих путей
+N28	Reference T9 UMLS:C0005423	желчные пути
+N29	Reference T32 UMLS:C0857027	болезненность
+N30	Reference T35 UMLS:C0598869	чистая культура
+N31	Reference T26 UMLS:C0231855	нормальная аускультативная картина в легких
+N32	Reference T21 UMLS:C0011616	контактный дерматит
+N33	Reference T36 UMLS:CUILESS	мягкий стул
+N34	Reference T14 UMLS:C0850149	кашель, непродуктивный
+N35	Reference T33 UMLS:C0013428	дизурия
+#1	AnnotatorNotes T24	first_annotator_label: C0237284||synonyms: отсутствие реакции||||second_annotator_label: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||third_annotator_label: None||synonyms: ||||bert: C0033771||synonyms: пруриго|prurigo|pochesukha|зудящая сыпь|сыпь, зудящая||||
+#2	AnnotatorNotes T38	first_annotator_label: C0226896||synonyms: ротовая полость|rotovaia polost'||||second_annotator_label: C0043387||synonyms: зевота|zevota|зевание|зевок||||third_annotator_label: C0521367||synonyms: ротоглотка|rotoglotka||||bert: C0043387||synonyms: зевота|zevota|зевание|зевок||||
+#3	AnnotatorNotes T17	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1275687||synonyms: кератит при ветряной оспе|кератит при опоясывающем лишае||||
+#4	AnnotatorNotes T2	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0008711||synonyms: хронический ринит||||third_annotator_label: None||synonyms: ||||bert: C0035222||synonyms: респираторный дистресс-синдром взрослых|dykhatel'nykh rasstroistv sindrom vzroslykh|atelektaz zastoinyi|shokovoe legkoe|vzroslykh dykhatel'nykh rasstroistv sindrom||||
+#5	AnnotatorNotes T9	first_annotator_label: C0005423||synonyms: желчные пути|zhelchnye puti||||second_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||third_annotator_label: C0009437||synonyms: желчный проток общий|zhelchnyi protok obshchii|ductus choledochus|zhelchevynosiashchii protok|желчевыносящий проток||||bert: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||
+#6	AnnotatorNotes T26	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#7	AnnotatorNotes T36	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||

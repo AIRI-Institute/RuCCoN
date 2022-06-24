@@ -1,0 +1,282 @@
+T96	Symptom 1406 1444	Признаки дисфункции срединных структур
+T55	Drug 3048 3056	кавинтон
+T51	Severity 2847 2851	2 ст
+T117	Symptom 414 434	стенки – не утолщены
+T86	Drug 4135 4143	Пантогам
+T56	Drug 3078 3086	анавенол
+T77	Disease 4475 4496	аллергического ринита
+T30	Symptom 1692 1760	Типичной эпилептической, пароксизмальной активности, грубых очаговых
+T59	Treatment 3473 3504	Интал по 2 инг. х 4 раза в день
+T25	Body_location 1157 1160	ППН
+T89	Symptom 1787 1822	Симметрично ускорен кровоток по СМА
+T54	Drug 3011 3016	креон
+T15	Body_location 574 583	СЕЛЕЗЕНКА
+T26	Symptom 1236 1264	Резкая синусовая брадикардия
+T1	Drug 270 280	беродуалом
+T116	Drug 4499 4507	назонекс
+T17	Body_location 706 713	ЖЕЛУДОК
+T81	Drug 3692 3698	Зиртек
+T29	Symptom 1210 1234	нормальное положение ЭОС
+T8	Symptom 1012 1044	Паренхима пониженной эхогенности
+T58	Drug 3123 3129	зиртек
+T123	Symptom 780 788	изменены
+T97	Symptom 1459 1645	редко регистрировались короткие вспышки острых полиморфных и полифазных потенциалов в лобно-центральных отделах (больше справа), иногда с тенденцией к  генерализации по правому полушарию
+T62	Drug 3563 3571	вентолин
+T12	Symptom 456 475	просвет - свободный
+T45	Symptom 2441 2509	стеофиты/синдеомофиты в области передних углов тел позвонков Th2-Th9
+T6	Body_location 882 892	Левая доля
+T52	Disease 2941 2961	аллергический ринит.
+T13	Body_location 379 393	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T87	Drug 4225 4230	Креон
+T95	Symptom 1329 1404	легко дезорганизованный тип ЭЭГ с нерегулярным по амплитуде основным ритмом
+T105	Disease 1266 1294	Синдром ранней реполяризации
+T106	Disease 1253 1264	брадикардия
+T92	Body_location 1907 1933	Экстракраниально: левая ПА
+T61	Symptom 3545 3562	кашлевом синдроме
+T66	Drug 3650 3658	беродуал
+T74	Treatment 4225 4278	Креон 10000 по 1к. х 3 раза в день продолжить 10 дней
+T83	Drug 3778 3786	Топамакс
+T122	Symptom 762 775	стенки тонкие
+T4	Drug 129 139	беродуалом
+T73	Treatment 4135 4219	Пантогам 0,25 1т. х 2 раза  (утро, день) после еды, курс 1,5 месяца (до конца марта)
+T99	Body_location 1628 1645	правому полушарию
+T10	Symptom 1098 1117	средней эхогенности
+T88	Drug 4284 4291	Хофитол
+T90	Symptom 1824 1871	с усилением вероятно компенсаторного  характера
+T121	Symptom 680 704	паренхима -  не изменена
+T16	Body_location 625 631	ПЕЧЕНЬ
+T118	Symptom 436 454	форма – правильная
+T38	Symptom 2185 2246	Ось позвоночника отклонена влево, вершина Th11-Th12 угол α 7◦
+T65	Drug 3632 3640	лазолван
+T2	Symptom 281 294	отрицательная
+T19	Symptom 520 572	паренхима – эхогенность резко повышена, неоднородная
+T40	Body_location 2189 2201	позвоночника
+T27	Symptom 1266 1305	Синдром ранней реполяризации желудочков
+T48	Disease 2756 2775	ангиопатия сетчатки
+T71	Treatment 3970 4031	Кавинтон  5 мг 1т х 3 раза в день после еды 1 месяц (февраль)
+T82	Drug 3747 3757	аква-марис
+T47	Body_location 2418 2439	тел позвонков II-III.
+T93	Body_location 1819 1822	СМА
+T34	Body_location 2155 2183	грудного отдела позвоночника
+T114	Disease 2779 2794	спазмом артерий
+T120	Symptom 585 600	размер 91х46 мм
+T75	Treatment 4284 4331	Хофитол по 1 т. х 3 раза в день 3 недели – март
+T76	Treatment 4499 4534	назонекс по 1 инст. х 1 раз в день.
+T124	Severity 748 751	нет
+T85	Drug 4036 4044	Анавенол
+T70	Treatment 3778 3965	Топамакс 100 мг ½ т. на ночь – 3 дня, ½ т. х 2 раза – 1 неделя, ½ т. утро 1 т. вечер – 2 недели, 1т. х 2 раза – 1 неделя, 1т. утро 1 ½ т. вечер – постоянная терапевтическая доза (3 мг/кг)
+T98	Body_location 1545 1586	лобно-центральных отделах (больше справа)
+T33	Disease 2070 2109	Парциальный дефицит когнитивных функций
+T115	Disease 3522 3540	бронхиальной астмы
+T36	Disease 2660 2685	левосторонний кифосколиоз
+T9	Symptom 1046 1096	неоднородная, с чередованием участков с однородная
+T22	Symptom 717 728	секрет есть
+T94	Symptom 1934 1959	малого диаметра (2,56 мм)
+T110	Body_location 2767 2775	сетчатки
+T102	Treatment 2867 2900	наблюдение в динамике, диета, ЛФК
+T20	Symptom 602 623	паренхима не изменена
+T112	Disease 2277 2282	кифоз
+T31	Disease 2006 2030	Идиопатическая эпилепсия
+T32	Disease 2032 2068	Нарушение эмоционально-волевой сферы
+T37	Symptom 2542 2588	признаки остеохондропатии позвоночника, кифоза
+T43	Symptom 2354 2397	Высота межпозвонковых промежутков уменьшена
+T80	Treatment 4337 4362	Ортопедический режим, ЛФК
+T28	Body_location 1295 1305	желудочков
+T78	Treatment 4393 4427	Электростимуляция мышц спины и ФТЛ
+T107	Severity 1236 1252	Резкая синусовая
+T108	Disease 1175 1180	отека
+T79	Treatment 4368 4388	Общий массаж №10-15.
+T113	Disease 2582 2588	кифоза
+T64	Treatment 3614 3687	через небулайзер: лазолван 1.0 мл + беродуал 15 капель+пульмикорт 250 мкг
+T119	Symptom 499 518	размер – 15х8х15 мм
+T46	Body_location 2473 2510	передних углов тел позвонков Th2-Th9.
+T57	Drug 3113 3121	топамакс
+T24	Symptom 1166 1199	признаки отека слизистой оболочки
+T3	Symptom 255 260	норма
+T63	Treatment 3563 3594	вентолин по 1-2 инг. до 4-6 р/д
+T100	Symptom 805 833	признаки вторичных изменений
+T49	Symptom 395 412	размер – 59х22 мм
+T14	Body_location 477 497	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T35	Disease 2629 2658	остеохондропатия позвоночника
+T103	Treatment 3359 3405	гипоаллергенной диеты и элиминационного режима
+T60	Symptom 3513 3540	приступе бронхиальной астмы
+T109	Body_location 1181 1199	слизистой оболочки
+T7	Body_location 928 940	Правая доля:
+T50	Disease 2843 2846	КЭО
+T91	Symptom 1873 1905	венозного оттока – ангиодистония
+T11	Symptom 1127 1146	кровоток не изменен
+T101	Body_location 834 854	поджелудочной железы
+T42	Symptom 2309 2352	разрыхление замыкательных пластин позвонков
+T44	Symptom 2399 2438	Стадия окостенения тел позвонков II-III
+T84	Drug 3970 3978	Кавинтон
+T104	Drug 3473 3478	Интал
+T111	Symptom 2756 2794	ангиопатия сетчатки со спазмом артерий
+T5	Body_location 863 880	щитовидной железы
+T23	Symptom 748 760	нет  секрета
+T69	Treatment 3733 3773	Туалет носа с аква-марис 3-4 раза в день
+T67	Drug 3669 3679	пульмикорт
+T18	Body_location 730 747	12-ПЕРСТНАЯ КИШКА
+T21	Symptom 633 678	размер – ЛД – 59, 1й сегмент 13мм, ПД –122 мм
+T68	Treatment 3692 3728	Зиртек по 1т. х 1 раз в день 1 месяц
+T72	Treatment 4036 4129	Анавенол 1 др. х 2 раза утро, вечерпосле еды 10 дней, затем 1 др. х 1 раз вечером еще 10 дней
+T41	Body_location 2257 2270	тел позвонков
+T53	Treatment 3012 3153	реон 10000 по 1 к. х 3 раза в день, кавинтон 1т. х 3 раза в день, анавенол по 1 др. х 2 раза в день, топамакс, зиртек по 1т. х 1 раза в день.
+T39	Symptom 2249 2297	Ротация тел позвонков есть, кифоз усилен, α 40◦.
+N1	Reference T96 UMLS:C0262405	мозговая дисфункция
+N2	Reference T55 UMLS:C0242913	ноотропные средства
+N3	Reference T117 UMLS:CUILESS	норма рабочая
+N4	Reference T86 UMLS:C0242913	ноотропные средства
+N5	Reference T56 UMLS:CUILESS	эскулин
+N6	Reference T77 UMLS:C2607914	аллергический ринит
+N7	Reference T30 UMLS:C0393734	комплексный парциальный эпилептический статус
+N8	Reference T59 UMLS:C0013154	противоаллергические средства
+N9	Reference T25 UMLS:C0030471	околоносовые пазухи
+N10	Reference T89 UMLS:C0005798	кровотока скорость
+N11	Reference T54 UMLS:C0030304	креон
+N12	Reference T15 UMLS:C0037993	селезенка
+N13	Reference T26 UMLS:C0085610	синусовая брадикардия
+N14	Reference T1 UMLS:C0015840	фенотерол
+N15	Reference T116 UMLS:C0066700	назонекс
+N16	Reference T17 UMLS:C0038351	желудок
+N17	Reference T81 UMLS:C0055147	цетиризин
+N18	Reference T29 UMLS:C0863071	вариант нормы на экг
+N19	Reference T8 UMLS:C4277702	паренхиматозная ткань
+N20	Reference T58 UMLS:C0055147	цетиризин
+N21	Reference T123 UMLS:CUILESS	норма рабочая
+N22	Reference T97 UMLS:CUILESS	эпилептиформная атака (бду)
+N23	Reference T62 UMLS:C0001927	сальбутамол
+N24	Reference T12 UMLS:CUILESS	норма рабочая
+N25	Reference T45 UMLS:C3805259	остеофиты грудного отдела позвоночника
+N26	Reference T6 UMLS:CUILESS	увеличение щитовидной железы
+N27	Reference T52 UMLS:C2607914	аллергический ринит
+N28	Reference T13 UMLS:C0016976	желчный пузырь
+N29	Reference T87 UMLS:C0030304	креон
+N30	Reference T105 UMLS:C0541798	раннее пробуждение
+N31	Reference T106 UMLS:C0428977	брадикардия
+N32	Reference T92 UMLS:C0042559	позвоночная артерия
+N33	Reference T61 UMLS:C0694548	кашлевая астма
+N34	Reference T66 UMLS:C0015840	фенотерол
+N35	Reference T74 UMLS:C0013154	лекарства применения схема
+N36	Reference T83 UMLS:C0076829	топамакс
+N37	Reference T122 UMLS:CUILESS	исследования желудочно-кишечного тракта
+N38	Reference T4 UMLS:C0015840	фенотерол
+N39	Reference T73 UMLS:C0013154	ноотропные средства
+N40	Reference T99 UMLS:C0007776	кора больших полушарий
+N41	Reference T88 UMLS:C0008304	хлорофилл
+N42	Reference T90 UMLS:C2363928	компенсаторная пауза
+N43	Reference T121 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N44	Reference T16 UMLS:C0023884	печень
+N45	Reference T118 UMLS:CUILESS	органа размер
+N46	Reference T38 UMLS:C0037932	позвоночника искривления
+N47	Reference T65 UMLS:C0002421	амброксол
+N48	Reference T2 UMLS:C4704700	отрицательные результаты
+N49	Reference T19 UMLS:CUILESS	результаты ультразвукового исследования поджелудочной железы в норме
+N50	Reference T40 UMLS:C0037949	позвоночник
+N51	Reference T27 UMLS:C0860151	удлинение реполяризации желудочков
+N52	Reference T48 UMLS:C4552373	ангиопатия сетчатки
+N53	Reference T71 UMLS:C0013154	лекарства применения схема
+N54	Reference T82 UMLS:C0036499	вода морская
+N55	Reference T47 UMLS:C0037949	грудные позвонки
+N56	Reference T93 UMLS:C0149566	церебральная артерия средняя
+N57	Reference T34 UMLS:C0037949	позвоночник
+N58	Reference T114 UMLS:C0085617	спазм артерии
+N59	Reference T120 UMLS:C1450569	органа размер
+N60	Reference T75 UMLS:C0013154	лекарства применения схема
+N61	Reference T76 UMLS:C0013154	лекарства применения схема
+N62	Reference T124 UMLS:CUILESS	None
+N63	Reference T85 UMLS:CUILESS	эскулин
+N64	Reference T70 UMLS:C0013154	лекарства применения схема
+N65	Reference T98 UMLS:C0228398	среднего мозга центральное вещество
+N66	Reference T33 UMLS:C4324403	дефицит когнитивной лингвистики
+N67	Reference T115 UMLS:C0004096	бронхиальная астма
+N68	Reference T36 UMLS:C3494892	левосторонний сколиоз
+N69	Reference T9 UMLS:C1262028	отклонение от нормы результатов ультразвукового исследования щитовидной железы
+N70	Reference T22 UMLS:C1096020	выделение секрета
+N71	Reference T94 UMLS:C1868737	гипоплазия позвоночной артерии
+N72	Reference T110 UMLS:C0035298	сетчатка
+N73	Reference T102 UMLS:C0012167	диета для снижения массы тела
+N74	Reference T20 UMLS:C2181189	ультразвуковое исследование селезенки
+N75	Reference T112 UMLS:C0022821	кифоз
+N76	Reference T31 UMLS:C4049182	идиопатическая парциальная эпилепсия
+N77	Reference T32 UMLS:C0013985	эмоциональное нарушение, бду
+N78	Reference T37 UMLS:C0477611	остеохондроз позвоночника
+N79	Reference T43 UMLS:C0263870	сужение промежутков межпозвоночных дисков
+N80	Reference T80 UMLS:C0524852	ортопедические процедуры
+N81	Reference T28 UMLS:C0206177	желудочковое давление
+N82	Reference T78 UMLS:C0948547	электростимуляционная терапия для лечения мышц
+N83	Reference T107 UMLS:C0232201	синусовый ритм
+N84	Reference T108 UMLS:C0013604	отек
+N85	Reference T79 UMLS:C0024875	массаж
+N86	Reference T113 UMLS:C0022821	кифоз
+N87	Reference T64 UMLS:C0013154	введение лекарств ингаляционное
+N88	Reference T119 UMLS:C1450569	органа размер
+N89	Reference T46 UMLS:C0859380	повреждение спинного мозга на уровне t7-t12 с развитием синдрома передних рогов
+N90	Reference T57 UMLS:C0076829	топамакс
+N91	Reference T24 UMLS:C0521481	отёк слизистой оболочки
+N92	Reference T3 UMLS:C0085122	норма рабочая
+N93	Reference T63 UMLS:C0021459	введение лекарств ингаляционное
+N94	Reference T100 UMLS:C0030286	поджелудочной железы болезни
+N95	Reference T49 UMLS:C1450569	органа размер
+N96	Reference T14 UMLS:C0030274	поджелудочная железа
+N97	Reference T35 UMLS:C0036310	остеохондрит позвоночника
+N98	Reference T103 UMLS:C0425402	медицинская диета
+N99	Reference T60 UMLS:C0004096	астма бронхиальная
+N100	Reference T109 UMLS:C0026724	слизистая оболочка
+N101	Reference T7 UMLS:CUILESS	увеличение щитовидной железы
+N102	Reference T50 UMLS:C0028754	ожирение
+N103	Reference T91 UMLS:C0013421	дистония
+N104	Reference T11 UMLS:CUILESS	кровообращение
+N105	Reference T101 UMLS:C0030274	поджелудочная железа
+N106	Reference T42 UMLS:C5208111	воспаление замыкательных пластинок позвонка
+N107	Reference T44 UMLS:C0029433	окостенение физиологическое
+N108	Reference T84 UMLS:C0242913	ноотропные средства
+N109	Reference T104 UMLS:C0012694	интал
+N110	Reference T111 UMLS:C4552373	ангиопатия сетчатки
+N111	Reference T5 UMLS:C0040132	щитовидная железа
+N112	Reference T23 UMLS:C1096020	выделение секрета
+N113	Reference T69 UMLS:C2350442	промывание носа
+N114	Reference T67 UMLS:C0054201	будесонид
+N115	Reference T18 UMLS:C0013303	двенадцатиперстная кишка
+N116	Reference T21 UMLS:CUILESS	результаты ультразвукового исследования печени в норме
+N117	Reference T68 UMLS:C0282555	противоаллергические средства
+N118	Reference T72 UMLS:C0013154	лекарства применения схема
+N119	Reference T41 UMLS:C0039987	грудные позвонки
+N120	Reference T53 UMLS:C0013154	комплексонная терапия
+N121	Reference T39 UMLS:C0546966	четкообразная аплазия волос
+#1	AnnotatorNotes T96	first_annotator_label: C0262405||synonyms: мозговая дисфункция||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0576481||synonyms: смещение срединных структур головного мозга||||bert: C0576481||synonyms: смещение срединных структур головного мозга||||
+#2	AnnotatorNotes T117	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C3888534||synonyms: утолщение стенки желудочно-кишечного тракта|утолщение стенки кишечника||||
+#3	AnnotatorNotes T56	first_annotator_label: C0014839||synonyms: эскулин|eskulin||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0020354||synonyms: гидроксиэтилрутозид|gidroksietilrutozid|oksietilrutozid|оксиэтилрутозид||||bert: C0028925||synonyms: олеаноловая кислота|oleanolovaia kislota|oleanol|олеанол||||
+#4	AnnotatorNotes T59	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C3173641||synonyms: вы обычно откашливаете такую слизь как минимум дважды за день 4 или более дней в неделю:находка:тчкврм:^пациент:пор:phenx||||
+#5	AnnotatorNotes T29	first_annotator_label: C0863071||synonyms: вариант нормы на экг||||second_annotator_label: C0013798||synonyms: электрокардиограмма|экг||||third_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||bert: C1112281||synonyms: нормальный рост||||
+#6	AnnotatorNotes T123	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||bert: C0242863||synonyms: полынная водка|polynnaia vodka|absent|абсент||||
+#7	AnnotatorNotes T97	first_annotator_label: C0236118||synonyms: эпилептиформная атака (бду)|эпилептиформные припадки, бду|эпилептиформные атаки, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0242625||synonyms: пэтч-кламп методы|petch-fiksiruiushchie metody|petch-klamp metody|metod lokal'noi fiksatsii potentsiala|патч-кламп методы||||bert: C0920081||synonyms: полип наружного слухового прохода||||
+#8	AnnotatorNotes T12	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0035473||synonyms: риновирус|rinovirus|korizavirusy|virusy korizy|obshchei prostudy virus||||
+#9	AnnotatorNotes T45	first_annotator_label: C3805259||synonyms: остеофиты грудного отдела позвоночника||||second_annotator_label: C1956089||synonyms: остеофит|костная шпора|остеофитоз|osteofit|kostnaia shpora||||third_annotator_label: C0856631||synonyms: дегенеративные изменения грудного отдела позвоночника||||bert: C4552350||synonyms: гетеротопическая оссификация, передний шейный отдел позвоночника||||
+#10	AnnotatorNotes T6	first_annotator_label: C1400126||synonyms: увеличение щитовидной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||bert: C0085200||synonyms: леви тельца|levi tela|levi tel'tsa|леви тела||||
+#11	AnnotatorNotes T83	first_annotator_label: C0076829||synonyms: топирамат|topamaks|topiramat|топамакс|эпитомакс||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003286||synonyms: противосудорожные средства|protivosudorozhnye sredstva|antikonvul'sivnye sredstva|protivoepilepticheskie sredstva|антиконвульсивные средства||||bert: C0076829||synonyms: топирамат|topamaks|topiramat|топамакс|эпитомакс||||
+#12	AnnotatorNotes T122	first_annotator_label: C0430681||synonyms: исследования желудочно-кишечного тракта||||second_annotator_label: None||synonyms: ||||third_annotator_label: C3888536||synonyms: истончение стенки желудочно-кишечного тракта||||bert: C0151924||synonyms: стеноз тонкой кишки|стеноз тонкой кишки, бду|сужение канала тонкой кишки|сужение просвета тонкой кишки||||
+#13	AnnotatorNotes T73	first_annotator_label: C0242913||synonyms: ноотропные средства|nootropnye sredstva|poznavatel'nogo protsessa stimuliatory|познавательного процесса стимуляторы|tserebrolizin||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0803927||synonyms: кальцитонин^2 минуты после 0.5 мкг/кг пентагастрина внутривенно:массконц:тчкврм:сыв/плаз:колич||||
+#14	AnnotatorNotes T88	first_annotator_label: C0008260||synonyms: хлорофилл|khlorofill||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0008304||synonyms: желчегонные и желчеобразующие средства|zhelchegonnye i zhelcheobrazuiushchie sredstva|kholeretiki|zhelcheobrazuiushchie sredstva|желчеобразующие средства||||bert: C0008260||synonyms: хлорофилл|khlorofill||||
+#15	AnnotatorNotes T121	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C1536174||synonyms: паренхиматозный зоб||||
+#16	AnnotatorNotes T118	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C0037824||synonyms: речь правильная|rech' pravil'naia||||
+#17	AnnotatorNotes T38	first_annotator_label: C0037932||synonyms: позвоночника искривления|pozvonochnika iskrivleniia|искривление позвоночника|неуточненное искривление позвоночника||||second_annotator_label: C0429012||synonyms: ось qrs||||third_annotator_label: C0022821||synonyms: кифоз|kifoz||||bert: C0159600||synonyms: открытый перелом на уровне t7-t12 с синдромом передних рогов||||
+#18	AnnotatorNotes T19	first_annotator_label: C4285854||synonyms: результаты ультразвукового исследования поджелудочной железы в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#19	AnnotatorNotes T47	first_annotator_label: C0039987||synonyms: грудные позвонки|grudnye pozvonki||||second_annotator_label: C0037949||synonyms: позвоночник|pozvonochnik|pozvonochnyi stolb|позвоночный столб||||third_annotator_label: C1299890||synonyms: переходные позвонки||||bert: C0029130||synonyms: зрительный нерв|zritel'nyi nerv|vtoroi cherepno-mozgovoi nerv|черепной нерв ii|cherepnoi nerv ii||||
+#20	AnnotatorNotes T93	first_annotator_label: C0149566||synonyms: церебральная артерия средняя|tserebral'naia arteriia sredniaia||||second_annotator_label: C0026847||synonyms: мышечная атрофия спинальная|myshechnaia atrofiia spinal'naia|kugel'berga-velander bolezn'|progressiruiushchaia myshechnaia atrofiia|spinal'naia myshechnaia atrofiia||||third_annotator_label: C0149576||synonyms: церебральная артерия задняя|mozga golovnogo arteriia zadniaia|tserebral'naia arteriia zadniaia|мозга головного артерия задняя|артерия церебральная задняя||||bert: C1831580||synonyms: поверхностная мышечно-апоневротическая система|smas|podkozhnaia myshtsa shei|подкожная мышца шеи|poverkhnostnaia myshechno-aponevroticheskaia sistema||||
+#21	AnnotatorNotes T120	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2181189||synonyms: ультразвуковое исследование селезенки||||bert: C0769789||synonyms: холестерин-24-гидроксилаза|мозга специфическая 24s гидроксилаза|kholesterol-24-gidroksilaza|mozga spetsificheskaia 24s gidroksilaza|цитохром p450 46a1||||
+#22	AnnotatorNotes T124	first_annotator_label: No entity found in this position||synonyms: ||||second_annotator_label: No entity found in this position||synonyms: ||||third_annotator_label: None||synonyms: ||||bert: None||synonyms: ||||
+#23	AnnotatorNotes T85	first_annotator_label: C0014839||synonyms: эскулин|eskulin||||second_annotator_label: C0028925||synonyms: олеаноловая кислота|oleanolovaia kislota|oleanol|олеанол||||third_annotator_label: C0020354||synonyms: гидроксиэтилрутозид|gidroksietilrutozid|oksietilrutozid|оксиэтилрутозид||||bert: C0028925||synonyms: олеаноловая кислота|oleanolovaia kislota|oleanol|олеанол||||
+#24	AnnotatorNotes T9	first_annotator_label: C1262028||synonyms: отклонение от нормы результатов ультразвукового исследования щитовидной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0152350||synonyms: неопределенная зона|зона incerta|neopredelennaia zona|zona incerta||||bert: C0152350||synonyms: неопределенная зона|зона incerta|neopredelennaia zona|zona incerta||||
+#25	AnnotatorNotes T94	first_annotator_label: C1868737||synonyms: гипоплазия позвоночной артерии||||second_annotator_label: C0801056||synonyms: диаметр:дл:тчкврм:полая вена.нижняя:колич:уз||||third_annotator_label: C0042396||synonyms: кровеносных сосудов сужение|krovenosnykh sosudov suzhenie|vazokonstriktsiia|вазоконстрикция||||bert: C0231254||synonyms: повышение индекса массы тела|высокий индекс массы тела||||
+#26	AnnotatorNotes T80	first_annotator_label: C0524852||synonyms: ортопедические процедуры|ortopedicheskie protsedury|ортопедическая процедура|ортопедическое лечение||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0452240||synonyms: физическая культура лечебная|fizicheskaia kul'tura lechebnaia|fizicheskaia trenirovka cheloveka, lechebnaia|лечебная физкультура|физическая тренировка человека, лечебная||||bert: C0475091||synonyms: ортопедический осмотр|ортопедическое обследование||||
+#27	AnnotatorNotes T64	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C2735219||synonyms: водород/выдыхаемый газ^1.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#28	AnnotatorNotes T119	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2021259||synonyms: ультразвуковое исследование поджелудочной железы||||bert: C0008657||synonyms: хромосомы человека, пара 15|khromosomy cheloveka, para 15|khromosoma 15|хромосома 15||||
+#29	AnnotatorNotes T57	first_annotator_label: C0076829||synonyms: топирамат|topamaks|topiramat|топамакс|эпитомакс||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0003286||synonyms: противосудорожные средства|protivosudorozhnye sredstva|antikonvul'sivnye sredstva|protivoepilepticheskie sredstva|антиконвульсивные средства||||bert: C0076829||synonyms: топирамат|topamaks|topiramat|топамакс|эпитомакс||||
+#30	AnnotatorNotes T63	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C1544338||synonyms: фоллитропин^2 часа после дозы тройной болюс:произвконц:тчкврм:сыв/плаз:колич||||
+#31	AnnotatorNotes T49	first_annotator_label: C1450569||synonyms: органа размер|organa massa|ves organa|вес органа|органа масса||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||bert: C1739768||synonyms: ривароксабан|ksarelto|rivaroksaban|ксарелто|bay 59-7939||||
+#32	AnnotatorNotes T103	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0063083||synonyms: гидрогель, полиэтиленгликоля диметакрилат|gidrogel'|gidrogel', polietilenglikolia dimetakrilat|гидрогель на основе диметакрилата полиэтиленгликоля|gidrogel' na osnove dimetakrilata polietilenglikolia||||
+#33	AnnotatorNotes T7	first_annotator_label: C1400126||synonyms: увеличение щитовидной железы||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||bert: C0262617||synonyms: правая паховая грыжа||||
+#34	AnnotatorNotes T11	first_annotator_label: C0005775||synonyms: кровообращение|krovoobrashchenie||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0005798||synonyms: кровотока скорость|krovotoka skorost'||||bert: C0152010||synonyms: кровотечение отмены|кровотечение отмены (в связи с применением контрацептивов)|кровотечение после отмены противозачаточных средств|внеочередное менструальноподобное кровотечение (контрацептивы)|менструальноподобное кровотечение (контрацептивы)||||
+#35	AnnotatorNotes T21	first_annotator_label: C0853566||synonyms: результаты ультразвукового исследования печени в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0412534||synonyms: ультразвуковое исследование печени||||bert: C2598912||synonyms: глия ядро тип 1 ат:титр:тчкврм:цсж:колич||||
+#36	AnnotatorNotes T68	first_annotator_label: C0282555||synonyms: десенсибилизирующие средства|desensibiliziruiushchie sredstva|antiallergicheskie sredstva|protivoallergicheskie sredstva|антиаллергические средства||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0799882||synonyms: денге вирус 1 ат:титр:тчкврм:сыв:колич||||
+#37	AnnotatorNotes T53	first_annotator_label: C0007975||synonyms: комплексонная терапия|kompleksonnaia terapiia|khelat-terapiia otravlenii|хелатная терапия|khelatoterapiia||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C1831245||synonyms: эпинефрин^1 час после 300 мкг клонидина через рот:молконц:тчкврм:плаз:колич||||

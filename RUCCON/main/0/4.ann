@@ -1,0 +1,88 @@
+T14	Disease 969 990	обструктивный бронхит
+T23	Drug 1330 1340	беродуалом
+T36	Symptom 1734 1738	Стул
+T3	Disease 41 57	Пищевая аллергия
+T19	Disease 1235 1256	обструктивный бронхит
+T40	Symptom 536 542	атопии
+T29	Body_location 1589 1603	кожные покровы
+T33	Body_location 1704 1709	Живот
+T28	Symptom 1662 1668	хрипов
+T22	Drug 1304 1316	дексаметазон
+T21	Drug 1294 1302	эуфиллин
+T6	Symptom 170 189	затруднения дыхания
+T24	Disease 1369 1385	пищевая аллергия
+T15	Treatment 992 1050	Получал эуфиллин, дексаметазон в/м, ингаляции с беродуалом
+T4	Disease 59 99	Вторичные изменения поджелудочной железы
+T9	Body_location 245 252	на коже
+T18	Drug 1040 1050	беродуалом
+T38	Symptom 1760 1780	Менингеальных знаков
+T12	Disease 805 827	респираторной инфекции
+T13	Symptom 838 861	малопродуктивный кашель
+T26	Body_location 1633 1639	легких
+T34	Symptom 1710 1716	мягкий
+T7	Disease 198 220	респираторной инфекции
+T8	Symptom 235 244	высыпания
+T42	Disease 328 335	анемией
+T5	Body_location 79 99	поджелудочной железы
+T35	Symptom 1718 1732	безболезненный
+T20	Treatment 1264 1341	получал терапию в стационаре (эуфиллин, дексаметазон, ингаляции с беродуалом)
+T27	Symptom 1640 1660	везикулярное дыхание
+T16	Drug 1000 1008	эуфиллин
+T30	Symptom 1604 1629	бледно-розовые, суховатые
+T2	Course 31 39	ремиссия
+T17	Drug 1010 1022	дексаметазон
+T37	Symptom 1740 1746	диурез
+T25	Disease 1436 1454	инсектная аллергия
+T41	Symptom 1417 1433	кожных высыпаний
+T31	Symptom 1686 1702	ясные, ритмичные
+T11	Symptom 657 666	высыпания
+T1	Disease 9 29	Атопический дерматит
+T39	Symptom 1173 1198	нарушения функции дыхания
+T32	Body_location 1679 1685	сердца
+N1	Reference T14 UMLS:C0865791	обструктивный бронхит
+N2	Reference T23 UMLS:C0015840	фенотерол
+N3	Reference T36 UMLS:CUILESS	мягкий стул
+N4	Reference T3 UMLS:C0149696	пищевая аллергия
+N5	Reference T19 UMLS:C0865791	обструктивный бронхит
+N6	Reference T40 UMLS:C0392707	атопия
+N7	Reference T29 UMLS:C1123023	кожа
+N8	Reference T33 UMLS:C0000726	живот
+N9	Reference T28 UMLS:C3887661	хрип
+N10	Reference T22 UMLS:C0011777	дексаметазон
+N11	Reference T21 UMLS:C0002575	эуфиллин
+N12	Reference T6 UMLS:C0553668	затруднение дыхания
+N13	Reference T24 UMLS:C0149696	пищевая аллергия
+N14	Reference T15 UMLS:UNKNOWN	введение лекарств ингаляционное
+N15	Reference T4 UMLS:C0030286	поджелудочной железы болезни
+N16	Reference T9 UMLS:C1123023	кожа
+N17	Reference T18 UMLS:C0015840	фенотерол
+N18	Reference T38 UMLS:C0025287	менингеальные знаки
+N19	Reference T12 UMLS:C0035243	респираторные инфекции
+N20	Reference T13 UMLS:C0850149	кашель, непродуктивный
+N21	Reference T26 UMLS:C0024109	легкие
+N22	Reference T34 UMLS:C0026390	мягкокожие
+N23	Reference T7 UMLS:C0035243	респираторные инфекции
+N24	Reference T8 UMLS:C0302295	высыпание
+N25	Reference T42 UMLS:C0002871	анемия
+N26	Reference T5 UMLS:C0030274	поджелудочная железа
+N27	Reference T35 UMLS:C0857027	болезненность
+N28	Reference T20 UMLS:C0013154	введение лекарств ингаляционное
+N29	Reference T27 UMLS:C0231855	нормальная аускультативная картина в легких
+N30	Reference T16 UMLS:C0002575	эуфиллин
+N31	Reference T30 UMLS:C0151908	сухая кожа
+N32	Reference T2 UMLS:C0242793	период ремиссии
+N33	Reference T17 UMLS:C0011777	дексаметазон
+N34	Reference T37 UMLS:C1287298	диурез
+N35	Reference T25 UMLS:C1261392	аллергия на укусы насекомых
+N36	Reference T41 UMLS:C0015230	кожное высыпание
+N37	Reference T31 UMLS:CUILESS	нормальный сердечный ритм
+N38	Reference T11 UMLS:C0302295	высыпание
+N39	Reference T1 UMLS:C0011615	атопический дерматит
+N40	Reference T39 UMLS:C1260922	нарушения дыхания
+N41	Reference T32 UMLS:C0018787	сердце
+#1	AnnotatorNotes T36	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||third_annotator_label: None||synonyms: ||||bert: C0232720||synonyms: бледный кал|светлый кал|светло-бурый стул|бледный стул|светло-бурый кал||||
+#2	AnnotatorNotes T15	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C3533662||synonyms: бета гидроксибутират/ацетоацетат^после приёма пищи:мольотн:тчкврм:кр:колич||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C3533662||synonyms: бета гидроксибутират/ацетоацетат^после приёма пищи:мольотн:тчкврм:кр:колич||||
+#3	AnnotatorNotes T20	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0039696||synonyms: тетрафенилборат|tetrafenilborat|natriia tetrafenilborat|tetrafenilborat natriia|натрия тетрафенилборат||||
+#4	AnnotatorNotes T27	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#5	AnnotatorNotes T2	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#6	AnnotatorNotes T31	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C0023740||synonyms: язычный нерв|iazychnyi nerv||||

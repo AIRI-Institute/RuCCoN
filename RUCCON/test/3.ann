@@ -1,0 +1,106 @@
+T35	Symptom 737 746	высыпаний
+T21	Symptom 1643 1652	шелушение
+T39	Body_location 1769 1776	Носовое
+T9	Disease 630 652	атопического дерматита
+T4	Body_location 215 232	билиарного тракта
+T27	Body_location 1756 1759	Зев
+T7	Body_location 382 389	на коже
+T19	Symptom 1353 1362	высыпания
+T40	Symptom 1769 1798	Носовое дыхание не затруднено
+T8	Symptom 372 381	высыпания
+T28	Symptom 1756 1767	Зев спокоен
+T26	Symptom 1720 1754	слизистые оболочки розовые, чистые
+T46	Treatment 868 887	применяли  скин-кап
+T34	Disease 1406 1412	атопии
+T44	Body_location 252 267	желчного пузыря
+T51	Symptom 1884 1892	изменена
+T29	Body_location 1800 1808	В лёгких
+T33	Symptom 1894 1925	Сердечные тоны ясные, ритмичные
+T48	Treatment 1431 1451	Элиминационный режим
+T38	Symptom 802 806	сыпи
+T22	Symptom 1654 1665	лихенизация
+T20	Body_location 1601 1631	На кончиках пальцев кистей рук
+T23	Symptom 1667 1683	единичные папулы
+T25	Body_location 1712 1738	Видимые слизистые оболочки
+T37	Symptom 1972 1992	Менингеальных знаков
+T50	Symptom 1942 1957	Стул регулярный
+T17	Disease 1040 1052	отека Квинке
+T42	Course 174 184	обострение
+T49	Symptom 1959 1966	Дизурии
+T1	Disease 186 202	Пищевая аллергия
+T18	Disease 1130 1146	Пищевая аллергия
+T32	Body_location 1856 1870	Область сердца
+T15	Body_location 929 944	кожных покровов
+T47	Treatment 947 954	эмолиум
+T41	Severity 151 172	среднетяжелое течение
+T5	Disease 269 309	Вторичные изменения поджелудочной железы
+T3	Disease 204 232	Дисфункция билиарного тракта
+T11	Drug 834 839	креон
+T31	Symptom 1831 1837	хрипов
+T45	Treatment 578 589	Прививалась
+T16	Disease 987 998	отек Квинке
+T43	Disease 241 267	деформации желчного пузыря
+T30	Symptom 1809 1829	дыхание везикулярное
+T6	Body_location 289 309	поджелудочной железы
+T10	Drug 827 832	зодак
+T24	Symptom 1696 1710	ониходистрофия
+T36	Treatment 817 846	Лечилась: зодак, креон, мезим
+T12	Drug 841 846	мезим
+T13	Drug 879 887	скин-кап
+T2	Disease 105 149	Атопический дерматит, распространенная форма
+N1	Reference T35 UMLS:C0302295	высыпание
+N2	Reference T21 UMLS:C0282576	шелушение
+N3	Reference T39 UMLS:C0028429	нос
+N4	Reference T9 UMLS:C0011615	атопический дерматит
+N5	Reference T4 UMLS:C0005423	желчные пути
+N6	Reference T27 UMLS:C0521367	ротоглотка
+N7	Reference T7 UMLS:C1123023	кожа
+N8	Reference T19 UMLS:C0302295	высыпание
+N9	Reference T40 UMLS:C0553668	дыхание, затрудненное
+N10	Reference T8 UMLS:C0302295	высыпание
+N11	Reference T28 UMLS:C0033771	зудящая сыпь
+N12	Reference T26 UMLS:C2939075	слизистая оболочка коричневого цвета
+N13	Reference T46 UMLS:C0043491	цинка окись
+N14	Reference T34 UMLS:C0392707	атопия
+N15	Reference T44 UMLS:C0016976	желчный пузырь
+N16	Reference T51 UMLS:C0242863	absent
+N17	Reference T29 UMLS:C0024109	легкие
+N18	Reference T33 UMLS:C2712143	нормальный сердечный ритм
+N19	Reference T48 UMLS:UNKNOWN	лечения режима соблюдение
+N20	Reference T38 UMLS:C0015230	сыпь
+N21	Reference T22 UMLS:C0023653	лихенификация
+N22	Reference T20 UMLS:C0016129	пальцы кисти
+N23	Reference T23 UMLS:C0332563	папула
+N24	Reference T25 UMLS:C0026724	слизистая оболочка
+N25	Reference T37 UMLS:C0025287	менингеальные знаки
+N26	Reference T50 UMLS:C0577115	мягкий стул
+N27	Reference T17 UMLS:C0002994	отек квинке
+N28	Reference T42 UMLS:C0853946	обострение боли
+N29	Reference T49 UMLS:C0013428	дизурия
+N30	Reference T1 UMLS:C0149696	пищевая аллергия
+N31	Reference T18 UMLS:C0149696	пищевая аллергия
+N32	Reference T32 UMLS:C0018787	сердце
+N33	Reference T15 UMLS:C1123023	кожа
+N34	Reference T47 UMLS:C0015101	etilmaleimid
+N35	Reference T5 UMLS:C0030286	поджелудочной железы болезни
+N36	Reference T3 UMLS:C0005424	желчных путей болезни
+N37	Reference T11 UMLS:C0030304	креон
+N38	Reference T31 UMLS:C3887661	хрип
+N39	Reference T45 UMLS:C0042196	вакцинация
+N40	Reference T16 UMLS:C0002994	отек квинке
+N41	Reference T43 UMLS:C1397947	перегиб желчного пузыря
+N42	Reference T30 UMLS:C0231855	нормальная аускультативная картина в легких
+N43	Reference T6 UMLS:C0030274	поджелудочная железа
+N44	Reference T10 UMLS:C0055147	цетиризин
+N45	Reference T24 UMLS:C0221260	ониходистрофия
+N46	Reference T36 UMLS:C2363849	фермент-заместительная терапия
+N47	Reference T12 UMLS:C0030304	панкреатин
+N48	Reference T13 UMLS:C0011625	крем для кожи
+N49	Reference T2 UMLS:C0011615	атопический дерматит
+#1	AnnotatorNotes T40	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0027339||synonyms: ногтей болезни|nogtei bolezni|заболевание ногтя, неуточненное|поражение ногтя|поражение ногтей, бду||||
+#2	AnnotatorNotes T48	first_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||second_annotator_label: C0376405||synonyms: несоблюдение режима лечения|несоблюдение схемы лечения||||third_annotator_label: C0452415||synonyms: диета здоровая|здоровая диета|zdorovaia dieta|здоровое питание|zdorovoe pitanie||||bert: C3850006||synonyms: кишечная элиминация|vyvedenie veshchestv kishechnikom|элиминация через кишечник|kishechnaia eliminatsiia|eliminatsiia cherez kishechnik||||
+#3	AnnotatorNotes T3	first_annotator_label: C0005424||synonyms: желчных путей болезни|zhelchnykh putei bolezni|заболевание желчевыводящих путей|нарушение со стороны желчевыводящих путей, бду|неуточненные нарушения со стороны желчевыводящих путей||||second_annotator_label: C0232770||synonyms: нефункционирующий желчный пузырь|отключенный желчный пузырь||||third_annotator_label: C0005416||synonyms: желчных путей дискинезия|zhelchnykh putei diskineziia|дискинезия желчевыводящих путей||||bert: C1167870||synonyms: дисфункция трансплантата|несостоятельность трансплантата||||
+#4	AnnotatorNotes T43	first_annotator_label: C1397947||synonyms: перегиб желчного пузыря|перекручивание желчного пузыря||||second_annotator_label: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||third_annotator_label: C0302142||synonyms: деформация||||bert: C0156215||synonyms: перфорация желчного пузыря|прободение желчного пузыря||||
+#5	AnnotatorNotes T30	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#6	AnnotatorNotes T36	first_annotator_label: C0598391||synonyms: фермент-заместительная терапия|фермент заместительная терапия|zamestitel'naia fermentnaia terapiia|ferment zameshchaiushchaia terapiia|заместительная ферментная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0026398||synonyms: молони лейкоза мышиных вирус|moloni leikemii virus|leikemiia myshei, virus moloni|moloni leikoza myshinykh virus|лейкемия мышей, вирус молони||||
+#7	AnnotatorNotes T13	first_annotator_label: C3494477||synonyms: крем для кожи|krem dlia kozhi|лосьоны для кожи|los'ony dlia kozhi||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0011625||synonyms: дерматологические средства|dermatologicheskie sredstva|kozhnye sredstva|кожные средства||||bert: C0036270||synonyms: кожа волосистой части головы|kozha volosistoi chasti golovy|skal'p|volosistaia chast' kozhi golovy|волосистая часть кожи головы||||

@@ -1,0 +1,217 @@
+T12	Symptom 267 308	размер 63х30х25 мм; паренхима не изменена
+T60	Drug 2592 2601	полидекса
+T23	Disease 584 603	Аллергический ринит
+T55	Symptom 2337 2362	особенности развития речи
+T18	Symptom 429 442	стенки тонкие
+T41	Treatment 3059 3102	Назонекс в нос (1+1) 1 р/д в течение 21 дня
+T11	Body_location 256 265	СЕЛЕЗЕНКА
+T8	Body_location 162 182	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T91	Severity 1638 1642	2 ст
+T45	Disease 2895 2898	ОРИ
+T2	Body_location 56 70	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T39	Body_location 3173 3196	органов брюшной полости
+T93	Disease 2867 2884	кашлевом синдроме
+T63	Symptom 2090 2118	Резкая синусовая брадикардия
+T5	Body_location 101 107	стенки
+T66	Body_location 2212 2232	миокарде  желудочков
+T32	Symptom 1098 1152	умеренные нарушенияпроходимости периферических бронхов
+T10	Symptom 216 254	паренхима – эхогенность резко повышена
+T51	Drug 3024 3034	пульмикорт
+T52	Drug 3059 3067	Назонекс
+T20	Symptom 465 504	увеличения и деформации желчного пузыря
+T80	Disease 1459 1467	Аденоиды
+T70	Body_location 1956 1962	синусы
+T9	Symptom 183 214	увеличена: размер – 16х12х22 мм
+T37	Disease 1406 1425	Аллергический ринит
+T26	Disease 652 673	Катаральный аденоидит
+T7	Symptom 141 160	просвет - свободный
+T99	Body_location 2153 2176	правой ножки пучка Гиса
+T42	Treatment 2775 2828	Соблюдать гипоаллергенную диету, элиминационный режим
+T82	Disease 1474 1496	Катаральный аденоидит.
+T58	Drug 2573 2581	виброцил
+T19	Symptom 385 396	секрет есть
+T59	Drug 2583 2590	хофитол
+T68	Body_location 1923 1939	Куполы диафрагмы
+T34	Drug 1186 1196	вентолином
+T96	Disease 2127 2134	аритмия
+T40	Treatment 3107 3135	Туалет носа с маример 3 раза
+T92	Symptom 2067 2088	отклонение ЭОС вправо
+T87	Course 1613 1627	вне обострения
+T46	Treatment 2900 2948	вентолин по 1 инг. через спейсер до 4 раз в день
+T48	Treatment 2968 3054	через небулайзер: лазолван 0.5 мл + беродуал 8 капель + пульмикорт 250 мкг на 3-5 дней
+T53	Drug 3121 3128	маример
+T78	Body_location 1844 1856	Корни легких
+T97	Severity 2120 2126	легкая
+T75	Symptom 1737 1770	Очагово-инфильтративных изменений
+T94	Disease 2097 2118	синусовая брадикардия
+T43	Symptom 2846 2865	затруднения дыхании
+T67	Symptom 2021 2055	умеренных бронхитических изменений
+T56	Treatment 2377 2550	средний режим педагогических нагрузок, занятия с педагогом по формированию возрастных социальных навыков, посещение развивающих занятий. Систематические занятия с логопедом.
+T35	Symptom 1197 1210	отрицательная
+T84	Severity 1525 1529	2 ст
+T30	Symptom 857 875	показатели в норме
+T83	Disease 1497 1524	Гипертрофия небных миндалин
+T13	Body_location 310 316	ПЕЧЕНЬ
+T74	Body_location 1721 1735	грудной клетки
+T65	Symptom 2136 2177	Неполная блокада правой ножки пучка Гиса.
+T90	Disease 1629 1637	Аденоиды
+T72	Body_location 1879 1885	Сердце
+T86	Disease 1592 1611	Аллергический ринит
+T81	Severity 1468 1472	2 ст
+T15	Body_location 375 382	ЖЕЛУДОК
+T27	Disease 675 702	Гипретрофия небных миндалин
+T85	Body_location 1509 1524	небных миндалин
+T49	Drug 2986 2994	лазолван
+T79	Symptom 1857 1877	структурны, тяжистые
+T24	Severity 605 635	персистирующий, легкое течение
+T36	Symptom 1348 1366	показатели в норме
+T38	Severity 1427 1457	персистирующий, легкое течение
+T89	Severity 1672 1676	2 ст
+T25	Disease 637 645	Аденоиды
+T31	Drug 987 997	вентолином
+T57	Treatment 2573 2620	виброцил, хофитол, полидекса, маример, назонекс
+T95	Severity 2090 2096	Резкая
+T69	Symptom 1940 1954	ровные, четкие
+T17	Symptom 416 427	секрет есть
+T22	Body_location 513 516	ППН
+T64	Symptom 2120 2134	легкая аритмия
+T1	Body_location 31 54	органов брюшной полости
+T76	Symptom 1776 1841	Легочный рисунок по смешанному типу, усилен в прикорневых отделах
+T61	Drug 2603 2610	маример
+T77	Body_location 1822 1842	прикорневых отделах.
+T16	Body_location 398 415	12-ПЕРСТНАЯ КИШКА
+T71	Symptom 1963 1979	дифференцируются
+T98	Disease 2145 2176	блокада правой ножки пучка Гиса
+T4	Symptom 101 115	стенки – норма
+T50	Drug 3004 3012	беродуал
+T21	Body_location 489 504	желчного пузыря
+T28	Severity 703 712	2 степени
+T47	Drug 2900 2908	вентолин
+T14	Symptom 318 373	размер – ЛД – 50 мм, ПД –80 мм; паренхима -  однородная
+T3	Symptom 72 99	размер – увеличен, 75х16 мм
+T54	Symptom 2275 2335	темп познавательного развития соответствует возрастной норме
+T62	Drug 2612 2620	назонекс
+T73	Symptom 1886 1910	обычных размеров и формы
+T6	Symptom 117 139	форма – перегиб в теле
+T88	Disease 1644 1671	Гипертрофия небных миндалин
+T29	Severity 646 650	2 ст
+T33	Body_location 1130 1152	периферических бронхов
+N1	Reference T12 UMLS:C2181189	ультразвуковое исследование селезенки
+N2	Reference T60 UMLS:C0013218	антибиотики комбинированные
+N3	Reference T23 UMLS:C2607914	аллергический ринит
+N4	Reference T55 UMLS:C0037822	нарушение речи
+N5	Reference T18 UMLS:C3888536	истончение стенки желудочно-кишечного тракта
+N6	Reference T41 UMLS:CUILESS	терапия глюкокортикостероидами
+N7	Reference T11 UMLS:C0037993	селезенка
+N8	Reference T8 UMLS:C0030274	поджелудочная железа
+N9	Reference T91 UMLS:C0172537	ммп-2
+N10	Reference T45 UMLS:C0035243	респираторные инфекции
+N11	Reference T2 UMLS:C0016976	желчный пузырь
+N12	Reference T39 UMLS:C0860675	сканирование органов брюшной полости
+N13	Reference T93 UMLS:C0010200	кашель усилившийся
+N14	Reference T63 UMLS:C0085610	синусовая брадикардия
+N15	Reference T5 UMLS:CUILESS	утолщение стенки желчного пузыря
+N16	Reference T66 UMLS:C0027061	миокард
+N17	Reference T32 UMLS:C1504507	стриктура бронхов
+N18	Reference T10 UMLS:CUILESS	почечная паренхимальная гипертензия
+N19	Reference T51 UMLS:C0054201	будесонид
+N20	Reference T52 UMLS:C0066700	назонекс
+N21	Reference T20 UMLS:UNKNOWN	расширение желчного пузыря
+N22	Reference T80 UMLS:C0001428	гипертрофия исключительно аденоидов
+N23	Reference T70 UMLS:CUILESS	грудной клетки полость
+N24	Reference T9 UMLS:C1096352	увеличение поджелудочной железы
+N25	Reference T37 UMLS:C2607914	аллергический ринит
+N26	Reference T26 UMLS:C0001427	аденоидит
+N27	Reference T7 UMLS:CUILESS	норма рабочая
+N28	Reference T99 UMLS:C0006382	пучок гиса
+N29	Reference T42 UMLS:C0425402	медицинская диета
+N30	Reference T82 UMLS:C0001427	аденоидит
+N31	Reference T58 UMLS:C0031469	фенилэфрин
+N32	Reference T19 UMLS:C1096020	выделение секрета
+N33	Reference T59 UMLS:C0008304	желчегонные и желчеобразующие средства
+N34	Reference T68 UMLS:C0011980	диафрагма
+N35	Reference T34 UMLS:C0001927	сальбутамол
+N36	Reference T96 UMLS:C0003811	аритмия
+N37	Reference T40 UMLS:C2350442	промывание носа
+N38	Reference T92 UMLS:C3544317	отклонение электрической оси сердца по часовой стрелке (вправо)
+N39	Reference T87 UMLS:C0242793	ринит, круглогодичный
+N40	Reference T46 UMLS:UNKNOWN	терапевтическая концентрация бронходилататора, бду
+N41	Reference T48 UMLS:C0013154	терапевтическая концентрация бронходилататора, бду
+N42	Reference T53 UMLS:C0036499	вода морская
+N43	Reference T78 UMLS:C0024109	легкие
+N44	Reference T75 UMLS:UNKNOWN	нормальные результаты рентгенографии органов грудной клетки
+N45	Reference T94 UMLS:C0085610	синусовая брадикардия
+N46	Reference T43 UMLS:C0553668	затруднение дыхания
+N47	Reference T67 UMLS:CUILESS	стриктура бронхов
+N48	Reference T56 UMLS:CUILESS	педагог-воспитатель дошкольных учреждений
+N49	Reference T35 UMLS:C4704700	отрицательные результаты
+N50	Reference T84 UMLS:C0172537	ммп-2
+N51	Reference T83 UMLS:C0272386	гипертрофия миндалин
+N52	Reference T13 UMLS:C0023884	печень
+N53	Reference T74 UMLS:C0817096	грудная клетка
+N54	Reference T65 UMLS:C0085615	блокада правой ножки пучка гиса
+N55	Reference T90 UMLS:C0001428	аденоиды
+N56	Reference T72 UMLS:C0018787	сердце
+N57	Reference T86 UMLS:C2607914	аллергический ринит
+N58	Reference T15 UMLS:C0038351	желудок
+N59	Reference T27 UMLS:C0272386	гипертрофия миндалин
+N60	Reference T85 UMLS:C0040421	миндалины небные
+N61	Reference T49 UMLS:C0002421	амброксол
+N62	Reference T79 UMLS:C0026349	модели структурные
+N63	Reference T24 UMLS:CUILESS	хронический ринит
+N64	Reference T36 UMLS:CUILESS	норма рабочая
+N65	Reference T38 UMLS:UNKNOWN	хронический ринит
+N66	Reference T89 UMLS:C0172537	ммп-2
+N67	Reference T25 UMLS:C0001428	аденоиды
+N68	Reference T31 UMLS:C0001927	сальбутамол
+N69	Reference T57 UMLS:C0013154	лечебное воздействие комбинированное
+N70	Reference T69 UMLS:C0085122	норма рабочая
+N71	Reference T17 UMLS:C1096020	выделение секрета
+N72	Reference T22 UMLS:C0030471	околоносовые пазухи
+N73	Reference T64 UMLS:C0003811	аритмии сердечные
+N74	Reference T1 UMLS:C0230168	брюшная полость
+N75	Reference T76 UMLS:C0858975	усиление легочного рисунка
+N76	Reference T61 UMLS:C0036499	вода морская
+N77	Reference T77 UMLS:CUILESS	зона уединения
+N78	Reference T16 UMLS:C0013303	двенадцатиперстная кишка
+N79	Reference T71 UMLS:C0007589	клетки дифференциация
+N80	Reference T98 UMLS:C0085615	блокада правой ножки пучка гиса
+N81	Reference T4 UMLS:C0085122	норма рабочая
+N82	Reference T50 UMLS:C0015840	фенотерол
+N83	Reference T21 UMLS:C0016976	желчный пузырь
+N84	Reference T47 UMLS:C0001927	сальбутамол
+N85	Reference T14 UMLS:C0412534	ультразвуковое исследование печени
+N86	Reference T3 UMLS:C0577066	расширение желчного пузыря
+N87	Reference T54 UMLS:CUILESS	результаты по краткой шкале оценки психического статуса в норме
+N88	Reference T62 UMLS:C0066700	назонекс
+N89	Reference T73 UMLS:CUILESS	норма рабочая
+N90	Reference T6 UMLS:C1397947	перегиб желчного пузыря
+N91	Reference T88 UMLS:C0272386	гипертрофия миндалин
+N92	Reference T29 UMLS:CUILESS	гипертрофия миндалин и аденоидов
+N93	Reference T33 UMLS:C0006255	бронхи
+#1	AnnotatorNotes T60	first_annotator_label: C0013218||synonyms: лекарственная терапия комбинированная|antibiotiki kombinirovannye|lekarstvennaia terapiia kombinirovannaia|kombinirovannaia khimioterapiia|polikhimioterapiia||||second_annotator_label: C0027603||synonyms: неомицин|neomitsin|neamin|neomitsin a|неамин||||third_annotator_label: C0032535||synonyms: полимиксин b|polimiksin b|aerosporin|аэроспорин||||bert: C3179052||synonyms: поликетиды|ketidy|poliketidy|кетиды||||
+#2	AnnotatorNotes T41	first_annotator_label: C0744425||synonyms: терапия глюкокортикостероидами||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C2735920||synonyms: 21-дезоксикортизол^1 день после дозы дексаметазона:молконц:тчкврм:сыв/плаз:колич||||
+#3	AnnotatorNotes T93	first_annotator_label: C0574067||synonyms: кашель усилившийся||||second_annotator_label: C0742857||synonyms: острый кашель||||third_annotator_label: C0010200||synonyms: кашель|kashel'|покашливание||||bert: C0694548||synonyms: кашлевая астма||||
+#4	AnnotatorNotes T5	first_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||second_annotator_label: C0016976||synonyms: желчный пузырь|zhelchnyi puzyr'||||third_annotator_label: C0026724||synonyms: слизистая оболочка|slizistaia obolochka||||bert: C0859032||synonyms: стенание|стоны||||
+#5	AnnotatorNotes T32	first_annotator_label: C1504507||synonyms: стриктура бронхов||||second_annotator_label: C0006255||synonyms: бронхи|bronkhi||||third_annotator_label: C1112522||synonyms: отек бронхов|бронхиальный отек||||bert: C0262593||synonyms: периферических нервов повреждения|nerva perifericheskogo travma|perifericheskikh nervov povrezhdeniia|нерва периферического травма|травма периферического нерва||||
+#6	AnnotatorNotes T10	first_annotator_label: C0264649||synonyms: почечная паренхимальная гипертензия||||second_annotator_label: C1536154||synonyms: ультразвуковое исследование желчного пузыря||||third_annotator_label: C0273163||synonyms: поражение поджелудочной железы|травма поджелудочной железы||||bert: C0264649||synonyms: почечная паренхимальная гипертензия||||
+#7	AnnotatorNotes T20	first_annotator_label: C0577066||synonyms: расширение желчного пузыря||||second_annotator_label: C0744254||synonyms: инфекция желчного пузыря||||third_annotator_label: C0744257||synonyms: утолщение стенки желчного пузыря||||bert: C0008320||synonyms: холецистэктомия|kholetsistektomiia|удаление желчного пузыря||||
+#8	AnnotatorNotes T80	first_annotator_label: C0149825||synonyms: гипертрофия глоточных миндалин (аденоидов)|гипертрофия исключительно аденоидов||||second_annotator_label: C0001428||synonyms: аденоиды|adenoidy||||third_annotator_label: C1112640||synonyms: аденоиды||||bert: C0001428||synonyms: аденоиды|adenoidy||||
+#9	AnnotatorNotes T70	first_annotator_label: C0230139||synonyms: грудной клетки полость|grudnoi kletki polost'||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0032225||synonyms: плевра|plevra||||bert: C0039097||synonyms: синовиальная жидкость|sinovial'naia zhidkost'|sinoviia|синовия||||
+#10	AnnotatorNotes T7	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0016694||synonyms: свобода|svoboda||||bert: C0035473||synonyms: риновирус|rinovirus|korizavirusy|virusy korizy|obshchei prostudy virus||||
+#11	AnnotatorNotes T42	first_annotator_label: C0425402||synonyms: медицинская диета|медицинская диета, бду||||second_annotator_label: C0012155||synonyms: диета|dieta||||third_annotator_label: C0012158||synonyms: питания режима контроль|dieticheskii kontrol'|pitaniia rezhima kontrol'|диетический контроль||||bert: C0454600||synonyms: гипокинетическая дизартрия||||
+#12	AnnotatorNotes T92	first_annotator_label: C3544317||synonyms: отклонение электрической оси сердца по часовой стрелке (вправо)||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0344600||synonyms: неправильное положение сердца|врожденные аномалии положения сердца||||bert: C0574770||synonyms: выпадение волос на теле||||
+#13	AnnotatorNotes T87	first_annotator_label: C0848309||synonyms: ринит, круглогодичный|круглогодичный ринит||||second_annotator_label: C0853917||synonyms: ринит обостренный, бду|обострение ринита||||third_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#14	AnnotatorNotes T46	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C1953159||synonyms: с пептид^4 минуты после 1 мг глюкагона:молконц:тчкврм:сыв/плаз:колич||||
+#15	AnnotatorNotes T48	first_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||bert: C2735217||synonyms: водород/выдыхаемый газ^2.5 часа после дозы лактулозы:обфр:тчкврм:выд газ:колич||||
+#16	AnnotatorNotes T75	first_annotator_label: C0239026||synonyms: нормальные результаты рентгенографии органов грудной клетки|результаты рентгенографии бду грудной клетки в норме|результаты рентгенографии органов грудной клетки в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0332448||synonyms: инфильтрация ткани||||bert: C0339143||synonyms: грейвса офтальмопатия|офтальмопатия грейвса|эндокринная офтальмопатия|офтальмопатия инфильтративная|офтальмопатия тиреоид-ассоциированная||||
+#17	AnnotatorNotes T67	first_annotator_label: C1504507||synonyms: стриктура бронхов||||second_annotator_label: C0006277||synonyms: бронхит|bronkhit|бронхит, бду|бронхит, без уточнения острый или хронический||||third_annotator_label: C0000766||synonyms: отклонения от нормы на рентгенограмме|отклонения от нормы на рентгенограмме бду||||bert: C0856695||synonyms: обострение хронического бронхита, бду|обострение хронического бронхита||||
+#18	AnnotatorNotes T56	first_annotator_label: C0036374||synonyms: преподаватели и воспитатели|prepodavateli i vospitateli|педагог-воспитатель дошкольных учреждений|pedagog-vospitatel' doshkol'nykh uchrezhdenii|uchitelia nachal'noi shkoly||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C0033914||synonyms: психология педагогическая|psikhologiia pedagogicheskaia||||bert: C0036374||synonyms: преподаватели и воспитатели|prepodavateli i vospitateli|педагог-воспитатель дошкольных учреждений|pedagog-vospitatel' doshkol'nykh uchrezhdenii|uchitelia nachal'noi shkoly||||
+#19	AnnotatorNotes T24	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0562483||synonyms: персистирующий кашель||||third_annotator_label: C0333241||synonyms: постоянный отек|хронический отек||||bert: C0562483||synonyms: персистирующий кашель||||
+#20	AnnotatorNotes T36	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C2607914||synonyms: ринит аллергический|allergicheskii rinit|rinit allergicheskii|аллергический ринит|аллергический риносинусит||||bert: C0560017||synonyms: электроэнцефалограмма в норме|показатели на электроэнцефалограмме в пределах нормы|показатели на ээг в норме||||
+#21	AnnotatorNotes T38	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0562483||synonyms: персистирующий кашель||||third_annotator_label: C0333241||synonyms: постоянный отек|хронический отек||||bert: C0562483||synonyms: персистирующий кашель||||
+#22	AnnotatorNotes T57	first_annotator_label: C0009429||synonyms: комбинированное лечебное воздействие|kombinirovannoe lechebnoe vozdeistvie|kompleksnoe lechenie|lechebnoe vozdeistvie kombinirovannoe|комплексное лечение||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C2363849||synonyms: консервативное лечение||||bert: C0029983||synonyms: оксациллин|oksatsillin|natriia oksatsillin|oksazotsillin|penitsillin, metilfenilizoksazolil||||
+#23	AnnotatorNotes T77	first_annotator_label: C0031207||synonyms: личностное пространство|lichnostnoe prostranstvo|zona komforta tela|zona uedineniia|зона комфорта тела||||second_annotator_label: None||synonyms: ||||third_annotator_label: C1698506||synonyms: расширение корня легкого||||bert: C0031207||synonyms: личностное пространство|lichnostnoe prostranstvo|zona komforta tela|zona uedineniia|зона комфорта тела||||
+#24	AnnotatorNotes T54	first_annotator_label: C1697535||synonyms: результаты по краткой шкале оценки психического статуса в норме||||second_annotator_label: None||synonyms: ||||third_annotator_label: C5197906||synonyms: окружающий интеллект|окружающий разум|intellektual'nost' okruzhaiushchaia|интеллектуальность окружающая|okruzhaiushchii razum||||bert: C2242613||synonyms: разница температур ног||||
+#25	AnnotatorNotes T73	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: None||synonyms: ||||third_annotator_label: C0005886||synonyms: тела конституция|tela konstitutsiia|konstitutsiia tela|razmery tela|конституция тела||||bert: C0005886||synonyms: тела конституция|tela konstitutsiia|konstitutsiia tela|razmery tela|конституция тела||||
+#26	AnnotatorNotes T29	first_annotator_label: C0155829||synonyms: гипертрофия миндалин и аденоидов|гипертрофия миндалины и аденоидов||||second_annotator_label: C0172537||synonyms: матрикса металлопротеиназа 2|72 kd zhelatinaza|matriksa metalloproteinaza-2|metalloproteinaza-2 matriksa|mmp-2||||third_annotator_label: None||synonyms: ||||bert: C0172537||synonyms: матрикса металлопротеиназа 2|72 kd zhelatinaza|matriksa metalloproteinaza-2|metalloproteinaza-2 matriksa|mmp-2||||

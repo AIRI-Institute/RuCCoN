@@ -1,0 +1,84 @@
+T37	Symptom 1436 1456	Менингеальных знаков
+T34	Symptom 1326 1340	безболезненный
+T24	Symptom 1145 1159	бледно-розовые
+T16	Drug 880 886	линекс
+T22	Drug 953 964	сальбутамол
+T4	Body_location 113 133	поджелудочной железы
+T20	Drug 919 927	лазолван
+T32	Body_location 1298 1303	Живот
+T8	Symptom 655 667	сухой кашель
+T25	Symptom 1161 1167	чистые
+T41	Severity 76 90	персистирующий
+T5	Symptom 196 210	эпизоды кашля.
+T1	Disease 9 38	Рецидивирующий ларинготрахеит
+T21	Drug 941 951	беродуалом
+T39	Treatment 766 795	получала лечение в стационаре
+T40	Disease 1027 1055	риноконъюнктивальный синдром
+T28	Body_location 1220 1228	В лёгких
+T23	Body_location 1130 1144	Кожные покровы
+T18	Drug 899 907	мукалтин
+T27	Symptom 1182 1218	Носовое дыхание несколько затруднено
+T2	Disease 40 74	Круглогодичный аллергический ринит
+T35	Symptom 1393 1400	дизурии
+T36	Symptom 1406 1434	Стул регулярный, оформленный
+T13	Disease 743 764	обструктивный бронхит
+T12	Drug 700 707	синекод
+T15	Drug 865 874	цефазолин
+T29	Symptom 1229 1249	дыхание везикулярное
+T19	Drug 909 917	эуфиллин
+T31	Symptom 1263 1296	Сердечные тоны звучные, ритмичные
+T7	Symptom 588 611	малопродуктивный кашель
+T33	Symptom 1304 1310	мягкий
+T11	Drug 691 698	эреспал
+T10	Drug 679 689	бромгексин
+T14	Treatment 847 964	Получала лечение: цефазолин в/м, линекс, цетирезин, мукалтин, эуфиллин, лазолван, ингаляции с беродуалом, сальбутамол
+T30	Symptom 1251 1257	хрипов
+T17	Drug 888 897	цетирезин
+T6	Disease 536 550	острый бронхит
+T9	Treatment 669 707	В терапии бромгексин, эреспал, синекод
+T3	Disease 92 133	Реактивные изменения поджелудочной железы
+T26	Symptom 1169 1180	Зев спокоен
+N1	Reference T37 UMLS:C0025287	менингеальные знаки
+N2	Reference T34 UMLS:C0857027	болезненность
+N3	Reference T24 UMLS:C4505235	розовые
+N4	Reference T16 UMLS:C0005380	пребиотики
+N5	Reference T22 UMLS:C0001927	сальбутамол
+N6	Reference T4 UMLS:C0030274	поджелудочная железа
+N7	Reference T20 UMLS:C0002421	амброксол
+N8	Reference T32 UMLS:C0000726	живот
+N9	Reference T8 UMLS:C0850149	сухой кашель
+N10	Reference T25 UMLS:C0598869	чистая культура
+N11	Reference T41 UMLS:CUILESS	хронический ринит
+N12	Reference T5 UMLS:C0010200	кашель
+N13	Reference T1 UMLS:C0023076	ларинготрахеит, бду
+N14	Reference T21 UMLS:C0015840	фенотерол
+N15	Reference T39 UMLS:C0019993	размещение в стационар
+N16	Reference T40 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N17	Reference T28 UMLS:C3805066	боль в легких
+N18	Reference T23 UMLS:C1123023	кожа
+N19	Reference T18 UMLS:C0015314	муколитические средства
+N20	Reference T27 UMLS:C0853254	раздражение носовых ходов
+N21	Reference T2 UMLS:C0035457	круглогодичный аллергический ринит
+N22	Reference T35 UMLS:C0013428	дизурия
+N23	Reference T36 UMLS:CUILESS	мягкий стул
+N24	Reference T13 UMLS:C0865791	обструктивный бронхит
+N25	Reference T12 UMLS:C0261908	противокашлевое средство
+N26	Reference T15 UMLS:C0007546	цефазолин
+N27	Reference T29 UMLS:C0035203	дыхание
+N28	Reference T19 UMLS:C0002575	эуфиллин
+N29	Reference T31 UMLS:C0018810	сердечный ритм
+N30	Reference T7 UMLS:C0850149	кашель, непродуктивный
+N31	Reference T33 UMLS:C0026390	мягкокожие
+N32	Reference T11 UMLS:UNKNOWN	повышенная концентрация бронходилататора, бду
+N33	Reference T10 UMLS:C0006220	бромгексин
+N34	Reference T14 UMLS:C0030095	вазопрессин, изолейцил-лейцил
+N35	Reference T30 UMLS:C3887661	хрип
+N36	Reference T17 UMLS:C0055147	цетиризин
+N37	Reference T6 UMLS:C0149514	острый бронхит
+N38	Reference T9 UMLS:C0752308	церебральная аноксия-ишемия
+N39	Reference T3 UMLS:C0030286	заболевания поджелудочной железы
+N40	Reference T26 UMLS:C0033771	зудящая сыпь
+#1	AnnotatorNotes T16	first_annotator_label: C2717875||synonyms: пребиотики|prebiotiki||||second_annotator_label: C0525033||synonyms: пробиотики|probiotiki||||third_annotator_label: C0005380||synonyms: бифидобактерии|bifidobakterii|bifidobacterium||||bert: C0023726||synonyms: линкомицин|linkomitsin|linkolnensin|линколненсин||||
+#2	AnnotatorNotes T41	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0562483||synonyms: персистирующий кашель||||third_annotator_label: None||synonyms: ||||bert: C0562483||synonyms: персистирующий кашель||||
+#3	AnnotatorNotes T36	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||third_annotator_label: None||synonyms: ||||bert: C3546446||synonyms: регулируемая гибель клетки|клетки регулируемая гибель|kletki reguliruemaia gibel'|reguliruemaia smert' kletki|регулируемая смерть клетки||||
+#4	AnnotatorNotes T11	first_annotator_label: C0861109||synonyms: повышенная концентрация бронходилататора, бду||||second_annotator_label: C0031379||synonyms: феназопиридин|fenazopiridin||||third_annotator_label: C0855930||synonyms: терапевтическая концентрация бронходилататора, бду||||bert: C0337435||synonyms: эстриол||||

@@ -1,0 +1,211 @@
+T42	Severity 42 74	тяжелого персистирующего течения
+T71	Disease 1071 1084	ветряная оспа
+T50	Course 253 261	ремиссия
+T22	Disease 2861 2884	хронический пиелонефрит
+T87	Severity 1828 1844	тяжелого течения
+T98	Disease 963 984	развитие без задержек
+T30	Drug 2346 2355	симбикорт
+T60	Course 432 442	обострение
+T84	Drug 1627 1633	тайлед
+T63	Body_location 488 503	желчного пузыря
+T90	Treatment 2958 2987	получала терапию в стационаре
+T31	Treatment 2211 2327	получать ингаляции пульмикорта и беродуала через небулайзер (до 2000 мкг по пульмикорту в сутки, 20 кап.  беродуала)
+T78	Disease 1414 1435	обструктивный бронхит
+T9	Symptom 3752 3771	с жестким оттенком,
+T49	Disease 235 251	Пищевая аллергия
+T33	Drug 2244 2253	беродуала
+T10	Symptom 3772 3793	сухие свистящие хрипы
+T73	Disease 1096 1104	менингит
+T91	Disease 2614 2620	ринита
+T72	Disease 1086 1094	краснуха
+T82	Treatment 1598 1633	В терапии кетотифен (6 мес), тайлед
+T21	Disease 2997 3053	синдром вегетативной дисфункции по гипертоническому типу
+T74	Disease 1137 1151	пупочная грыжа
+T40	Treatment 2045 2084	Дозировки ИГКС постепенно увеличивались
+T45	Disease 144 163	Аллергический ринит
+T48	Course 225 233	ремиссия
+T11	Symptom 3809 3842	Сердечные тоны звучные, ритмичные
+T38	Drug 1987 1994	серетид
+T6	Symptom 3692 3719	Носовое дыхание  затруднено
+T69	Symptom 681 709	затруднение носового дыхания
+T13	Symptom 3945 3962	Стул  оформленный
+T89	Course 1516 1530	рецидивировали
+T23	Disease 2886 2889	ПМР
+T70	Disease 1063 1069	коклюш
+T4	Symptom 3657 3677	периорбитальные тени
+T85	Treatment 1669 1687	получила курсы СИТ
+T67	Symptom 638 647	высыпания
+T96	Disease 3365 3386	обструктивный синдром
+T46	Course 187 201	вне обострения
+T59	Disease 404 430	Хронический гастродуоденит
+T56	Disease 359 390	Неадаптированный мочевой пузырь
+T100	Severity 165 185	персистирующая форма
+T86	Disease 1809 1827	бронхиальная астма
+T83	Drug 1608 1617	кетотифен
+T75	Disease 1225 1247	атопического дерматита
+T76	Disease 1278 1294	пищевой аллергии
+T51	Disease 263 288	Хроническая болезнь почек
+T14	Symptom 3964 3981	склонен к запорам
+T25	Symptom 2679 2732	выраженное затруднение носового дыхания круглогодично
+T32	Drug 2230 2241	пульмикорта
+T44	Course 134 142	ремиссия
+T65	Body_location 525 545	поджелудочной железы
+T93	Treatment 1437 1466	Получала терапию в стационаре
+T95	Body_location 2903 2917	мочевой пузырь
+T12	Symptom 3910 3943	неудержание мочи в дневной период
+T28	Symptom 2393 2421	Приступы затруднения дыхания
+T58	Disease 392 402	Дисменорея
+T34	Drug 2316 2326	 беродуала
+T8	Symptom 3730 3750	дыхание везикулярное
+T92	Disease 2623 2636	конъюнктивита
+T43	Disease 104 132	риноконъюнктивальный синдром
+T2	Symptom 3640 3646	чистые
+T36	Treatment 1947 2043	В терапии был назначен фликсотид, затем серетид (сначала мультидиск, затем ДАИ 250/25 мкг 2 р/д)
+T99	Drug 1691 1711	бытовыми аллергенами
+T47	Disease 203 223	Атопический дерматит
+T57	Body_location 376 390	мочевой пузырь
+T77	Disease 1401 1404	ОРИ
+T20	Disease 3284 3292	менингит
+T52	Severity 289 297	1 стадия
+T37	Drug 1970 1979	фликсотид
+T53	Disease 299 320	Вторичный пиелонефрит
+T80	Disease 1555 1573	бронхиальная астма
+T15	Symptom 3983 4003	Менингеальных знаков
+T35	Drug 2287 2298	пульмикорту
+T61	Disease 444 468	Дискинезия желчных путей
+T3	Symptom 3648 3655	бледные
+T88	Disease 2942 2956	гастродуоденит
+T1	Body_location 3625 3639	Кожные покровы
+T19	Disease 3256 3262	коклюш
+T55	Disease 339 357	Катаральный цистит
+T24	Disease 2891 2917	нейрогенный мочевой пузырь
+T79	Disease 1492 1515	бронхиальной обструкции
+T7	Body_location 3721 3729	В лёгких
+T18	Disease 3429 3447	бронхиальная астма
+T29	Treatment 2337 2392	получает симбикорт 160/4,5 мкг по 2 инг. 2 раза в день.
+T16	Disease 3330 3346	пищевая аллергия
+T5	Symptom 3679 3690	Зев спокоен
+T41	Disease 9 40	Бронхиальная астма, атопическая
+T94	Symptom 1214 1247	проявления атопического дерматита
+T68	Body_location 648 655	на коже
+T62	Body_location 455 468	желчных путей
+T39	Drug 2004 2014	мультидиск
+T64	Disease 505 546	Вторичные изменения поджелудочной железы.
+T54	Course 322 337	активная стадия
+T81	Severity 1574 1596	среднетяжелого течения
+T97	Disease 1053 1061	инфекции
+T66	Symptom 608 636	приступы затруднения дыхания
+N1	Reference T42 UMLS:CUILESS	астма, хроническая
+N2	Reference T71 UMLS:C0008049	ветряная оспа
+N3	Reference T50 UMLS:C0242793	период ремиссии
+N4	Reference T22 UMLS:C0085697	хронический пиелонефрит
+N5	Reference T87 UMLS:CUILESS	степень ухудшения бду
+N6	Reference T98 UMLS:C0008073	развития задержка
+N7	Reference T30 UMLS:C4042792	симбикорт
+N8	Reference T60 UMLS:C0853946	обострение боли
+N9	Reference T84 UMLS:C0068483	недокромил
+N10	Reference T63 UMLS:C0016977	желчного пузыря болезни
+N11	Reference T90 UMLS:C0030231	паллиативная терапия
+N12	Reference T31 UMLS:C0948421	пик кардиостимулятора на электрокардиограмме
+N13	Reference T78 UMLS:C0865791	обструктивный бронхит
+N14	Reference T9 UMLS:C3666016	жесткое дыхание при аускультации легких
+N15	Reference T49 UMLS:C0149696	пищевая аллергия
+N16	Reference T33 UMLS:C0015840	фенотерол
+N17	Reference T10 UMLS:C0859999	сухие хрипы
+N18	Reference T73 UMLS:C0025289	менингит
+N19	Reference T91 UMLS:C0035455	ринит
+N20	Reference T72 UMLS:C0035920	краснуха
+N21	Reference T82 UMLS:C0013154	противовоспалительные средства
+N22	Reference T21 UMLS:C1145628	вегетативная дисфункция
+N23	Reference T74 UMLS:C1306503	пупочная грыжа
+N24	Reference T40 UMLS:C0744425	терапия глюкокортикостероидами
+N25	Reference T45 UMLS:C2607914	аллергический ринит
+N26	Reference T48 UMLS:C0242793	период ремиссии
+N27	Reference T11 UMLS:C0018810	сердечный ритм
+N28	Reference T38 UMLS:C0939232	серетид
+N29	Reference T6 UMLS:C0027424	затруднение дыхания
+N30	Reference T69 UMLS:C0553668	затруднение дыхания
+N31	Reference T13 UMLS:CUILESS	мягкий стул
+N32	Reference T89 UMLS:C2825055	рецидив
+N33	Reference T23 UMLS:C0042580	пузырно-мочеточниковый рефлюкс
+N34	Reference T70 UMLS:C0043167	коклюш
+N35	Reference T4 UMLS:C4049523	периорбитальные петехии
+N36	Reference T85 UMLS:C0021083	иммунотерапия
+N37	Reference T67 UMLS:C0302295	высыпание
+N38	Reference T96 UMLS:C3665783	обструктивный шок
+N39	Reference T46 UMLS:C0242793	период ремиссии
+N40	Reference T59 UMLS:C4728231	хронический гастродуоденит
+N41	Reference T56 UMLS:C0005697	нейропатия мочевого пузыря
+N42	Reference T100 UMLS:CUILESS	хронический ринит
+N43	Reference T86 UMLS:C0004096	бронхиальная астма
+N44	Reference T83 UMLS:C0022642	кетотифен
+N45	Reference T75 UMLS:C0011615	атопический дерматит
+N46	Reference T76 UMLS:C0149696	пищевая аллергия
+N47	Reference T51 UMLS:C1561643	хроническая болезнь почек
+N48	Reference T14 UMLS:C0009806	запоры
+N49	Reference T25 UMLS:C0027424	затруднённое дыхание
+N50	Reference T32 UMLS:C0054201	будесонид
+N51	Reference T44 UMLS:C0242793	период ремиссии
+N52	Reference T65 UMLS:C0030274	поджелудочная железа
+N53	Reference T93 UMLS:C0019993	размещение в стационар
+N54	Reference T95 UMLS:C0005682	мочевой пузырь
+N55	Reference T12 UMLS:C0042024	недержание мочи
+N56	Reference T28 UMLS:C0424332	приступ задержки дыхания
+N57	Reference T58 UMLS:C0013390	дисменорея
+N58	Reference T34 UMLS:C0015840	фенотерол
+N59	Reference T8 UMLS:C0231855	нормальная аускультативная картина в легких
+N60	Reference T92 UMLS:C0009763	конъюнктивит
+N61	Reference T43 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N62	Reference T2 UMLS:C0598869	чистая культура
+N63	Reference T36 UMLS:C0013154	введение лекарств ингаляционное
+N64	Reference T99 UMLS:C0002092	аллергены
+N65	Reference T47 UMLS:C0011615	атопический дерматит
+N66	Reference T57 UMLS:C0005682	мочевой пузырь
+N67	Reference T77 UMLS:C0035243	респираторные инфекции
+N68	Reference T20 UMLS:C0025289	менингит
+N69	Reference T37 UMLS:C0082607	фликсотид
+N70	Reference T53 UMLS:C1697444	пиелонефрит вирусный
+N71	Reference T80 UMLS:C0004096	бронхиальная астма
+N72	Reference T15 UMLS:C0025287	менингеальные знаки
+N73	Reference T35 UMLS:C0054201	будесонид
+N74	Reference T61 UMLS:C0005416	желчных путей дискинезия
+N75	Reference T3 UMLS:C0678215	бледный
+N76	Reference T88 UMLS:C0017155	гастродуоденит
+N77	Reference T1 UMLS:C1123023	кожа
+N78	Reference T19 UMLS:C0043167	коклюш
+N79	Reference T55 UMLS:C0017152	катаральный гастрит
+N80	Reference T24 UMLS:C0005697	нейрогенный мочевой пузырь
+N81	Reference T79 UMLS:C0221725	бронхиальная обструкция
+N82	Reference T7 UMLS:C0024109	легкие
+N83	Reference T18 UMLS:C0004096	бронхиальная астма
+N84	Reference T29 UMLS:C0013154	введение лекарств ингаляционное
+N85	Reference T16 UMLS:C0149696	пищевая аллергия
+N86	Reference T5 UMLS:C0521367	ротоглотка
+N87	Reference T41 UMLS:C0004096	астма, бронхиальная
+N88	Reference T94 UMLS:C5243973	обострение атопического дерматита
+N89	Reference T68 UMLS:C0191275	операция на коже
+N90	Reference T62 UMLS:C0005423	желчные пути
+N91	Reference T39 UMLS:C0939232	флутиказон-салметерол комбинированный препарат
+N92	Reference T64 UMLS:C0030286	поджелудочной железы болезни
+N93	Reference T54 UMLS:CUILESS	обострение боли
+N94	Reference T81 UMLS:CUILESS	степень ухудшения бду
+N95	Reference T97 UMLS:C3714514	инфекции
+N96	Reference T66 UMLS:C0424332	приступ задержки дыхания
+#1	AnnotatorNotes T42	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C1257885||synonyms: температура переходного состояния вещества|temperatura perekhoda|температура перехода|вещества переходного состояния температура|veshchestva perekhodnogo sostoianiia temperatura||||
+#2	AnnotatorNotes T50	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: None||synonyms: ||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#3	AnnotatorNotes T87	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0011745||synonyms: дейтерия оксид|deiteriia oksid|deiteriia okis'|tiazhelaia voda|дейтерия окись||||
+#4	AnnotatorNotes T9	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0331068||synonyms: жасмин желтый|zhasmin zheltyi||||third_annotator_label: None||synonyms: ||||bert: C0331068||synonyms: жасмин желтый|zhasmin zheltyi||||
+#5	AnnotatorNotes T82	first_annotator_label: C0003209||synonyms: противовоспалительные средства|gidrokortizona maz'|gliukokortikoidy mestnogo deistviia|prednizolona maz'|protivovospalitel'nye sredstva||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0017302||synonyms: анестезирующие средства общего действия|anesteziruiushchie sredstva obshchego deistviia|anestetiki obshchego deistviia|obezbolivaiushchie sredstva obshchego deistviia|анестетики общего действия||||bert: C4042854||synonyms: тайм-аут при оказании медицинской помощи|taim-aut pri okazanii meditsinskoi pomoshchi|korotkii pereryv v okazanii meditsinskoi pomoshchi|короткий перерыв в оказании медицинской помощи|taim-aut pered operatsiei||||
+#6	AnnotatorNotes T48	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: None||synonyms: ||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#7	AnnotatorNotes T6	first_annotator_label: C0553668||synonyms: дыхание, затрудненное|дыхание, стесненное|затруднение дыхания|стесненное дыхание|затрудненное дыхание||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0272427||synonyms: травма носа|повреждение носа||||
+#8	AnnotatorNotes T13	first_annotator_label: C0577115||synonyms: мягкий кал|мягкий стул|мягкие каловые массы||||second_annotator_label: C0235315||synonyms: изменение цвета фекалий|изменение окраски кала|изменение цвета стула|измененная окраска стула|изменение окраски фекалий||||third_annotator_label: None||synonyms: ||||bert: C0235315||synonyms: изменение цвета фекалий|изменение окраски кала|изменение цвета стула|измененная окраска стула|изменение окраски фекалий||||
+#9	AnnotatorNotes T46	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||third_annotator_label: None||synonyms: ||||bert: C3899187||synonyms: экстранодальное распространение|внекапсульное расширение|экстранодальные метастазы опухоли|ekstranodal'noe rasprostranenie|vneuzlovoe rasprostranenie||||
+#10	AnnotatorNotes T100	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C1322281||synonyms: сезонный ринит||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#11	AnnotatorNotes T25	first_annotator_label: C0013404||synonyms: одышка|odyshka|диспноэ|нехватка воздуха|затруднённое дыхание||||second_annotator_label: C0520825||synonyms: платипноэ|затруднение дыхания в положении стоя|затруднение дыхания в вертикальном положении тела||||third_annotator_label: C0027424||synonyms: заложенность носа|закупорка носовых проходов|заложенность носовых проходов||||bert: C0520825||synonyms: платипноэ|затруднение дыхания в положении стоя|затруднение дыхания в вертикальном положении тела||||
+#12	AnnotatorNotes T44	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C3888824||synonyms: ремиссия не достигнута||||third_annotator_label: None||synonyms: ||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#13	AnnotatorNotes T93	first_annotator_label: C0019993||synonyms: госпитализация|gospitalizatsiia|госпитализация, бду|размещение в стационар||||second_annotator_label: C1510538||synonyms: дистанционное консультирование|distantsionnoe konsul'tirovanie|internet-konsul'tirovanie|e-консультирование|e-konsul'tirovanie||||third_annotator_label: C0459914||synonyms: консервативное лечение|konservativnoe lechenie|konservativnaia terapiia|консервативная терапия||||bert: C0030231||synonyms: паллиативная помощь|palliativnaia khirurgiia|palliativnaia terapiia|паллиативная терапия|паллиативная хирургия||||
+#14	AnnotatorNotes T8	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#15	AnnotatorNotes T36	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C1535925||synonyms: антиаллергическая терапия||||bert: C0598391||synonyms: фермент-заместительная терапия|фермент заместительная терапия|zamestitel'naia fermentnaia terapiia|ferment zameshchaiushchaia terapiia|заместительная ферментная терапия||||
+#16	AnnotatorNotes T29	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0021459||synonyms: ингаляционная терапия||||bert: C1830291||synonyms: кортикотропин^2 часа после 1 мкг/кг крг внутривенно:массконц:тчкврм:плаз:колич||||
+#17	AnnotatorNotes T54	first_annotator_label: C0853946||synonyms: обострение боли|усиление боли|ухудшение боли||||second_annotator_label: C0005529||synonyms: биологический транспорт активный|biologicheskii transport aktivnyi|aktivnyi transport|активный транспорт||||third_annotator_label: None||synonyms: ||||bert: C0005529||synonyms: биологический транспорт активный|biologicheskii transport aktivnyi|aktivnyi transport|активный транспорт||||
+#18	AnnotatorNotes T81	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||

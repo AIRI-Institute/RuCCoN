@@ -1,0 +1,146 @@
+T10	Symptom 1941 1953	пальпируется
+T57	Body_location 13919 13927	миокарде
+T36	Body_location 6843 6863	ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+T2	Disease 59 117	Идиопатическая генерализованная артериальная кальцификация
+T24	Body_location 3011 3041	ЗАДНЯЯ СТЕНКА ЛЕВОГО ЖЕЛУДОЧКА
+T41	Body_location 8160 8168	миокарда
+T60	Drug 14200 14208	моноприл
+T28	Body_location 3373 3390	МИТРАЛЬНЫЙ КЛАПАН
+T47	Body_location 9951 9962	ЛЕВАЯ ПОЧКА
+T55	Body_location 13184 13190	Сердце
+T64	Drug 16173 16181	Аспаркам
+T40	Body_location 7176 7183	ЖЕЛУДОК
+T4	Body_location 135 153	внутрижелудочковая
+T14	Drug 15746 15755	торасемид
+T27	Body_location 3633 3650	НИЖНЯЯ ПОЛАЯ ВЕНА
+T45	Body_location 9821 9833	правой почки
+T46	Symptom 9801 9820	Уменьшение размеров
+T63	Drug 16093 16100	Трентал
+T15	Disease 16444 16448	ОРВИ
+T30	Body_location 4010 4018	миокарде
+T39	Body_location 7273 7282	ЛИМФОУЗЛЫ
+T56	Symptom 13191 13200	увеличено
+T66	Symptom 3959 3978	АРИТМИЯ: выраженная
+T7	Body_location 782 796	Кожные покровы
+T53	Body_location 12241 12251	ЛЕВАЯ ДОЛЯ
+T52	Body_location 12210 12227	Щитовидной железы
+T11	Body_location 1928 1937	селезенка
+T25	Body_location 3431 3453	ТРИКУСПИДАЛЬНЫЙ КЛАПАН
+T61	Drug 15931 15937	Конкор
+T62	Drug 16005 16014	ТромбоАСС
+T43	Body_location 8669 8683	Желчный пузырь
+T23	Body_location 2650 2676	МЕЖПРЕДСЕРДНАЯ ПЕРЕГОРОДКА
+T33	Body_location 6383 6397	ЖЕЛЧНЫЙ ПУЗЫРЬ
+T31	Symptom 3989 4007	рубцовые изменения
+T17	Body_location 2110 2115	АОРТА
+T21	Body_location 2755 2770	ЛЕВЫЙ ЖЕЛУДОЧЕК
+T37	Body_location 7025 7034	СЕЛЕЗЕНКА
+T54	Body_location 12308 12319	ПРАВАЯ ДОЛЯ
+T26	Body_location 3603 3611	ПЕРИКАРД
+T16	Treatment 16524 16589	угментин, супракс, зиннат, кроме сумамеда, макропена, вильпрафена
+T59	Body_location 13964 13980	левого желудочка
+T1	Disease 21 57	Синдром дилатационной кардиомиопатии
+T34	Body_location 6504 6510	ПЕЧЕНЬ
+T5	Disease 220 223	ХСН
+T29	Body_location 2937 2964	МЕЖЖЕЛУДОЧКОВАЯ ПЕРЕГОРОДКА
+T48	Body_location 11254 11268	МОЧЕВОЙ ПУЗЫРЬ
+T12	Drug 15809 15817	Моноприл
+T8	Symptom 797 804	бледные
+T9	Symptom 806 835	чистые от патологической сыпи
+T44	Symptom 8684 8701	умеренно увеличен
+T32	Symptom 6237 6264	умеренной вентрикуломегалии
+T51	Body_location 10493 10503	Мочеточник
+T18	Body_location 2427 2443	ЛЕГОЧНАЯ АРТЕРИЯ
+T19	Body_location 2560 2576	ЛЕВОЕ ПРЕДСЕРДИЕ
+T50	Body_location 11139 11149	Мочеточник
+T35	Body_location 6684 6697	Воротная вена
+T65	Treatment 15738 16433	Диувер (торасемид) 1,25 мг х 1 р/д в 08.00 - длительно, непрерывно.
+9. Моноприл (фозиноприл) 7,5 мг х 2 р/д в 08.00-20.00 – длительно, непрерывно. Коррекция дозы из расчета 1.5 мг/кг/сут!.
+10. Конкор (бисопролол) 0,625 мг х1 р/д в 09.00 – длительно, непрерывно..
+11. ТромбоАСС (ацетилсалициловая кислота) 25 мг х 1 р/д в 14.00 после еды – длительно..
+12. Трентал (пентоксифиллин) 6.25 мг х 3 р\д после еды – длительно, непрерывно.
+13. Аспаркам (магния аспарагинат+ калия аспарагинат) ¼ табл х 3 р/д – длительно, непрерывно.
+14. Профилактика инфекционного эндокардита. Санация очагов хронического воспаления на фоне антибактериальной терапии (ЛОР, стоматолог 2 раза в год, выполнять рекомендации)
+T20	Body_location 2606 2623	ПРАВОЕ ПРЕДСЕРДИЕ
+T6	Severity 224 229	2А ст
+T22	Body_location 2688 2704	ПРАВЫЙ ЖЕЛУДОЧЕК
+T13	Drug 15738 15744	Диувер
+T3	Disease 119 161	Неспецифическая внутрижелудочковая блокада
+T38	Body_location 7220 7236	Д\ПЕРСТНАЯ КИШКА
+T42	Symptom 8153 8159	ишемии
+T49	Body_location 10566 10578	ПРАВАЯ ПОЧКА
+T58	Symptom 13890 13916	кальцинированные включения
+N1	Reference T10 UMLS:C0030247	пальпация
+N2	Reference T57 UMLS:C0027061	миокард
+N3	Reference T36 UMLS:C0030274	поджелудочная железа
+N4	Reference T2 UMLS:C1168153	артериальная кальцификация
+N5	Reference T24 UMLS:CUILESS	сердца желудочка левого функция
+N6	Reference T41 UMLS:C0027061	миокард
+N7	Reference T60 UMLS:C0118168	фосиноприл
+N8	Reference T28 UMLS:C0026264	митральный клапан
+N9	Reference T47 UMLS:C0022646	почки
+N10	Reference T55 UMLS:C0018787	сердце
+N11	Reference T64 UMLS:C0003999	аспартам
+N12	Reference T40 UMLS:C0038351	желудок
+N13	Reference T4 UMLS:CUILESS	сердца желудочки
+N14	Reference T14 UMLS:C0076840	торасемид
+N15	Reference T27 UMLS:C0042458	полая вена, нижняя
+N16	Reference T45 UMLS:C0022646	почки
+N17	Reference T46 UMLS:C2732728	уменьшение роста
+N18	Reference T63 UMLS:C0030899	трентал
+N19	Reference T15 UMLS:C0035243	орви
+N20	Reference T30 UMLS:C0027061	миокард
+N21	Reference T39 UMLS:C0024204	лимфатические узлы
+N22	Reference T56 UMLS:C0231249	увеличение роста
+N23	Reference T66 UMLS:C0003811	аритмия бду
+N24	Reference T7 UMLS:C0241136	боль кожных покровов
+N25	Reference T53 UMLS:CUILESS	щитовидная железа
+N26	Reference T52 UMLS:C0040132	щитовидная железа
+N27	Reference T11 UMLS:C0037993	селезенка
+N28	Reference T25 UMLS:C0040960	трехстворчатый клапан
+N29	Reference T61 UMLS:C0053799	бисопролол
+N30	Reference T62 UMLS:C0004057	ацетилсалициловая кислота
+N31	Reference T43 UMLS:C0016976	желчный пузырь
+N32	Reference T23 UMLS:C0225836	предсердная перегородка
+N33	Reference T33 UMLS:C0016976	желчный пузырь
+N34	Reference T31 UMLS:C1404481	рубцовое изменение миокарда
+N35	Reference T17 UMLS:C0003483	аорта
+N36	Reference T21 UMLS:C0080310	левый желудочек сердца, функция
+N37	Reference T37 UMLS:C0037993	селезенка
+N38	Reference T54 UMLS:CUILESS	щитовидная железа
+N39	Reference T26 UMLS:C0031050	перикард
+N40	Reference T16 UMLS:C0854606	системная антибактериальная терапия
+N41	Reference T59 UMLS:C0080310	сердца желудочка левого функция
+N42	Reference T1 UMLS:C0007193	дилатационная кардиомиопатия
+N43	Reference T34 UMLS:C0023884	печень
+N44	Reference T5 UMLS:C0264716	хроническая сердечная недостаточность
+N45	Reference T29 UMLS:C0225870	межжелудочковая перегородка
+N46	Reference T48 UMLS:C0005682	мочевой пузырь
+N47	Reference T12 UMLS:C0118168	фосиноприл
+N48	Reference T8 UMLS:C0678215	бледный
+N49	Reference T9 UMLS:CUILESS	чистая культура
+N50	Reference T44 UMLS:C0231249	увеличение роста
+N51	Reference T32 UMLS:C1531647	мозговая вентрикуломегалия
+N52	Reference T51 UMLS:C0041951	мочеточник
+N53	Reference T18 UMLS:C0034052	легочная артерия
+N54	Reference T19 UMLS:C0078995	предсердие левое, функция
+N55	Reference T50 UMLS:C0041951	мочеточник
+N56	Reference T35 UMLS:C0032718	воротная вена
+N57	Reference T65 UMLS:C0363656	глюкоза^30 минут после 0.05-0.15 ед инсулина/кг внутримышечно после 12 часов эгол:массконц:тчкврм:сыв/плаз:колич
+N58	Reference T20 UMLS:C0078996	предсердие правое, функция
+N59	Reference T22 UMLS:C0080311	сердца желудочка правого функция
+N60	Reference T13 UMLS:C0076840	торасемид
+N61	Reference T3 UMLS:C0264909	внутрижелудочковая блокада
+N62	Reference T38 UMLS:C0017199	первичная кишка
+N63	Reference T42 UMLS:C0022116	ишемия
+N64	Reference T49 UMLS:C0022646	почки
+N65	Reference T58 UMLS:C0006663	кальциноз
+#1	AnnotatorNotes T24	first_annotator_label: C0080310||synonyms: сердца желудочка левого функция|serdtsa zheludochka levogo funktsiia|levozheludochkovaia funktsiia serdtsa|levozheludochkovaia funktsiia|levyi zheludochek serdtsa, funktsiia||||second_annotator_label: C0155642||synonyms: острый инфаркт миокарда задне-базальной стенки левого желудочка, последующий эпизод лечения||||third_annotator_label: C0948228||synonyms: утолщение стенки желудочков||||bert: C0920035||synonyms: перегрузка левого желудочка||||
+#2	AnnotatorNotes T60	first_annotator_label: C0118168||synonyms: фосиноприл|fosinopril|fosenopril|фосеноприл||||second_annotator_label: C3655089||synonyms: фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||
+#3	AnnotatorNotes T4	first_annotator_label: C0018827||synonyms: сердца желудочки|serdtsa zheludochki|serdtsa zheludochek|сердца желудочек||||second_annotator_label: C0859049||synonyms: блокада неполная||||third_annotator_label: C0225870||synonyms: межжелудочковая перегородка|mezhzheludochkovaia peregorodka||||bert: C1517570||synonyms: инфузии интравентрикулярные|vnutrizheludochkovye vlivaniia|infuzii intraventrikuliarnye|внутрижелудочковые вливания||||
+#4	AnnotatorNotes T66	first_annotator_label: C0392684||synonyms: аритмия бду|пульсовая аритмия|нерегулярный пульс||||second_annotator_label: C0861148||synonyms: аритмия, вызванная лекарственным средством||||third_annotator_label: C0003811||synonyms: аритмии сердечные|aritmiia|аритмия, бду|нарушения сердечного ритма|аритмия (бду)||||bert: C0861148||synonyms: аритмия, вызванная лекарственным средством||||
+#5	AnnotatorNotes T53	first_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||second_annotator_label: C0085200||synonyms: леви тельца|levi tela|levi tel'tsa|леви тела||||third_annotator_label: None||synonyms: ||||bert: C0085200||synonyms: леви тельца|levi tela|levi tel'tsa|леви тела||||
+#6	AnnotatorNotes T54	first_annotator_label: C0040132||synonyms: щитовидная железа|shchitovidnaia zheleza||||second_annotator_label: C0262617||synonyms: правая паховая грыжа||||third_annotator_label: None||synonyms: ||||bert: C0262617||synonyms: правая паховая грыжа||||
+#7	AnnotatorNotes T16	first_annotator_label: C0854606||synonyms: системная антибактериальная терапия||||second_annotator_label: C4505264||synonyms: лечения режима соблюдение|lecheniia rezhima sobliudenie|выполнение режима лечения|vypolnenie rezhima lecheniia||||third_annotator_label: C2364172||synonyms: лекарств схемы приема соблюдение|несоблюдение правил приема лекарств|nesobliudenie pravil priema lekarstv|соблюдение правил приема лекарственных средств|lekarstv skhemy priema sobliudenie||||bert: C0800790||synonyms: сулиндак сульфид метаболит:массконц:тчкврм:сыв/плаз:колич||||
+#8	AnnotatorNotes T12	first_annotator_label: C0118168||synonyms: фосиноприл|fosinopril|fosenopril|фосеноприл||||second_annotator_label: C3655089||synonyms: фозиноприл индуцированный пластинка ат.igm:prthr:тчкврм:сыв/плаз:пор:проточная цитометрия||||third_annotator_label: C0003364||synonyms: антигипертензивные средства|antigipertenzivnye sredstva|gipotenzivnye sredstva|гипотензивные средства||||bert: C0018991||synonyms: гемиплегия|gemiplegiia|gemiparez|гемиплегия неуточненная|паралич одной стороны тела||||
+#9	AnnotatorNotes T9	first_annotator_label: C0598869||synonyms: аксеническая культура|стерильная культура|steril'naia kul'tura|чистая культура|aksenicheskaia kul'tura||||second_annotator_label: C0235939||synonyms: патологический плач||||third_annotator_label: None||synonyms: ||||bert: C0235939||synonyms: патологический плач||||

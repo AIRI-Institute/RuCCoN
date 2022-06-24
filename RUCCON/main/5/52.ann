@@ -1,0 +1,104 @@
+T12	Body_location 1557 1579	в периоральной области
+T43	Course 266 288	компенсированная форма
+T47	Disease 1358 1386	риноконъюнктивальный синдром
+T42	Disease 243 264	Хронический тонзиллит
+T24	Body_location 403 410	на коже
+T32	Treatment 1173 1204	купированы ингаляцией вентолина
+T17	Body_location 1593 1601	В легких
+T38	Course 160 170	обострение
+T35	Severity 42 71	легкое персистирующее течение
+T39	Disease 172 188	Пищевая аллергия
+T40	Disease 190 209	Аллергический ринит
+T25	Symptom 412 443	эпизоды малопродуктивного кашля
+T22	Symptom 1741 1761	Менингеальных знаков
+T13	Symptom 1582 1591	шелушение
+T45	Body_location 310 330	поджелудочной железы
+T33	Drug 1195 1204	вентолина
+T20	Symptom 1685 1713	Живот мягкий, безболезненный
+T28	Treatment 881 937	В терапии антигистаминные препараты, топические стероиды
+T8	Body_location 1458 1479	на теле, руках, ногах
+T16	Symptom 1643 1649	хрипов
+T5	Body_location 1430 1444	кожные покровы
+T11	Body_location 1547 1555	на щеках
+T31	Symptom 1074 1102	приступы затруднения дыхания
+T34	Disease 1206 1222	Пищевая аллергия
+T41	Course 233 241	ремиссия
+T48	Severity 211 231	персистирующая форма
+T26	Symptom 445 473	приступы затруднения дыхания
+T30	Symptom 1123 1152	3 эпизода затруднения дыхания
+T6	Symptom 1445 1456	очень сухие
+T29	Symptom 1037 1054	выраженная одышка
+T1	Disease 9 40	Бронхиальная астма, атопическая
+T2	Disease 1330 1346	пищевая аллергия
+T9	Body_location 1524 1533	Кожа лица
+T10	Symptom 1534 1545	очень сухая
+T37	Severity 137 158	среднетяжелое течение
+T44	Disease 290 330	Вторичные изменения поджелудочной железы
+T18	Symptom 1655 1683	Тоны сердца ясные, ритмичные
+T15	Symptom 1623 1641	с жестким оттенком
+T14	Symptom 1602 1622	везикулярное дыхание
+T21	Symptom 1715 1727	Стул, диурез
+T7	Symptom 1482 1522	единичные папулы, экскориации, шелушение
+T23	Symptom 393 410	высыпания на коже
+T3	Disease 1348 1356	поллиноз
+T19	Body_location 1685 1690	Живот
+T46	Disease 823 845	атопического дерматита
+T36	Disease 91 135	Атопический дерматит, распространенная форма
+N1	Reference T12 UMLS:C0015450	лицо
+N2	Reference T43 UMLS:C2363928	компенсаторная пауза
+N3	Reference T47 UMLS:C0236036	конъюнктивально-слизисто-кожный синдром
+N4	Reference T42 UMLS:C0149517	хронический тонзиллит
+N5	Reference T24 UMLS:C1123023	кожа
+N6	Reference T32 UMLS:C0013154	введение лекарств ингаляционное
+N7	Reference T17 UMLS:C0024109	легкие
+N8	Reference T38 UMLS:C0853946	обострение боли
+N9	Reference T35 UMLS:CUILESS	астма, хроническая
+N10	Reference T39 UMLS:C0149696	пищевая аллергия
+N11	Reference T40 UMLS:C2607914	аллергический ринит
+N12	Reference T25 UMLS:C0850149	кашель, непродуктивный
+N13	Reference T22 UMLS:C0025287	менингеальные знаки
+N14	Reference T13 UMLS:C0282576	шелушение
+N15	Reference T45 UMLS:C0030274	поджелудочная железа
+N16	Reference T33 UMLS:C0001927	сальбутамол
+N17	Reference T20 UMLS:CUILESS	норма рабочая
+N18	Reference T28 UMLS:C1504374	антигистаминная терапия
+N19	Reference T8 UMLS:C0857190	сыпь на ногах и руках
+N20	Reference T16 UMLS:C3887661	хрип
+N21	Reference T5 UMLS:C1123023	кожа
+N22	Reference T11 UMLS:C0007966	щеки
+N23	Reference T31 UMLS:C0424332	приступ задержки дыхания
+N24	Reference T34 UMLS:C0149696	пищевая аллергия
+N25	Reference T41 UMLS:C0242793	период ремиссии
+N26	Reference T48 UMLS:CUILESS	хронический ринит
+N27	Reference T26 UMLS:C0424332	приступ задержки дыхания
+N28	Reference T30 UMLS:C0013404	ощущение затруднения дыхания
+N29	Reference T6 UMLS:C0151908	сухая кожа
+N30	Reference T29 UMLS:C0743323	одышка, острая форма
+N31	Reference T1 UMLS:C0004096	астма, бронхиальная
+N32	Reference T2 UMLS:C0149696	пищевая аллергия
+N33	Reference T9 UMLS:C2221318	лицо
+N34	Reference T10 UMLS:C0151908	сухая кожа
+N35	Reference T37 UMLS:CUILESS	степень ухудшения бду
+N36	Reference T44 UMLS:C0030286	поджелудочной железы болезни
+N37	Reference T18 UMLS:C2230284	нормальный сердечный ритм
+N38	Reference T15 UMLS:C3666016	жесткое дыхание при аускультации легких
+N39	Reference T14 UMLS:C0231855	нормальная аускультативная картина в легких
+N40	Reference T21 UMLS:C1287298	диурез
+N41	Reference T7 UMLS:UNKNOWN	экскориация
+N42	Reference T23 UMLS:C0239521	высыпание на коже лица
+N43	Reference T3 UMLS:C0018621	поллиноз
+N44	Reference T19 UMLS:C0000726	живот
+N45	Reference T46 UMLS:C0011615	атопический дерматит
+N46	Reference T36 UMLS:C0011615	атопический дерматит
+#1	AnnotatorNotes T12	first_annotator_label: C0015450||synonyms: лицо|litso||||second_annotator_label: C2221318||synonyms: сухая кожа лица||||third_annotator_label: C0856060||synonyms: зуд, обострение||||bert: C1168149||synonyms: покалывание в периоральной области||||
+#2	AnnotatorNotes T32	first_annotator_label: C0001559||synonyms: введение лекарств ингаляционное|vvedenie lekarstv ingaliatsionnoe|ingaliatsiia lekarstv|ingaliatsionnoe lekarstv vvedenie|lekarstv vvedenie ingaliatsionnoe||||second_annotator_label: C0013154||synonyms: лекарства применения схема|lekarstva, skhema primeneniia|lekarstva primeneniia skhema|vvedeniia lekarstv grafik|введения лекарств график||||third_annotator_label: C0035239||synonyms: респираторная терапия|respiratornaia terapiia|dykhatel'naia terapiia|ingaliatsionnaia terapiia|дыхательная терапия||||bert: C0042587||synonyms: везикулярного стоматита индиана вирус|vezikuliarnogo stomatita-indiana virus|vezikuliarnogo stomatita virus|vs-i virus|vs-i вирус||||
+#3	AnnotatorNotes T35	first_annotator_label: C0877430||synonyms: астма, хроническая||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0242670||synonyms: персистирующее вегетативное состояние|bessoznatel'noe sostoianie ustoichivoe|ustoichivoe bessoznatel'noe sostoianie|хроническое вегетативное состояние|вегетативное состояние хроническое||||
+#4	AnnotatorNotes T20	first_annotator_label: C0085122||synonyms: рабочая нагрузка|rabochaia poleznaia nagruzka|kadrov rabochaia nagruzka|sluzhashchikh rabochaia nagruzka|norma rabochaia||||second_annotator_label: C0028079||synonyms: ночной уход в медицинских учреждениях|nochnoi ukhod|meditsinskaia pomoshch' nochnaia|nochnoi ukhod v meditsinskikh uchrezhdeniiakh|медицинская помощь ночная||||third_annotator_label: None||synonyms: ||||bert: C0028079||synonyms: ночной уход в медицинских учреждениях|nochnoi ukhod|meditsinskaia pomoshch' nochnaia|nochnoi ukhod v meditsinskikh uchrezhdeniiakh|медицинская помощь ночная||||
+#5	AnnotatorNotes T41	first_annotator_label: C0242793||synonyms: безрецидивная выживаемость|bolezni izlechenie, period polnogo zdorov'ia|period remissii|bezretsidivnaia vyzhivaemost'|dfs||||second_annotator_label: C0009940||synonyms: выздоровление|vyzdorovlenie||||third_annotator_label: C0035053||synonyms: ремиссия спонтанная|remissiia spontannaia||||bert: C3888824||synonyms: ремиссия не достигнута||||
+#6	AnnotatorNotes T48	first_annotator_label: C0008711||synonyms: хронический ринит||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0152165||synonyms: персистирующая рвота||||
+#7	AnnotatorNotes T9	first_annotator_label: C0015450||synonyms: лицо|litso||||second_annotator_label: C2221318||synonyms: сухая кожа лица||||third_annotator_label: C1123023||synonyms: кожа|kozha||||bert: C0037294||synonyms: кожи температура|kozhi temperatura|температура кожи||||
+#8	AnnotatorNotes T37	first_annotator_label: C0859156||synonyms: степень ухудшения бду||||second_annotator_label: C0541889||synonyms: ухудшение заболевания|ухудшение расстройства||||third_annotator_label: None||synonyms: ||||bert: C0026053||synonyms: среднеатлантический регион|sredneatlanticheskii region|sredneatlanticheskie shtaty|среднеатлантические штаты||||
+#9	AnnotatorNotes T18	first_annotator_label: C2712143||synonyms: нормальный сердечный ритм||||second_annotator_label: C2230284||synonyms: тоны сердца||||third_annotator_label: C0018810||synonyms: сердечных сокращений частота|serdechnykh sokrashchenii chastota|khronotropizm serdechnyi|serdechnyi ritm|serdtsa ritm||||bert: C3853525||synonyms: четвертый тон сердца||||
+#10	AnnotatorNotes T15	first_annotator_label: C3666016||synonyms: жесткое дыхание при аускультации легких||||second_annotator_label: C0541976||synonyms: воздух в желудке|газ в желудке||||third_annotator_label: None||synonyms: ||||bert: C0541976||synonyms: воздух в желудке|газ в желудке||||
+#11	AnnotatorNotes T14	first_annotator_label: C0231855||synonyms: нормальная аускультативная картина в легких||||second_annotator_label: C0035203||synonyms: дыхание|dykhanie||||third_annotator_label: C0438186||synonyms: результаты исследования функции легких в норме|результаты исследования функции легких бду в норме|результаты исследования функции легких в пределах нормы|результаты исследования функции внешнего дыхания в норме, бду||||bert: C0263237||synonyms: везикулезное высыпание||||
+#12	AnnotatorNotes T7	first_annotator_label: C0015256||synonyms: экскориация||||second_annotator_label: C0549201||synonyms: астеатоз|астеатотическая экзема|холодовой зуд|ксеротическая экзема|очаги сухости и шелушения кожи с образованием трещин рогового слоя||||third_annotator_label: C0015230||synonyms: экзантема|ekzantema|syp'|цветущая сыпь|кожная сыпь||||bert: C5244087||synonyms: экскориация половых органов||||
